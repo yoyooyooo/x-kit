@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 56712,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy3RxFTagAAFWpC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1958452309379391816",
+    "fullText": "今天从 AI 那里学到的一个小技巧：之前在一个 private repo 中提交了一个证书文件，虽然后来删除了，但是看 commits 还是能找到，我准备彻底清除 commits 关于这个文件的内容，以绝后患。\n\n可以使用 Git filter repo https://t.co/vOWepVVv5o 这个工具。\n\n可以彻底重写 Git https://t.co/Oa7enLm7j6"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +37,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14383,
+      "followersCount": 14385,
       "friendsCount": 3983,
       "location": ""
     },
@@ -37,7 +54,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31255,
+      "followersCount": 31253,
       "friendsCount": 154,
       "location": "China"
     },
@@ -71,7 +88,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31255,
+      "followersCount": 31253,
       "friendsCount": 154,
       "location": "China"
     },
@@ -88,7 +105,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -148,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31255,
+      "followersCount": 31253,
       "friendsCount": 154,
       "location": "China"
     },
@@ -163,7 +180,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -178,7 +195,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31255,
+      "followersCount": 31253,
       "friendsCount": 154,
       "location": "China"
     },
@@ -196,7 +213,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14383,
+      "followersCount": 14385,
       "friendsCount": 3983,
       "location": ""
     },
@@ -264,7 +281,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14383,
+      "followersCount": 14385,
       "friendsCount": 3983,
       "location": ""
     },
@@ -281,7 +298,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130916,
+      "followersCount": 130917,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -300,7 +317,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130916,
+      "followersCount": 130917,
       "friendsCount": 1363,
       "location": "Chicago, IL"
     },
@@ -366,7 +383,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -374,6 +391,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1958337806465646714",
     "fullText": "作为福建人还是想不明白，为什么你们会觉得厦门是省会而不是福州，初中地理不是有背过这些吗🧐"
+  },
+  {
+    "user": {
+      "screenName": "theweeklychai",
+      "name": "The Weekly Chai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917342829724250112/mbT-E2Bb_normal.jpg",
+      "description": "Subscribe to our free newsletter 📩 Global stories, South Asian spice, delivered every Friday. Sign up now!",
+      "followersCount": 114,
+      "friendsCount": 79,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958333077739941888/vid/avc1/1080x1920/7zxfP9JJ9B5kJp4u.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/theweeklychai/status/1958333140704891026",
+    "fullText": "🔥 Coming Friday\nMatch Point. Life Point.\nUS Open • Longevity • Founders • Vibes https://t.co/DBURwtoZoY"
   },
   {
     "user": {
@@ -620,7 +654,7 @@
       "name": "Fred McGill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653577863902244864/Q0NjQJIC_normal.jpg",
       "description": "Entrepreneur & real estate dude / Co-founder @simpleshowingHQ / Partner https://t.co/RiwmiwEWcV / https://t.co/d6GTdEvftQ / Economics & MBA @georgiatech",
-      "followersCount": 1836,
+      "followersCount": 1837,
       "friendsCount": 1879,
       "location": "Atlanta, Georgia"
     },
@@ -767,7 +801,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4314913,
+      "followersCount": 4314918,
       "friendsCount": 3,
       "location": ""
     },
@@ -811,6 +845,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1958200069062291771",
     "fullText": "做自媒体的好处很明显，能够体验到新的产品，甲方都还会送你一个月会员用于制作内容。坏处也很明显，如果真的是一个好产品，体验完后我还真的会自费购买。（降级的感觉太难受了） https://t.co/QdfVACSQJR"
+  },
+  {
+    "user": {
+      "screenName": "RockkHall",
+      "name": "The Sahara Collection",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1958194964338274304/4eIjU9Qm_normal.jpg",
+      "description": "Zamalek: 13 El Mansour Mohamed, Zamalek.\n\nSahel: Diplomaseen 3, North Coast.",
+      "followersCount": 10364,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyzoeOaXMAA8iyi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RockkHall/status/1958195552639705261",
+    "fullText": "Summer stripes in the city. https://t.co/X194UYo2fB"
   },
   {
     "user": {
@@ -901,7 +952,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -952,7 +1003,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -982,7 +1033,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1061,7 +1112,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31255,
+      "followersCount": 31253,
       "friendsCount": 154,
       "location": "China"
     },
@@ -1097,7 +1148,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8540,
+      "followersCount": 8541,
       "friendsCount": 292,
       "location": ""
     },
@@ -1112,7 +1163,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18629,
+      "followersCount": 18626,
       "friendsCount": 2348,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -1146,7 +1197,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21388,
+      "followersCount": 21390,
       "friendsCount": 1040,
       "location": ""
     },
@@ -1163,7 +1214,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151865,
+      "followersCount": 151869,
       "friendsCount": 479,
       "location": "中华人民共和国"
     },
@@ -1180,7 +1231,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56711,
+      "followersCount": 56712,
       "friendsCount": 279,
       "location": "Shanghai"
     },
