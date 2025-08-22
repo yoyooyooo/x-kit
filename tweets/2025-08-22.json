@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34869,
+      "friendsCount": 669,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy-DOBbWoAYrjDj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1958929303942701100",
+    "fullText": "看Lex Fridman采访 DHH的视频播客。视频中还将变量、常量这类编程术语进行了解释，甚至还给了一个很容易理解的示例，好用心啊。（这就叫专业吧） https://t.co/YSQxcUr8c6"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4317724,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958922501897297927/vid/avc1/1920x1080/DEVqeq4lxwF795Kr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/1958923880640520516",
+    "fullText": "Medical research moves faster with GPT-5. Professor @DeryaTR_ demonstrates its impact. https://t.co/0WN0gZY0Io"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -42,8 +76,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34866,
-      "friendsCount": 668,
+      "followersCount": 34869,
+      "friendsCount": 669,
       "location": "Hong Kong"
     },
     "images": [
@@ -55,11 +89,28 @@
   },
   {
     "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 5223,
+      "friendsCount": 554,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy9yDjkXgAA1kd6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/valent44355/status/1958909772025274681",
+    "fullText": "USBC Token – Dollar-Backed Digital Asset\n•Concept: A U.S. dollar–denominated digital token (“USBC”) that is fully redeemable, essentially a stablecoin alternative but positioned with high-yield rewards through a mobile app.\n•Impact: If USBC captures even a fraction of the https://t.co/447AHa8PLe"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -91,7 +142,7 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "America’s Newest AI Safety Organization—Enhancing Communications to Spread Awareness of AI Risks and Protect Humanity",
-      "followersCount": 583,
+      "followersCount": 584,
       "friendsCount": 259,
       "location": "Washington, DC"
     },
@@ -142,7 +193,7 @@
       "name": "Gamma.io",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1520498582754934790/z4nFO30s_normal.jpg",
       "description": "Bitcoin creator launchpad, marketplace, artist network. Explore Gamma: https://t.co/LFT9dz1uCv — Need help? @gammaiosupport",
-      "followersCount": 46674,
+      "followersCount": 46644,
       "friendsCount": 3,
       "location": "Bitcoin"
     },
@@ -159,7 +210,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -189,7 +240,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -221,7 +272,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -238,7 +289,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -255,7 +306,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -272,8 +323,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34866,
-      "friendsCount": 668,
+      "followersCount": 34869,
+      "friendsCount": 669,
       "location": "Hong Kong"
     },
     "images": [
@@ -306,7 +357,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -323,7 +374,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -357,8 +408,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34866,
-      "friendsCount": 668,
+      "followersCount": 34869,
+      "friendsCount": 669,
       "location": "Hong Kong"
     },
     "images": [
@@ -374,7 +425,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56729,
+      "followersCount": 56735,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -391,7 +442,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -442,7 +493,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -493,7 +544,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131083,
+      "followersCount": 131089,
       "friendsCount": 1364,
       "location": "Chicago, IL"
     },
@@ -510,8 +561,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34866,
-      "friendsCount": 668,
+      "followersCount": 34869,
+      "friendsCount": 669,
       "location": "Hong Kong"
     },
     "images": [
@@ -527,8 +578,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34866,
-      "friendsCount": 668,
+      "followersCount": 34869,
+      "friendsCount": 669,
       "location": "Hong Kong"
     },
     "images": [
@@ -578,7 +629,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74925,
+      "followersCount": 74929,
       "friendsCount": 3443,
       "location": ""
     },
@@ -628,7 +679,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24216,
+      "followersCount": 24217,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -663,7 +714,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -678,7 +729,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18625,
+      "followersCount": 18632,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -693,7 +744,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190037,
+      "followersCount": 190036,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -712,7 +763,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190037,
+      "followersCount": 190036,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -730,7 +781,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190037,
+      "followersCount": 190036,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -780,7 +831,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31268,
+      "followersCount": 31273,
       "friendsCount": 155,
       "location": "China"
     },
@@ -861,7 +912,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6957,
+      "followersCount": 6959,
       "friendsCount": 728,
       "location": "San Jose, CA"
     },
@@ -910,7 +961,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59638,
+      "followersCount": 59640,
       "friendsCount": 384,
       "location": ""
     },
@@ -1042,7 +1093,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131083,
+      "followersCount": 131089,
       "friendsCount": 1364,
       "location": "Chicago, IL"
     },
@@ -1123,7 +1174,7 @@
       "name": "CrowdHealth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
       "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
-      "followersCount": 19840,
+      "followersCount": 19839,
       "friendsCount": 1960,
       "location": "Austin, TX"
     },
@@ -1155,7 +1206,7 @@
       "name": "Complex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
       "description": "Making Culture Pop.",
-      "followersCount": 2431016,
+      "followersCount": 2431040,
       "friendsCount": 789,
       "location": "New York"
     },
