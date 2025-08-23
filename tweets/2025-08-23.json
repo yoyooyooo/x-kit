@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6961,
+      "friendsCount": 728,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1959072257772593362",
+    "fullText": "回北京头四五天到处逛逛还觉得有点意思。到了第八九天，就回到以前喜欢去的地方，比如欧陆广场和荣祥广场。熟悉外企圈的老人应该对这俩地方不陌生。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14406,
+      "friendsCount": 3991,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzAC83wWgAA-SuQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1959069094927331668",
+    "fullText": "船长的新书到手，感谢 @XCaptaincc  赠阅！\n\n《Vibe 编程：从意图到应用》📘\n\n🔥 一本书带你完成：环境→需求→后端→前端→部署\n💡 含提示词工程、代码审查、轻工程化最佳实践\n🧩 实战案例：基于“小红书内容生成器”的全栈AI应用\n👩‍💻 非技术也能把点子做成产品！ https://t.co/WmpbBuDcb0"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -22,7 +54,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4970,
+      "followersCount": 4969,
       "friendsCount": 512,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -30,6 +62,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/s1ntone/status/1959047938123972709",
     "fullText": "🙋硬盘告急/意外断电，哪款「录屏软件」还能保住你的内容？\n\n为了验证录屏软件在存储空间紧张时的真实表现，我在仅剩 10GB 硬盘空间的 Mac 上测试了多款录屏软件，结果还是挺意外的：6 分钟内几乎全部被系统强制停止录制。\n\n所以在面对突发中断时，软件的以下表现显得非常重要：\n✅ 能否及时提醒用户"
+  },
+  {
+    "user": {
+      "screenName": "ScientologyTV",
+      "name": "Scientology Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1624465216401727493/SgA--cXs_normal.jpg",
+      "description": "Watch on DIRECTV 320, DIRECTV STREAM, AT&T U-verse, Roku, Apple TV, Fire TV and https://t.co/OQcPQOkOda!",
+      "followersCount": 31160,
+      "friendsCount": 57,
+      "location": "Hollywood, Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScientologyTV/status/1959043501657923678",
+    "fullText": "Watch the premiere of Hell or High Seas TONIGHT on Documentary Showcase!\n\nAlso in tonight’s schedule:\n - Voices for Humanity\n - Meet a Scientologist\n    ...and much more!\nhttps://t.co/Rjzoqof8aM"
+  },
+  {
+    "user": {
+      "screenName": "BenTotallyReal",
+      "name": "BenOfficial",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1722647425783857152/xObSmByG_normal.jpg",
+      "description": "In discussion w/ Andriy Sadovyi, mayor of Lviv, Ukraine.  The Steel Porcupine is my second film on the Ukraine-Russia conflct. A cinematic experience. Free.",
+      "followersCount": 1607,
+      "friendsCount": 1663,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1959015126377304066/vid/avc1/3840x2160/oEnApmz9pSmfreKQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BenTotallyReal/status/1959017046169329678",
+    "fullText": "The Steel Porcupine -- Official Trailer. \n\"An unforgettable cinematic experience that exposes Russia's campaign of extermination in Ukraine, the Ukrainian people's spirt to resist and prevail and the world's response. A Masterpiece.\" https://t.co/joLzTWxcVQ"
   },
   {
     "user": {
@@ -88,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -105,7 +169,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -122,7 +186,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4318628,
+      "followersCount": 4318599,
       "friendsCount": 3,
       "location": ""
     },
@@ -139,7 +203,7 @@
       "name": "ResearchHub",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836578778417381376/ZdO6aMG6_normal.jpg",
       "description": "A modern day preprint server powered by $RSC. Incentivizing the open publication of transparent research. Let's accelerate science!",
-      "followersCount": 42823,
+      "followersCount": 42824,
       "friendsCount": 1,
       "location": "Earth 🌍🌎🌏"
     },
@@ -156,7 +220,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -193,7 +257,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -227,7 +291,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -295,7 +359,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -310,7 +374,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -327,7 +391,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -344,7 +408,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -361,7 +425,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -378,7 +442,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -395,7 +459,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -412,7 +476,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -429,7 +493,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -463,7 +527,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31292,
+      "followersCount": 31297,
       "friendsCount": 155,
       "location": "China"
     },
@@ -480,7 +544,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14405,
+      "followersCount": 14406,
       "friendsCount": 3991,
       "location": ""
     },
@@ -497,7 +561,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14405,
+      "followersCount": 14406,
       "friendsCount": 3991,
       "location": ""
     },
@@ -514,7 +578,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -529,7 +593,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131094,
+      "followersCount": 131091,
       "friendsCount": 1364,
       "location": "Chicago, IL"
     },
@@ -546,7 +610,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -563,7 +627,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34875,
+      "followersCount": 34876,
       "friendsCount": 670,
       "location": "Hong Kong"
     },
@@ -580,7 +644,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14405,
+      "followersCount": 14406,
       "friendsCount": 3991,
       "location": ""
     },
@@ -597,7 +661,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74952,
+      "followersCount": 74953,
       "friendsCount": 3444,
       "location": ""
     },
@@ -615,7 +679,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14405,
+      "followersCount": 14406,
       "friendsCount": 3991,
       "location": ""
     },
@@ -647,7 +711,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -662,7 +726,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18632,
+      "followersCount": 18628,
       "friendsCount": 2350,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -677,7 +741,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190052,
+      "followersCount": 190053,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -762,7 +826,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886758,
+      "followersCount": 1886769,
       "friendsCount": 5120,
       "location": "Jerusalem, Israel"
     },
