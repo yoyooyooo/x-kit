@@ -1,12 +1,44 @@
 [
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16658,
+      "friendsCount": 1199,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzOSTenWYAALthE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1960071139532947729",
+    "fullText": "U.S. electricity demand is surging after nearly two decades of stagnation, driven by AI, data centers, EVs, factory reshoring and hotter summers.\n\nSome regions, like Texas and the Mid-Atlantic, are seeing double-digit growth in power needs.\n\nIn response, investor-owned utilities https://t.co/2tANDvMnVi"
+  },
+  {
+    "user": {
+      "screenName": "aryan_banana",
+      "name": "Aryan Bansal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1848925775422234624/o0Q2WNcW_normal.jpg",
+      "description": "19 | CTO @useKled @Nitrility | @ucberkeleymet",
+      "followersCount": 1234,
+      "friendsCount": 441,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aryan_banana/status/1960059556677161313",
+    "fullText": "prefix sampling seems increasingly important with more non-intuitive rl envs\n\nit becomes even more important than pure SFT to have high quality supervised labels. this is because a misfire inhibits generalization of the policy"
+  },
+  {
+    "user": {
       "screenName": "DocRod7",
       "name": "Doc Rod",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1572026676061560832/qp_G-tjy_normal.jpg",
       "description": "",
       "followersCount": 7,
-      "friendsCount": 75,
+      "friendsCount": 76,
       "location": ""
     },
     "images": [
@@ -16,6 +48,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/DocRod7/status/1960052588574871557",
     "fullText": "here is more of my \"process\"  if it can be called that.  I use pretty simple linework sketches based off 3D models I made of the characters for Afterlight.  I then render simple scenes in blender and paint over them in photoshop.  I do use some photo reference, but not as much as https://t.co/jII7TlRCOE"
+  },
+  {
+    "user": {
+      "screenName": "weedmaps",
+      "name": "Weedmaps",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1549932914091012096/m7g4963Q_normal.png",
+      "description": "#Weedmaps is a community where businesses and consumers can search and discover #cannabis products.",
+      "followersCount": 215887,
+      "friendsCount": 1146,
+      "location": "Irvine, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzNr1fqbwAMoa0j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/weedmaps/status/1960047108268163168",
+    "fullText": "Do you want to learn something new about the taxonomy of concentrates? 👇 https://t.co/OenXO5MzVp"
   },
   {
     "user": {
@@ -31,6 +80,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/BenLamm/status/1960041736279069040",
     "fullText": "Meet Romulus &amp; Remus—the world’s first de-extinct animals brought back from extinction using DNA from 72,000-year-old fossils.\n\nFollow to watch these dire wolves grow and to discover the next species we’re working to bring back."
+  },
+  {
+    "user": {
+      "screenName": "darthur",
+      "name": "darthur",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959392322803892224/uieVHz3__normal.jpg",
+      "description": "intuitionist - reality - math - distributed systems design - robotics - tree-felling  - - - @mit_triune @apple @idealab @openai @daedalus @sf",
+      "followersCount": 1416,
+      "friendsCount": 1637,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/darthur/status/1960026037129240977",
+    "fullText": "\"It's not a one-and-done skill; it's a lifelong continuum that starts with basic reading and writing but evolves as we encounter new contexts. At its core, literacy is the ability to read, write, speak, and listen in ways that let us communicate effectively and make sense of"
   },
   {
     "user": {
@@ -70,7 +134,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24220,
+      "followersCount": 24221,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -80,6 +144,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1960012279619240230",
     "fullText": "40岁男人，无业，无存款，高社恐！还有机会重启人生吗？ https://t.co/LVlR0YqQYO"
+  },
+  {
+    "user": {
+      "screenName": "ScottWLuton",
+      "name": "Scott W. Luton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1416825457274671104/W67ggrQA_normal.jpg",
+      "description": "Founder & CEO of Supply Chain Now, a global digital media company. #SupplyChain makes it happen. Do good. Give forward. Be the change. Deeds not words.",
+      "followersCount": 41822,
+      "friendsCount": 23101,
+      "location": "Atlanta, GA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScottWLuton/status/1960009191764214037",
+    "fullText": "The Buzz for August 25th https://t.co/jWAt5cFDdA"
   },
   {
     "user": {
@@ -580,7 +659,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -614,7 +693,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -631,7 +710,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -738,7 +817,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -802,11 +881,26 @@
   },
   {
     "user": {
+      "screenName": "adracaceaser",
+      "name": "Hardyguy 🇺🇬",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1690594383035342848/mXCPUywe_normal.jpg",
+      "description": "land surveyor,man UTD diehard,Tour&guide business,,stingy man pro max👍😂😂✊",
+      "followersCount": 752,
+      "friendsCount": 1134,
+      "location": "Kampala, Uganda"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/adracaceaser/status/1959740231822774642",
+    "fullText": "Planning out my week. Getting organized always helps."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -855,7 +949,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -889,7 +983,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131281,
+      "followersCount": 131283,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
