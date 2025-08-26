@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 842,
+      "friendsCount": 518,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzQ5oXKboAAi4aG.jpg",
+      "https://pbs.twimg.com/media/GzQ5pXBbIAAYbp8.jpg",
+      "https://pbs.twimg.com/media/GzQ5qsmaIAAsHfT.jpg",
+      "https://pbs.twimg.com/media/GzQ5stIaoAAJ0r3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1960255376978477276",
+    "fullText": "生图模型分别是：Qwen-Image、Kling-2.1、SeeDream-3.0、GPT-4O，你喜欢哪款呢？ https://t.co/6YlYADTbxU"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
+      "friendsCount": 4012,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1960255050141380904",
+    "fullText": "我还是觉得 稳定币 是一次幻想的相遇，\n因为严格讲是两套不可调和的逻辑。\n当然，也可以“不可调和”地共存，\n毕竟，世界不是非黑即白的。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14677,
+      "friendsCount": 4012,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzQ4ncmWkAAzW75.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1960254008406245717",
+    "fullText": "“农民凭双手创造的一切极大地改变了暴力的逻辑，这远远超出他们的想象。​” https://t.co/JOjyXyZCyv"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31430,
+      "friendsCount": 155,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzQ4hOIagAAmtH1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1960253896926040120",
+    "fullText": "送货，送货\n\n送货这单还有三单\n\n武汉老板专属福利，我亲自送 https://t.co/D29e0oS7JU"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -20,7 +89,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31427,
+      "followersCount": 31430,
       "friendsCount": 155,
       "location": "China"
     },
@@ -37,7 +106,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -52,7 +121,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34856,
+      "followersCount": 34858,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -67,7 +136,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -99,7 +168,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -133,7 +202,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131335,
+      "followersCount": 131340,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -148,7 +217,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151915,
+      "followersCount": 151916,
       "friendsCount": 481,
       "location": "中华人民共和国"
     },
@@ -163,7 +232,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34856,
+      "followersCount": 34858,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -197,7 +266,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56777,
+      "followersCount": 56779,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -214,7 +283,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31427,
+      "followersCount": 31430,
       "friendsCount": 155,
       "location": "China"
     },
@@ -229,7 +298,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31427,
+      "followersCount": 31430,
       "friendsCount": 155,
       "location": "China"
     },
@@ -246,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31427,
+      "followersCount": 31430,
       "friendsCount": 155,
       "location": "China"
     },
@@ -263,7 +332,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75004,
+      "followersCount": 75005,
       "friendsCount": 3446,
       "location": ""
     },
@@ -278,7 +347,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -374,6 +443,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/SlickPen50/status/1960122350898217218",
     "fullText": "I have gotten peppered with James Dobson, paid ads, about his death... I guess his \"ministry\" is really trying to milk this one. But in light of his death, we need to reconsider a great many things that have the sound of value. I hope you will open your mind, rather than react https://t.co/C22f9DnwLE"
+  },
+  {
+    "user": {
+      "screenName": "ishookco",
+      "name": "iShook",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1956117329957265412/mgL-JKyU_normal.jpg",
+      "description": "https://t.co/w2D7Wg0CJe, https://t.co/AimKi76PPc, https://t.co/grZ4gfl8Ee, https://t.co/fnbM6f8EuY, https://t.co/vDx8Vazosy,",
+      "followersCount": 11155,
+      "friendsCount": 960,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ishookco/status/1960116149930328243",
+    "fullText": "iShook TV | iShook Comics https://t.co/WDjukdAdjE"
   },
   {
     "user": {
@@ -629,7 +713,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24224,
+      "followersCount": 24226,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -748,7 +832,7 @@
       "name": "TickPick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1327013485889384449/uGYf7KtJ_normal.jpg",
       "description": "The best prices on tickets for sports, concerts & more!\n\nNew users: Use code TWITTER10 for $10 off in the app",
-      "followersCount": 243730,
+      "followersCount": 243713,
       "friendsCount": 2137,
       "location": ""
     },
@@ -883,7 +967,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14673,
+      "followersCount": 14677,
       "friendsCount": 4012,
       "location": ""
     },
@@ -1097,7 +1181,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131335,
+      "followersCount": 131340,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -1368,7 +1452,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886618,
+      "followersCount": 1886624,
       "friendsCount": 5120,
       "location": "Jerusalem, Israel"
     },
