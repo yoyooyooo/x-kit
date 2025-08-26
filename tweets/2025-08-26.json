@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 151909,
+      "friendsCount": 481,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1960192471469818207",
+    "fullText": "花了好几天时间重构一个大模块，终于找回来写代码的状态了。发现了 vibe coding 和真正软件工程师的区别，程序员关注的是对代码的掌控，代码越漂亮越兴奋。vibe coding 关注的则是交付，越快 ship 越早拿到市场反馈越兴奋，两者的目标是完全不同的。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34864,
+      "followersCount": 34861,
       "friendsCount": 672,
       "location": "Hong Kong"
     },
@@ -22,7 +37,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21394,
+      "followersCount": 21395,
       "friendsCount": 1040,
       "location": ""
     },
@@ -39,7 +54,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56779,
+      "followersCount": 56780,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -105,8 +120,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74992,
-      "friendsCount": 3444,
+      "followersCount": 74993,
+      "friendsCount": 3445,
       "location": ""
     },
     "images": [],
@@ -319,6 +334,23 @@
   },
   {
     "user": {
+      "screenName": "getpieces",
+      "name": "Pieces",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852364003680370688/S3NngZXc_normal.png",
+      "description": "The first AI that remembers everything you work on.",
+      "followersCount": 7224,
+      "friendsCount": 612,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1958928422555525122/pu/vid/avc1/720x1280/4GI6jWjclGP6RE7-.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/getpieces/status/1960056109823295816",
+    "fullText": "Hate writing meeting updates? 😩 \n\nPieces remembers everything you work on, so you don't have to.\n\nFinally, AI that never forgets. Try it today! https://t.co/fDnJn4b8qt"
+  },
+  {
+    "user": {
       "screenName": "TopHatStudiosEN",
       "name": "Top Hat Studios, Inc.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/968231327840571394/kl1dbuX4_normal.jpg",
@@ -490,6 +522,21 @@
   },
   {
     "user": {
+      "screenName": "TickPick",
+      "name": "TickPick",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1327013485889384449/uGYf7KtJ_normal.jpg",
+      "description": "The best prices on tickets for sports, concerts & more!\n\nNew users: Use code TWITTER10 for $10 off in the app",
+      "followersCount": 243724,
+      "friendsCount": 2137,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TickPick/status/1959978073568301111",
+    "fullText": "Hey @grok can you pick three random followers who retweet this post and comment their favorite college football team on Wednesday, August 27th at 8 pm ET?\n\nWe want to hook them up with $100 in TickPick credit."
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -530,7 +577,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18610,
       "friendsCount": 2372,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -548,7 +595,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18610,
       "friendsCount": 2372,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -565,7 +612,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18610,
       "friendsCount": 2372,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -632,7 +679,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18610,
       "friendsCount": 2372,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -642,6 +689,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1959926571847897285",
     "fullText": "哇哇哇，考考你啊～\n\n这个最新版本的 OneKey 界面，\n多了什么东西呢？ https://t.co/O1ldf5PNlT"
+  },
+  {
+    "user": {
+      "screenName": "AdamNMayer",
+      "name": "Adam Mayer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1932745650439139328/qAin2uWg_normal.jpg",
+      "description": "California Architect designing + building hospitality-inspired homes, boutique multi-family developments and private amenity spaces in the US, Europe & Asia",
+      "followersCount": 5760,
+      "friendsCount": 888,
+      "location": "California, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzMMUsUbYAAzu3c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AdamNMayer/status/1959925947031068786",
+    "fullText": "San Francisco’s 2010s boom wasn’t just about apps. It was about what happens when a city built on reinvention collides with its own limits.\n\nHere’s what the last cycle tells us about the next one 🧵 https://t.co/YIneAEYcvZ"
+  },
+  {
+    "user": {
+      "screenName": "globaldeal_io",
+      "name": "GlobalDeal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940031761783627776/FNCSYfpz_normal.jpg",
+      "description": "GlobalDeal makes global expansion smarter, faster & more cost-effective with AI-driven solutions and expert support. 🌍🚀\n#GlobalDeal #AI #GlobalExpansion",
+      "followersCount": 44,
+      "friendsCount": 154,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzLxevfbcAECmZQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/globaldeal_io/status/1959894377922494864",
+    "fullText": "Help us name our GlobalDeal mascot!\n We’ve narrowed it down to two finalists:\nZumi or Secobi.\n\n💬 Cast your vote in the comments — your opinion will shape our brand’s future sidekick! https://t.co/qjyDaAGERA"
   },
   {
     "user": {
@@ -698,7 +779,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34864,
+      "followersCount": 34861,
       "friendsCount": 672,
       "location": "Hong Kong"
     },
@@ -715,7 +796,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151907,
+      "followersCount": 151909,
       "friendsCount": 481,
       "location": "中华人民共和国"
     },
@@ -745,7 +826,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18610,
       "friendsCount": 2372,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -760,7 +841,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131309,
+      "followersCount": 131312,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -914,6 +995,23 @@
   },
   {
     "user": {
+      "screenName": "Andrewgabriel27",
+      "name": "Andrew Gabriel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934597836017917952/IOZ04G6i_normal.jpg",
+      "description": "Building stateful AI",
+      "followersCount": 101,
+      "friendsCount": 261,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1959721562996944896/vid/avc1/1668x1080/zNz264DpMgrRJbrD.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Andrewgabriel27/status/1959728487482495171",
+    "fullText": "Vibe train an AI model is something people want? \n\nBuilt monostate's first consumer product in the @dedaluslabs YC hackathon, 24hours to ship something and now have to figure out if this is something people would like to use? \n\nWhy this is useful? A lot of founders want to make https://t.co/z80TG8WgiK"
+  },
+  {
+    "user": {
       "screenName": "DanielCandonGY",
       "name": "Cllr Daniel Candon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1906777055569571841/WehoIQ-I_normal.jpg",
@@ -963,7 +1061,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886670,
+      "followersCount": 1886675,
       "friendsCount": 5120,
       "location": "Jerusalem, Israel"
     },
