@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34864,
+      "friendsCount": 672,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960168996508184576/vid/avc1/3840x2160/Oo7QFUb6NXfvKW9K.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1960178098684801178",
+    "fullText": "终端里的AI有多强？一天肝完了网球小程序！ https://t.co/NHrer9fRy3"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21394,
+      "friendsCount": 1040,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960173754371411968/vid/avc1/1184x720/cDFLR9dbSMTOudxM.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/1960177385913131379",
+    "fullText": "#Noi 这几天突然有个想法，感觉在 Noi 中实现单页 HTML 管理，就可以玩自制工具箱了。\n\n用 GPT-5 做了个 vibe coding 测试，“需求 + review” 两次提问，就能完成一个 json 解析器（美观且无第三方依赖）。类似的小功能多了，对它们的管理可能也是一个需求痛点（目前都是散落在对话里或自己创建文件）。 https://t.co/vYg6EDncqI"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56777,
+      "followersCount": 56778,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -86,7 +120,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14658,
+      "followersCount": 14659,
       "friendsCount": 4009,
       "location": ""
     },
@@ -96,6 +130,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1960134747876933712",
     "fullText": "“现在是早上八点钟。\n等你们出来的时候天就黑了。\n今天的阳光不曾照耀你们。” https://t.co/bvREDhZ1hg"
+  },
+  {
+    "user": {
+      "screenName": "antelechia",
+      "name": "Antonio Sosa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953077285050847232/S6CQcnUH_normal.jpg",
+      "description": "Senior Fellow @TPPF. Threads on liberal thinkers.",
+      "followersCount": 1274,
+      "friendsCount": 589,
+      "location": "Austin, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPG7T8XkAE2NFZ.png",
+      "https://pbs.twimg.com/media/GzPHBqTXwAA3ORm.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/antelechia/status/1960129459920527755",
+    "fullText": "I found the original version: Lawrence Alma-Tadema's Whispering Noon (1896) https://t.co/dUJyKvKZow"
   },
   {
     "user": {
@@ -113,6 +165,23 @@
     ],
     "tweetUrl": "https://x.com/DegenPreacher/status/1960129348922679635",
     "fullText": "Gonna toss a follow back to everyone who likes and RT this tweet + gift someone $100 https://t.co/1S2R8JVw0g"
+  },
+  {
+    "user": {
+      "screenName": "Simonkhalaf",
+      "name": "Simon Khalaf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1625612406830563328/WXNS3gwh_normal.jpg",
+      "description": "Fintech, labortech- The next 10x opportunity . Tweets are my own, unless otherwise stated & re-tweets are not an endorsement, just a noteworthy share",
+      "followersCount": 5879,
+      "friendsCount": 597,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPCkt2aAAA1ZD_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Simonkhalaf/status/1960124210451464249",
+    "fullText": "This Labor day will be different @alanarmen44 @seanabraham__ @jarahk @WorkWhileAI https://t.co/18r3pAFM88"
   },
   {
     "user": {
@@ -137,7 +206,7 @@
       "name": "Pelicanary ✨️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1959217750158495744/tvcGRDlg_normal.jpg",
       "description": "I am but a creature 🦤 please come and watch me on purple site, I can't be seen talking to myself again https://t.co/bTd9dW16wv \nArt tag : #pelicanaryart",
-      "followersCount": 411,
+      "followersCount": 412,
       "friendsCount": 140,
       "location": ""
     },
@@ -182,6 +251,23 @@
   },
   {
     "user": {
+      "screenName": "POTSLTD",
+      "name": "Prevail Over The System LTD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831439122969341952/FXA-IjUq_normal.jpg",
+      "description": "Empowering Intactivists through knowledge, planning and tactics",
+      "followersCount": 398,
+      "friendsCount": 87,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzOEvN_X0AE1s5z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/POTSLTD/status/1960056505593434452",
+    "fullText": "Stop all circumcisions! Why are you removing body parts of an unconsenting person? https://t.co/rqb1zDL70d"
+  },
+  {
+    "user": {
       "screenName": "TopHatStudiosEN",
       "name": "Top Hat Studios, Inc.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/968231327840571394/kl1dbuX4_normal.jpg",
@@ -213,6 +299,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/AbamakeX/status/1960025710673658232",
     "fullText": "THE JUDGEMENT WILL BE DELIVERED ON 1ST OF SEPTEMBER - FINNISH COURT\n\nThe Finnish courts have confirmed, in response to enquiries by the Abamake Network that a final judgement in Ekpa's case will be delivered on September 1, 2025.\n This timeline, sourced directly from court https://t.co/frCVnGcddw"
+  },
+  {
+    "user": {
+      "screenName": "eroblesfx",
+      "name": "Eliseo Robles",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957211864770727936/5KGY2O9D_normal.jpg",
+      "description": "cto @ https://t.co/0D7VhtxVzm | founder https://t.co/4IRWuTrUeN | AI & Full-Stack Dev | opinions my own",
+      "followersCount": 80,
+      "friendsCount": 100,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/eroblesfx/status/1960013250675855360",
+    "fullText": "Hot Take: Most AI companies build for other AI companies. \n\nWe build for Little League coaches filming on an iPhone from 30 feet away.\n\nGuess which market is larger."
   },
   {
     "user": {
@@ -391,7 +492,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14658,
+      "followersCount": 14659,
       "friendsCount": 4009,
       "location": ""
     },
@@ -418,6 +519,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/samanfarid/status/1959946357692674271",
     "fullText": "Great @nytimes article today about the importance of robots to reinvigorating our industrial base. https://t.co/0qsdmpPV7Y"
+  },
+  {
+    "user": {
+      "screenName": "king_rob_lo",
+      "name": "kingroblo.eth 🎞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952456112776839168/X75SNZpm_normal.jpg",
+      "description": "🇲🇽/🇸🇻\nFilmmaker: 69% of my body is made of movies",
+      "followersCount": 443,
+      "friendsCount": 1061,
+      "location": "Hollywood, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzMbVAQa8AAMbwm.jpg",
+      "https://pbs.twimg.com/media/GzMbVU7awAAt5mW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/king_rob_lo/status/1959940318033490139",
+    "fullText": "The year is 2012, and you're having a debate with the boys. \n\nBlack Widow or Catwoman? https://t.co/Hr3oMqHVKU"
   },
   {
     "user": {
@@ -536,7 +655,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131304,
+      "followersCount": 131307,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -660,7 +779,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131304,
+      "followersCount": 131307,
       "friendsCount": 1371,
       "location": "Chicago, IL"
     },
@@ -739,7 +858,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1886718,
+      "followersCount": 1886721,
       "friendsCount": 5120,
       "location": "Jerusalem, Israel"
     },
