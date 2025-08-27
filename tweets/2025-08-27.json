@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "QuadraticHQ",
+      "name": "Quadratic AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1575530346719969280/e3LA7T63_normal.png",
+      "description": "The AI Spreadsheet with Code and Connections.",
+      "followersCount": 1151,
+      "friendsCount": 56,
+      "location": "Boulder, CO"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960806278625943554/vid/avc1/1920x1080/SuVDCpyXElWbA3nH.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QuadraticHQ/status/1960806534705037637",
+    "fullText": "Go from a blank sheet to insights in 99 seconds. Ready to start understanding your data with Quadratic yet? https://t.co/qGfi7BjrHE"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -37,7 +54,7 @@
       "name": "Anthony Constantino",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1852227477935968256/-mJ94JFj_normal.jpg",
       "description": "New York’s Strongest Republican | CEO, Sticker Mule",
-      "followersCount": 44746,
+      "followersCount": 44761,
       "friendsCount": 784,
       "location": "New York"
     },
@@ -62,6 +79,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Supermicro_SMCI/status/1960761840428048611",
     "fullText": "Experience next-gen AI infrastructure with Lambda’s cloud, powered by Supermicro servers and NVIDIA Blackwell GPUs - built for speed, scale, and simplicity.\n\nRead Success Story"
+  },
+  {
+    "user": {
+      "screenName": "maticrobots",
+      "name": "Matic Robots",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719142516996661248/RyXQAVW6_normal.jpg",
+      "description": "Matic is reimagining the next generation of fully autonomous, helpful, and elegant home robots utilizing #AI and #computervision. Level-5 autonomy in your home.",
+      "followersCount": 10741,
+      "friendsCount": 503,
+      "location": "Mountain View, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzYAZncaQAAXbhZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/maticrobots/status/1960757855906357547",
+    "fullText": "“The software that powers Matic is just as novel. … Using artificial intelligence, Matic adapts to the layout of your home as it changes.”\n- NYT Wirecutter https://t.co/o6ZKxPT0vz"
   },
   {
     "user": {
@@ -116,7 +150,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131472,
+      "followersCount": 131467,
       "friendsCount": 1369,
       "location": "Chicago, IL"
     },
@@ -167,7 +201,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34938,
+      "followersCount": 34939,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -201,7 +235,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31449,
+      "followersCount": 31444,
       "friendsCount": 156,
       "location": "China"
     },
@@ -235,7 +269,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31449,
+      "followersCount": 31444,
       "friendsCount": 156,
       "location": "China"
     },
@@ -267,7 +301,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34938,
+      "followersCount": 34939,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -329,7 +363,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
-      "followersCount": 7773,
+      "followersCount": 7774,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -361,7 +395,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151930,
+      "followersCount": 151918,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -393,7 +427,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151930,
+      "followersCount": 151918,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -470,7 +504,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34938,
+      "followersCount": 34939,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -685,7 +719,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34938,
+      "followersCount": 34939,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -1040,7 +1074,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, and more to hundreds of millions of people.",
-      "followersCount": 180045,
+      "followersCount": 180102,
       "friendsCount": 37,
       "location": "Mountain View, CA"
     },
@@ -1971,6 +2005,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/MomoMeowy/status/1960341471556461004",
     "fullText": "Let my Mom and I gush about your designs! As part of my Vtuber debut next month I want to look at a bunch of cute Vtubers with @SalleeLyte \n\nPlease submit under this post and we'll tell you all how cute/sexy/cool you all are. Let us love you😻 https://t.co/l4JiZHC3yU"
+  },
+  {
+    "user": {
+      "screenName": "EVjectOfficial",
+      "name": "EVject",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1851726744702849025/Y7QAUDe__normal.jpg",
+      "description": "Don’t be a sitting duck. EVject is the only breakaway connector that allows you to escape while plugged-in. Take charge of your situation. A @ModalAuto product.",
+      "followersCount": 2377,
+      "friendsCount": 1069,
+      "location": "American Fork, UT"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzSG1KgaAAA3FXX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EVjectOfficial/status/1960341212612989392",
+    "fullText": "Teslas are the safest vehicles ever made.\nSo why are they more expensive to insure?\n\nEVject delivers options to charge safe and is now partnering with insurance companies to save you money. Better rates, discounted EVject devices?\n\nSee if you're eligible, check link below. https://t.co/pC5GRP4uZX"
   },
   {
     "user": {
