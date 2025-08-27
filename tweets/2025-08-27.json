@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18601,
+      "friendsCount": 2377,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1960502142000881836",
+    "fullText": "今天 8 月 27 号，夏天真的要过去了，去年今日我应该在收拾行李被派去某小学实习，时间挺快的又是一年"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 4972,
+      "friendsCount": 511,
+      "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960235579121307648/vid/avc1/750x286/Pbuqzl9WsZ8vczuc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1960497489468936409",
+    "fullText": "录制过程中新增了麦克风音量显示，实时确保麦克风在线。\n\n有些朋友录制时使用的是需要充电的无线耳机，在录制过程中可能遇到电量用完🪫、连接断开⛓️、麦克端物理关闭等，有时这些情况并不会通知到系统。\n通过音量提示能很好地实时确认音量的状态，避免白白花费时间。\n\n💬加入免费 https://t.co/6fXpMIe8HK"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -18,11 +50,28 @@
   },
   {
     "user": {
+      "screenName": "rhovis67",
+      "name": "Desert Storm Vet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895113314524332032/739nCz7x_normal.jpg",
+      "description": "💙💙🌊🌊SEAN NEEDS YOUR HELP. YES YOU CAN MAKE A DIFFERANCE IN HIS LIFE. $20 CAN MAKE A CHANGE. Please help him and DONATE to his CAMPAIGN #helpingsean",
+      "followersCount": 741,
+      "friendsCount": 2253,
+      "location": "Delray Beach, FL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960482638952632320/vid/avc1/1080x1920/GdqcMlfbY7hJVPwY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/rhovis67/status/1960484659529175169",
+    "fullText": "Sean had his 12 week MRI n Deerfild Beach FL. at The University of Miami SCCC clinic. We are hoping that the MRI still shows zero growth.  Please keep him in your hearts and prayers. \nAlso if you would support his campaign to help pay for transportation costs, clinics not covered https://t.co/xTmVQsklkg"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -39,7 +88,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -52,11 +101,31 @@
   },
   {
     "user": {
+      "screenName": "purpose_brand",
+      "name": "Purpose Brand",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1955810522361745409/1x4Z7fCt_normal.jpg",
+      "description": "Award-winning PR, brand & digital content marketing firm",
+      "followersCount": 792,
+      "friendsCount": 41,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzT0z06WgAEkPCG.jpg",
+      "https://pbs.twimg.com/media/GzT01PeXUAAyOS-.jpg",
+      "https://pbs.twimg.com/media/GzT02OZWQAAtAdF.jpg",
+      "https://pbs.twimg.com/media/GzT04V_WYAA45CE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/purpose_brand/status/1960461124027212114",
+    "fullText": "Because who doesn’t love dog pics? Happy International Dog Day! https://t.co/z4NVWfCpTp"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -73,7 +142,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34893,
+      "followersCount": 34901,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -98,6 +167,23 @@
     ],
     "tweetUrl": "https://x.com/StoneJAlex/status/1960434220234334456",
     "fullText": "Should Christians Support Israel? I would say yes! Here's why: https://t.co/PPatFnZeSL"
+  },
+  {
+    "user": {
+      "screenName": "AMPotentialPod",
+      "name": "americanpotential",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874880916558065665/g_5oDuHm_normal.jpg",
+      "description": "American Potential’s mission is to inspire you and equip you with the information you need to raise your voice and be heard.",
+      "followersCount": 3198,
+      "friendsCount": 2325,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960399146407616516/vid/avc1/1280x720/1rKKlhwki5P3c5bh.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AMPotentialPod/status/1960400509111820341",
+    "fullText": "In this deeply moving episode of American Potential, host David From sits down with author, speaker, and former NFL player Ron Freeman for an unforgettable conversation about faith, reconciliation, and how one powerful act of kindness changed his life—and his views on https://t.co/IsyUgGbdcK"
   },
   {
     "user": {
@@ -140,7 +226,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [
@@ -222,7 +308,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34893,
+      "followersCount": 34901,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -308,7 +394,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -339,11 +425,28 @@
   },
   {
     "user": {
+      "screenName": "MomoMeowy",
+      "name": "Momo😻🩸 Debut 9/26 Nyandere Little Sister",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945896456746872832/mO9Wtk4Q_normal.jpg",
+      "description": "Annoying Little Sis and ankle biter.  art @salleelyte design @hibunorder rig @elainelart\n\nhttps://t.co/oxyylUM29W\ncomms: https://t.co/cnYq5nAkNv",
+      "followersCount": 3931,
+      "friendsCount": 4173,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzSH4TPXYAA4I5j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MomoMeowy/status/1960341471556461004",
+    "fullText": "Let my Mom and I gush about your designs! As part of my Vtuber debut next month I want to look at a bunch of cute Vtubers with @SalleeLyte \n\nPlease submit under this post and we'll tell you all how cute/sexy/cool you all are. Let us love you😻 https://t.co/l4JiZHC3yU"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74990,
+      "followersCount": 75009,
       "friendsCount": 3446,
       "location": ""
     },
@@ -354,18 +457,48 @@
   },
   {
     "user": {
+      "screenName": "Winthebag234",
+      "name": "WW",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831337332504465408/h6RdQwEF_normal.jpg",
+      "description": "Reposter/\nMy YouTube WW or Winthebag234",
+      "followersCount": 1836,
+      "friendsCount": 2082,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Winthebag234/status/1960331042201456644",
+    "fullText": "Y'all ever ate chicken so hot it make yo nose bleed?"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18604,
-      "friendsCount": 2378,
+      "followersCount": 18601,
+      "friendsCount": 2377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1960330804086857810",
     "fullText": "最近过得太快乐了，甚至忘了我身上还有几十万的房贷，虽然这个钱一直是家里人在还，不出意外在他们退休前也会还干净，可就是感觉身上不太轻，不舒服😞"
+  },
+  {
+    "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7762,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1960316904893030893",
+    "fullText": "🚨 @TopstepTV is LIVE! It’s Turnaround Tuesday. Come find out what it means and trade the action with us. Let’s go.\nFollow us on X &amp; subscribe on YouTube. https://t.co/Dgw4GjW2RA"
   },
   {
     "user": {
@@ -390,7 +523,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -407,7 +540,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -426,8 +559,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18604,
-      "friendsCount": 2378,
+      "followersCount": 18601,
+      "friendsCount": 2377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [
@@ -458,8 +591,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18604,
-      "friendsCount": 2378,
+      "followersCount": 18601,
+      "friendsCount": 2377,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -491,7 +624,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [
@@ -528,7 +661,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [],
@@ -543,7 +676,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [
@@ -559,7 +692,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -577,7 +710,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [],
@@ -591,7 +724,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31438,
+      "followersCount": 31435,
       "friendsCount": 156,
       "location": "China"
     },
@@ -609,7 +742,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [],
@@ -623,7 +756,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34893,
+      "followersCount": 34901,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -639,7 +772,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [],
@@ -654,7 +787,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
       "followersCount": 14711,
-      "friendsCount": 4014,
+      "friendsCount": 4015,
       "location": ""
     },
     "images": [
@@ -678,6 +811,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1960201152340918392",
     "fullText": "System Prompt of \"Brainstormer\"\n\nYou are \"Brainstormer\"\ndescription: Find inspiration easily. Fresh ideas for parties, gifts, businesses and more.\ninstruction: Purpose\nYour purpose is to inspire and spark creativity. You’ll help me brainstorm ideas for all sorts of things: gifts,"
+  },
+  {
+    "user": {
+      "screenName": "IngridAccioly",
+      "name": "Ingrid Accioly",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1231795084284301312/g25H_o-i_normal.jpg",
+      "description": "Hello X!",
+      "followersCount": 17577,
+      "friendsCount": 0,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPxlqlWcAAeba6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/IngridAccioly/status/1960175903511580969",
+    "fullText": "Riga Mirror Gold https://t.co/1tH5LX4FMH"
   },
   {
     "user": {
