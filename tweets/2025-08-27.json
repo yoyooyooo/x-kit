@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6149,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1960561145015886215",
+    "fullText": "现在大家写文章用 AI 写，读文章用 AI 总结，那么问题来了…"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34918,
+      "friendsCount": 673,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzVNgtza4AQq5BV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1960558540625481921",
+    "fullText": "居然有「促进开源生态繁荣」 https://t.co/cbebtDUi35"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18602,
+      "friendsCount": 2377,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1960553402758521026",
+    "fullText": "突然很想吃烤猪蹄，就是一整个烤出来，中间剪一刀滋滋冒油的那种"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14717,
+      "followersCount": 14721,
       "friendsCount": 4016,
       "location": ""
     },
@@ -20,7 +67,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21401,
+      "followersCount": 21402,
       "friendsCount": 1040,
       "location": ""
     },
@@ -87,7 +134,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -149,7 +196,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4972,
+      "followersCount": 4971,
       "friendsCount": 511,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -159,6 +206,21 @@
     ],
     "tweetUrl": "https://x.com/s1ntone/status/1960497489468936409",
     "fullText": "录制过程中新增了麦克风音量显示，实时确保麦克风在线。\n\n有些朋友录制时使用的是需要充电的无线耳机，在录制过程中可能遇到电量用完🪫、连接断开⛓️、麦克端物理关闭等，有时这些情况并不会通知到系统。\n通过音量提示能很好地实时确认音量的状态，避免白白花费时间。\n\n💬加入免费 https://t.co/6fXpMIe8HK"
+  },
+  {
+    "user": {
+      "screenName": "Scoobichu",
+      "name": "Scoobichu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954756658783035393/ZIAqkJ-J_normal.jpg",
+      "description": "Have you ever seen a wizard in the flesh?",
+      "followersCount": 295,
+      "friendsCount": 240,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Scoobichu/status/1960493303205650662",
+    "fullText": "Two Heads One Mic Episode 4 https://t.co/ViihTfpG27"
   },
   {
     "user": {
@@ -183,7 +245,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -213,11 +275,26 @@
   },
   {
     "user": {
+      "screenName": "opinions_market",
+      "name": "Opinions Market",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759767006805397505/dyL2jgCp_normal.jpg",
+      "description": "We represent everyone's voice on critical issues. We're not backed by institutions or politicians. We're a free and unbiased community. Have you got an opinion?",
+      "followersCount": 295,
+      "friendsCount": 55,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/opinions_market/status/1960484441111060887",
+    "fullText": "Is Trump acting like a dictator in his second term?"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -269,7 +346,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -306,7 +383,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -358,7 +435,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34919,
+      "followersCount": 34918,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -465,6 +542,21 @@
   },
   {
     "user": {
+      "screenName": "wesleyGaiescki",
+      "name": "wesleyy.gs💔",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820775808417280000/Chm4Imlp_normal.jpg",
+      "description": "eu, apenas",
+      "followersCount": 84,
+      "friendsCount": 366,
+      "location": "onde eu quiser "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wesleyGaiescki/status/1960407661712699654",
+    "fullText": "The best view comes after the hardest climb."
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -518,7 +610,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131401,
+      "followersCount": 131420,
       "friendsCount": 1369,
       "location": "Chicago, IL"
     },
@@ -587,7 +679,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14717,
+      "followersCount": 14721,
       "friendsCount": 4016,
       "location": ""
     },
@@ -627,6 +719,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/macbrennan_cc/status/1960367724997042612",
     "fullText": "Update on [new product] / making expectations clear:\n\nThe new product has entered demos! That means a few power users are now starting to get familiar with it\n\nWe're at the finish line and ready to launch. The last box I want to check is launching this the right way.\n\nThis"
+  },
+  {
+    "user": {
+      "screenName": "AutoGlassInAz",
+      "name": "Auto Glass In Az",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/750085863363579905/hw0xjJx7_normal.jpg",
+      "description": "480-269-0361 | https://t.co/w83SrEgPXX | #Auto #Glass #Replacement  Mobile #Windshield #Replacement All Over #Arizona. We Can Repair Any Piece Of #AutoGlass",
+      "followersCount": 647,
+      "friendsCount": 822,
+      "location": "Phoenix, AZ"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzSfqYmbMAArUej.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AutoGlassInAz/status/1960367294108123527",
+    "fullText": "$50 - $200 CASH BACK with Windshield Replacement                                             \n480-269-0361 - CALL NOW!                          \nApproved By All Insurance Companies      \nMobile Service in Arizona                                                    \n\nPhoenix Tucson https://t.co/bCvPLsf9wR"
   },
   {
     "user": {
@@ -685,7 +794,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34919,
+      "followersCount": 34918,
       "friendsCount": 673,
       "location": "Hong Kong"
     },
@@ -771,7 +880,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -782,6 +891,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1960353436974915871",
     "fullText": "我们不是响应快，我们是住在微信和推特上。 https://t.co/lsjBTQwTwa"
+  },
+  {
+    "user": {
+      "screenName": "AleCaranza",
+      "name": "Ale carranza",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957960024178737152/6GXMaaB7_normal.jpg",
+      "description": "IORA is Singapore's leading women apparel label, we provide wearable and accessible clothing that transits your outfit from day to night.",
+      "followersCount": 10267,
+      "friendsCount": 100,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzSSaZ1XcAAe9x_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AleCaranza/status/1960352753097568451",
+    "fullText": "Basic Box Pleat Blouse https://t.co/Hox1RA1o3Q"
   },
   {
     "user": {
@@ -823,7 +949,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 74994,
+      "followersCount": 74990,
       "friendsCount": 3446,
       "location": ""
     },
@@ -917,7 +1043,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -934,7 +1060,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31440,
+      "followersCount": 31439,
       "friendsCount": 156,
       "location": "China"
     },
@@ -1128,6 +1254,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1960249568395763886",
     "fullText": "Listenhub 的 FlowSpeech 已经发布这么久了，还没人搞出来 小宇宙 自动化上传 方案吗😆\n坐等..."
+  },
+  {
+    "user": {
+      "screenName": "OSRSAdvice73410",
+      "name": "Old School Runescape Content Advice",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959940625320595456/MwAVRK0w_normal.jpg",
+      "description": "I do not work for Old School RuneScape. These posts are my personal opinion.",
+      "followersCount": 2,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OSRSAdvice73410/status/1960247087309750547",
+    "fullText": "Duel Arena \nThe Duel Arena was once a thriving Community, and was a great piece of Content that only Old School Runescape could offer the Gaming Community. The new area for the Duel Arena is absolutely beautiful. It is sad to look at this area and to not be able to use it."
   },
   {
     "user": {
@@ -1340,6 +1481,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/TheFlowHorse/status/1960025069994033657",
     "fullText": "Running this back, with a bigger giveaway.\n\nFollow @VadiyOfficial and retweet to be entered.\n\nThey’ve created a hub built for veterans, packed with resources, tools, and real financial opportunities. Forget the $20K consultant fees, you can get connected to thousands of active"
+  },
+  {
+    "user": {
+      "screenName": "Koji_Matsuo",
+      "name": "松尾光治",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1958237105085140992/nPtCNBx-_normal.jpg",
+      "description": "ビジネスパースン向け英語教材開発者 | 世界で活躍したい人を英語面でサポート | CQ向上推進 | 在米36年 | 大手英会話スクールNY校教務主任兼講師5年 | 総合商社米国子会社勤務10年 | 「パタプライングリッシュ」「モゴモゴバスター（音声変化教材）」「ジョークで英語多読！」など",
+      "followersCount": 142,
+      "friendsCount": 2,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Koji_Matsuo/status/1959971472253809097",
+    "fullText": "ポリコレ病が治らない。\n\n数日前に、うちのキッチンの天井修理＋ペンキ塗りに来たチームの監督の話す英語。\n\n\"They know my eyes be perceptive.\"\n\n白ペンキの色合いを150種類見分けられるんだと。\n\nこういう be 動詞の使い方はAAVE（アフリカ系アメリカ人の口語英語）と呼ばれるアメリカの黒人英語。"
   },
   {
     "user": {
