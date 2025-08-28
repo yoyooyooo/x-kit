@@ -5,7 +5,24 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34945,
+      "followersCount": 34948,
+      "friendsCount": 674,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzdOGUHbkAApHzp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1961122695623422350",
+    "fullText": "「张小珺商业访谈录」的视频居然只有1080P的，作为高贵的B站大会员 + 习惯了4K的我，看得好难受😓 https://t.co/1MUoSQQG72"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 34948,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -16,11 +33,26 @@
   },
   {
     "user": {
+      "screenName": "guerillasports_",
+      "name": "Guerilla Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830661712946614273/U3vTuzbb_normal.jpg",
+      "description": "Resist Ordinary⚡️@gs_off_ice @gsoffcourt @gs_off_field Advertise with us📢: contact@guerillasports.net",
+      "followersCount": 6345,
+      "friendsCount": 452,
+      "location": "Denver, CO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/guerillasports_/status/1961111502578237639",
+    "fullText": "Broncos 53-Man Roster is SET | GS Going Deep w/ Jackson &amp; Goodman https://t.co/y9q4rJQxQ3"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4329594,
+      "followersCount": 4329644,
       "friendsCount": 3,
       "location": ""
     },
@@ -85,7 +117,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4329594,
+      "followersCount": 4329644,
       "friendsCount": 3,
       "location": ""
     },
@@ -151,7 +183,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18605,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -169,7 +201,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
       "followersCount": 21407,
-      "friendsCount": 1041,
+      "friendsCount": 1040,
       "location": ""
     },
     "images": [
@@ -179,6 +211,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/lencx_/status/1961073688133935546",
     "fullText": "#编程技巧 今天 git ssh 莫名其妙抽风了，无法 pull/push 代码，一直提示超时、端口错误啥的。各种修改 git config 都没搞定。最后查 github docs 发现可以通过 https 端口建立 ssh 连接，在 ~/.ssh/config 中加了一行 Hostname 搞定了。\nhttps://t.co/BrpiTbgh9j https://t.co/J2GRL83GZ1"
+  },
+  {
+    "user": {
+      "screenName": "America1stLegal",
+      "name": "America First Legal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1651630619154104321/Wq51K9QY_normal.jpg",
+      "description": "Fighting for the American people and defending the rule of law in the United States 🇺🇸 | https://t.co/YYdmOR6NMg",
+      "followersCount": 354443,
+      "friendsCount": 522,
+      "location": "Washington DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzcgfzaXQAIfAl4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/America1stLegal/status/1961071897619189834",
+    "fullText": "🚨BREAKING — AFL has filed a federal lawsuit against Shell USA, Inc. for allegedly orchestrating a racially discriminatory reorganization targeting white employees.\n\nThis is a major fight against DEI mandates gone wrong. https://t.co/IfrYh8mvrP"
   },
   {
     "user": {
@@ -201,7 +250,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -218,7 +267,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34945,
+      "followersCount": 34948,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -268,7 +317,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18605,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -318,7 +367,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -335,7 +384,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -352,7 +401,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -386,7 +435,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18607,
+      "followersCount": 18605,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -401,7 +450,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151978,
+      "followersCount": 151979,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -416,7 +465,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -466,7 +515,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34945,
+      "followersCount": 34948,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -481,7 +530,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56806,
+      "followersCount": 56805,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -514,7 +563,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151978,
+      "followersCount": 151979,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -546,7 +595,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -628,7 +677,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31488,
+      "followersCount": 31491,
       "friendsCount": 156,
       "location": "China"
     },
@@ -679,7 +728,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24256,
+      "followersCount": 24257,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -840,6 +889,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1960900819987075256",
     "fullText": "南城香这个奶皮子酸奶，好吃！关键是 4 元！！！ https://t.co/cvl52oyb47"
+  },
+  {
+    "user": {
+      "screenName": "gruntdoc",
+      "name": "GruntDoc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1707686033561632768/HiVAyrta_normal.jpg",
+      "description": "Miscellaneous Ramblings from an Emergency Physician in Texas.\n\nThe pic is from 2007. I'm late middle aged. I'm not young. Not 45, don't have it all together.",
+      "followersCount": 12849,
+      "friendsCount": 4017,
+      "location": "Fort Worth, Texas"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gruntdoc/status/1960894714107859296",
+    "fullText": "I finally found the analogy for the Federalizing of the DC cops/National Guard that makes sense to me. \n\nRight after VP Gore invented the internet, I was fortunate enough to be included in a HQ element of US Marines called up to help fight forest fires (Tower Fire, Umatilla, OR),"
   },
   {
     "user": {
@@ -1560,7 +1624,7 @@
       "name": "CELSIUS Energy Drink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1742917732868431872/yHOTA_lK_normal.jpg",
       "description": "Zero Sugar. Essential Energy. ⚡️#LiveFitGo",
-      "followersCount": 40594,
+      "followersCount": 40593,
       "friendsCount": 171,
       "location": "Florida"
     },
