@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6961,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1961178881022726238",
+    "fullText": "Wordle 1,531 5/6\n\n⬜⬜⬜🟩⬜\n⬜⬜⬜🟩⬜\n⬜⬜🟨🟩🟩\n🟩🟨⬜🟩🟩\n🟩🟩🟩🟩🟩"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6961,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1961177224809521176",
+    "fullText": "时常有人会和我讨论 AI 对 Adobe 业务的挑战。我觉得这是一个百万美元的问题（也就是没答案）。当年 Java 想把平台变成 commodity。结果是 Java 自己成了免费的 facility，Sun 被搞死。LLM 最后是不是会成为 facility，这个问题很难回答。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34943,
+      "followersCount": 34940,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -15,6 +45,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1961165150633038191",
     "fullText": "睡前突然很好奇？为什么罗永浩《十字路口》、鲁豫《慢谈》、杨迪《迪听》这些重磅视频播客突然在B站冒出来？\n其实背后是B站给出了无与伦比的资源倾斜——10亿流量扶持、AI创作工具、免费录制场地。一番研究，我认为真正让B站把视频播客提升到战略层面的，是来自Youtube的一个数字👇 https://t.co/U29yJ9oErv"
+  },
+  {
+    "user": {
+      "screenName": "Nancy4Thinking",
+      "name": "Nancy4Thinking 🤔🧠",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943067903047208960/JYiBLIaI_normal.jpg",
+      "description": "Wife, mother, homeschool teacher. I love my land, I know what I know, and nothing more. An ever evolving version of self.",
+      "followersCount": 770,
+      "friendsCount": 359,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Nancy4Thinking/status/1961162918138937429",
+    "fullText": "FBI Warns of Russian Cyber Hackers Targeting Critical US Infrastructure\n\nThe FBI warned the public on Aug. 20 that Russian hackers had breached computer systems at manufacturing plants, power grids, water treatment facilities, and other critical infrastructure in the United"
   },
   {
     "user": {
@@ -101,11 +146,28 @@
   },
   {
     "user": {
+      "screenName": "MelMattison1",
+      "name": "Mel Mattison",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1625522506906890241/b0_tUII3_normal.jpg",
+      "description": "Investor, author, and former fintech executive with 20+ years in the biz. Duke MBA. Financial Philosopher. Not financial advice.",
+      "followersCount": 15178,
+      "friendsCount": 370,
+      "location": "North Carolina"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzdITDsXoAAzWKB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MelMattison1/status/1961117829224177934",
+    "fullText": "I could be totally wrong about this, but for the record, here's what I'm seeing and here's why I've been buying gold, TLT, SPY, etc.\n\nBonds seem to be capitulating today to a future MMT-Fed controlled by DJT appointees that will force short-end rates down for an extended period https://t.co/cu48ycKwyR"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34943,
+      "followersCount": 34940,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -135,7 +197,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4329807,
+      "followersCount": 4329852,
       "friendsCount": 3,
       "location": ""
     },
@@ -180,7 +242,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7496,
+      "followersCount": 7493,
       "friendsCount": 1538,
       "location": ""
     },
@@ -197,7 +259,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19703,
+      "followersCount": 19702,
       "friendsCount": 849,
       "location": "San Jose, CA"
     },
@@ -230,7 +292,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4329807,
+      "followersCount": 4329852,
       "friendsCount": 3,
       "location": ""
     },
@@ -296,7 +358,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18598,
+      "followersCount": 18593,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -380,7 +442,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -397,7 +459,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34943,
+      "followersCount": 34940,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -410,11 +472,26 @@
   },
   {
     "user": {
+      "screenName": "TopstepTV",
+      "name": "TopstepTV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
+      "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Need a trading journal or trading checklist? Check out https://t.co/POpN1lmouj for more! 💪",
+      "followersCount": 7782,
+      "friendsCount": 32,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TopstepTV/status/1961041164036903360",
+    "fullText": "📢 It's Thursday and we're LIVE all day on @TopstepTV.\nDon’t trade alone. Stay plugged into the latest market news with us.\nFollow on X &amp; Subscribe on YouTube. https://t.co/kcKtu0dN37"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7496,
+      "followersCount": 7493,
       "friendsCount": 1538,
       "location": ""
     },
@@ -447,7 +524,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18598,
+      "followersCount": 18593,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -497,7 +574,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -514,7 +591,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -531,7 +608,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -565,7 +642,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18598,
+      "followersCount": 18593,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -580,7 +657,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151965,
+      "followersCount": 151966,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -595,7 +672,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -645,7 +722,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 34943,
+      "followersCount": 34940,
       "friendsCount": 674,
       "location": "Hong Kong"
     },
@@ -660,7 +737,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56805,
+      "followersCount": 56800,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -693,7 +770,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151965,
+      "followersCount": 151966,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -708,7 +785,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14800,
+      "followersCount": 14797,
       "friendsCount": 4027,
       "location": ""
     },
@@ -725,7 +802,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31494,
+      "followersCount": 31493,
       "friendsCount": 156,
       "location": "China"
     },
@@ -744,7 +821,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14800,
+      "followersCount": 14797,
       "friendsCount": 4027,
       "location": ""
     },
@@ -1407,7 +1484,7 @@
       "name": "Jerry Chu 🍊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1602109131237707777/Zao5qBVe_normal.jpg",
       "description": "Co-Founder @lofty_ai, building the world's first real estate exchange, @AlphaArcade69, prediction market on Algorand, @keebsforall, custom mechanical keyboards",
-      "followersCount": 2736,
+      "followersCount": 2738,
       "friendsCount": 135,
       "location": "Los Angeles"
     },
@@ -1773,7 +1850,7 @@
       "name": "CELSIUS Energy Drink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1742917732868431872/yHOTA_lK_normal.jpg",
       "description": "Zero Sugar. Essential Energy. ⚡️#LiveFitGo",
-      "followersCount": 40596,
+      "followersCount": 40600,
       "friendsCount": 171,
       "location": "Florida"
     },
@@ -2385,7 +2462,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, and more to hundreds of millions of people.",
-      "followersCount": 183592,
+      "followersCount": 183989,
       "friendsCount": 37,
       "location": "Mountain View, CA"
     },
