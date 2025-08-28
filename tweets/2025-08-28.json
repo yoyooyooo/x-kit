@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21408,
+      "friendsCount": 1041,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzcg7nWbAAACpoY.jpg",
+      "https://pbs.twimg.com/media/Gzcg9BPbIAAVqzs.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1961073688133935546",
+    "fullText": "#编程技巧 今天 git ssh 莫名其妙抽风了，无法 pull/push 代码，一直提示超时、端口错误啥的。各种修改 git config 都没搞定。最后查 github docs 发现可以通过 https 端口建立 ssh 连接，在 ~/.ssh/config 中加了一行 Hostname 搞定了。\nhttps://t.co/BrpiTbgh9j https://t.co/J2GRL83GZ1"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -54,7 +72,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18610,
+      "followersCount": 18609,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -89,7 +107,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -106,7 +124,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -123,7 +141,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -140,7 +158,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18610,
+      "followersCount": 18609,
       "friendsCount": 2386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -155,7 +173,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151957,
+      "followersCount": 151962,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -170,7 +188,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -223,7 +241,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 151957,
+      "followersCount": 151962,
       "friendsCount": 483,
       "location": "中华人民共和国"
     },
@@ -238,7 +256,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -255,7 +273,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -274,7 +292,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -304,7 +322,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -322,7 +340,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -356,7 +374,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -388,7 +406,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -408,7 +426,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14786,
+      "followersCount": 14787,
       "friendsCount": 4025,
       "location": ""
     },
@@ -425,7 +443,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31471,
+      "followersCount": 31476,
       "friendsCount": 156,
       "location": "China"
     },
@@ -791,7 +809,7 @@
       "name": "Fred McGill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653577863902244864/Q0NjQJIC_normal.jpg",
       "description": "Entrepreneur & real estate dude / Co-founder @simpleshowingHQ / Partner https://t.co/RiwmiwEWcV / https://t.co/d6GTdEvftQ / Economics & MBA @georgiatech",
-      "followersCount": 1879,
+      "followersCount": 1881,
       "friendsCount": 1889,
       "location": "Atlanta, Georgia"
     },
@@ -946,6 +964,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Roasty_Roasty/status/1960769219831980312",
     "fullText": "Do we really believe that school violence has nothing to do with all the garbage we're feeding our kids—their diets are terrible, their lives are falling apart because of social media, they're under incredible political and social pressure—LGBTQ issues are being jammed down their"
+  },
+  {
+    "user": {
+      "screenName": "maticrobots",
+      "name": "Matic Robots",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719142516996661248/RyXQAVW6_normal.jpg",
+      "description": "Matic is reimagining the next generation of fully autonomous, helpful, and elegant home robots utilizing #AI and #computervision. Level-5 autonomy in your home.",
+      "followersCount": 10762,
+      "friendsCount": 503,
+      "location": "Mountain View, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzYAZncaQAAXbhZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/maticrobots/status/1960757855906357547",
+    "fullText": "“The software that powers Matic is just as novel. … Using artificial intelligence, Matic adapts to the layout of your home as it changes.”\n- NYT Wirecutter https://t.co/o6ZKxPT0vz"
   },
   {
     "user": {
@@ -1795,7 +1830,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, and more to hundreds of millions of people.",
-      "followersCount": 182689,
+      "followersCount": 182798,
       "friendsCount": 37,
       "location": "Mountain View, CA"
     },
@@ -2004,7 +2039,7 @@
       "name": "Americans For Pharma Reform",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828106758167949325/pn7PQFYv_normal.jpg",
       "description": "A grassroots organization exposing the corruption and insane influence of Big Pharma. 1st step: 🚫Banning Pharma TV Ads",
-      "followersCount": 3679,
+      "followersCount": 3713,
       "friendsCount": 23,
       "location": "Virginia"
     },
