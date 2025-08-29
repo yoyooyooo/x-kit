@@ -1,6 +1,75 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
+      "followersCount": 7493,
+      "friendsCount": 1540,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzhxnA6bIAEv3bv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1961443302043242867",
+    "fullText": "刚开通了一个微信公众号，正走寻找有缘人，感兴趣的老铁赏个脸，来关注一波 😗😚😘 https://t.co/K2PENqRIGJ"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 846,
+      "friendsCount": 518,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzhuzNWbIAEAxla.jpg",
+      "https://pbs.twimg.com/media/Gzhu0NHb0AAEzK3.jpg",
+      "https://pbs.twimg.com/media/Gzhu2AsbkAMZpA3.jpg",
+      "https://pbs.twimg.com/media/Gzhu4LkbAAAQ7_z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1961439736020807888",
+    "fullText": "有了 Nano Banana ，婚纱照都可以免了。（人物来自网图）🤪 https://t.co/kXvDfrpGza"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31529,
+      "friendsCount": 157,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1961437592983146822",
+    "fullText": "睡觉之前和另外一个Emacser聊Elisp bug还是很爽的。\n\nEmacs太强大了，一个Emacser遇到另外一个Emacser，在大部分情况下都是奇观，哈哈哈哈"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6961,
+      "friendsCount": 729,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzhtAi_bkAQv2Tu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1961437498900713841",
+    "fullText": "要停止租车生活了。告别德系车，成为朴素顾家的日系车主。 https://t.co/93KnEEW2dP"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -40,7 +109,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18603,
+      "followersCount": 18604,
       "friendsCount": 2389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -50,6 +119,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1961427494197743742",
     "fullText": "来看电影了，看到有成龙我就买了，开始才知道这个剧情是讲抢助记词的，有点尬尬的 https://t.co/P7ZspmcneY"
+  },
+  {
+    "user": {
+      "screenName": "JustinCast0309",
+      "name": "Justin Castaneda - 2027 QB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1955294432401690624/sENEY8Fl_normal.jpg",
+      "description": "Class of 2027\nCentral High School \nQuarterback\nCheyenne, WY\n6ft 2in - 184lbs\nhttps://t.co/YdxvCTAfIf\nhttps://t.co/4VAfe1egWl",
+      "followersCount": 78,
+      "friendsCount": 214,
+      "location": "Cheyenne, WY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzhbrjRaEAAt_Kh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JustinCast0309/status/1961421369000038780",
+    "fullText": "“Nothing great is ever achieved without much enduring.” St. Catherine of Siena\nIt’s game day. My entire life, I’ve prepared for this, not just with throws and drills, but with grit, faith, and heart. I’ve never been given anything. I’ve had to prove myself every step of the way. https://t.co/6EZ4TRll38"
   },
   {
     "user": {
@@ -74,7 +160,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18603,
+      "followersCount": 18604,
       "friendsCount": 2389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -126,7 +212,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18603,
+      "followersCount": 18604,
       "friendsCount": 2389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -143,7 +229,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18603,
+      "followersCount": 18604,
       "friendsCount": 2389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -241,7 +327,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14805,
+      "followersCount": 14806,
       "friendsCount": 4034,
       "location": ""
     },
@@ -258,7 +344,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56805,
+      "followersCount": 56810,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -335,7 +421,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14805,
+      "followersCount": 14806,
       "friendsCount": 4034,
       "location": ""
     },
@@ -367,7 +453,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7492,
+      "followersCount": 7493,
       "friendsCount": 1540,
       "location": ""
     },
@@ -384,7 +470,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7492,
+      "followersCount": 7493,
       "friendsCount": 1540,
       "location": ""
     },
@@ -401,7 +487,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131605,
+      "followersCount": 131608,
       "friendsCount": 1370,
       "location": "Chicago, IL"
     },
@@ -421,7 +507,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14805,
+      "followersCount": 14806,
       "friendsCount": 4034,
       "location": ""
     },
@@ -502,7 +588,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18603,
+      "followersCount": 18604,
       "friendsCount": 2389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -517,7 +603,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75029,
+      "followersCount": 75028,
       "friendsCount": 3450,
       "location": ""
     },
@@ -549,7 +635,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14805,
+      "followersCount": 14806,
       "friendsCount": 4034,
       "location": ""
     },
@@ -566,7 +652,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190238,
+      "followersCount": 190241,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -585,7 +671,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190238,
+      "followersCount": 190241,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -620,7 +706,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31528,
+      "followersCount": 31529,
       "friendsCount": 157,
       "location": "China"
     },
@@ -652,7 +738,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75029,
+      "followersCount": 75028,
       "friendsCount": 3450,
       "location": ""
     },
@@ -684,7 +770,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31528,
+      "followersCount": 31529,
       "friendsCount": 157,
       "location": "China"
     },
@@ -1151,6 +1237,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/diegommarins/status/1961089338693083591",
     "fullText": "Music has the power to make time stand still, to evoke memories we thought were forgotten, and to remind us that every emotion, no matter how fleeting, has a rhythm that can be heard and felt."
+  },
+  {
+    "user": {
+      "screenName": "BryanLeibFL",
+      "name": "Bryan E. Leib",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957909456924065793/NzNcQmc7_normal.jpg",
+      "description": "Founder & CEO of @HenryPRUSA | Senior Fellow @Alapjogokert 🇺🇲🇭🇺 | @Newsmax Contributor | Foreign Policy Advisor to MOC",
+      "followersCount": 25603,
+      "friendsCount": 4734,
+      "location": "Florida, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzctcS_WkAAD1GJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BryanLeibFL/status/1961088196621517096",
+    "fullText": "📰 Quoted in today's @EpochTimes supporting @POTUS Trump's Executive Order. \"The American flag represents far more than just fabric and stitching. It's a symbol of our nation, the greatest nation on Earth.\"\n\n@jacksonrichman https://t.co/gI91eNMtjG"
   },
   {
     "user": {
