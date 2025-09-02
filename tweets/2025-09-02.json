@@ -1,6 +1,94 @@
 [
   {
     "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
+      "followersCount": 854,
+      "friendsCount": 519,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz1z0mNbcAI0OgH.png",
+      "https://pbs.twimg.com/media/Gz1z1SjagAA7qbO.png",
+      "https://pbs.twimg.com/media/Gz1z2MkbMAAZTRH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1962856222635536812",
+    "fullText": "Nano Banana 在文生图的时候，无法指定绘图比例，因为 Nano Banana 是个编辑图片模型，所以我们可以添加一张尺寸参考图，然后附加提示词，就可以让 Nano Banana 按照参考图尺寸比例出图，https://t.co/Ed5sPufOOu 放了一些常见的图片尺寸比例参考图以及使用方法，可以收藏使用。 https://t.co/pnFRR3TiNo"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18585,
+      "friendsCount": 1394,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1962851225046745581",
+    "fullText": "今天用空气炸锅做包菜，想到昨天做的没加水很容易焦，灵机一动给锡纸碗里也倒了一点水，煮的肯定比烤的嫩嘛\n\n十五分钟打开翻了六七次，包菜是蔫了，但是水没沸腾，尝一口还齁甜，担心吃了犯恶心，已经整碗扔垃圾桶了，还是研究下做点蔬菜干吃吧"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 14962,
+      "friendsCount": 4049,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz1yGrHXkAEmfs8.jpg",
+      "https://pbs.twimg.com/media/Gz1yMIGWsAI92dZ.jpg",
+      "https://pbs.twimg.com/media/Gz1yPcQX0AMf--J.jpg",
+      "https://pbs.twimg.com/media/Gz1yZrdWkAAI9HD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1962850818060595319",
+    "fullText": "用 Flowith 玩人生模拟器 👉 https://t.co/eyuViRm1Xa\n（这个图像一致性好强啊 https://t.co/vSxc6AecS0"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
+      "followersCount": 7575,
+      "friendsCount": 1548,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz1xjDkbYAAiTr5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1962849935688401206",
+    "fullText": "程序员面试新公司，整体过程谈的非常顺利，面试官说：你技术没问题，但35岁要 35k，性价比不高，不如招2个应届生再给他们买 2 个 vibe  coding 账号。当时气的我想骂人。 https://t.co/3KTu0EiQ39"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
+      "followersCount": 7575,
+      "friendsCount": 1548,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz1wMSFaAAE2rOe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1962848419715944829",
+    "fullText": "BGP（边界网关协议） 是互联网的“路由协议”，负责不同运营商、不同国家之间的网络互联。有了 BGP，网络流量可以根据最优路径动态选择出口，避免“绕远路”或单点故障。野草云 还剩少量 BGP 资源 VPS 服务器，2C4G ￥169.00/年，4C8G￥209.00/年。欢迎抢购。\nhttps://t.co/BgsECYdEDV https://t.co/njn2hu7wrG"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -20,7 +108,7 @@
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
-      "followersCount": 855,
+      "followersCount": 854,
       "friendsCount": 519,
       "location": ""
     },
@@ -58,7 +146,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14961,
+      "followersCount": 14962,
       "friendsCount": 4049,
       "location": ""
     },
@@ -75,7 +163,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14961,
+      "followersCount": 14962,
       "friendsCount": 4049,
       "location": ""
     },
@@ -109,7 +197,7 @@
       "name": "elaine prior",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1960031386296864768/d5h4jqSM_normal.jpg",
       "description": "Bowdoin College; 🌟; Zoe🌈; 💼; Aria😊; 💡; sewing; 🍀; Miami",
-      "followersCount": 4731,
+      "followersCount": 4252,
       "friendsCount": 1,
       "location": "Miami"
     },
@@ -126,7 +214,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56856,
+      "followersCount": 56857,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -143,7 +231,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14961,
+      "followersCount": 14962,
       "friendsCount": 4049,
       "location": ""
     },
@@ -160,7 +248,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21410,
+      "followersCount": 21411,
       "friendsCount": 1041,
       "location": ""
     },
@@ -177,7 +265,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14961,
+      "followersCount": 14962,
       "friendsCount": 4049,
       "location": ""
     },
@@ -194,7 +282,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152119,
+      "followersCount": 152122,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -241,7 +329,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35298,
+      "followersCount": 35296,
       "friendsCount": 681,
       "location": "Hong Kong"
     },
@@ -273,7 +361,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75086,
+      "followersCount": 75087,
       "friendsCount": 3454,
       "location": ""
     },
@@ -373,7 +461,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75086,
+      "followersCount": 75087,
       "friendsCount": 3454,
       "location": ""
     },
@@ -538,7 +626,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19720,
+      "followersCount": 19718,
       "friendsCount": 850,
       "location": "San Jose, CA"
     },
@@ -638,8 +726,8 @@
       "name": "Brett Pike",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819005815241482241/It5ypr0A_normal.jpg",
       "description": "Founder of the Classical Learner Homeschool Company & creator of the Homeschools Connected curriculum | Author of the Cubs to Bears children's book series 🐻",
-      "followersCount": 61056,
-      "friendsCount": 673,
+      "followersCount": 61106,
+      "friendsCount": 672,
       "location": ""
     },
     "images": [],
@@ -734,8 +822,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7574,
-      "friendsCount": 1547,
+      "followersCount": 7575,
+      "friendsCount": 1548,
       "location": ""
     },
     "images": [
@@ -785,7 +873,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35298,
+      "followersCount": 35296,
       "friendsCount": 681,
       "location": "Hong Kong"
     },
@@ -817,8 +905,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7574,
-      "friendsCount": 1547,
+      "followersCount": 7575,
+      "friendsCount": 1548,
       "location": ""
     },
     "images": [],
@@ -849,7 +937,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21410,
+      "followersCount": 21411,
       "friendsCount": 1041,
       "location": ""
     },
@@ -883,7 +971,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18592,
+      "followersCount": 18585,
       "friendsCount": 1394,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -898,7 +986,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18592,
+      "followersCount": 18585,
       "friendsCount": 1394,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -915,7 +1003,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14961,
+      "followersCount": 14962,
       "friendsCount": 4049,
       "location": ""
     },
@@ -932,7 +1020,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18592,
+      "followersCount": 18585,
       "friendsCount": 1394,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
