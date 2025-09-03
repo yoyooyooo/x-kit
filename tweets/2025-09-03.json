@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8742,
+      "friendsCount": 295,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1963240248126927058",
+    "fullText": "当我感觉产品问题好多，做得好垃圾，有无数的 bug 在等着我一个个修复的时候，应该是时候可以上架给人用了，但是又纠结好像真的太垃圾了，感觉拿不出手。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18572,
+      "friendsCount": 1394,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1963236912166211733",
+    "fullText": "前俩月有个新闻，说一个小年轻上了一天班，打包了一杯蜜雪冰城，在回家的路上被凶手捅死了，当时网上的评论都是“啊，好可怜，上班够累了，下班连蜜雪都没喝到”\n\n我就在想，我如果也这样死了其他人肯定觉得我很惨，如果我拿的是超大只澳龙而不是蜜雪，肯定也有人说“啊好惨，澳龙没吃上就死了”"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35324,
+      "followersCount": 35323,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -55,6 +85,23 @@
   },
   {
     "user": {
+      "screenName": "FuSheng_0306",
+      "name": "Fu Sheng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861635667035607040/t6sP_RUA_normal.jpg",
+      "description": "Techno-optimist builder. Building an open-source coding agent in public. CEO @ Cheetah Mobile | Chair @ OrionStar",
+      "followersCount": 45,
+      "friendsCount": 107,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz6_HR8aEAAqzjd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FuSheng_0306/status/1963216627643854869",
+    "fullText": "The agent is smart enough to know when not to obey.\n\nTried asking it to kill its own process → it refused, explained why, and suggested safer paths. https://t.co/tDq70GuEiS"
+  },
+  {
+    "user": {
       "screenName": "TopstepTV",
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
@@ -74,7 +121,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -106,7 +153,7 @@
       "name": "Elena Meiners",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/638001326069293056/ou43zrkE_normal.jpg",
       "description": "Writer. Crypto culture, fintech, digital society.  \nBylines in WIRED, CoinDesk, Vox.",
-      "followersCount": 7467,
+      "followersCount": 8623,
       "friendsCount": 35,
       "location": "USA"
     },
@@ -157,7 +204,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8740,
+      "followersCount": 8742,
       "friendsCount": 295,
       "location": ""
     },
@@ -223,7 +270,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -240,7 +287,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -274,7 +321,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31697,
+      "followersCount": 31698,
       "friendsCount": 162,
       "location": "China"
     },
@@ -325,7 +372,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19793,
+      "followersCount": 19795,
       "friendsCount": 851,
       "location": "San Jose, CA"
     },
@@ -406,7 +453,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35324,
+      "followersCount": 35323,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -423,7 +470,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -440,7 +487,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31697,
+      "followersCount": 31698,
       "friendsCount": 162,
       "location": "China"
     },
@@ -491,7 +538,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -737,7 +784,7 @@
       "name": "Ryan Williams",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1050201143824080901/ybgIw5nM_normal.jpg",
       "description": "Ryan A. Williams",
-      "followersCount": 1663,
+      "followersCount": 1664,
       "friendsCount": 0,
       "location": "Brooklyn, NY"
     },
@@ -818,7 +865,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19793,
+      "followersCount": 19795,
       "friendsCount": 851,
       "location": "San Jose, CA"
     },
@@ -833,7 +880,7 @@
       "name": "Eric Jing",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1871418126610685952/GUIuX0Bs_normal.jpg",
       "description": "Cofounder/CEO @Genspark_ai | Serial entrepreneur, built business from 0 to $5.5B | Ex-CPO @Baidu Search, Ex-Principal Dev Mgr @Microsoft Bing",
-      "followersCount": 13737,
+      "followersCount": 13743,
       "friendsCount": 138,
       "location": "Palo Alto, CA"
     },
@@ -850,7 +897,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4333800,
+      "followersCount": 4333827,
       "friendsCount": 3,
       "location": ""
     },
@@ -959,7 +1006,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35324,
+      "followersCount": 35323,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -1189,7 +1236,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31697,
+      "followersCount": 31698,
       "friendsCount": 162,
       "location": "China"
     },
@@ -1238,7 +1285,7 @@
       "name": "Kite & Key Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1649039938082545666/wa7eQ_y-_normal.jpg",
       "description": "The world is complicated ... but the explanations don’t have to be. ⚡ New videos every Wednesday.",
-      "followersCount": 59436,
+      "followersCount": 59437,
       "friendsCount": 1208,
       "location": ""
     },
@@ -1484,7 +1531,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -1620,7 +1667,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -1637,7 +1684,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -1654,7 +1701,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8740,
+      "followersCount": 8742,
       "friendsCount": 295,
       "location": ""
     },
@@ -1739,7 +1786,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14983,
+      "followersCount": 14980,
       "friendsCount": 4057,
       "location": ""
     },
@@ -2104,7 +2151,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1681419402036789248/baXR_9zp_normal.jpg",
       "description": "◇ Christ is Lord ◇\n\nWriter",
       "followersCount": 279,
-      "friendsCount": 374,
+      "friendsCount": 375,
       "location": ""
     },
     "images": [],
