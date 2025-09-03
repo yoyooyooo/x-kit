@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 19762,
+      "friendsCount": 850,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1963102372923842822",
+    "fullText": "📖 爱比克泰德《手册》是斯多葛哲学的入门经典，短小却直击人心：\n\n- 区分可控与不可控\n- 追求内心自由\n- 德性高于一切外物\n\n“扰乱我们的并不是事物本身，而是我们对事物的看法。”\n\n因为没找到满意的中文译本，我通过调校 Prompt 翻译了一个自认为还不错的版本，并放在 GitHub 上，提供 Markdown +"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152184,
+      "followersCount": 152187,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -20,7 +35,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35322,
+      "followersCount": 35323,
       "friendsCount": 681,
       "location": "Hong Kong"
     },
@@ -37,7 +52,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -84,11 +99,28 @@
   },
   {
     "user": {
+      "screenName": "Haloblk_global",
+      "name": "HALOBLK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952993553321476100/ASBwSwaB_normal.jpg",
+      "description": "Driven by Endless Innovation",
+      "followersCount": 498,
+      "friendsCount": 508,
+      "location": "Irvine, California"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz4aTflbAAQo53F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Haloblk_global/status/1963035413268070615",
+    "fullText": "The refreshed Model Y Performance has been confirmed to feature Launch Control.\n\nStep 1: Firmly press and hold the brake pedal with your left foot.\nStep 2: While keeping the brake pedal pressed, fully depress the accelerator pedal and hold it down. Wait until the message “Launch https://t.co/su30k8wgyF"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -139,7 +171,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75124,
+      "followersCount": 75126,
       "friendsCount": 3455,
       "location": ""
     },
@@ -236,7 +268,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131907,
+      "followersCount": 131908,
       "friendsCount": 1376,
       "location": "Chicago, IL"
     },
@@ -332,7 +364,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19761,
+      "followersCount": 19762,
       "friendsCount": 850,
       "location": "San Jose, CA"
     },
@@ -347,7 +379,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4333517,
+      "followersCount": 4333536,
       "friendsCount": 3,
       "location": ""
     },
@@ -379,7 +411,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6151,
+      "followersCount": 6152,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -441,7 +473,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35322,
+      "followersCount": 35323,
       "friendsCount": 681,
       "location": "Hong Kong"
     },
@@ -526,7 +558,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152184,
+      "followersCount": 152187,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -551,6 +583,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Dollarlogic/status/1962909625642328488",
     "fullText": "Introducing Dollarlogic Recession Watch\n\nAuthoritative: proprietary 13 categories\nRange: Unlikely, Inconclusive, Likely\nCurrent: Inconclusive\nWhy: Housing, Consumer sentiment, Inventories, Sloos/FCI, Weak Capacity Util/Industrial production\nUpdated: EOM https://t.co/8aWUdzOIDy"
+  },
+  {
+    "user": {
+      "screenName": "CelsiusOfficial",
+      "name": "CELSIUS Energy Drink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742917732868431872/yHOTA_lK_normal.jpg",
+      "description": "Zero Sugar. Essential Energy. ⚡️#LiveFitGo",
+      "followersCount": 40621,
+      "friendsCount": 171,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1962903521142996993/vid/avc1/1920x1080/si-mE2WWdUofi-ma.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CelsiusOfficial/status/1962904730562117811",
+    "fullText": "Hydrate. Hustle. GO!\nCELSIUS HYDRATION - The ultimate hydration for every move. \nCELSIUS. LIVE. FIT. GO! https://t.co/8r09ncOoIT"
   },
   {
     "user": {
@@ -669,11 +718,26 @@
   },
   {
     "user": {
+      "screenName": "Stacks",
+      "name": "stacks.btc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1764968185399267328/lrmnHOuN_normal.jpg",
+      "description": "A Bitcoin L2 enabling smart contracts & apps with Bitcoin as secure base layer 🟧\n\nRegular Stacks Updates: https://t.co/w8goj3MlPU\n\n 🟧 TG+ https://t.co/MNXiV0kOyR",
+      "followersCount": 243104,
+      "friendsCount": 221,
+      "location": "Bitcoin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Stacks/status/1962878525502824522",
+    "fullText": "STX Bitcoin DeFi: Own Your Finance\n\nLearn the basics of earning with Bitcoin Decentralized Finance.\n\nLed by contributors and founders of top tier Bitcoin-first apps on Stacks, the leading Bitcoin layer.\n\nTune in now:\nhttps://t.co/ITmQIR9QZc"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56871,
+      "followersCount": 56870,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -773,7 +837,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -808,7 +872,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7624,
+      "followersCount": 7627,
       "friendsCount": 1549,
       "location": ""
     },
@@ -825,7 +889,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7624,
+      "followersCount": 7627,
       "friendsCount": 1549,
       "location": ""
     },
@@ -842,7 +906,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24321,
+      "followersCount": 24322,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -894,7 +958,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -911,7 +975,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -979,7 +1043,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56871,
+      "followersCount": 56870,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -996,7 +1060,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -1013,7 +1077,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21412,
+      "followersCount": 21413,
       "friendsCount": 1041,
       "location": ""
     },
@@ -1030,7 +1094,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14973,
+      "followersCount": 14974,
       "friendsCount": 4055,
       "location": ""
     },
@@ -1047,7 +1111,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152184,
+      "followersCount": 152187,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -1062,7 +1126,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131907,
+      "followersCount": 131908,
       "friendsCount": 1376,
       "location": "Chicago, IL"
     },
@@ -1079,7 +1143,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35322,
+      "followersCount": 35323,
       "friendsCount": 681,
       "location": "Hong Kong"
     },
@@ -1096,7 +1160,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75124,
+      "followersCount": 75126,
       "friendsCount": 3455,
       "location": ""
     },
@@ -1128,7 +1192,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24321,
+      "followersCount": 24322,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -1145,7 +1209,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31695,
+      "followersCount": 31696,
       "friendsCount": 162,
       "location": "China"
     },
@@ -1162,7 +1226,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75123,
+      "followersCount": 75126,
       "friendsCount": 3455,
       "location": ""
     },
@@ -1304,6 +1368,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/FINVIZ_com/status/1962588971487154190",
     "fullText": "Wait, people actually pay for a specific number of Alerts? \n\nOur Elite plan gives traders and investors unlimited alerts.\n\nRead it again: unlimited alerts."
+  },
+  {
+    "user": {
+      "screenName": "PlayTrackerNet",
+      "name": "PlayTracker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670831464089284611/dQL6_Xb3_normal.jpg",
+      "description": "All of gaming, together. PlayTracker connects to the most popular platforms out there and unites gamer data. All games, achievements, stats - now in one place.",
+      "followersCount": 1708,
+      "friendsCount": 53,
+      "location": "Zagreb, Croatia"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzx5EdUXUAEkast.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PlayTrackerNet/status/1962576724350157276",
+    "fullText": "Games slated to release near Silksong are being delayed to avoid competing with the most wishlisted game on Steam. \n\nIt's probably a good idea: Silksong is so big that it has a huge overlap with every game, regardless of genre.\n\nBut not all are running... how will they fare? https://t.co/XUWgRjbRd0"
   },
   {
     "user": {
