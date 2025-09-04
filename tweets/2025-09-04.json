@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 131961,
+      "friendsCount": 1377,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1963441962624647311",
+    "fullText": "我今天在 Mac 上要 zip 一个文件，要加密码，但是没现成 zip 工具，灵机一动，用 gemini cli，分分钟帮我解决。才知道 Mac 自带 zip 命令行，并且还支持 -P 加密码。"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建1tongkuan、saasdirs和其他工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 81,
+      "friendsCount": 94,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1963441665961857221",
+    "fullText": "You already live in social credit. We just don't call it social credit.\n\nhttps://t.co/AXCAQWIgB3"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -39,7 +69,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35314,
+      "followersCount": 35315,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -54,7 +84,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21409,
+      "followersCount": 21410,
       "friendsCount": 1041,
       "location": ""
     },
@@ -71,7 +101,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35314,
+      "followersCount": 35315,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -86,7 +116,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56880,
+      "followersCount": 56882,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -103,7 +133,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8773,
+      "followersCount": 8774,
       "friendsCount": 295,
       "location": ""
     },
@@ -135,7 +165,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21409,
+      "followersCount": 21410,
       "friendsCount": 1041,
       "location": ""
     },
@@ -197,7 +227,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19816,
+      "followersCount": 19817,
       "friendsCount": 852,
       "location": "San Jose, CA"
     },
@@ -231,7 +261,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4334513,
+      "followersCount": 4334545,
       "friendsCount": 3,
       "location": ""
     },
@@ -265,7 +295,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14967,
+      "followersCount": 14968,
       "friendsCount": 4058,
       "location": ""
     },
@@ -299,8 +329,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131953,
-      "friendsCount": 1376,
+      "followersCount": 131961,
+      "friendsCount": 1377,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -361,7 +391,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152423,
+      "followersCount": 152432,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -391,7 +421,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8773,
+      "followersCount": 8774,
       "friendsCount": 295,
       "location": ""
     },
@@ -406,7 +436,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18555,
+      "followersCount": 18565,
       "friendsCount": 1393,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -421,7 +451,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35314,
+      "followersCount": 35315,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -438,7 +468,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18555,
+      "followersCount": 18565,
       "friendsCount": 1393,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -458,7 +488,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18555,
+      "followersCount": 18565,
       "friendsCount": 1393,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -490,7 +520,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14967,
+      "followersCount": 14968,
       "friendsCount": 4058,
       "location": ""
     },
@@ -573,7 +603,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8773,
+      "followersCount": 8774,
       "friendsCount": 295,
       "location": ""
     },
@@ -592,7 +622,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18555,
+      "followersCount": 18565,
       "friendsCount": 1393,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -607,7 +637,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18555,
+      "followersCount": 18565,
       "friendsCount": 1393,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -622,7 +652,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14967,
+      "followersCount": 14968,
       "friendsCount": 4058,
       "location": ""
     },
@@ -639,7 +669,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14967,
+      "followersCount": 14968,
       "friendsCount": 4058,
       "location": ""
     },
@@ -673,7 +703,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152423,
+      "followersCount": 152432,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -690,7 +720,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19816,
+      "followersCount": 19817,
       "friendsCount": 852,
       "location": "San Jose, CA"
     },
@@ -701,11 +731,26 @@
   },
   {
     "user": {
+      "screenName": "gregory_nico",
+      "name": "Nicholas Gregory",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933968724781871104/3suxjXBB_normal.jpg",
+      "description": "Software engineer, building software, running tech companies, ex-Martial Arts coach/practitioner (now BJJ purple belt)",
+      "followersCount": 27325,
+      "friendsCount": 969,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gregory_nico/status/1963096660952985712",
+    "fullText": "Build tiny web server in Python server (from Scratch) \n\nServing index.html over HTTP using raw sockets.  \n\nPerfect to learn sockets + HTTP basics in Python"
+  },
+  {
+    "user": {
       "screenName": "DT9er",
       "name": "APTUS PRAXIS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1960470576872742917/9fQLhynd_normal.jpg",
       "description": "Discovering effective solutions in practice. We find innovative gadgets, clever convenience items & unique tools that make life smarter.",
-      "followersCount": 1307,
+      "followersCount": 1308,
       "friendsCount": 1523,
       "location": "Sacramento, CA"
     },
@@ -720,7 +765,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152423,
+      "followersCount": 152432,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -752,7 +797,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35314,
+      "followersCount": 35315,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -769,7 +814,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 14967,
+      "followersCount": 14968,
       "friendsCount": 4058,
       "location": ""
     },
