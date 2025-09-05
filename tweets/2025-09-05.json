@@ -91,7 +91,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
       "description": "产品经理、设计师。\nYOOART AI 免费生图：https://t.co/22QUvDwKin\n独立开发者导航：https://t.co/b0jrjyMdZC",
       "followersCount": 853,
-      "friendsCount": 520,
+      "friendsCount": 521,
       "location": ""
     },
     "images": [
@@ -166,6 +166,21 @@
   },
   {
     "user": {
+      "screenName": "TheNewGekko",
+      "name": "THE NEW GEKKO 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1244846631448539137/e60GPz20_normal.jpg",
+      "description": "24 years of experience. 'Money Never Sleeps'   Tweets are not investment advice! I trade options and equities! $SPY $SPX  $TSLA $AAPL $AMZN $META $NFLX $QQQ",
+      "followersCount": 520,
+      "friendsCount": 179,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheNewGekko/status/1963615778865123742",
+    "fullText": "Broadcom $AVGO drops earnings Thursday after close. Options market bracing for a 6.5% swing. IV? A wild 94% vs its usual sleepy 45%. Buckle up."
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -187,7 +202,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24341,
+      "followersCount": 24343,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -204,7 +219,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152600,
+      "followersCount": 152603,
       "friendsCount": 485,
       "location": "中华人民共和国"
     },
@@ -470,5 +485,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1963433943434498157",
     "fullText": "我现在急需要一个能将原型图 + 需求文档结合起来用AI改的工具，不知道市面上目前有没有这类工具？\n\n比如我让AI修改原型图的逻辑，此时对应的需求文档细节也同步更改，反之亦然。目前我是在IDE中实现，但比较粗糙，如果有这类产品化的商品会好很多。"
+  },
+  {
+    "user": {
+      "screenName": "HelpfulHonda",
+      "name": "SoCal Honda Dealers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742601775117717504/-bXIA6xh_normal.jpg",
+      "description": "We’re the Southern California Helpful Honda Dealers, and it’s our job to be helpful. Follow us and you may just get a #RandomActofHelpfulness!",
+      "followersCount": 39349,
+      "friendsCount": 297,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HelpfulHonda/status/1963245849045299354",
+    "fullText": "The 2025 Honda Civic Hybrid combines fuel efficiency with dynamic performance—now available with limited-time offers."
   }
 ]
