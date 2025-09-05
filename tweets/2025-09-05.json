@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 152634,
+      "friendsCount": 486,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1963844105202495835",
+    "fullText": "我的验收流 Vibe Coding 遇到了新瓶颈，虽然验收做的很好了， merge 率很高，不会在屎上浪费太多时间。\n\n但我们想象有一个程序员，他敲代码可以瞬间敲完，那么效率瓶颈就是他的思考速度了：要做什么、怎么做？\n\n我现在的瓶颈就在这里，没办法每天把工作给 AI 安排满。下一步要尝试优化这个问题了。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35391,
+      "friendsCount": 682,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0D4pB1aAAAIZge.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1963843094450745817",
+    "fullText": "行吧我先来埋个坑，下周四更新全网最全CodeX课程🤪\n主打一个面向热点卖课~ https://t.co/MHjpK3Avz0"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35391,
+      "friendsCount": 682,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0D0CqsbEAAtT_-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1963838602703728913",
+    "fullText": "新一期的VibeCoding完整工作流的教程中，有展示5种不同的方式，来生成微信小程序原型图的效果，甚至包括Google最新出的Stich和Figma Make，大家可以看下。 首先是Claude Code Opus-4.1生成的HTML模式: https://t.co/tJA73kqlMk"
+  },
+  {
+    "user": {
       "screenName": "chuckchen_zh",
       "name": "Chuck Chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
@@ -22,7 +71,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 1549,
       "location": ""
     },
@@ -88,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132093,
+      "followersCount": 132107,
       "friendsCount": 1378,
       "location": "Chicago, IL"
     },
@@ -191,11 +240,26 @@
   },
   {
     "user": {
+      "screenName": "UpRockCom",
+      "name": "UpRock",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784834575807500288/7-Xyd0bX_normal.jpg",
+      "description": "The premier DePIN network fueling AI || Available on iOS, Android & Mac || Download to earn $UPT in less than 2 mins! || Support: https://t.co/5Hstswkf1I",
+      "followersCount": 356052,
+      "friendsCount": 1336,
+      "location": "Web3"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/UpRockCom/status/1963656527241515252",
+    "fullText": "UpRock Weekly Calls 69: UPTango https://t.co/P42iccoFa9"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7649,
+      "followersCount": 7648,
       "friendsCount": 1549,
       "location": ""
     },
@@ -210,7 +274,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35384,
+      "followersCount": 35391,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -220,6 +284,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1963640492983517516",
     "fullText": "大部分人的一天，是靠一日三餐分割的。\n而Vibe Coder的一天，是靠5-hour limit分割的。 https://t.co/AaFDK9y1N4"
+  },
+  {
+    "user": {
+      "screenName": "sekurprivate",
+      "name": "Sekur Private (OTCQB:SWISF)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826372068579180548/yLFIrKnW_normal.jpg",
+      "description": "Sekur is a NON BIG TECH Swiss hosted Privacy Communications Platform for Email, Messenger, VPN. NO datamining. Take Your Privacy Back! 1A 4A Protection. $SWISF",
+      "followersCount": 10512,
+      "friendsCount": 7813,
+      "location": "Privacy World"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0A9hdFWoAQeYMr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sekurprivate/status/1963637547134816483",
+    "fullText": "Most of the industry rests comfortably in numbers.\nA recent survey shows 89% of IT leaders believe open-source is as secure or more secure than proprietary systems.\n\nAt Sekur, we don’t build for the 89%. https://t.co/oCyZVrivH7"
   },
   {
     "user": {
@@ -247,7 +328,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6162,
+      "followersCount": 6164,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -262,7 +343,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35384,
+      "followersCount": 35391,
       "friendsCount": 682,
       "location": "Hong Kong"
     },
@@ -277,7 +358,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6162,
+      "followersCount": 6164,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -292,7 +373,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6162,
+      "followersCount": 6164,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -356,7 +437,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152626,
+      "followersCount": 152634,
       "friendsCount": 486,
       "location": "中华人民共和国"
     },
@@ -371,7 +452,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18570,
+      "followersCount": 18568,
       "friendsCount": 1394,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -640,6 +721,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/tickerplus/status/1963335840622588008",
     "fullText": "$AEO +25% follow surprise beat in guidance clearly seen in our coverage earlier last month\n\nMisleading coverage was seen with titles like \"-9% YoY foot traffic\" for American Eagle\n\nWe called this to be materially false weeks in advance https://t.co/wmRaUBk0q3"
+  },
+  {
+    "user": {
+      "screenName": "TCL_Brand",
+      "name": "TCL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610211705136762880/o0GRD7Dv_normal.jpg",
+      "description": "TCL commits itself to providing ultimate service and experience with our premium electronics and smart tech products.",
+      "followersCount": 14521,
+      "friendsCount": 42,
+      "location": "Guangdong,China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963245514192728064/vid/avc1/1920x1080/BqLRnZpsfycdLQkS.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TCL_Brand/status/1963246369793036619",
+    "fullText": "The FIBA EuroBasket 2025 = buzzer beaters, comebacks &amp; dunks\n\n🏀 The biggest stars. The biggest stage.\n\nProudly brought to you by TCL. https://t.co/M7puStYThD"
   },
   {
     "user": {
