@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6949,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1964439144635207680/vid/avc1/1920x1080/tW4THkdMsLc8Icxj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/middlefeng/status/1964439209089069275",
+    "fullText": "虽然有对碰撞的担忧（特别是库门），但还是忍不住停到车库里了，特别是因为正午日头太大。这车库显得好大了。 https://t.co/aBqD1FR10x"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132262,
+      "friendsCount": 1379,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0MWlerWcAA-esA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964438709777944836",
+    "fullText": "AI的炒作泡沫正在破裂，但这对它的未来是件好事\n作者：Hugh Langley\n\nAI炒作撞上现实，请保持冷静。\n\n市场回调、一记警钟、一场大型消化…… 你可以随便给它起个名字，但 AI 确实正在经历这一切。\n\n眼下，有两件事似乎正在同时发生。一方面，企业终于开始理解 AI https://t.co/LQYMPzk3yP"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132262,
+      "friendsCount": 1379,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1964024149070016512/vid/avc1/1280x720/sbvw9VPrXOxx9ExH.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1964434751718130022",
+    "fullText": "https://t.co/AZfNsGRyEh 在正式对话结束后，扎克伯格私下凑到特朗普耳边，略带歉意地说道：“抱歉啊，总统，我刚才没准备好……我不太确定您心里想的是哪个数字。” 不料，这段本以为是私人交流的话却被桌上的麦克风悄悄录了下来\n\n---"
+  },
+  {
+    "user": {
       "screenName": "RobinDuggan3",
       "name": "Robin Duggan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894090797118541824/2e8EjviB_normal.jpg",
@@ -150,7 +201,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7740,
+      "followersCount": 7743,
       "friendsCount": 1588,
       "location": ""
     },
@@ -165,7 +216,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35426,
+      "followersCount": 35427,
       "friendsCount": 683,
       "location": "Hong Kong"
     },
@@ -229,7 +280,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7740,
+      "followersCount": 7743,
       "friendsCount": 1588,
       "location": ""
     },
@@ -361,7 +412,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7740,
+      "followersCount": 7743,
       "friendsCount": 1588,
       "location": ""
     },
@@ -406,7 +457,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31807,
+      "followersCount": 31809,
       "friendsCount": 161,
       "location": "China"
     },
@@ -441,7 +492,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59626,
+      "followersCount": 59614,
       "friendsCount": 384,
       "location": ""
     },
@@ -503,7 +554,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31807,
+      "followersCount": 31809,
       "friendsCount": 161,
       "location": "China"
     },
@@ -521,7 +572,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35426,
+      "followersCount": 35427,
       "friendsCount": 683,
       "location": "Hong Kong"
     },
