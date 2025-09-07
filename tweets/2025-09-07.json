@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
+      "followersCount": 7757,
+      "friendsCount": 1593,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0NubDSbUAUn_jh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1964536833020482054",
+    "fullText": "ApacheCon 2025 开源年度报告：全球 Apache 基金会项目 OpenRank 排行榜中，Apache Doris 位居第二，在中国 Apache 项目中更是稳居第一。\n\n🥑国产开源：起源于中国（百度内部项目 Palo），目前国内社区活跃度很高。\n⚡ 高性能 OLAP：专注于实时查询和分析，常用于数据仓库、报表系统。\n📊 https://t.co/1vC018Xkyt"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 75195,
+      "friendsCount": 3455,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1964536590098977001",
+    "fullText": "还挺好的 cc @tison1096 \n\nhttps://t.co/ixYzIpwz5b"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -58,7 +90,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
       "followersCount": 6174,
-      "friendsCount": 379,
+      "friendsCount": 378,
       "location": "杭州"
     },
     "images": [],
@@ -85,11 +117,28 @@
   },
   {
     "user": {
+      "screenName": "MikeBinderjokes",
+      "name": "Mike Binder",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1867320860765507584/0vvTjx1d_normal.jpg",
+      "description": "Writer Director UPSIDE OF ANGER, REIGN OVER ME. Stand up comic. 40 years sober. 38 years married. Join my community if u love to laugh or make others laugh.",
+      "followersCount": 16170,
+      "friendsCount": 5838,
+      "location": "Los angeles"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0M1clPbUAM6Aje.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MikeBinderjokes/status/1964473388187209946",
+    "fullText": "This Monday, Sept 8, 2025. Amazing line up at the Laugh Factory on Sunset blvd. in Los angeles.  8Pm. @howiemandel @DaneCook @ArsenioHall @JeffDye @VinnyFasline @TheLaughFactory This one is going to be a lot of fun. Get tickets now. One $25! https://t.co/vhfRgzFOZd"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59635,
+      "followersCount": 59638,
       "friendsCount": 384,
       "location": ""
     },
@@ -104,7 +153,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6951,
+      "followersCount": 6952,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -121,7 +170,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132335,
+      "followersCount": 132337,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -138,7 +187,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132335,
+      "followersCount": 132337,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -148,6 +197,25 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1964434751718130022",
     "fullText": "https://t.co/AZfNsGRyEh 在正式对话结束后，扎克伯格私下凑到特朗普耳边，略带歉意地说道：“抱歉啊，总统，我刚才没准备好……我不太确定您心里想的是哪个数字。” 不料，这段本以为是私人交流的话却被桌上的麦克风悄悄录了下来\n\n---"
+  },
+  {
+    "user": {
+      "screenName": "heterodoxinvest",
+      "name": "Cody",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881761169838419969/UE5rCtQS_normal.jpg",
+      "description": "",
+      "followersCount": 692,
+      "friendsCount": 479,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0LzP2mbIAAf4t-.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1964397368339812352/vid/avc1/2420x1570/-OMkYxpxLZDukd8P.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/heterodoxinvest/status/1964400710000451781",
+    "fullText": "You can just do things with AI. For example, I (well, Claude Code, actually) built a Python app and browser extension to download Substack articles and store them in any S3-compatible bucket. There's also a CLI to download all articles from a Substack publication in one fell https://t.co/PswTF6nhMN"
   },
   {
     "user": {
@@ -175,7 +243,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6951,
+      "followersCount": 6952,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -192,7 +260,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132335,
+      "followersCount": 132337,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -256,7 +324,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132335,
+      "followersCount": 132337,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -271,8 +339,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7756,
-      "friendsCount": 1591,
+      "followersCount": 7757,
+      "friendsCount": 1593,
       "location": ""
     },
     "images": [],
@@ -319,7 +387,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
       "followersCount": 6174,
-      "friendsCount": 379,
+      "friendsCount": 378,
       "location": "杭州"
     },
     "images": [],
@@ -350,8 +418,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7756,
-      "friendsCount": 1591,
+      "followersCount": 7757,
+      "friendsCount": 1593,
       "location": ""
     },
     "images": [
@@ -384,7 +452,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75194,
+      "followersCount": 75195,
       "friendsCount": 3455,
       "location": ""
     },
@@ -434,7 +502,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
       "followersCount": 6174,
-      "friendsCount": 379,
+      "friendsCount": 378,
       "location": "杭州"
     },
     "images": [],
@@ -465,8 +533,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #MachineLearning",
-      "followersCount": 7756,
-      "friendsCount": 1591,
+      "followersCount": 7757,
+      "friendsCount": 1593,
       "location": ""
     },
     "images": [],
@@ -503,6 +571,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1964237261261684867",
     "fullText": "几个月前，朋友吆喝了一帮人来深圳搞个工作室，应该是高价手机壳电商和采购代发，几个老爷们省钱住一起，睡醒就干活的那种。昨天得知散伙了，让我下周帮忙去退一下押金。\n\n创业失败是常态，至少没负债，就喜欢这种爱折腾的，能力会随时间增长，只要没老到干不动，就永远是潜力股。"
+  },
+  {
+    "user": {
+      "screenName": "RSharqiya",
+      "name": "مطاعم رومانسي الشرقية",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1839196936768786432/y-K_e11d_normal.jpg",
+      "description": "متخصصون في الأكلات السعودية",
+      "followersCount": 243,
+      "friendsCount": 3,
+      "location": "المملكة العربية السعودية"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RSharqiya/status/1964235172381114822",
+    "fullText": "Everwind Early Access has arrived. Limited-time cape available when you download today."
   },
   {
     "user": {
@@ -625,7 +708,7 @@
       "name": "The Simulation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1659389520268394496/BtO2v6o6_normal.jpg",
       "description": "Primetime Emmy winning Oculus/Pixar/AI team building Sim Francisco - a home for AI agents.",
-      "followersCount": 35099,
+      "followersCount": 35098,
       "friendsCount": 2299,
       "location": "San Francisco, CA"
     },
