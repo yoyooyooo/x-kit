@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
+      "followersCount": 7768,
+      "friendsCount": 1607,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0PA52BaEAArSZK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1964627532634103878",
+    "fullText": "X 的这个数据分析页面设计得还挺好看实用的，符合我的审美。这让我想起了扁平化 UI 的鼻祖 #Bootstrap，有人还在用吗？又有人还记得它正是 Twitter 出品的前端框架吗？ https://t.co/NhLd7IKkkG"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6175,
+      "friendsCount": 378,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1964624243897110591",
+    "fullText": "某知名网络小说作家跟我一个健身房，今天他说都是下午3点起，早上6点睡，看来网络小说钱不好挣啊"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31829,
+      "friendsCount": 162,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0O-gY_bAAAppt0.jpg",
+      "https://pbs.twimg.com/media/G0O-gRRb0AA6RGk.jpg",
+      "https://pbs.twimg.com/media/G0O-gQWbMAAZMgi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1964623328884510830",
+    "fullText": "昨天有个客户买了我们顶配8千多的微服。\n\n购买的过程比较纠结，客户说只有1万的预算，还想买个二手笔记本。\n\n我看了看家里面这台DELL XPS 13的顶配，在家吃灰了好久。\n\n最后我跟客户说，你要买二手的话，我送你一台二手笔记本，只要不嫌弃我爆浆的键盘。😂 https://t.co/fVWQKU9y0G"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 56984,
+      "followersCount": 56986,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -52,8 +103,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31828,
-      "friendsCount": 161,
+      "followersCount": 31829,
+      "friendsCount": 162,
       "location": "China"
     },
     "images": [
@@ -101,7 +152,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132385,
+      "followersCount": 132389,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -186,8 +237,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31828,
-      "friendsCount": 161,
+      "followersCount": 31829,
+      "friendsCount": 162,
       "location": "China"
     },
     "images": [
@@ -284,7 +335,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6952,
+      "followersCount": 6950,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -301,7 +352,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132385,
+      "followersCount": 132389,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -318,7 +369,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132385,
+      "followersCount": 132389,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -374,7 +425,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6952,
+      "followersCount": 6950,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -391,7 +442,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132385,
+      "followersCount": 132389,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -408,7 +459,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18565,
+      "followersCount": 18560,
       "friendsCount": 1392,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -425,7 +476,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18565,
+      "followersCount": 18560,
       "friendsCount": 1392,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -440,7 +491,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18565,
+      "followersCount": 18560,
       "friendsCount": 1392,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -455,7 +506,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132385,
+      "followersCount": 132389,
       "friendsCount": 1379,
       "location": "Chicago, IL"
     },
@@ -905,7 +956,7 @@
       "name": "The Simulation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1659389520268394496/BtO2v6o6_normal.jpg",
       "description": "Primetime Emmy winning Oculus/Pixar/AI team building Sim Francisco - a home for AI agents.",
-      "followersCount": 35105,
+      "followersCount": 35103,
       "friendsCount": 2299,
       "location": "San Francisco, CA"
     },
