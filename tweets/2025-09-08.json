@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8811,
+      "friendsCount": 295,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0SXa65aMAAyUxk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1964862264005243173",
+    "fullText": "$20 的 Cursor 都不够我用 2 天，能用的次数越来越少了，现在都没用 $50 就没额度了。模型价格太贵了，以前 Cursor 应该有补贴用户。 https://t.co/8yuCuw5ePC"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0SUcgDXIAAHp1t.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964858830904545347",
+    "fullText": "另外对于 ChatGPT pro 用户，如果想在 Codex-cli 中默认使用 GPT-5 high ，可以在 ~/.codex/config.toml 第一行加上：\nmodel_reasoning_effort = \"high\"\n\n这样默认就会使用 GPT-5 high，效果更好，而不需要每次设置，反正额度够用，普通 ChatGPT Plus 用户则不建议，因为额度有限（具体不详） https://t.co/9g3O4Eec6o"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964856855106351608",
+    "fullText": "让你效率倍增的指令参数：\n\nclaude --dangerously-skip-permissions\ncodex --dangerously-bypass-approvals-and-sandbox"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964855316895678713",
+    "fullText": "更正：免费版的DeepResearch是每个月5次，不是每天，而且是用的2.5flash"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
@@ -22,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35445,
+      "followersCount": 35450,
       "friendsCount": 686,
       "location": "Hong Kong"
     },
@@ -39,7 +103,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -54,7 +118,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -69,7 +133,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152708,
+      "followersCount": 152717,
       "friendsCount": 486,
       "location": "中华人民共和国"
     },
@@ -84,7 +148,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -101,7 +165,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -116,7 +180,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -146,7 +210,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
-      "followersCount": 7782,
+      "followersCount": 7784,
       "friendsCount": 1616,
       "location": ""
     },
@@ -163,7 +227,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -219,6 +283,21 @@
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1964675635315646636",
+    "fullText": "还有后续，她说：怎么是「我的车」？你那个车都坐不下三个人，这辆就是全家的车。"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6949,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
     "images": [
       "https://pbs.twimg.com/media/G0PtwA6acAEo7A3.jpg"
     ],
@@ -232,7 +311,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
@@ -249,7 +328,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57027,
+      "followersCount": 57034,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -267,7 +346,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -284,7 +363,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
-      "followersCount": 7782,
+      "followersCount": 7784,
       "friendsCount": 1616,
       "location": ""
     },
@@ -299,7 +378,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18576,
+      "followersCount": 18575,
       "friendsCount": 1390,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -329,7 +408,22 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
+      "friendsCount": 162,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1964637790756548728",
+    "fullText": "@grok 点评一下这副画，用中文说优点"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
@@ -346,7 +440,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
-      "followersCount": 7782,
+      "followersCount": 7784,
       "friendsCount": 1616,
       "location": ""
     },
@@ -378,7 +472,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
@@ -397,7 +491,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57027,
+      "followersCount": 57034,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -407,6 +501,21 @@
     ],
     "tweetUrl": "https://x.com/vikingmute/status/1964621240540463527",
     "fullText": "Vercel 又推出了 AI Element https://t.co/xt53tViEV3\n\n基于 shadcn/ui 的一系列和 AI 相关的 React 组件，非常棒。包含一系列常用场景的组件， 让我惊喜的是组件粒度非常细，还有Reasoning ， Task，WebPreivew 等等。  \n\n结合 Vercel 的 AI SDK 这些和 AI 相关的需求都齐活了，而且 API https://t.co/MFQYptfuLC"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 31880,
+      "friendsCount": 162,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1964619821074837846",
+    "fullText": "整个机器的详细配置可以看我的博客\n\nhttps://t.co/QyJg83XiNR"
   },
   {
     "user": {
@@ -444,7 +553,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
@@ -457,11 +566,28 @@
   },
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0OAaTXXoAAwy_z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964555136132345901",
+    "fullText": "第四式：势能式\n继刚分享了他最近正在尝试的一种新方法，叫“势能式”，也可以叫“场域式”。\n\n这次，他不再只是想着怎么写提示词，而是换了个思路：\n\n“我脑子里本来有一个“结构网”，是平的，那能不能让它变成立体的，有高有低？” https://t.co/4shj0uR46l"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19848,
+      "followersCount": 19849,
       "friendsCount": 853,
       "location": "San Jose, CA"
     },
@@ -472,11 +598,26 @@
   },
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964548341192421709",
+    "fullText": "GPT-5 pro 写东西也是稀烂，还好 ChatGPT pro 能继续用 GPT-4.5，GPT-4.5 是真好"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
-      "followersCount": 7782,
+      "followersCount": 7784,
       "friendsCount": 1616,
       "location": ""
     },
@@ -493,7 +634,22 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132469,
+      "followersCount": 132473,
+      "friendsCount": 1380,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1964544672623382968",
+    "fullText": "\"问天天语了\"李继刚解密AI时代的三个核心问题 | 43 Talks\nhttps://t.co/SyIhrnYpgu"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132473,
       "friendsCount": 1380,
       "location": "Chicago, IL"
     },
@@ -511,7 +667,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #PyTorch #DataScience #OpenSource",
-      "followersCount": 7782,
+      "followersCount": 7784,
       "friendsCount": 1616,
       "location": ""
     },
@@ -543,7 +699,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35445,
+      "followersCount": 35450,
       "friendsCount": 686,
       "location": "Hong Kong"
     },
@@ -578,7 +734,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 31875,
+      "followersCount": 31880,
       "friendsCount": 162,
       "location": "China"
     },
