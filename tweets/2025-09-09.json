@@ -5,7 +5,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35603,
+      "followersCount": 35604,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -53,11 +53,28 @@
   },
   {
     "user": {
+      "screenName": "GenomicPress",
+      "name": "GenomicPress",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961195263625703424/PhA3PTA5_normal.jpg",
+      "description": "Genomic Press is a world-class neuroscience publishing platform, providing the most exciting emerging science unparalleled visibility. Julio Licinio, Publisher.",
+      "followersCount": 146,
+      "friendsCount": 581,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0bdQESXoAAcTRU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GenomicPress/status/1965502596799733783",
+    "fullText": "🧵Thread – 1/7:\nNew Genomic Press Interview with Dr. Gerhard Andersson published today in @GenomPsychiatry\nSkateboarding, unplugged cover band musician, and Sweden's most cited psychologist! Dr. Andersson has transformed mental healthcare.\nFollow the thread to see how he did it. https://t.co/eLU0EtEBN6"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35603,
+      "followersCount": 35604,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -67,6 +84,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1965497168351134169",
     "fullText": "定睛细看，这玻璃UI还是真的丑啊... https://t.co/BqgynfBRl0"
+  },
+  {
+    "user": {
+      "screenName": "SincereGlimpse",
+      "name": "ShadowFacts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808263222119596032/vXcnPuAA_normal.jpg",
+      "description": "ANGRY 9-5 WORKER",
+      "followersCount": 68,
+      "friendsCount": 106,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0bSKICWUAATOPH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SincereGlimpse/status/1965489441482633491",
+    "fullText": "When have Americans had enough ? https://t.co/6QDxejMR8W"
   },
   {
     "user": {
@@ -123,7 +157,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152744,
+      "followersCount": 152742,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -209,11 +243,28 @@
   },
   {
     "user": {
+      "screenName": "Helion_Energy",
+      "name": "Helion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808170280885575680/1YHNQw3z_normal.png",
+      "description": "Building the world's first fusion power plant, enabling a future with unlimited clean electricity.",
+      "followersCount": 47786,
+      "friendsCount": 20,
+      "location": "Everett, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965170016988655616/vid/avc1/3840x2160/9A1VPITNNWsQo-jX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Helion_Energy/status/1965445097379770639",
+    "fullText": "Our team designs, builds, and tests fusion hardware across a broad range of disciplines. It's all on the path to commercial fusion deployment. https://t.co/UMbGpbkywD"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18572,
+      "followersCount": 18574,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -228,7 +279,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7783,
+      "followersCount": 7784,
       "friendsCount": 1624,
       "location": ""
     },
@@ -236,6 +287,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1965436397680267491",
     "fullText": "一分钟给你讲明白 RAG  AI 系统架构，谁没看懂可以来打我，保证不还手。\n\n 🥒1. RAG 是一种基于 LLM 的 AI 应用系统架构方式。全称是 Retrieval-Augmented Generation，中文翻译为 “检索增强生成”。（其实这个翻译非常垃圾，可以忽略）\n🌶️2. 它可以通过事先信息检索补全，以更全更精准的提示词的方式让"
+  },
+  {
+    "user": {
+      "screenName": "cracked_labs",
+      "name": "Cracked Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877008318515879936/YcYutODt_normal.jpg",
+      "description": "Our Founders Move Charts",
+      "followersCount": 1322,
+      "friendsCount": 184,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cracked_labs/status/1965434998443651335",
+    "fullText": "Who tf said DeFi is dead??"
   },
   {
     "user": {
@@ -261,7 +327,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18572,
+      "followersCount": 18574,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -278,7 +344,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152744,
+      "followersCount": 152742,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -293,7 +359,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57120,
+      "followersCount": 57125,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -310,7 +376,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32065,
+      "followersCount": 32073,
       "friendsCount": 162,
       "location": "China"
     },
@@ -355,7 +421,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32065,
+      "followersCount": 32073,
       "friendsCount": 162,
       "location": "China"
     },
@@ -374,7 +440,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35603,
+      "followersCount": 35604,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -406,7 +472,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15133,
+      "followersCount": 15132,
       "friendsCount": 4071,
       "location": ""
     },
@@ -423,7 +489,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24363,
+      "followersCount": 24362,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -438,7 +504,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18572,
+      "followersCount": 18574,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -521,7 +587,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24363,
+      "followersCount": 24362,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -536,7 +602,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7783,
+      "followersCount": 7784,
       "friendsCount": 1624,
       "location": ""
     },
@@ -551,7 +617,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15133,
+      "followersCount": 15132,
       "friendsCount": 4071,
       "location": ""
     },
@@ -568,7 +634,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132610,
+      "followersCount": 132614,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -585,7 +651,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15133,
+      "followersCount": 15132,
       "friendsCount": 4071,
       "location": ""
     },
@@ -600,7 +666,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32065,
+      "followersCount": 32073,
       "friendsCount": 162,
       "location": "China"
     },
@@ -617,7 +683,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132610,
+      "followersCount": 132614,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -632,7 +698,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35603,
+      "followersCount": 35604,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -649,7 +715,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4988,
+      "followersCount": 4989,
       "friendsCount": 509,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -666,7 +732,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15133,
+      "followersCount": 15132,
       "friendsCount": 4071,
       "location": ""
     },
@@ -684,7 +750,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32065,
+      "followersCount": 32073,
       "friendsCount": 162,
       "location": "China"
     },
@@ -720,7 +786,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32065,
+      "followersCount": 32073,
       "friendsCount": 162,
       "location": "China"
     },
@@ -752,7 +818,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4988,
+      "followersCount": 4989,
       "friendsCount": 509,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -897,11 +963,26 @@
   },
   {
     "user": {
+      "screenName": "denk_tweets",
+      "name": "Tyler Denk 🐝",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1651013217748148227/zgKywPaN_normal.jpg",
+      "description": "cofounder/ceo @beehiiv. former product at google, morning brew. creator of @bigdeskenergy 🕺🏽",
+      "followersCount": 34642,
+      "friendsCount": 19240,
+      "location": "Los Angeles / Medellin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/denk_tweets/status/1965142731413692522",
+    "fullText": "in honor of kit raising prices today, figured it was a good time to announce @beehiiv is launching a world-class automation suite in early October\n\nother things we offer...\n\n• website builder\n• Ad Network\n• paid subscriptions\n• recommendation network\n• unlimited email sends"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132610,
+      "followersCount": 132614,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -968,7 +1049,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1204322,
+      "followersCount": 1204475,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
@@ -985,7 +1066,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6951,
+      "followersCount": 6949,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
