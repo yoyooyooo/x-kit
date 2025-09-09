@@ -1,6 +1,41 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35603,
+      "friendsCount": 690,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0b19vdboAAKiy0.jpg",
+      "https://pbs.twimg.com/media/G0b2DpMbgAMvALt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1965529202058526845",
+    "fullText": "我现在一般录制一段课程视频，等提示词生成期间就去进行粗剪。经常剪辑完回来后，AI都还没有生成完🥲 https://t.co/EpJ3gw9DD9"
+  },
+  {
+    "user": {
+      "screenName": "SNACsystem",
+      "name": "SNAC System",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/806211670037016576/0v52UT3J_normal.jpg",
+      "description": "Victor Conte's sports nutrition company. SNAC offers supplements that improve your level of fitness, help lose fat, build muscle, and enhance performance.",
+      "followersCount": 15955,
+      "friendsCount": 378,
+      "location": "San Francisco Bay Area"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965524972484587520/vid/avc1/720x1280/-2mxNFVNVnbzbYfT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SNACsystem/status/1965525115959132286",
+    "fullText": "SNAC STRONG FOUR Division World Champ | TWO Division Undisputed World Champ Terence “Bud” Crawford @terencecrawford Will SHINE\n\nTerence WILL Become a FIVE Division World Champ &amp; THREE Division Undisputed World Champ LIVE on Netflix 9/13\n\n📸: Matt Bills https://t.co/O3JdqmSBeg"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
@@ -22,8 +57,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35601,
-      "friendsCount": 689,
+      "followersCount": 35603,
+      "friendsCount": 690,
       "location": "Hong Kong"
     },
     "images": [
@@ -52,11 +87,28 @@
   },
   {
     "user": {
+      "screenName": "SincereGlimpse",
+      "name": "ShadowFacts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808263222119596032/vXcnPuAA_normal.jpg",
+      "description": "ANGRY 9-5 WORKER",
+      "followersCount": 68,
+      "friendsCount": 106,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0bCNKAXwAAk4jD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SincereGlimpse/status/1965472936183353386",
+    "fullText": "DECARLOS BROWN ACTUAL CRIMINAL RECORD. RAW FILES HERE IT IS. THE COURT IS HIDING HIS NEW CRIMINAL RECORD. SCROLL DOWN\n\nNOT SPECIFIED\nName on Record Decarlos Dejuan Brown\n\nAddress HOMELESS CHARLOTTE, NC 00000\n\nLocation NC\n\nCourt Date -\n\nDate of Offense -\n\nCourt Case Number https://t.co/yir0T2KUFK"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6951,
+      "followersCount": 6949,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -79,6 +131,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/waylybaye/status/1965462873037271144",
     "fullText": "AirPods Pro 3 的实时翻译太有用了"
+  },
+  {
+    "user": {
+      "screenName": "philosophytruth",
+      "name": "Geoffrey Haselhurst",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/43159842/geoff-haselhurst-1_normal.jpg",
+      "description": "Philosopher of Science, Theoretical Physics, Metaphysics: Wave Structure of Matter (Dynamic Unity of Reality). On Wisdom / Cosmic Connections.",
+      "followersCount": 762,
+      "friendsCount": 69,
+      "location": "Western Australia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/philosophytruth/status/1965461503521480799",
+    "fullText": "\"Stop it!\"  the screen said. \n\"Stop the endless scrolling and pay attention, the singularity is upon us, and you can save the world.\" \n\nThe user, annoyed but a little intrigued.\n\"OK hallucinating delusional AI / human, tell me about the singularity and saving the world, you have"
   },
   {
     "user": {
@@ -146,7 +213,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18573,
+      "followersCount": 18572,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -194,7 +261,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18573,
+      "followersCount": 18572,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -243,7 +310,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32069,
+      "followersCount": 32065,
       "friendsCount": 162,
       "location": "China"
     },
@@ -288,7 +355,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32069,
+      "followersCount": 32065,
       "friendsCount": 162,
       "location": "China"
     },
@@ -307,8 +374,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35601,
-      "friendsCount": 689,
+      "followersCount": 35603,
+      "friendsCount": 690,
       "location": "Hong Kong"
     },
     "images": [],
@@ -371,7 +438,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18573,
+      "followersCount": 18572,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -433,6 +500,23 @@
   },
   {
     "user": {
+      "screenName": "alexis_dodin",
+      "name": "Alexis Dodin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1764209009479819264/BgvHtn_v_normal.jpg",
+      "description": "Building Getcollab in Public | Creator Economy | \n\nEx Founder konnect, beviral 🇫🇷",
+      "followersCount": 16,
+      "friendsCount": 30,
+      "location": "Your next influence deal  👉"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965331719071879168/vid/avc1/3720x2160/pYfss3wPR-SttUNv.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/alexis_dodin/status/1965332294325207312",
+    "fullText": "built an ai agent that find and outreach 100's of creators for your brand every day on autopilot https://t.co/59ICzzUZmf"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -484,7 +568,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132607,
+      "followersCount": 132610,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -516,7 +600,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32069,
+      "followersCount": 32065,
       "friendsCount": 162,
       "location": "China"
     },
@@ -533,7 +617,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132607,
+      "followersCount": 132610,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -548,8 +632,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35601,
-      "friendsCount": 689,
+      "followersCount": 35603,
+      "friendsCount": 690,
       "location": "Hong Kong"
     },
     "images": [
@@ -600,7 +684,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32069,
+      "followersCount": 32065,
       "friendsCount": 162,
       "location": "China"
     },
@@ -636,7 +720,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32069,
+      "followersCount": 32065,
       "friendsCount": 162,
       "location": "China"
     },
@@ -730,6 +814,23 @@
   },
   {
     "user": {
+      "screenName": "winniesun",
+      "name": "#WinnieSun ☀️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1214368305336598528/eSomiPMX_normal.jpg",
+      "description": "Wealth Whisperer 🎉 @CNBC @Forbes @NASDAQ, 🌟Virtual Keynote Speaker | Fin Pro 💡Brands 🔥 #WinnieSun chat Wed 11a PT ✈️ #travel #SMT #TV #CNBCFACouncil",
+      "followersCount": 292980,
+      "friendsCount": 223344,
+      "location": "📞 Biz: (949) 625-6800"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965161573326151680/vid/avc1/1920x1080/WaN2L5C0hqQZO9zy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/winniesun/status/1965163104276447640",
+    "fullText": "As a parent and financial pro, I know families look at how to cover those college bills throughout the summer and into the fall. \n\n It's important to know the difference between how much you CAN borrow and how much you SHOULD...\n\nI share my thoughts over @CollegeAveLoans https://t.co/hRdt9cDgSU"
+  },
+  {
+    "user": {
       "screenName": "PlarentY",
       "name": "Plarent Ymeri",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/875799456767131649/DJ6Hdgqc_normal.jpg",
@@ -800,7 +901,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132607,
+      "followersCount": 132610,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -1388,6 +1489,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/DLincolnHarris/status/1964945789958140096",
     "fullText": "Work that is almost ready to print. From Pacific Coast, Continental Divide, and the deserts of Southwest. https://t.co/qywXPYiVTB"
+  },
+  {
+    "user": {
+      "screenName": "bgreene007",
+      "name": "Brian Greene",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1960849187442188293/eDs3_NO0_normal.jpg",
+      "description": "Co-Founder & CEO of https://t.co/nYNso6MXh8\nCo-Founder & COO of https://t.co/C0r1KSWf4M \nWorked for Group One Trading https://t.co/9Oz2pBkfFQ  @CBOE in the late 90s",
+      "followersCount": 17,
+      "friendsCount": 47,
+      "location": "Los Angeles, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0TW7fRaEAAOQbM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bgreene007/status/1964932216401903838",
+    "fullText": "I @theallinpod thank you so much for having me at your summit! What a great first day!\n\nI'd like to extend a free tray of GladGirl MinuteLash Press-On Lashes to all of the women attending the summit. Please email our team at support@gladgirl.com with a picture of your All In https://t.co/Dqyh1DYWbe"
   },
   {
     "user": {
