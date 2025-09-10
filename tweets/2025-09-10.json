@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21407,
+      "friendsCount": 1042,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0dGm0SagAA09Nt.jpg",
+      "https://pbs.twimg.com/media/G0dGp1daMAAPnaa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1965618448761041355",
+    "fullText": "最近又看到前端组件库之争，我想说小孩子才做选择，我全都要。目前在 #Noi 项目中，shadcn/ui 与 antd 共存，但侧重点有所不同：\n- shadcn 适合轻量级 UI 交互，美观大方（源码本地化适合高度自定义）\n- antd 适合复杂逻辑交互，中规中矩（如设置界面，就需要强大的表格表单处理。功能第一，美观其次） https://t.co/b2fttlUxyg"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -71,7 +89,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18577,
+      "followersCount": 18578,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -86,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -103,7 +121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -137,7 +155,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -154,7 +172,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -244,7 +262,7 @@
       "name": "SNAC System",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/806211670037016576/0v52UT3J_normal.jpg",
       "description": "Victor Conte's sports nutrition company. SNAC offers supplements that improve your level of fitness, help lose fat, build muscle, and enhance performance.",
-      "followersCount": 15956,
+      "followersCount": 15957,
       "friendsCount": 378,
       "location": "San Francisco Bay Area"
     },
@@ -261,7 +279,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19860,
+      "followersCount": 19861,
       "friendsCount": 854,
       "location": "San Jose, CA"
     },
@@ -361,7 +379,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152788,
+      "followersCount": 152792,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -451,6 +469,21 @@
   },
   {
     "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965444674136526848/O3VlQrsN_normal.jpg",
+      "description": "OOO: lost in McDonaldland",
+      "followersCount": 4780451,
+      "friendsCount": 12985,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1965452070955426152",
+    "fullText": "now loading: Extra Value Meals. check the app"
+  },
+  {
+    "user": {
       "screenName": "Helion_Energy",
       "name": "Helion",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808170280885575680/1YHNQw3z_normal.png",
@@ -472,7 +505,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18577,
+      "followersCount": 18578,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -517,8 +550,8 @@
       "name": "Origin Financial",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1851684618044608513/wKnJdfjx_normal.jpg",
       "description": "You have money questions. We have money answers. Get started for just $1. Featured in @Forbes, @FastCompany, and @Axios.",
-      "followersCount": 1838,
-      "friendsCount": 351,
+      "followersCount": 1850,
+      "friendsCount": 352,
       "location": "San Francisco "
     },
     "images": [],
@@ -534,7 +567,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18577,
+      "followersCount": 18578,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -551,7 +584,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152788,
+      "followersCount": 152792,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -583,7 +616,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -613,7 +646,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -696,7 +729,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18577,
+      "followersCount": 18578,
       "friendsCount": 1385,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -809,7 +842,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132632,
+      "followersCount": 132626,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -841,7 +874,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -858,7 +891,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132632,
+      "followersCount": 132626,
       "friendsCount": 1381,
       "location": "Chicago, IL"
     },
@@ -890,7 +923,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n📹 ScreenSage 开发者 - 让录屏直出课程变得简单\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 4991,
+      "followersCount": 4992,
       "friendsCount": 509,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -925,7 +958,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32125,
+      "followersCount": 32130,
       "friendsCount": 162,
       "location": "China"
     },
@@ -999,6 +1032,23 @@
     ],
     "tweetUrl": "https://x.com/strongholdpay/status/1965173302860906922",
     "fullText": "We’re excited to announce our institutional partnership with @UpholdInc, a global digital asset platform trusted by 10M+ users, with custody of $9B+ in assets and $53B+ in transactions.\n\nThrough this partnership, Uphold’s institutional customers can now access $SHx - unlocking https://t.co/pFv5Y3jRNf"
+  },
+  {
+    "user": {
+      "screenName": "winniesun",
+      "name": "#WinnieSun ☀️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1214368305336598528/eSomiPMX_normal.jpg",
+      "description": "Wealth Whisperer 🎉 @CNBC @Forbes @NASDAQ, 🌟Virtual Keynote Speaker | Fin Pro 💡Brands 🔥 #WinnieSun chat Wed 11a PT ✈️ #travel #SMT #TV #CNBCFACouncil",
+      "followersCount": 292973,
+      "friendsCount": 223343,
+      "location": "📞 Biz: (949) 625-6800"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965161573326151680/vid/avc1/1920x1080/WaN2L5C0hqQZO9zy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/winniesun/status/1965163104276447640",
+    "fullText": "As a parent and financial pro, I know families look at how to cover those college bills throughout the summer and into the fall. \n\n It's important to know the difference between how much you CAN borrow and how much you SHOULD...\n\nI share my thoughts over @CollegeAveLoans https://t.co/hRdt9cDgSU"
   },
   {
     "user": {
@@ -1091,6 +1141,21 @@
       "name": "Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683501992314798080/xl1POYLw_normal.jpg",
       "description": "The voice of the X Dev team and your official source for updates, news, and events, related to the X API.",
+      "followersCount": 702341,
+      "friendsCount": 750,
+      "location": "127.0.0.1"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/XDevelopers/status/1965087485270085776",
+    "fullText": "Calling all developers! \n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro"
+  },
+  {
+    "user": {
+      "screenName": "XDevelopers",
+      "name": "Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1683501992314798080/xl1POYLw_normal.jpg",
+      "description": "The voice of the X Dev team and your official source for updates, news, and events, related to the X API.",
       "followersCount": 702334,
       "friendsCount": 750,
       "location": "127.0.0.1"
@@ -1136,7 +1201,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1204947,
+      "followersCount": 1205210,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
