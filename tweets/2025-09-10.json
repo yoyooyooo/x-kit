@@ -1,6 +1,73 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 132641,
+      "friendsCount": 1382,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1965701673663304180",
+    "fullText": "AI 画图不是玩具，而是可以变成效率工具 ｜ 豆包 P 图Seedream 4.0 效率场景挖掘\n\n这两天在豆包测试了新的豆包 P 图 Seedream 4.0，画图能力确实名不虚传，既有 GPT-4o 画图的那种对指令的深度意图理解，又有 nano banana"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 152823,
+      "friendsCount": 487,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965700015458004992/vid/avc1/1080x1920/yW4mRqjYrBpnbGXI.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/waylybaye/status/1965700562298843299",
+    "fullText": "我的产品适配 iOS/macOS 26  的版本开始陆续更新啦。「DAMA - 图片隐私自动打码」率先通过了 Apple 审核，已经可以更新啦。\nhttps://t.co/hxD6YaALBN https://t.co/G0VjVqEbQm"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15133,
+      "friendsCount": 4074,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0eRBJvawAALrIn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1965699807768633654",
+    "fullText": "老罗最新一期邀请了 五条人 仁科。\n或许，播客的陪伴感需要的是熟悉的人、熟悉的声音，\n在那里不停地聊，至于聊什么不重要了。 https://t.co/ti1xqHj1S2"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35655,
+      "friendsCount": 690,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ePxYXaMAAxKkE.jpg",
+      "https://pbs.twimg.com/media/G0ePxYbawAAANSX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1965697850005934483",
+    "fullText": "高德做的这个排行榜，感觉更像是给游客做的，而不是生活在本地的我🌚 https://t.co/nQV5kNETkL"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -37,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -151,7 +218,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21406,
+      "followersCount": 21405,
       "friendsCount": 1042,
       "location": ""
     },
@@ -230,7 +297,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21406,
+      "followersCount": 21405,
       "friendsCount": 1042,
       "location": ""
     },
@@ -248,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -329,7 +396,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -346,7 +413,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -380,7 +447,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -397,7 +464,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32172,
+      "followersCount": 32173,
       "friendsCount": 162,
       "location": "China"
     },
@@ -435,7 +502,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35653,
+      "followersCount": 35655,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -469,7 +536,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35653,
+      "followersCount": 35655,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -521,7 +588,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35653,
+      "followersCount": 35655,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -568,6 +635,25 @@
   },
   {
     "user": {
+      "screenName": "Haloblk_global",
+      "name": "HALOBLK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952993553321476100/ASBwSwaB_normal.jpg",
+      "description": "Driven by Endless Innovation",
+      "followersCount": 504,
+      "friendsCount": 525,
+      "location": "Irvine, California"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0bHfjvbUAAtQe1.jpg",
+      "https://pbs.twimg.com/media/G0bHfjqbgAI83vf.jpg",
+      "https://pbs.twimg.com/media/G0bHfj1bgAINyqV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Haloblk_global/status/1965477637582934432",
+    "fullText": "The Birth of HALODISC 2: Beyond the Wheel Cover\nTired of seeing the same cars on the road? So were we. That's why we spent over a year and a half redesigning the HALODISC, the second-largest visual area on any car. We weren't just focused on looks; our goal was to create https://t.co/EAq1z2HULM"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -604,7 +690,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152822,
+      "followersCount": 152823,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -715,8 +801,8 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965444674136526848/O3VlQrsN_normal.jpg",
       "description": "OOO: lost in McDonaldland",
-      "followersCount": 4780479,
-      "friendsCount": 12985,
+      "followersCount": 4780684,
+      "friendsCount": 12984,
       "location": ""
     },
     "images": [],
@@ -805,7 +891,7 @@
       "name": "Helion",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808170280885575680/1YHNQw3z_normal.png",
       "description": "Building the world's first fusion power plant, enabling a future with unlimited clean electricity.",
-      "followersCount": 47787,
+      "followersCount": 47795,
       "friendsCount": 20,
       "location": "Everett, WA"
     },
@@ -901,7 +987,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152822,
+      "followersCount": 152823,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -1114,7 +1200,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21406,
+      "followersCount": 21405,
       "friendsCount": 1042,
       "location": ""
     },
@@ -1337,6 +1423,23 @@
   },
   {
     "user": {
+      "screenName": "Kalshi",
+      "name": "Kalshi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841549922694262784/1qzNBZII_normal.jpg",
+      "description": "Trade on anything in all 50 states: politics, sports, entertainment, crypto, weather, and so much more. For sports: @KalshiSports For support: @KalshiSupport",
+      "followersCount": 157251,
+      "friendsCount": 1563,
+      "location": "New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0XKcixWYAAyK9I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kalshi/status/1965200802752176593",
+    "fullText": "“Prediction markets will be dead after the election”\n\nKalshi did $441m of volume in 4 days. https://t.co/j7yf5ZiUDv"
+  },
+  {
+    "user": {
       "screenName": "Silver47co",
       "name": "Silver47",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935422120189906944/TqHBO48N_normal.png",
@@ -1537,7 +1640,7 @@
       "name": "Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683501992314798080/xl1POYLw_normal.jpg",
       "description": "The voice of the X Dev team and your official source for updates, news, and events, related to the X API.",
-      "followersCount": 702335,
+      "followersCount": 702339,
       "friendsCount": 750,
       "location": "127.0.0.1"
     },
@@ -1584,7 +1687,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1205529,
+      "followersCount": 1205540,
       "friendsCount": 23,
       "location": "Menlo Park, CA"
     },
