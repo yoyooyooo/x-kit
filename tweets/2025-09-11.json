@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21402,
+      "friendsCount": 1042,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0iUQcqbUAA8hr5.png",
+      "https://pbs.twimg.com/media/G0iURYRaUAAOis5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1965985206428643554",
+    "fullText": "我发现 codex 现在很会写代码，在给出基本 form ui 结构后，要求它使用 zod 完善 save 逻辑，第一版输出在自己实现报错 ui。让它使用 Form 组件，它开始全局检索 Form 使用，然后重写（挺会通过检索已有代码来模仿学习）。codex 搜索是用自己实现的 rg 命令（基于 rust 实现），支持字符模糊搜索。 https://t.co/Xe4wN9gtzS"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35728,
+      "followersCount": 35729,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -22,8 +40,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15165,
-      "friendsCount": 4079,
+      "followersCount": 15167,
+      "friendsCount": 4080,
       "location": ""
     },
     "images": [],
@@ -37,7 +55,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132693,
+      "followersCount": 132692,
       "friendsCount": 1382,
       "location": "Chicago, IL"
     },
@@ -54,7 +72,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35728,
+      "followersCount": 35729,
       "friendsCount": 690,
       "location": "Hong Kong"
     },
@@ -71,8 +89,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15165,
-      "friendsCount": 4079,
+      "followersCount": 15167,
+      "friendsCount": 4080,
       "location": ""
     },
     "images": [],
@@ -106,7 +124,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32232,
+      "followersCount": 32233,
       "friendsCount": 162,
       "location": "China"
     },
@@ -123,7 +141,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32232,
+      "followersCount": 32233,
       "friendsCount": 162,
       "location": "China"
     },
@@ -149,11 +167,26 @@
   },
   {
     "user": {
+      "screenName": "rayvahey",
+      "name": "Ray Vahey",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1960208931621679105/RxTm4QXq_normal.jpg",
+      "description": "Founder and CEO - @Bitchute \nFree Speech and Privacy Advocate.",
+      "followersCount": 9035,
+      "friendsCount": 1204,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rayvahey/status/1965946179646112110",
+    "fullText": "Join Jeffrey Wernick for an unfiltered conversation with Garett Jones, economist, professor, and author known for his provocative insights into global finance and policy. Together they’ll dig into the future of economics, the rise of crypto, and how financial systems are"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75248,
+      "followersCount": 75249,
       "friendsCount": 3454,
       "location": ""
     },
@@ -250,7 +283,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19880,
+      "followersCount": 19882,
       "friendsCount": 854,
       "location": "San Jose, CA"
     },
@@ -265,7 +298,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19880,
+      "followersCount": 19882,
       "friendsCount": 854,
       "location": "San Jose, CA"
     },
@@ -303,7 +336,7 @@
       "name": "SolidHEX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1778251568036323328/6a6Nisb-_normal.jpg",
       "description": "Truth-Seeker, Optimistic, Entrepreneur, Hexican. Patiently waiting for Kurzweil vision to take place.",
-      "followersCount": 2289,
+      "followersCount": 2290,
       "friendsCount": 389,
       "location": ""
     },
@@ -400,7 +433,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6182,
+      "followersCount": 6183,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -447,8 +480,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15165,
-      "friendsCount": 4079,
+      "followersCount": 15167,
+      "friendsCount": 4080,
       "location": ""
     },
     "images": [
@@ -528,7 +561,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7800,
+      "followersCount": 7802,
       "friendsCount": 1638,
       "location": ""
     },
@@ -543,7 +576,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32232,
+      "followersCount": 32233,
       "friendsCount": 162,
       "location": "China"
     },
@@ -560,7 +593,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6182,
+      "followersCount": 6183,
       "friendsCount": 378,
       "location": "杭州"
     },
@@ -575,7 +608,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7800,
+      "followersCount": 7802,
       "friendsCount": 1638,
       "location": ""
     },
@@ -590,7 +623,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7800,
+      "followersCount": 7802,
       "friendsCount": 1638,
       "location": ""
     },
@@ -633,6 +666,23 @@
   },
   {
     "user": {
+      "screenName": "UomiNetwork",
+      "name": "Uomi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1803434790680506368/tEAb8qfo_normal.jpg",
+      "description": "The Leading L1 enabling true AI Agents on-chain: owning wallets, transacting autonomously and more.\n\n✦ UOMI CA BASE: 0x3628d69aa2d66e9efe95ab1267d440dec24389b6",
+      "followersCount": 123992,
+      "friendsCount": 99,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965746965234204672/vid/avc1/1920x1080/D7wwoujAXlP3F8V0.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/UomiNetwork/status/1965748507895300099",
+    "fullText": "Official Announcement: $UOMI is Now Live and Tradable on Uniswap and MEXC\n\nCA: 0x3628d69aa2d66e9efe95ab1267d440dec24389b6\n\nWe are excited to announce that $UOMI, the token powering the first Layer 1 built for true on-chain AI Agents, capable of owning wallets, transacting https://t.co/2R36PCZ3VK"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -652,7 +702,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7800,
+      "followersCount": 7802,
       "friendsCount": 1638,
       "location": ""
     },
@@ -667,7 +717,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32232,
+      "followersCount": 32233,
       "friendsCount": 162,
       "location": "China"
     },
@@ -699,7 +749,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152855,
+      "followersCount": 152857,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -731,8 +781,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15165,
-      "friendsCount": 4079,
+      "followersCount": 15167,
+      "friendsCount": 4080,
       "location": ""
     },
     "images": [
@@ -748,7 +798,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7800,
+      "followersCount": 7802,
       "friendsCount": 1638,
       "location": ""
     },
@@ -763,7 +813,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 132693,
+      "followersCount": 132692,
       "friendsCount": 1382,
       "location": "Chicago, IL"
     },
@@ -778,7 +828,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152855,
+      "followersCount": 152857,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -942,6 +992,26 @@
   },
   {
     "user": {
+      "screenName": "Haloblk_global",
+      "name": "HALOBLK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952993553321476100/ASBwSwaB_normal.jpg",
+      "description": "Driven by Endless Innovation",
+      "followersCount": 505,
+      "friendsCount": 525,
+      "location": "Irvine, California"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0dUvI0bgAYFB8o.jpg",
+      "https://pbs.twimg.com/media/G0dUvIwbgAILWYZ.jpg",
+      "https://pbs.twimg.com/media/G0dUvIxaoAAIJj7.jpg",
+      "https://pbs.twimg.com/media/G0dUvI0bgAMLm1u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Haloblk_global/status/1965632935505412355",
+    "fullText": "Cybercab with HALODISC. Aerodynamics meets the future. https://t.co/NT7zmQ7ARH"
+  },
+  {
+    "user": {
       "screenName": "rayvahey",
       "name": "Ray Vahey",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1960208931621679105/RxTm4QXq_normal.jpg",
@@ -1093,7 +1163,7 @@
       "name": "MiniPay",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1891458064877776896/Qs06ZiBX_normal.jpg",
       "description": "Fast, simple, global payments for everyone. Building for the next billion users. 🌍",
-      "followersCount": 56545,
+      "followersCount": 56546,
       "friendsCount": 33,
       "location": ""
     },
