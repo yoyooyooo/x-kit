@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 190605,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0m0XddbgAAuNVB.jpg",
+      "https://pbs.twimg.com/media/G0m0XdOaoAAHR3R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1966301041173111228",
+    "fullText": "上周，Cloudflare创始人兼 CEO 马修·普林斯（Matthew Prince）接受访谈。\n\n他说了一个全新的观点，互联网\"流量为王\"的时代就要结束了，AI将终结传统的“流量变现”互联网商业模式。\n\n我觉得，他表达很完整，很有说服力，不愧是英语系和法学院的毕业生。我整理出来，分享给大家。https://t.co/6Cwk1h5Icx https://t.co/oJRBJTgI4n"
+  },
+  {
+    "user": {
+      "screenName": "BryanLeibFL",
+      "name": "Bryan E. Leib",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957909456924065793/NzNcQmc7_normal.jpg",
+      "description": "Founder & CEO of @HenryPRUSA | Senior Fellow @Alapjogokert 🇺🇲🇭🇺 | @Newsmax Contributor | Foreign Policy Advisor to Congressman Hamadeh",
+      "followersCount": 25587,
+      "friendsCount": 4735,
+      "location": "Florida, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1966262838093082624/pu/vid/avc1/1080x610/C7-g1pVLw3uCeME8.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/BryanLeibFL/status/1966262897371496595",
+    "fullText": "Recorded this video in Washington DC a few years back on the 9/11 anniversary. Feels pretty relevant for today. https://t.co/c5qstfHJQ4"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +55,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -37,7 +72,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -52,7 +87,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7838,
+      "followersCount": 7837,
       "friendsCount": 1648,
       "location": ""
     },
@@ -67,7 +102,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -85,7 +120,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7838,
+      "followersCount": 7837,
       "friendsCount": 1648,
       "location": ""
     },
@@ -128,11 +163,26 @@
   },
   {
     "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965778234655604736/5iLLJ0-T_normal.jpg",
+      "description": "OOO: lost in McDonaldland",
+      "followersCount": 4785122,
+      "friendsCount": 12984,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1966145455500226960",
+    "fullText": "now loading: Extra Value Meals"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7838,
+      "followersCount": 7837,
       "friendsCount": 1648,
       "location": ""
     },
@@ -147,7 +197,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -164,7 +214,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15235,
+      "followersCount": 15241,
       "friendsCount": 4083,
       "location": ""
     },
@@ -181,7 +231,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -198,7 +248,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -215,7 +265,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -245,7 +295,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -264,7 +314,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8813,
+      "followersCount": 8815,
       "friendsCount": 295,
       "location": ""
     },
@@ -279,7 +329,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 7838,
+      "followersCount": 7837,
       "friendsCount": 1648,
       "location": ""
     },
@@ -294,7 +344,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -311,7 +361,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152859,
+      "followersCount": 152869,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
@@ -326,7 +376,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18547,
+      "followersCount": 18544,
       "friendsCount": 1386,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -361,7 +411,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35716,
+      "followersCount": 35720,
       "friendsCount": 692,
       "location": "Hong Kong"
     },
@@ -378,7 +428,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15235,
+      "followersCount": 15241,
       "friendsCount": 4083,
       "location": ""
     },
@@ -410,7 +460,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35716,
+      "followersCount": 35720,
       "friendsCount": 692,
       "location": "Hong Kong"
     },
@@ -427,7 +477,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15235,
+      "followersCount": 15241,
       "friendsCount": 4083,
       "location": ""
     },
@@ -442,7 +492,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -459,7 +509,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32297,
+      "followersCount": 32310,
       "friendsCount": 162,
       "location": "China"
     },
@@ -507,11 +557,26 @@
   },
   {
     "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini App",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, Nano Banana and more to hundreds of millions of people.",
+      "followersCount": 205215,
+      "friendsCount": 38,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/1965842484854186159",
+    "fullText": "Your miniature schnauzer just got even more mini. \n\nUpload an image and prompt “turn my pet into a plastic action figure next to its packaging” and Nano Banana will handle the rest. \n\nShare your results below ⬇️"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 152859,
+      "followersCount": 152869,
       "friendsCount": 487,
       "location": "中华人民共和国"
     },
