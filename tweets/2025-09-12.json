@@ -11,6 +11,38 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1966474640764875197",
+    "fullText": "论程序员的习惯性反驳：其实一小半的程序员都有这个毛病，感觉自己有时候也会犯病。今天在公司又看到一病友，开会的时候，领导说，你们的代码能不能别写那么高级，全是我看不懂的 Lambda，能不能用简单的语法来写。这样子你们排除问题调试也方便。一同事，第一时间反驳：不，现在的 IDE 也支持 lanbda"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 32469,
+      "friendsCount": 162,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1966472227710480384/pu/vid/avc1/720x1280/ETo-Z_fF-aUjKom8.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1966472408107552812",
+    "fullText": "史上最牛逼的翻转，看到开头没有猜中结尾，哈哈哈哈哈哈哈哈哈 https://t.co/Q7hG4o2HJ3"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 7837,
+      "friendsCount": 1649,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1966471144921546936",
     "fullText": "#PostgreSQL 的 JSON 字段和 JSONB 字段总结\n\n🍊JSON：存储的是原始的 JSON 文本，写快查慢，并发查询容易造成 CPU 压力。\n🥑JSONB：存储的是 二进制结构化格式，类似内部 AST。写慢查快，配合索引并发查询 CPU 压力会小很多。\n\n所以，如果要用就尽量使用 JOSNB。但是，我们真的需要在 RDB"
   },
@@ -50,7 +82,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32462,
+      "followersCount": 32469,
       "friendsCount": 162,
       "location": "China"
     },
@@ -85,7 +117,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8820,
+      "followersCount": 8821,
       "friendsCount": 296,
       "location": ""
     },
@@ -100,7 +132,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35723,
+      "followersCount": 35725,
       "friendsCount": 693,
       "location": "Hong Kong"
     },
@@ -118,7 +150,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15280,
+      "followersCount": 15288,
       "friendsCount": 4088,
       "location": ""
     },
@@ -133,7 +165,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153002,
+      "followersCount": 153004,
       "friendsCount": 488,
       "location": "中华人民共和国"
     },
@@ -148,7 +180,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8820,
+      "followersCount": 8821,
       "friendsCount": 296,
       "location": ""
     },
@@ -165,7 +197,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57158,
+      "followersCount": 57157,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -182,7 +214,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8820,
+      "followersCount": 8821,
       "friendsCount": 296,
       "location": ""
     },
@@ -197,7 +229,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15280,
+      "followersCount": 15288,
       "friendsCount": 4088,
       "location": ""
     },
@@ -229,7 +261,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15280,
+      "followersCount": 15288,
       "friendsCount": 4088,
       "location": ""
     },
@@ -278,7 +310,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153002,
+      "followersCount": 153004,
       "friendsCount": 488,
       "location": "中华人民共和国"
     },
@@ -293,7 +325,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15280,
+      "followersCount": 15288,
       "friendsCount": 4088,
       "location": ""
     },
@@ -310,7 +342,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15280,
+      "followersCount": 15288,
       "friendsCount": 4088,
       "location": ""
     },
@@ -340,7 +372,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190740,
+      "followersCount": 190743,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -359,7 +391,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 190740,
+      "followersCount": 190743,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -602,7 +634,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6946,
+      "followersCount": 6944,
       "friendsCount": 731,
       "location": "San Jose, CA"
     },
@@ -632,7 +664,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965778234655604736/5iLLJ0-T_normal.jpg",
       "description": "OOO: lost in McDonaldland",
-      "followersCount": 4785561,
+      "followersCount": 4785485,
       "friendsCount": 12983,
       "location": ""
     },
@@ -662,7 +694,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32462,
+      "followersCount": 32469,
       "friendsCount": 162,
       "location": "China"
     },
@@ -893,7 +925,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35723,
+      "followersCount": 35725,
       "friendsCount": 693,
       "location": "Hong Kong"
     },
