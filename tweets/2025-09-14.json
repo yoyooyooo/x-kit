@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35712,
+      "friendsCount": 694,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ySiMHa0AA452_.jpg",
+      "https://pbs.twimg.com/media/G0ySiMHbcAEAt0B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1967108263729918079",
+    "fullText": "讲真虽然蔚来有很多可以吐槽的，但每次开长途高速的时候，就会觉得换电模式真的好。只要在主要高速，几乎全程都分布了换电站。我只需要在原有导航时间的基础上，加个 5分钟 * 换电次数，就 OK 了。 https://t.co/gkxh6a0jW1"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6943,
+      "followersCount": 6942,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -20,8 +38,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6309,
-      "friendsCount": 379,
+      "followersCount": 6312,
+      "friendsCount": 380,
       "location": "杭州"
     },
     "images": [],
@@ -65,7 +83,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6943,
+      "followersCount": 6942,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -80,7 +98,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -97,7 +115,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -114,7 +132,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -178,7 +196,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -195,7 +213,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57156,
+      "followersCount": 57155,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -273,7 +291,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6943,
+      "followersCount": 6942,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -324,7 +342,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19885,
+      "followersCount": 19892,
       "friendsCount": 855,
       "location": "San Jose, CA"
     },
@@ -339,8 +357,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18521,
-      "friendsCount": 1390,
+      "followersCount": 18522,
+      "friendsCount": 1389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -354,8 +372,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18521,
-      "friendsCount": 1390,
+      "followersCount": 18522,
+      "friendsCount": 1389,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
     "images": [],
@@ -382,11 +400,28 @@
   },
   {
     "user": {
+      "screenName": "EagleIntReports",
+      "name": "Eagle Intelligence Reports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957333580117389313/k582zSWc_normal.png",
+      "description": "A trusted global platform delivering political and strategic analysis and exclusive intelligence to decision-makers, researchers and audiences in modern affairs",
+      "followersCount": 1742,
+      "friendsCount": 124,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0u8QUcWgAAfOHE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EagleIntReports/status/1966873013715951692",
+    "fullText": "The SCO summit in Tianjin, the largest in the organization’s history, underscored how major powers are converging outside the Western orbit. Between China’s ambitions, India’s maneuvering, and Russia’s strategic goals, a new Eurasian rhythm is shaping the global order. Read the https://t.co/iVrjaa3gFe"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -465,7 +500,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15496,
+      "followersCount": 15499,
       "friendsCount": 4094,
       "location": ""
     },
@@ -482,7 +517,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24369,
+      "followersCount": 24372,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -512,7 +547,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -527,7 +562,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -559,8 +594,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6309,
-      "friendsCount": 379,
+      "followersCount": 6312,
+      "friendsCount": 380,
       "location": "杭州"
     },
     "images": [],
@@ -574,7 +609,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15496,
+      "followersCount": 15499,
       "friendsCount": 4094,
       "location": ""
     },
@@ -592,7 +627,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32639,
+      "followersCount": 32637,
       "friendsCount": 166,
       "location": "China"
     },
@@ -609,7 +644,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 109765,
+      "followersCount": 109767,
       "friendsCount": 250,
       "location": "Singapore"
     },
@@ -929,6 +964,23 @@
     ],
     "tweetUrl": "https://x.com/Playbook/status/1966554904992121306",
     "fullText": "Meet Playbook, the AI betting bot! 🤖 \n\nTag @Playbook under any bet and we'll send you a one-click bet slip for your sportsbook. https://t.co/51znEQ49Nk"
+  },
+  {
+    "user": {
+      "screenName": "BalletCrypto",
+      "name": "Ballet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945614633496174593/1BIqsjpc_normal.jpg",
+      "description": "World's Easiest Multiple Currency Cold Storage Wallet.  🟦 Buy, Swap, Trade 🟨REAL $BTC ⬜️REAL $ETH 🟨 REAL $XRP ⚪ BTC/XRP Coin",
+      "followersCount": 14016,
+      "friendsCount": 672,
+      "location": "Las Vegas, United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0qNP8UakAAP5Jx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BalletCrypto/status/1966544782945353822",
+    "fullText": "We’re excited to announce that Ballet users worldwide are now securing over $1 billion in crypto assets with Ballet cold storage products! Thank you, our community, for your continued support and trust in the past 6 years. Let’s win together through self-custody! https://t.co/5Uf1Ci8XCl"
   },
   {
     "user": {
