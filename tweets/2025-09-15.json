@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 133094,
+      "friendsCount": 1382,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G056e59WkAAUjCL.jpg",
+      "https://pbs.twimg.com/media/G056he-WQAAx1by.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1967647996549665179",
+    "fullText": "小模型不是 Agentic AI 的未来，小模型只配给 Agent 当工具\n\n现阶段 Agent 的主要问题不是成本过高，而是智能不足，所以做不好任务，所以需要浪费很多 Token。\n\n不能拿小模型在特定环境特定任务 RL（强化学习） https://t.co/JO3tgp7UAt"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4343875,
+      "followersCount": 4343940,
       "friendsCount": 3,
       "location": ""
     },
@@ -13,6 +31,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1967636903165038708",
     "fullText": "We’re releasing GPT-5-Codex — a version of GPT-5 further optimized for agentic coding in Codex.\n\nAvailable in the Codex CLI, IDE Extension, web, mobile, and for code reviews in Github. https://t.co/OVGrUovgHN"
+  },
+  {
+    "user": {
+      "screenName": "GENERATIONALSZN",
+      "name": "sznd.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935746261732274176/Z6JyjHT9_normal.jpg",
+      "description": "the CREATiVE MACHiNE 🚆 | by @SZND999 x @SZND_COD @AxiomExchange - https://t.co/wexlT2PpYh | $kind $ftp $bagwork",
+      "followersCount": 525,
+      "friendsCount": 297,
+      "location": "🌐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G05puh9XsAA2BN_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GENERATIONALSZN/status/1967626597361762745",
+    "fullText": "KEEP BURNING THE DEV'S PROFITS DOWN\n\ncancel $streamer https://t.co/ejrjfkHOxp"
+  },
+  {
+    "user": {
+      "screenName": "StonerBoner85",
+      "name": "John Stone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1721544800602583040/OHMkDOHn_normal.jpg",
+      "description": "The world is a beautiful place, if we make it one\n\n💎🙌🚀🌞🫡",
+      "followersCount": 1832,
+      "friendsCount": 1119,
+      "location": "Iowa, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StonerBoner85/status/1967623033058914359",
+    "fullText": "Be the change you want to see"
   },
   {
     "user": {
@@ -54,7 +104,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8858,
+      "followersCount": 8857,
       "friendsCount": 297,
       "location": ""
     },
@@ -121,7 +171,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75292,
+      "followersCount": 75289,
       "friendsCount": 3458,
       "location": ""
     },
@@ -153,7 +203,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32655,
+      "followersCount": 32668,
       "friendsCount": 166,
       "location": "China"
     },
@@ -170,7 +220,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32655,
+      "followersCount": 32668,
       "friendsCount": 166,
       "location": "China"
     },
@@ -187,7 +237,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18520,
+      "followersCount": 18523,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -237,7 +287,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6382,
+      "followersCount": 6383,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -254,7 +304,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32655,
+      "followersCount": 32668,
       "friendsCount": 166,
       "location": "China"
     },
@@ -303,7 +353,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18520,
+      "followersCount": 18523,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -318,7 +368,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32655,
+      "followersCount": 32668,
       "friendsCount": 166,
       "location": "China"
     },
@@ -333,7 +383,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18520,
+      "followersCount": 18523,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -365,7 +415,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15664,
+      "followersCount": 15668,
       "friendsCount": 4102,
       "location": ""
     },
@@ -383,7 +433,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18520,
+      "followersCount": 18523,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -398,7 +448,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6382,
+      "followersCount": 6383,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -526,7 +576,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32655,
+      "followersCount": 32668,
       "friendsCount": 166,
       "location": "China"
     },
@@ -571,7 +621,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75292,
+      "followersCount": 75289,
       "friendsCount": 3458,
       "location": ""
     },
@@ -648,7 +698,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6382,
+      "followersCount": 6383,
       "friendsCount": 380,
       "location": "杭州"
     },
