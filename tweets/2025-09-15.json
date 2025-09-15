@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6376,
+      "friendsCount": 380,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G04ddE_aYAAMaBK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1967542483119939620",
+    "fullText": "其实户晨风挺聪明的，从他跟人交流聊天，就能看出来他的逻辑很清楚，并且一针见血，梗归梗、流量归流量，但是能看出来他是一个聪明人 https://t.co/syugH2CwPP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 32649,
+      "friendsCount": 166,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G04dN27bUAA550P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1967542213463912827",
+    "fullText": "我都不知道我家猫有这个功能，全网独一份呀 😅 https://t.co/4brE0zW40i"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35723,
+      "friendsCount": 694,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G04bixPbYAAOznM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1967541032129864165",
+    "fullText": "更新一下数据，我的AI编程课程今日已经1200+学员加入啦 ！ https://t.co/XpoMRqa4ir"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8103,
+      "friendsCount": 1726,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1967540205352886746",
+    "fullText": "随时可以打扰和被打扰的朋友👬，这辈子有一、两个就够了。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18519,
+      "followersCount": 18527,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -20,7 +86,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32648,
+      "followersCount": 32649,
       "friendsCount": 166,
       "location": "China"
     },
@@ -35,7 +101,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18519,
+      "followersCount": 18527,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -50,7 +116,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35724,
+      "followersCount": 35723,
       "friendsCount": 694,
       "location": "Hong Kong"
     },
@@ -67,7 +133,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15611,
+      "followersCount": 15612,
       "friendsCount": 4101,
       "location": ""
     },
@@ -85,7 +151,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18519,
+      "followersCount": 18527,
       "friendsCount": 1391,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -117,7 +183,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153287,
+      "followersCount": 153288,
       "friendsCount": 488,
       "location": "中华人民共和国"
     },
@@ -132,7 +198,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8101,
+      "followersCount": 8103,
       "friendsCount": 1726,
       "location": ""
     },
@@ -145,11 +211,28 @@
   },
   {
     "user": {
+      "screenName": "JwitmerpokerACR",
+      "name": "J. Witmer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1966393860910989312/oylZRCWH_normal.png",
+      "description": "Coast-to-coast gyms open 24/7 since 1983. 240+ locations, app-based workouts, group classes & rewards. Fitness, anytime.",
+      "followersCount": 498,
+      "friendsCount": 4,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G027YWlaYAAe8vm.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JwitmerpokerACR/status/1967434657299136786",
+    "fullText": "24 Hour Fitness operates 240+ clubs across nine U.S. states, with 24/7 access and amenities from lap pools to GX24 studio classes. https://t.co/UCuUJlUYFY"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8101,
+      "followersCount": 8103,
       "friendsCount": 1726,
       "location": ""
     },
@@ -179,7 +262,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153287,
+      "followersCount": 153288,
       "friendsCount": 488,
       "location": "中华人民共和国"
     },
@@ -196,7 +279,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153287,
+      "followersCount": 153288,
       "friendsCount": 488,
       "location": "中华人民共和国"
     },
@@ -211,7 +294,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32648,
+      "followersCount": 32649,
       "friendsCount": 166,
       "location": "China"
     },
@@ -241,7 +324,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8101,
+      "followersCount": 8103,
       "friendsCount": 1726,
       "location": ""
     },
@@ -256,7 +339,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75277,
+      "followersCount": 75273,
       "friendsCount": 3458,
       "location": ""
     },
@@ -318,7 +401,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6946,
+      "followersCount": 6945,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -344,11 +427,26 @@
   },
   {
     "user": {
+      "screenName": "TonyHeretic",
+      "name": "TonyHeretic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1967104385537699841/Xsrdsg-K_normal.jpg",
+      "description": "Radicalized\n\nLet the Deeds of your Ancestors Incite your Minds and Move you.",
+      "followersCount": 218,
+      "friendsCount": 45,
+      "location": "Libtardistan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TonyHeretic/status/1967285384070807583",
+    "fullText": "Tony Heretic Reads Romans Chapter One Today @ 3pm EST"
+  },
+  {
+    "user": {
       "screenName": "ChipotleTweets",
       "name": "Chipotle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1888771317903572992/D60NrOxQ_normal.jpg",
       "description": "carne diem",
-      "followersCount": 1377618,
+      "followersCount": 1377707,
       "friendsCount": 36,
       "location": ""
     },
@@ -432,7 +530,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24382,
+      "followersCount": 24384,
       "friendsCount": 301,
       "location": "Guangdong"
     },
@@ -449,7 +547,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32648,
+      "followersCount": 32649,
       "friendsCount": 166,
       "location": "China"
     },
@@ -464,7 +562,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8856,
+      "followersCount": 8857,
       "friendsCount": 297,
       "location": ""
     },
@@ -497,7 +595,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15611,
+      "followersCount": 15612,
       "friendsCount": 4101,
       "location": ""
     },
@@ -514,7 +612,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8101,
+      "followersCount": 8103,
       "friendsCount": 1726,
       "location": ""
     },
@@ -529,7 +627,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 32648,
+      "followersCount": 32649,
       "friendsCount": 166,
       "location": "China"
     },
@@ -760,7 +858,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6946,
+      "followersCount": 6945,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -926,6 +1024,23 @@
     ],
     "tweetUrl": "https://x.com/inmotionair/status/1966950409832104211",
     "fullText": "High Schools and Colleges all over the country are taking BP inside our T-22 Pro Backstop. Contact us for pricing at inmotionair. https://t.co/pOmhHtgtVi"
+  },
+  {
+    "user": {
+      "screenName": "K3ithAI",
+      "name": "K3ith.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1669201293896810498/to0-ZmIX_normal.jpg",
+      "description": "",
+      "followersCount": 269,
+      "friendsCount": 231,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0vWwRoWwAAqk33.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/K3ithAI/status/1966902385768358253",
+    "fullText": "Ok, I think it's time, time to dream...time to imagine better...time to build better...\nwe stand at civilization's crossroads...\nBehind us: digital isolation, medicated loneliness, touch starvation. \nAhead: an American Renaissance where AI handles survival while humans rediscover https://t.co/X3TpKGDnkh"
   },
   {
     "user": {
