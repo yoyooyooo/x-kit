@@ -1,6 +1,85 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 133286,
+      "friendsCount": 1385,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1968163227793011106",
+    "fullText": "问：宝玉老师您好，现在一方面不断有AI公司发布性能更佳的vibe coding，另一方面又在不断说AI编程带来很多debug和维护的困难，现在有点无所适从了，到底该不该花时间在vibe coding上呢？或者说程序员改怎么面对目前AI在编程方面的应用呢？谢谢。\n\n答：\n\nAI编程带来很多debug和维护的困难是事实，AI"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6404,
+      "friendsCount": 379,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1968163219257823489",
+    "fullText": "今天突然想起来了以前在某蚁数科某事业部的经历：\n2021年7月31号，周六，杭州正值特大暴雨，台风烟花登陆，官方发布了暴雨红色预警。\n\n时任的 P10 和 HRG 要求全员参加线下的会议，会议内容是所谓的新组织架构和规划介绍。\n\n那天台风正好登陆，我记得大家发现雨太大不安全难以出门，跟 HRG"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15749,
+      "friendsCount": 4109,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968162949127971249",
+    "fullText": "突然想起来，\n在初二还是初三的校运会上，\n我还上台说过相声...🤣"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15749,
+      "friendsCount": 4109,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1BHcQ1aEAAeGzv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968161740841161050",
+    "fullText": "做出好内容的四个关键:\n1）擅长：从自己出发，找到自己的相对优势\n2）热爱：愿不愿意用毕生时间去研究和探索它\n3）差异化：异胜同汰，差异是记忆点，能占领用户心智\n4）匹配：找到适合你的内容平台与内容形式 https://t.co/ItpxcZT43c"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15749,
+      "friendsCount": 4109,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1BJpwLaIAAh6wF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968157966160499137",
+    "fullText": "经典：“你永远赚不到你认知范围之外的钱。” https://t.co/hZmxzeXYl9"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -37,7 +116,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35792,
+      "followersCount": 35793,
       "friendsCount": 693,
       "location": "Hong Kong"
     },
@@ -99,7 +178,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75301,
+      "followersCount": 75302,
       "friendsCount": 3458,
       "location": ""
     },
@@ -107,6 +186,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1968112448168399248",
     "fullText": "隔壁：\n在一边看抖音\n一边抽烟\n一边拉稀。"
+  },
+  {
+    "user": {
+      "screenName": "funcOfJoe",
+      "name": "J☁e Duffy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1396201991404097539/hQs7X_Dh_normal.jpg",
+      "description": "Founder/CEO @PulumiCorp · Previously grand languages, compilers, and operating systems nerdery @Microsoft · Eat, sleep, cloud, repeat.",
+      "followersCount": 9191,
+      "friendsCount": 994,
+      "location": "Seattle, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/funcOfJoe/status/1968100130864894121",
+    "fullText": "Today we unveiled Pulumi Neo, your newest AI-powered platform engineer. Neo acts like a teammate who can carry out cloud missions for you: upgrading clusters, getting compliant, migrating between clouds, eliminating waste to save money, and so much more.\n\nBuilding Neo was some of"
   },
   {
     "user": {
@@ -148,7 +242,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6948,
+      "followersCount": 6950,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -161,11 +255,28 @@
   },
   {
     "user": {
+      "screenName": "krombet_pvl",
+      "name": "krombet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953010290980782080/JzDS70s6_normal.jpg",
+      "description": "iGaming & Crypto Guy. Sharing thoughts and learning in public. Researcher with a long-term mindset. NFA",
+      "followersCount": 419,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0-yphLWgAAJBxy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/krombet_pvl/status/1967987994180383177",
+    "fullText": "$PUMP is doing $2B rev/year and trades at $8B FDV.\n\nthat’s insane efficiency, and still looks cheap vs other protocols.\n\nstill holding 100% of my position.\n\n$10B is coming. https://t.co/xc4EljNVdp"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8103,
+      "followersCount": 8106,
       "friendsCount": 1738,
       "location": ""
     },
@@ -178,11 +289,28 @@
   },
   {
     "user": {
+      "screenName": "MireloAI",
+      "name": "Mirelo.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1866128865904488448/WlqNQ_5g_normal.jpg",
+      "description": "Context-aware sound effects and music generated straight from your visuals. \nSee it. Hear it. Instantly.\n\n🎵  https://t.co/zAYWws7Yxa",
+      "followersCount": 118,
+      "friendsCount": 98,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1967968202236764160/vid/avc1/1280x720/ssLBrFnxECHTThFn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MireloAI/status/1967968394575286634",
+    "fullText": "🎬 Meet Mirelo: turning silent AI videos into cinematic experiences.\n\nAI videos look amazing — but they’re silent.\n\nMirelo fixes that. We add automatic, perfectly-timed sound effects that make your creations feel alive. No prompts. No editing. Just sound that fits. https://t.co/kXabSp9n4D"
+  },
+  {
+    "user": {
       "screenName": "TheBirbNest",
       "name": "THE ₿IRB NEST",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1959880162301956096/uJchr4g0_normal.jpg",
       "description": "A community with trading education and courses, fundamental analysis, live trading, airdrop strategies and trading psychology 📚",
-      "followersCount": 96617,
+      "followersCount": 96650,
       "friendsCount": 144,
       "location": "Reliable trading community →"
     },
@@ -195,11 +323,28 @@
   },
   {
     "user": {
+      "screenName": "Info4Patriots",
+      "name": "MAGA Kingdom Report",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863774507300691968/5qAtA27U_normal.jpg",
+      "description": "Pennsylvanian Patriots reporting on all MAGA agendas!",
+      "followersCount": 644,
+      "friendsCount": 1059,
+      "location": "Pennsylvania, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1967959227395174400/vid/avc1/1920x1076/RKl6SvDAD-5T8aIl.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Info4Patriots/status/1967961697408184772",
+    "fullText": "On Sunday, September 14, at the World Peace and Unification Event Center, we gathered for the Charlie Kirk Patriot Memorial: Celebrating an Inspiring Legacy. As a Christian conservative leader, Charlie Kirk was a fearless advocate for truth, inspiring millions—especially young https://t.co/ZFmr1cby3Q"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33115,
+      "followersCount": 33119,
       "friendsCount": 167,
       "location": "China"
     },
@@ -216,7 +361,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6948,
+      "followersCount": 6950,
       "friendsCount": 730,
       "location": "San Jose, CA"
     },
@@ -233,7 +378,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35792,
+      "followersCount": 35793,
       "friendsCount": 693,
       "location": "Hong Kong"
     },
@@ -263,7 +408,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18516,
+      "followersCount": 18521,
       "friendsCount": 1392,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -293,11 +438,28 @@
   },
   {
     "user": {
+      "screenName": "tradyom_",
+      "name": "TRADYOM",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890321507374575616/_6__rfoB_normal.jpg",
+      "description": "We provide the best Trading Education using advanced EDUFAI, building Market Wizards one trader at a time",
+      "followersCount": 2610,
+      "friendsCount": 100,
+      "location": "Trading Floor"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G09yGltWsAAJpru.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tradyom_/status/1967917587909710311",
+    "fullText": "Who wants to be a Tradyom affiliate?\n\nGet your badge, PLUS earn 30% on every sale you make🤝\n\nFollow @tradyom_ and comment below why you deserve it. https://t.co/8T9IAemKLd"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8103,
+      "followersCount": 8106,
       "friendsCount": 1738,
       "location": ""
     },
@@ -314,7 +476,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18516,
+      "followersCount": 18521,
       "friendsCount": 1392,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -576,6 +738,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/porterstansb/status/1967697551026688013",
     "fullText": "A lot of people have mentioned the risk of a full-fledged Civil War in America lately. \n\nI've been writing about these risks for about a decade. Governments that adopt the policies we have always collapse -- and usually because of internal divisions. But, so far, I haven't seen"
+  },
+  {
+    "user": {
+      "screenName": "AeromexicoUSA",
+      "name": "Aeromexico USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940464208694349827/Ibh9HxTl_normal.jpg",
+      "description": "Mexico's Global Airline. Welcome to our U.S.A. X account.",
+      "followersCount": 6836,
+      "friendsCount": 228,
+      "location": "Around the world."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AeromexicoUSA/status/1967674663301156978",
+    "fullText": "From takeoff to landing, count on the world’s most on-time airline. ⏰"
   },
   {
     "user": {
