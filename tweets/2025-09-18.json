@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15767,
+      "friendsCount": 4117,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1GOXASaQAED9yC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968512804278751571",
+    "fullText": "如何真正把故事讲好的关键要点：\n1）讲故事，需要真诚：\n    最真诚的讲故事方法，就是讲述自己的故事；\n\n2）如果没有自己的故事，也可以讲述别人的故事：\n    只要足够真实，是实际发生过的，就能引起用户的共鸣；\n\n3）如果没有真实的故事，也可以善用比喻故事： https://t.co/HYZkQ2bZI8"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57191,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1968508276699734206",
+    "fullText": "感觉现在用 fake MRR 启号的越来越多了，完全是国外那套路数，一个假的截图，没有产品地址或者一个特别简陋的产品，一个特别长的洋洋洒洒的 thread，产品永远都没遇到什么挫折，一上来就是莫名其妙的爆火，第一个月就好几万用户，一眼假，但是这一招真的好用。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15767,
+      "friendsCount": 4117,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1GLVY4asAAtC42.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968507901003313418",
+    "fullText": "“内容创作和火箭制造不一样，\n火箭需要先排除所有问题再升空，\n因为成本实在太高了，\n而内容创作不会让我们失去什么，\n哪怕一开始质量有些粗糙，\n最早的用户大概率会体谅你的。” https://t.co/6Ab4uJXnmw"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建1tongkuan、saasdirs和其他工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 84,
+      "friendsCount": 94,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/1968507535029325917",
+    "fullText": "开始认同 Agents 时代的编程并没有太大不同，只是一些逻辑替换成了 AI 模型。\n\nVercel 的这篇博文讲出了构建v0的过程总结，阐述得更明确：\n⚪︎ AI 是概率性代码，稳定复现最难，需大量手动试验，最终得到可接受的稳定性\n⚪︎ 该 if 判断、for 循环还是照用，Agents 构建没有特殊\n\n原文在下一条……"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153334,
+      "followersCount": 153333,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -20,7 +84,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21392,
+      "followersCount": 21393,
       "friendsCount": 1042,
       "location": ""
     },
@@ -65,7 +129,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153334,
+      "followersCount": 153333,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -80,7 +144,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21392,
+      "followersCount": 21393,
       "friendsCount": 1042,
       "location": ""
     },
@@ -95,7 +159,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33184,
+      "followersCount": 33187,
       "friendsCount": 171,
       "location": "China"
     },
@@ -193,7 +257,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4345650,
+      "followersCount": 4345675,
       "friendsCount": 3,
       "location": ""
     },
@@ -210,7 +274,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4345650,
+      "followersCount": 4345675,
       "friendsCount": 3,
       "location": ""
     },
@@ -292,7 +356,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33184,
+      "followersCount": 33187,
       "friendsCount": 171,
       "location": "China"
     },
@@ -393,7 +457,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75299,
+      "followersCount": 75300,
       "friendsCount": 3458,
       "location": ""
     },
@@ -472,7 +536,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21392,
+      "followersCount": 21393,
       "friendsCount": 1042,
       "location": ""
     },
@@ -672,6 +736,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/vikingmute/status/1968239750579732926",
     "fullText": "用的越多越喜欢 ai-sdk，尤其是 generateObject 方法，\nhttps://t.co/1yZ8IOFpYe\n\n可以配合 zod，生成完美的 JSON 格式，不同模型生成 Structured Data 的参数都有些不同，用了它以后可以忽略这些兼容性问题。甚至还有实验性质的 repair text 方法，可以尝试去修复一些生成错误的 JSON。 https://t.co/gUjtAzLija"
+  },
+  {
+    "user": {
+      "screenName": "sf_safetynews",
+      "name": "SF Public Safety News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878228849328328704/DS5Ad5Xq_normal.png",
+      "description": "Shining a light on violent crime in San Francisco. \nContact: editor@sfpublicsafety.news",
+      "followersCount": 5147,
+      "friendsCount": 25,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1AviL7asAAv_VH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sf_safetynews/status/1968125411784819048",
+    "fullText": "The grandmother of an eight-year-old boy who witnessed his father's murder on a San Francisco street criticized the city’s top prosecutor today as she attended the accused attacker’s first court hearing, saying Brooke Jenkins “lied on TV” about keeping them informed. https://t.co/9FcmhDLQww"
   },
   {
     "user": {
