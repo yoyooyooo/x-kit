@@ -1,12 +1,46 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8106,
+      "friendsCount": 1755,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1HyPz9bkAAT39N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1968620877773185186",
+    "fullText": "说实在的，都失业了还过个鸡毛🪶 我之前有个前同事干产品经理的，她老公是 C++程序员老张也是我同事，40 出头失业跑滴滴去了。她老婆第二天就跟老张离了，听说后来嫁给了一个沙特王子，日子过得挺美的(๑&gt;ᴗ&lt;๑)💍 https://t.co/JsgougyqiB"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
+      "followersCount": 15774,
+      "friendsCount": 4119,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1Hv43TaQAEFwGm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1968618408641204664",
+    "fullText": "「挣不挣钱或“火”不“火”是难以预测的，\n而你能把握住的就是你自己。\n\n如果你自己有这个需求，\n整个互联网上就一定有很多和你有一样需求的人。」 https://t.co/Q0ISGRmXKK"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19951,
-      "friendsCount": 858,
+      "followersCount": 19950,
+      "friendsCount": 859,
       "location": "San Jose, CA"
     },
     "images": [],
@@ -20,7 +54,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153327,
+      "followersCount": 153330,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -67,7 +101,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6405,
+      "followersCount": 6404,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -163,7 +197,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35824,
+      "followersCount": 35825,
       "friendsCount": 694,
       "location": "Hong Kong"
     },
@@ -228,7 +262,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133401,
+      "followersCount": 133403,
       "friendsCount": 1385,
       "location": "Chicago, IL"
     },
@@ -262,7 +296,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6405,
+      "followersCount": 6404,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -341,7 +375,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153327,
+      "followersCount": 153330,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -386,7 +420,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6405,
+      "followersCount": 6404,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -401,7 +435,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153327,
+      "followersCount": 153330,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -431,7 +465,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33247,
+      "followersCount": 33250,
       "friendsCount": 171,
       "location": "China"
     },
@@ -1097,7 +1131,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153327,
+      "followersCount": 153330,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -1158,6 +1192,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/KarenCedergren/status/1968081558645965160",
     "fullText": "I recently received this nice review from a reader of COMING OUT ALIVE!\n*****************\nHi Karen,\nI just finished \"Coming Out Alive! Navigating Postmodern Philosophy and Culture\" and was really impressed with its clarity and balance. Instead of simply criticizing postmodernism, https://t.co/fD4UVmJNVU"
+  },
+  {
+    "user": {
+      "screenName": "OTKnetwork",
+      "name": "OTK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874632089628262401/HhIK9E3l_normal.jpg",
+      "description": "Your favorite scuffed livestreaming org 👑\n\n🔔 @OTKAlerts",
+      "followersCount": 513282,
+      "friendsCount": 79,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968050829631397889/vid/avc1/1280x720/pZhTtDc0A0cjMeFX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OTKnetwork/status/1968070844493730076",
+    "fullText": "Chat, be honest. Would you attempt to slay the monster under ExtraEmily’s bed?\n\nhttps://t.co/xKZn2wix60"
   },
   {
     "user": {
