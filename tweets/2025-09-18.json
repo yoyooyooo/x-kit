@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 109836,
+      "friendsCount": 250,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1968654805007528300",
+    "fullText": "今天中午老婆说，要不要买点英特尔，毕竟也是做芯片的。我说感觉英特尔没赶上 ai 这波，没当回事。结果刚才一看英特尔开盘暴涨 27%...\n\n这是股神啊！"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35818,
+      "friendsCount": 694,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1IMf7lbcAAGwfJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1968651620671266889",
+    "fullText": "给大家分享一下现在我用Codex进行AI Coding的姿势：\n1. 我会用一个Notion页面 + Code Block专门编写提示词\n2. 提示词有3个状态：Tested（已测试）、Pending（执行中）、待执行\n3. 在Codex执行Pending的提示词过程中，我会将上一个提示词的修改git到暂存区进行测试，测试完成后commit，标记为Tested\n4. https://t.co/NWYnXtlR6b"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8866,
+      "friendsCount": 297,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1INoM0aQAABH4x.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1968651274678673916",
+    "fullText": "今天基本都是用 Codex，20 美元的 PLUS 套餐量挺足的啊，能用到现在这个点，如果保持这个量，我去开两个 20 美元的号好像就够了。 https://t.co/0Dq1bTbLb0"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33245,
+      "followersCount": 33243,
       "friendsCount": 171,
       "location": "China"
     },
@@ -20,7 +69,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18503,
+      "followersCount": 18505,
       "friendsCount": 1396,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -35,7 +84,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35820,
+      "followersCount": 35818,
       "friendsCount": 694,
       "location": "Hong Kong"
     },
@@ -50,7 +99,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75298,
+      "followersCount": 75302,
       "friendsCount": 3459,
       "location": ""
     },
@@ -65,7 +114,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8106,
+      "followersCount": 8105,
       "friendsCount": 1755,
       "location": ""
     },
@@ -82,7 +131,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -99,7 +148,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 19951,
+      "followersCount": 19950,
       "friendsCount": 859,
       "location": "San Jose, CA"
     },
@@ -114,7 +163,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153317,
+      "followersCount": 153320,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -129,7 +178,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -144,7 +193,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -161,7 +210,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6404,
+      "followersCount": 6401,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -176,7 +225,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -193,7 +242,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -208,7 +257,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -225,7 +274,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18503,
+      "followersCount": 18505,
       "friendsCount": 1396,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -240,7 +289,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -257,7 +306,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35820,
+      "followersCount": 35818,
       "friendsCount": 694,
       "location": "Hong Kong"
     },
@@ -322,7 +371,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133392,
+      "followersCount": 133397,
       "friendsCount": 1385,
       "location": "Chicago, IL"
     },
@@ -339,7 +388,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -356,7 +405,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6404,
+      "followersCount": 6401,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -371,7 +420,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -388,7 +437,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57183,
+      "followersCount": 57184,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -403,7 +452,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🔥 小火炉播客 https://t.co/c1oYKYUsCk",
-      "followersCount": 15773,
+      "followersCount": 15772,
       "friendsCount": 4120,
       "location": ""
     },
@@ -435,7 +484,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153317,
+      "followersCount": 153320,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -450,7 +499,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21390,
+      "followersCount": 21392,
       "friendsCount": 1042,
       "location": ""
     },
@@ -465,7 +514,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18503,
+      "followersCount": 18505,
       "friendsCount": 1396,
       "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
     },
@@ -476,11 +525,28 @@
   },
   {
     "user": {
+      "screenName": "redshift_x",
+      "name": "🆁🅴🅳₴Ⱨł₣₮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963768356651307008/dkfYtfQk_normal.jpg",
+      "description": "░|░ Λｎｉｍｅ░|░Ｇａｍｅｓ░|░ ΛＩ░|░ \n Midjourney | Grok | Leonardo | kling | CapCut  🖤",
+      "followersCount": 697,
+      "friendsCount": 599,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1F9LVubEAAoWxA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/redshift_x/status/1968492489364382155",
+    "fullText": "🌄 Escape the urban grind! Discover a hidden out-of-town settlement, just a stone's throw from the city. https://t.co/Ln8gB2NHWJ"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6404,
+      "followersCount": 6401,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -495,7 +561,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153317,
+      "followersCount": 153320,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -510,7 +576,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21390,
+      "followersCount": 21392,
       "friendsCount": 1042,
       "location": ""
     },
@@ -525,7 +591,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
-      "followersCount": 33245,
+      "followersCount": 33243,
       "friendsCount": 171,
       "location": "China"
     },
@@ -540,8 +606,8 @@
       "name": "SKYPAD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1906901219668586496/IhHWpV0Z_normal.jpg",
       "description": "Mission: Creating the Freedom of Mobility.",
-      "followersCount": 201,
-      "friendsCount": 98,
+      "followersCount": 217,
+      "friendsCount": 101,
       "location": "United States of America"
     },
     "images": [],
@@ -696,6 +762,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/1968361701784568200",
     "fullText": "Today we’re releasing research with @apolloaievals. \n\nIn controlled tests, we found behaviors consistent with scheming in frontier models—and tested a way to reduce it. \n\nWhile we believe these behaviors aren’t causing serious harm today, this is a future risk we’re preparing"
+  },
+  {
+    "user": {
+      "screenName": "byungkyu_p",
+      "name": "Byungkyu Park",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899039354934493184/T0WAFbw3_normal.jpg",
+      "description": "building @maton_ai, prev @aws @mit",
+      "followersCount": 103,
+      "friendsCount": 103,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968356635388284928/vid/avc1/3840x2160/7t9cs6g8u--g7Yv2.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/byungkyu_p/status/1968358715813413225",
+    "fullText": "We're ready to get streamrolled @sama\n\nAutomate repetitive admin work across emails, spreadsheets, CRMs, and more with just a prompt.\n\nAvailable now @ maton . ai https://t.co/h9iYb8mSom"
   },
   {
     "user": {
@@ -1018,7 +1101,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21390,
+      "followersCount": 21392,
       "friendsCount": 1042,
       "location": ""
     },
@@ -1225,7 +1308,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153317,
+      "followersCount": 153320,
       "friendsCount": 490,
       "location": "中华人民共和国"
     },
@@ -1306,6 +1389,23 @@
   },
   {
     "user": {
+      "screenName": "pactconsumers",
+      "name": "Protecting American Consumers Together (PACT)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884333761086558208/Z1dFRK1k_normal.jpg",
+      "description": "Our mission is to protect consumers, strengthen & improve the legal system, & expose predatory legal practices that undermine fairness & transparency for all.",
+      "followersCount": 514,
+      "friendsCount": 218,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968022031754014720/vid/avc1/1920x1080/91UZQth0fg0PLX3T.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/pactconsumers/status/1968022348784865646",
+    "fullText": "Billboard lawyers literally ruin everything. https://t.co/XRmJOXUQ5s"
+  },
+  {
+    "user": {
       "screenName": "Kyrinthians",
       "name": "Scott Free",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1946473806362480640/JkCXPAB6_normal.jpg",
@@ -1367,6 +1467,40 @@
     ],
     "tweetUrl": "https://x.com/secureainow/status/1967994642441593180",
     "fullText": "Ron DeSantis on AI companies: I want to be governed by 'We The People,' I do not want to be governed by a handful of oligarchs in Silicon Valley. https://t.co/EvRYa8RJ0O"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16753,
+      "friendsCount": 1200,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0-XdNMXEAE44ks.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1967958208460333224",
+    "fullText": "When gold rises, miners often surge even more. Why? Their costs are relatively fixed: once you’ve paid to dig, crush &amp; process ore, every extra dollar above cost flows straight to profit. With average all-in sustaining costs (AISC) for major producers hovering $1,500 per ounce, https://t.co/nkTSKNCOvj"
+  },
+  {
+    "user": {
+      "screenName": "kiteandkeymedia",
+      "name": "Kite & Key Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1649039938082545666/wa7eQ_y-_normal.jpg",
+      "description": "The world is complicated ... but the explanations don’t have to be. ⚡ New videos every Wednesday.",
+      "followersCount": 59478,
+      "friendsCount": 1206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1967941818814980096/vid/avc1/1920x1080/Iyzp9lfcP3mJaC8G.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/kiteandkeymedia/status/1967955381600260413",
+    "fullText": "The fast decline in the U.S. annual migration rate. https://t.co/JT40fdMH0h"
   },
   {
     "user": {
