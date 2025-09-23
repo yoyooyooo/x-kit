@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57226,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1970336269826924821",
+    "fullText": "原来公司里最佩服的技术大牛也是我的好朋友 \n\n现在喜欢上了弹钢琴 每天中午在公司附近琴房弹一个小时 连续已经一年了 老板从没见过这样的人 破例给他弄了个包年的年卡 可以随便去 随便弹 \n\n晚上回去继续弹 带着耳机继续玩\n\n他一直是我的role model 做什么喜欢的事情都是全情投入 没有什么中年危机"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 75651,
+      "friendsCount": 3466,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1970333366634615097",
+    "fullText": "写的真好哇。\nhttps://t.co/35QTlZACf1"
+  },
+  {
+    "user": {
+      "screenName": "the_bunny_chen",
+      "name": "Benny (Yufei) Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944618959099322368/j1GkEQl6_normal.jpg",
+      "description": "https://t.co/Le6wAw6TlV Co-founder",
+      "followersCount": 221,
+      "friendsCount": 51,
+      "location": "Bay Area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1gHMd0bcAAMzTB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/the_bunny_chen/status/1970332828551520566",
+    "fullText": "Working on evaluation based on real traces and supporting @langfuse @braintrustdata  and Langsmith from @LangChainAI has been a super exciting. We want to help developers evaluate on what actually matters, not some academic standalone benchmark. https://t.co/cMQdvcvHmW"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -41,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -106,6 +153,23 @@
   },
   {
     "user": {
+      "screenName": "Andrewgabriel27",
+      "name": "Andrew Gabriel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1964838057590329344/d70Z-Jk3_normal.jpg",
+      "description": "Training models without code at @fdotinc for @monostateai",
+      "followersCount": 174,
+      "friendsCount": 339,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1fQEGLbMAAs_56.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Andrewgabriel27/status/1970272958565482937",
+    "fullText": "Everyone's obsessed with LLMs while big companies run neural nets you've never heard of. New episode exploring AI other than LLMs.\n\nListen: Machine Learners by @monostateai \n\nAvailable on Spotify and YouTube (links below) https://t.co/5wVYXZBvxm"
+  },
+  {
+    "user": {
       "screenName": "NCLAlegal",
       "name": "New Civil Liberties Alliance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1701258351504470016/0pLbBHVh_normal.jpg",
@@ -123,11 +187,28 @@
   },
   {
     "user": {
+      "screenName": "DolphConnard",
+      "name": "Dolph Connard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1635843583566831616/36A6V_H3_normal.jpg",
+      "description": "Thoughts going for under a penny.\nIQ hobbyist.\nOld enough to remember when Smuckers strawberry jam looked like it was made from strawberries.",
+      "followersCount": 947,
+      "friendsCount": 589,
+      "location": "Southern California"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1evhO7aoAUM-kA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DolphConnard/status/1970236349488996860",
+    "fullText": "I'll listen to Kimmel's response in any way other way than tuning to any ABC asset. https://t.co/wVFn43eY1B"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -144,7 +225,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -178,7 +259,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -195,7 +276,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -242,7 +323,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -259,7 +340,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133772,
+      "followersCount": 133786,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -270,11 +351,43 @@
   },
   {
     "user": {
+      "screenName": "Co_Cartwright",
+      "name": "Cole Cartwright",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881525006934343680/qeO6xKba_normal.jpg",
+      "description": "Lake Travis HS #93 | DE | DT | OT | 6’3” 230 lb |class of 2026 | 3.7 gpa NCAA id-2501501296 ColeCartwrightDL@gmail.com",
+      "followersCount": 103,
+      "friendsCount": 141,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970157357796646912/vid/avc1/888x484/Y9cfMpyuRIwFOgw2.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Co_Cartwright/status/1970157549740544473",
+    "fullText": "First 3 game highlights!\n @CoachMcarr @CoachGezella @CoachJDominguez @coachscarey @_CoachOlson @Coach_JFreeman @CoachK_TX @MikeBabcock44 @coachboverton @Coach_Brace @williamcarlock5 @SpencerHawthorn https://t.co/E3qCp3s0Ik"
+  },
+  {
+    "user": {
+      "screenName": "jasonwoodland1",
+      "name": "Jason Woodland",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591221779212562432/WVMQpvKz_normal.jpg",
+      "description": "Business Coach | Tweets on Life and Business | Woodland Advisors | Tea Lover | Watches | Bitcoin | Author: Toshi to the Moon |",
+      "followersCount": 2562,
+      "friendsCount": 2914,
+      "location": "Salt Lake City, UT"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jasonwoodland1/status/1970151894397112503",
+    "fullText": "Leadership isn't about talking. It's about having a deep desire to listen for the sake of understanding. Then once the subject is understood, taking massive action and helping others do the same."
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75648,
+      "followersCount": 75651,
       "friendsCount": 3466,
       "location": ""
     },
@@ -289,7 +402,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24404,
+      "followersCount": 24403,
       "friendsCount": 302,
       "location": "Guangdong"
     },
@@ -304,8 +417,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18467,
-      "friendsCount": 1400,
+      "followersCount": 18475,
+      "friendsCount": 1401,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -336,8 +449,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18467,
-      "friendsCount": 1400,
+      "followersCount": 18475,
+      "friendsCount": 1401,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -351,7 +464,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8214,
+      "followersCount": 8213,
       "friendsCount": 1814,
       "location": ""
     },
@@ -417,14 +530,29 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18467,
-      "friendsCount": 1400,
+      "followersCount": 18475,
+      "friendsCount": 1401,
       "location": "Hard roads are never crowed."
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1970079428245127258",
     "fullText": "换了个贵贵的机场，有种被人掐半死突然喘过气的感觉，以前我过的是什么日子啊..."
+  },
+  {
+    "user": {
+      "screenName": "FTMO_com",
+      "name": "FTMO.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962860549152096257/eNWfJYN8_normal.jpg",
+      "description": "📈Established in 2015, FTMO developed a 2-step evaluation course to find trading talents. Get your own FTMO Account of up to $200,000!📉",
+      "followersCount": 118652,
+      "friendsCount": 138,
+      "location": "Prague, Czech Republic"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FTMO_com/status/1970070252982858033",
+    "fullText": "Celebrate 10 years of FTMO with a special deal: 19% off $100,000 FTMO Challenge. Claim your discount now!"
   },
   {
     "user": {
@@ -524,5 +652,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/marketwirenews/status/1969808775012811059",
     "fullText": "🔥 IQSTEL (NASDAQ: $IQST) Strategic Moves: $1B Revenue 2027, Fintech Growth, AI Cybersecurity Alliance\n\n1. Clear Path to $15M EBITDA and $1B Revenue\nIQSTEL is pursuing a $15 million EBITDA run rate by 2026 and $1 billion revenue by 2027 through strategic acquisitions and"
+  },
+  {
+    "user": {
+      "screenName": "RussiasPivot",
+      "name": "Russia's Pivot to Asia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1769982993785917440/XBzb36SX_normal.jpg",
+      "description": "Russia's geopolitical, trade and investment pivot to the BRICS, EAEU, CIS, SCO, GCC, African Union, ASEAN, Mercosur, and the Belt & Road Initiative.",
+      "followersCount": 3707,
+      "friendsCount": 20,
+      "location": "Asia "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1XhWHYakAApUTz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RussiasPivot/status/1969728581959057575",
+    "fullText": "Trump and the United States versus Afghanistan\n\nPre-US invasion in 2001, the Afghan economy wasn't in great shape, with a GDP of just US$2.8 billion. But it was growing, at a rate of 30% (large growth rates are easier when the economy is small). When the US exited Afghanistan https://t.co/tgq1kUgrMv"
   }
 ]
