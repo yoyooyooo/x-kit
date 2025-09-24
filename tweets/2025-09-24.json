@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 35942,
+      "friendsCount": 696,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970768752615792640/vid/avc1/2560x1440/XSnVp9ETcEBJEJd6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1970769337821864192",
+    "fullText": "🥳【预告】来个最近海外超火的，github官方推出的spec-kit课程预告，你将学会：\n1. 掌握什么是SDD（规范文档驱动开发）？\n2. spec-kit开发的流程和相关相关命令。\n3. spec-kit的优势和劣势是什么？\n4. 基于Echarts + Qwen3 Max Preview这个模型，基于SDD开发一个AI图表生成工具，用自然语言生成图表 https://t.co/ruj8CQNXER"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -20,7 +37,7 @@
       "name": "Chumbi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1866640361780879360/KP7fzXrK_normal.png",
       "description": "A human made, web3 native, nostalgic indie RPG MMO ecosystem that is always Free2play & Play2Earn. Building your dream games on @immutable ⚡️ @0xPolygon + BSC",
-      "followersCount": 195462,
+      "followersCount": 195456,
       "friendsCount": 2656,
       "location": "discord.gg/chumbi"
     },
@@ -38,7 +55,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18470,
+      "followersCount": 18473,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -70,7 +87,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33739,
+      "followersCount": 33745,
       "friendsCount": 179,
       "location": "China"
     },
@@ -102,7 +119,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33739,
+      "followersCount": 33745,
       "friendsCount": 179,
       "location": "China"
     },
@@ -119,7 +136,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33739,
+      "followersCount": 33745,
       "friendsCount": 179,
       "location": "China"
     },
@@ -202,7 +219,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75656,
+      "followersCount": 75655,
       "friendsCount": 3469,
       "location": ""
     },
@@ -219,7 +236,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134009,
+      "followersCount": 134020,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -235,11 +252,28 @@
   },
   {
     "user": {
+      "screenName": "MadCatz",
+      "name": "MAD CATZ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719607924874690560/oNzMPBss_normal.jpg",
+      "description": "The official feed for all things Mad Catz! Follow for videogame discussion, polls, technological chatter and more! Welcome to what's next...",
+      "followersCount": 63262,
+      "friendsCount": 2319,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1kyQUVaoAIMqDz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MadCatz/status/1970664444779999570",
+    "fullText": "Our N.E.K.O. All-Button Arcade Controller was designed in close collaboration with both pros and casual players in the Japanese FGC. Their goal? Winning. Easier combos, improved ergonomics, and faster, more responsive inputs. A community-inspired design, built by Mad Catz.\n\nLearn https://t.co/JMb67HQZas"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18470,
+      "followersCount": 18473,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -290,7 +324,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59478,
+      "followersCount": 59477,
       "friendsCount": 386,
       "location": ""
     },
@@ -324,7 +358,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6958,
+      "followersCount": 6957,
       "friendsCount": 731,
       "location": "San Jose, CA"
     },
@@ -339,7 +373,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4349299,
+      "followersCount": 4349251,
       "friendsCount": 3,
       "location": ""
     },
@@ -616,7 +650,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33739,
+      "followersCount": 33745,
       "friendsCount": 179,
       "location": "China"
     },
@@ -846,7 +880,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134009,
+      "followersCount": 134020,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -878,7 +912,7 @@
       "name": "Perpetua Resources",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1361680702857637895/VESyX-pW_normal.jpg",
       "description": "Restoration of Legacy Mining District & Domestic Production of #Gold and the #CriticalMineral #Antimony $PPTA\n\nFollowing/likes/RTs don't = endorsement",
-      "followersCount": 2893,
+      "followersCount": 2894,
       "friendsCount": 1139,
       "location": "Idaho, USA "
     },
