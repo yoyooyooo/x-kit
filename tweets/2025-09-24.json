@@ -1,11 +1,65 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57251,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970669878890934272/vid/avc1/2314x1250/acIy1_THX70NykFJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1970670602370588832",
+    "fullText": "今天用上了这个 Zoxide 小工具，感觉很舒服\nhttps://t.co/5IFaABJIBH\n\n是 cd 的平替，但是能记住你最常用的文件夹，然后可以用一个词快速的跳转文件夹，很小的工具，让我效率提升挺大，尤其是那种好几层的配置文件夹，再也不用去努力记了。 https://t.co/kpnLD1EW9E"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 75653,
+      "friendsCount": 3469,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1k6ENjaoAINKdH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1970670162342031470",
+    "fullText": "https://t.co/hRcxhhkjJ7"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 133972,
+      "friendsCount": 1390,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1k5mXXWcAA5Vh0.png",
+      "https://pbs.twimg.com/media/G1k5oElWEAA1DKs.jpg",
+      "https://pbs.twimg.com/media/G1k5pz2XcAAk066.jpg",
+      "https://pbs.twimg.com/media/G1k5vz2W0AAfovL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1970669978899595428",
+    "fullText": "直钩钓 LLM https://t.co/xsv6i1otbL"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18469,
+      "followersCount": 18468,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -13,6 +67,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1970661317595013290",
     "fullText": "一觉醒来，国庆就这么水灵灵的过完了。\n\n七天的国庆长假居然过的如此之快，仿佛昨天还在被堵在回家的路上，在教室兴奋的等待下课铃声，在办公室收好东西准备冲出门。\n\n转眼明天又要开始上班上学，回过头才发现，国庆前想好的事情一件都没做。\n\n要是能回到放假前，那该多好啊。"
+  },
+  {
+    "user": {
+      "screenName": "CelsiusOfficial",
+      "name": "CELSIUS Energy Drink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970444710834532352/ropjJ2-j_normal.jpg",
+      "description": "Zero Sugar. Essential Energy. ⚡️#LiveFitGo",
+      "followersCount": 40734,
+      "friendsCount": 171,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970659822107246593/vid/avc1/1118x720/hYKjPEedm6emAmMa.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/CelsiusOfficial/status/1970660376468738066",
+    "fullText": "Spritz Vibe. Limited Edition. Now Available.\n\nFrosted over &amp; fresh for the season,\nSpritz Vibe Sparkling Snowball Frost LE is here!\n\nCELSIUS. LIVE. FIT. GO. https://t.co/RremglaGUo"
   },
   {
     "user": {
@@ -71,7 +142,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4348977,
+      "followersCount": 4349013,
       "friendsCount": 3,
       "location": ""
     },
@@ -86,7 +157,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33625,
+      "followersCount": 33639,
       "friendsCount": 178,
       "location": "China"
     },
@@ -133,7 +204,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18469,
+      "followersCount": 18468,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -151,7 +222,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18469,
+      "followersCount": 18468,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -166,7 +237,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18469,
+      "followersCount": 18468,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -181,7 +252,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33625,
+      "followersCount": 33639,
       "friendsCount": 178,
       "location": "China"
     },
@@ -199,7 +270,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "Linux、Emacs开源社区从业二十余载\n\n前Deepin CTO， 懒猫微服CEO ，不端不装 仗剑走天涯\n\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR \n\n全球包邮，UPS红牌特快3天送到您家",
-      "followersCount": 33625,
+      "followersCount": 33639,
       "friendsCount": 178,
       "location": "China"
     },
@@ -216,7 +287,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 15852,
+      "followersCount": 15855,
       "friendsCount": 4142,
       "location": ""
     },
@@ -233,7 +304,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18469,
+      "followersCount": 18468,
       "friendsCount": 1405,
       "location": "Hard roads are never crowed."
     },
@@ -250,7 +321,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21421,
+      "followersCount": 21422,
       "friendsCount": 1042,
       "location": ""
     },
@@ -331,7 +402,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 133969,
+      "followersCount": 133972,
       "friendsCount": 1390,
       "location": "Chicago, IL"
     },
@@ -341,5 +412,20 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1970216550620602467",
     "fullText": "抠脚大汉秒变性感女主播，使用的是阿里的开源模型 Wan 2.2 Animate\nhttps://t.co/mC0de7q6Gy"
+  },
+  {
+    "user": {
+      "screenName": "andrewchen",
+      "name": "andrew chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
+      "description": "🇺🇸 a16z speedrun",
+      "followersCount": 318740,
+      "friendsCount": 13739,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/andrewchen/status/1970189443446513775",
+    "fullText": "WHAT NEW FOUNDERS GET WRONG IN THEIR ELEVATOR PITCH\n\nso hey - am writing this in the FINAL week before applications close for a16z speedrun 6. The deadline Sep 28, this upcoming sunday. Speedrun is a16z's new program to invest up to $1M in brand new startups, with a 12-week"
   }
 ]
