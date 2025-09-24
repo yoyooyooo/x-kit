@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21441,
+      "friendsCount": 1043,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1970889160664977867",
+    "fullText": "今天微信上有个朋友想拉我技术入伙，搞企业客服 Agent。宣称 “Benchmark 上 99% 的拒绝回答率，完全没有幻觉问题，而且不是基于微调不锁定模型”。我虽然不知道咋实现，但总感觉哪里怪怪的...\n\n我对大模型的理解还停留在它本身就是个不确定的东西，99% 拒绝有点超出认知，是不是存在过度拒绝或伪拒绝？"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6956,
+      "friendsCount": 731,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1n7fkybUAAJ-RK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1970882836648648772",
+    "fullText": "回忆疫情三年，那时候很多照片都是这样的。 https://t.co/16rBTljN9F"
+  },
+  {
+    "user": {
+      "screenName": "wirthkarl",
+      "name": "Karl Wirth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1848507496329007104/BH0W6pua_normal.jpg",
+      "description": "Co-founder/CEO of @stravuHQ. Stravu is editable, collaborative AI. Previously founder/CEO of Evergage exited to Salesforce. Husband. Father. Catholic.",
+      "followersCount": 645,
+      "friendsCount": 65,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1n4pCOXgAAI1Kv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wirthkarl/status/1970880565999177918",
+    "fullText": "The  Apple \"Think Different\" campaign celebrated lone geniuses: Einstein. Gandhi. Picasso.\n\nBut the genius Steve Jobs, who created this campaign, knew the truth that great things in business are never done by one person. They're done by a team.\n\nApple's greatest innovations came https://t.co/YrWnwmGrW9"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -46,11 +95,26 @@
   },
   {
     "user": {
+      "screenName": "MarketProphit",
+      "name": "Market Prophit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1423718577299984388/UVlI_qLh_normal.jpg",
+      "description": "Using AI to Rank social media accounts based on the accuracy of their crypto posts. Identifying the #SmartMoney in the Crowd. Posts are not financial advice.",
+      "followersCount": 77771,
+      "friendsCount": 37686,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MarketProphit/status/1970863643970699349",
+    "fullText": "Market Prophit uses AI to rank crypto KOL's\n\nCopy Trade for FREE the Posts of Top Ranked KOL's\n\nUse Code: MP_100LWP\n\nClick any BLUE COPY TRADE BUTTON &amp; Subscribe"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21440,
+      "followersCount": 21441,
       "friendsCount": 1043,
       "location": ""
     },
@@ -101,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33837,
+      "followersCount": 33849,
       "friendsCount": 179,
       "location": "China"
     },
@@ -118,7 +182,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59478,
+      "followersCount": 59469,
       "friendsCount": 386,
       "location": ""
     },
@@ -133,8 +197,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18465,
-      "friendsCount": 1408,
+      "followersCount": 18470,
+      "friendsCount": 1409,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -148,7 +212,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33837,
+      "followersCount": 33849,
       "friendsCount": 179,
       "location": "China"
     },
@@ -165,8 +229,8 @@
       "name": "Beverley Eve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1707412648780763136/fIWuGzAn_normal.jpg",
       "description": "👩‍💻CoFounder @_TechMode | Driving B2B influence across 📡 5G, cloud, AI, Quantum & emerging tech | 🌱 Supporting sustainability & responsible innovation💡🌎",
-      "followersCount": 41158,
-      "friendsCount": 36673,
+      "followersCount": 41157,
+      "friendsCount": 36674,
       "location": "London, UK"
     },
     "images": [],
@@ -182,7 +246,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35951,
+      "followersCount": 35954,
       "friendsCount": 697,
       "location": "Hong Kong"
     },
@@ -264,8 +328,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18465,
-      "friendsCount": 1408,
+      "followersCount": 18470,
+      "friendsCount": 1409,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -296,7 +360,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33837,
+      "followersCount": 33849,
       "friendsCount": 179,
       "location": "China"
     },
@@ -328,7 +392,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33837,
+      "followersCount": 33849,
       "friendsCount": 179,
       "location": "China"
     },
@@ -345,7 +409,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33837,
+      "followersCount": 33849,
       "friendsCount": 179,
       "location": "China"
     },
@@ -411,7 +475,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57273,
+      "followersCount": 57274,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -428,7 +492,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75655,
+      "followersCount": 75657,
       "friendsCount": 3469,
       "location": ""
     },
@@ -445,7 +509,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134063,
+      "followersCount": 134079,
       "friendsCount": 1389,
       "location": "Chicago, IL"
     },
@@ -497,7 +561,7 @@
       "name": "CELSIUS Energy Drink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1970444710834532352/ropjJ2-j_normal.jpg",
       "description": "Zero Sugar. Essential Energy. ⚡️#LiveFitGo",
-      "followersCount": 40795,
+      "followersCount": 40808,
       "friendsCount": 171,
       "location": "Florida"
     },
