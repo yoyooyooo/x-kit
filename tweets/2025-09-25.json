@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8239,
+      "friendsCount": 1859,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1tW_vqaAAIHSia.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1971264940402229384",
+    "fullText": "#DataCollie 日拱一卒\n今晚又放纵了，干到凌晨一点了。明天 8 点起床，应该不会猝死吧。下次不能这样，还是得 12 点以前睡觉💤\n#buildinpublic @DataCollie https://t.co/8EIBFQFvL9"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4350143,
+      "followersCount": 4350187,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1971251488715419649/vid/avc1/3840x2160/jxpxmJx9Bej-QMq2.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/1971259652684878019",
+    "fullText": "Now in preview: ChatGPT Pulse\n\nThis is a new experience where ChatGPT can proactively deliver personalized daily updates from your chats, feedback, and connected apps like your calendar.\n\nRolling out to Pro users on mobile today. https://t.co/tWqdUIjNn3"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4350187,
       "friendsCount": 3,
       "location": ""
     },
@@ -20,7 +54,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18456,
+      "followersCount": 18458,
       "friendsCount": 1411,
       "location": "Hard roads are never crowed."
     },
@@ -52,7 +86,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33909,
+      "followersCount": 33904,
       "friendsCount": 180,
       "location": "China"
     },
@@ -67,7 +101,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8886,
+      "followersCount": 8885,
       "friendsCount": 298,
       "location": ""
     },
@@ -82,7 +116,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18456,
+      "followersCount": 18458,
       "friendsCount": 1411,
       "location": "Hard roads are never crowed."
     },
@@ -97,7 +131,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18456,
+      "followersCount": 18458,
       "friendsCount": 1411,
       "location": "Hard roads are never crowed."
     },
@@ -131,7 +165,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18456,
+      "followersCount": 18458,
       "friendsCount": 1411,
       "location": "Hard roads are never crowed."
     },
@@ -161,7 +195,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33909,
+      "followersCount": 33904,
       "friendsCount": 180,
       "location": "China"
     },
@@ -178,7 +212,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 15862,
+      "followersCount": 15860,
       "friendsCount": 4156,
       "location": ""
     },
@@ -210,7 +244,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33909,
+      "followersCount": 33904,
       "friendsCount": 180,
       "location": "China"
     },
@@ -227,7 +261,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57297,
+      "followersCount": 57300,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -244,7 +278,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33909,
+      "followersCount": 33904,
       "friendsCount": 180,
       "location": "China"
     },
@@ -261,7 +295,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8886,
+      "followersCount": 8885,
       "friendsCount": 298,
       "location": ""
     },
@@ -360,7 +394,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134335,
+      "followersCount": 134347,
       "friendsCount": 1392,
       "location": "Chicago, IL"
     },
@@ -375,7 +409,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36049,
+      "followersCount": 36056,
       "friendsCount": 697,
       "location": "Hong Kong"
     },
