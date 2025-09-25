@@ -1,6 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 134114,
+      "friendsCount": 1391,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1pvddoWkAA9snS.jpg",
+      "https://pbs.twimg.com/media/G1pvfc2W4AAmzcZ.jpg",
+      "https://pbs.twimg.com/media/G1pvggqWsAAKjEe.jpg",
+      "https://pbs.twimg.com/media/G1pvhwtWsAATsLY.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970963258405236736/vid/avc1/1920x1080/hODa0g62hF0fUDcB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1971010631642837209",
+    "fullText": "https://t.co/eWVavKhXQX Meta 新发布了一个开源模型，叫代码世界模型 (Code World Model, CWM)，模型参数32B，它和传统的大语言模型不一样，是利用世界模型，让 AI 智能体 (AI Agent) 学会推理和规划，从而提升代码生成能力。 https://t.co/IRgUyBq709"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,7 +44,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134099,
+      "followersCount": 134114,
       "friendsCount": 1391,
       "location": "Chicago, IL"
     },
@@ -39,7 +61,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20031,
+      "followersCount": 20032,
       "friendsCount": 864,
       "location": "San Jose, CA"
     },
@@ -56,7 +78,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134099,
+      "followersCount": 134114,
       "friendsCount": 1391,
       "location": "Chicago, IL"
     },
@@ -73,7 +95,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33878,
+      "followersCount": 33881,
       "friendsCount": 179,
       "location": "China"
     },
@@ -90,7 +112,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134099,
+      "followersCount": 134114,
       "friendsCount": 1391,
       "location": "Chicago, IL"
     },
@@ -186,7 +208,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33878,
+      "followersCount": 33881,
       "friendsCount": 179,
       "location": "China"
     },
@@ -203,7 +225,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59463,
+      "followersCount": 59473,
       "friendsCount": 386,
       "location": ""
     },
@@ -218,7 +240,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18453,
+      "followersCount": 18462,
       "friendsCount": 1409,
       "location": "Hard roads are never crowed."
     },
@@ -233,7 +255,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33878,
+      "followersCount": 33881,
       "friendsCount": 179,
       "location": "China"
     },
@@ -250,7 +272,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 35957,
+      "followersCount": 35967,
       "friendsCount": 697,
       "location": "Hong Kong"
     },
@@ -267,7 +289,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8876,
+      "followersCount": 8877,
       "friendsCount": 298,
       "location": ""
     },
@@ -282,7 +304,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18453,
+      "followersCount": 18462,
       "friendsCount": 1409,
       "location": "Hard roads are never crowed."
     },
@@ -297,7 +319,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33878,
+      "followersCount": 33881,
       "friendsCount": 179,
       "location": "China"
     },
