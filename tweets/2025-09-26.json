@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6951,
+      "friendsCount": 731,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1971390328424087855",
+    "fullText": "以前听谈论汽车「底盘」，就是一个模糊的名词。最近发现虽然不知道细节，但是大概知道原理了。就是避震悬挂的设置，导致在不同动态（过弯）的条件下，重心的转移不同，对四个车轮的附着力改变也不同。"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8884,
+      "friendsCount": 298,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1971390014899777645",
+    "fullText": "设计师同事终于发现，大多数同事都刷到过她的抖音账号了，她马上修改了可见范围。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57312,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1vHqjHaMAAp0dn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1971389316921425949",
+    "fullText": "大新闻，Cloudflare 推出自己的 Email 服务了！\nhttps://t.co/xN9ur8pdyR\n\nAPI 感觉非常简单，如下图。\n\n我为 Resend 捏了一把汗，感觉 API 都和它的非常相似，博客后面的例子还特别指出支持 React Email。\n\n当然我也不知道 Resend 当年一下就火了？感觉大部分开发都在使用，按说它前面就有 SendGrid https://t.co/SuZUUcNaVL"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -69,7 +116,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134390,
+      "followersCount": 134399,
       "friendsCount": 1393,
       "location": "Chicago, IL"
     },
@@ -82,11 +129,28 @@
   },
   {
     "user": {
+      "screenName": "screenstudio",
+      "name": "Screen Studio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1802416260124205057/pmAn_p4C_normal.jpg",
+      "description": "Create beautiful screen recordings in minutes. #buildinpublic journey at @pie6k.",
+      "followersCount": 19907,
+      "friendsCount": 3,
+      "location": " "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1971302491967918080/vid/avc1/3840x2160/oY_r4mlNU58iNMqJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/screenstudio/status/1971304723719598412",
+    "fullText": "Record iPhone screen directly on your Mac with Screen Studio.\n\nJust connect your iPhone with a cable and start recording.\n\nSimple setup for professional results. https://t.co/C7mvP9G5LF"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134390,
+      "followersCount": 134399,
       "friendsCount": 1393,
       "location": "Chicago, IL"
     },
@@ -120,7 +184,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4350893,
+      "followersCount": 4350967,
       "friendsCount": 3,
       "location": ""
     },
@@ -137,7 +201,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4350893,
+      "followersCount": 4350967,
       "friendsCount": 3,
       "location": ""
     },
@@ -184,7 +248,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33905,
+      "followersCount": 33904,
       "friendsCount": 180,
       "location": "China"
     },
@@ -192,6 +256,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1971211218536063054",
     "fullText": "这几天在卖货，大家有啥想听的故事，告诉我哈，我一会把卖完货的文章写完，就给你们写故事。\n\n你们还是喜欢听故事，哈哈哈哈"
+  },
+  {
+    "user": {
+      "screenName": "LiquidAI_",
+      "name": "Liquid AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1702611993327251456/PUUuOA4W_normal.jpg",
+      "description": "Build efficient general-purpose AI at every scale.",
+      "followersCount": 14449,
+      "friendsCount": 36,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1sWhcXXMAAZJeT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LiquidAI_/status/1971198690707616157",
+    "fullText": "Introducing Liquid Nanos ⚛️ — a new family of extremely tiny task-specific models that deliver GPT-4o-class performance while running directly on phones, laptops, cars, embedded devices, and GPUs with the lowest latency and fastest generation speed.\n\n&gt; model size: 350M to 2.6B\n&gt; https://t.co/zyb9hQ57XW"
   },
   {
     "user": {
@@ -306,11 +387,26 @@
   },
   {
     "user": {
+      "screenName": "everstake_pool",
+      "name": "Everstake",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1877365595596836864/edFs5Spo_normal.jpg",
+      "description": "Everstake is a responsible validator trusted by 1M+ users across 85+ blockchains. Stake $ETH, $SOL, $ATOM, $APT, $SUI, $INJ & more | @extrnode",
+      "followersCount": 112292,
+      "friendsCount": 485,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/everstake_pool/status/1971114446379733369",
+    "fullText": "Stake $ALEO with Everstake \n\n735K+ users trust us\n85+ networks | 99.9% uptime\n11.72% APR\n\nReliable. Scalable. User-friendly."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134390,
+      "followersCount": 134399,
       "friendsCount": 1393,
       "location": "Chicago, IL"
     },
