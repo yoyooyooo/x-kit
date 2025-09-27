@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18435,
+      "friendsCount": 1412,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1971818984174768368",
+    "fullText": "醒来后左腰特别酸胀，估摸着是腰间盘突出，很快就要变成软硬件都不行的人了😬"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18435,
+      "friendsCount": 1412,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G11OYNub0AArB_Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1971818397240619157",
+    "fullText": "家人们，有什么好用的记账软件推荐吗？\n\n不需要细分到每一笔，只希望简单直观，每周手动同步一次各平台的金额，知道自己大致财务状况以及额度变化即可。\n\n找了好多都是 iCost 这种密密麻麻，需要一单一单填进去的，简直噩梦。 https://t.co/ptUaXF5TBY"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 15874,
+      "followersCount": 15877,
       "friendsCount": 4166,
       "location": ""
     },
@@ -22,7 +54,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6479,
+      "followersCount": 6481,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -37,7 +69,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20057,
+      "followersCount": 20058,
       "friendsCount": 864,
       "location": "San Jose, CA"
     },
@@ -52,7 +84,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -69,8 +101,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33874,
-      "friendsCount": 181,
+      "followersCount": 33876,
+      "friendsCount": 182,
       "location": "China"
     },
     "images": [
@@ -86,7 +118,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6479,
+      "followersCount": 6481,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -101,7 +133,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6479,
+      "followersCount": 6481,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -118,8 +150,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33874,
-      "friendsCount": 181,
+      "followersCount": 33876,
+      "friendsCount": 182,
       "location": "China"
     },
     "images": [
@@ -135,7 +167,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 15874,
+      "followersCount": 15877,
       "friendsCount": 4166,
       "location": ""
     },
@@ -152,7 +184,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -186,7 +218,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57377,
+      "followersCount": 57379,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -201,7 +233,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -235,8 +267,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33874,
-      "friendsCount": 181,
+      "followersCount": 33876,
+      "friendsCount": 182,
       "location": "China"
     },
     "images": [
@@ -252,7 +284,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6479,
+      "followersCount": 6481,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -267,7 +299,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75704,
+      "followersCount": 75705,
       "friendsCount": 3469,
       "location": ""
     },
@@ -459,7 +491,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134547,
+      "followersCount": 134556,
       "friendsCount": 1394,
       "location": "Chicago, IL"
     },
@@ -493,7 +525,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134547,
+      "followersCount": 134556,
       "friendsCount": 1394,
       "location": "Chicago, IL"
     },
@@ -511,7 +543,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -528,7 +560,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134547,
+      "followersCount": 134556,
       "friendsCount": 1394,
       "location": "Chicago, IL"
     },
@@ -545,7 +577,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -562,7 +594,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -609,7 +641,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134547,
+      "followersCount": 134556,
       "friendsCount": 1394,
       "location": "Chicago, IL"
     },
@@ -626,8 +658,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33874,
-      "friendsCount": 181,
+      "followersCount": 33876,
+      "friendsCount": 182,
       "location": "China"
     },
     "images": [],
@@ -656,8 +688,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 33874,
-      "friendsCount": 181,
+      "followersCount": 33876,
+      "friendsCount": 182,
       "location": "China"
     },
     "images": [
@@ -690,7 +722,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8246,
+      "followersCount": 8245,
       "friendsCount": 1871,
       "location": ""
     },
@@ -722,7 +754,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18429,
+      "followersCount": 18435,
       "friendsCount": 1412,
       "location": "Hard roads are never crowed."
     },
@@ -918,6 +950,21 @@
     ],
     "tweetUrl": "https://x.com/CortesSteve/status/1971544432437563570",
     "fullText": "Even Kamala Harris voters realize that we have a serious problem with trans violence.\n\nLet’s start demanding truth…and sanity! See my article and new polling: https://t.co/gw9eqm0F5Y"
+  },
+  {
+    "user": {
+      "screenName": "0xCoast",
+      "name": "Coast",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1536702122871373827/XnmBq_os_normal.jpg",
+      "description": "Self-custodial FIAT ON-RAMP for #PulseChain, and $CST. 50+ Countries. 🌍 - https://t.co/TdBbJyUT19 - All customer support on Intercom. TG at https://t.co/KR7q7OQBbQ",
+      "followersCount": 28280,
+      "friendsCount": 1329,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xCoast/status/1971543495472275800",
+    "fullText": "Make sure you follow $TIDE updates here: @Tidedex \nSame team \nSame vision\nSame PulseChain"
   },
   {
     "user": {
@@ -1168,6 +1215,23 @@
   },
   {
     "user": {
+      "screenName": "ConcordiumNet",
+      "name": "Concordium",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904167599270686720/m6c3T9HI_normal.jpg",
+      "description": "→ Layer-1 blockchain built to enable enterprise-ready stablecoins with built-in trust and compliance-ready design | 📍 Smart Money Starts here",
+      "followersCount": 167008,
+      "friendsCount": 138,
+      "location": "Zug, Switzerland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1971250893761691648/vid/avc1/720x720/GWILqnWAiySv1WLM.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/ConcordiumNet/status/1971250935868375059",
+    "fullText": "👀 @HilbertCapital has built its digital asset strategy on just three tokens.\n\nBitcoin. Ethereum. And now $CCD.\n\nA Nasdaq-listed firm with a disciplined track record has placed Concordium alongside the largest names in the industry. \n\nThat signal could not be clearer. https://t.co/fxR6LUxNDF"
+  },
+  {
+    "user": {
       "screenName": "10minutedrill",
       "name": "10 Minute Drill",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1946819852565426177/iLAjMfCk_normal.jpg",
@@ -1182,6 +1246,26 @@
     ],
     "tweetUrl": "https://x.com/10minutedrill/status/1971205549623537954",
     "fullText": "🌍 Trump rocks the United Nations \n\nTrump’s fiery remarks on climate change, green energy, mass migration, Ukraine, and Gaza turned heads worldwide. \n\nFrom calling climate change a “con job” to blasting Europe’s immigration crisis, here’s what you need to know. https://t.co/C1NlHwmBnm"
+  },
+  {
+    "user": {
+      "screenName": "CAanime_GLOBAL",
+      "name": "CyberAgent ANIME Global",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933426367619801088/nvxb8EDY_normal.jpg",
+      "description": "The official English account of CyberAgent Anime. Follow us for the latest updates!\n\n【YouTube】https://t.co/DdFbGPEZnU",
+      "followersCount": 941,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1p9hnyakAAzCpJ.jpg",
+      "https://pbs.twimg.com/media/G1p9h7YbIAAmsJx.jpg",
+      "https://pbs.twimg.com/media/G1p9iYpaAAI5n0Z.jpg",
+      "https://pbs.twimg.com/media/G1p9ixxaAAErm_L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CAanime_GLOBAL/status/1971137604168073719",
+    "fullText": "Preview Cuts of Episode 12: Its Place from The Summer Hikaru Died.\n\nWhile the end-of-term ceremony takes place in the gym, Hikaru quietly walks the empty school halls, as if retracing memories of happier days. Meanwhile, Tanaka confides to Takeda. \n“Nonuki-sama…it never existed https://t.co/UkR3amFQxL"
   },
   {
     "user": {
