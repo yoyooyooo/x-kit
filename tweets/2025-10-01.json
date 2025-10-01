@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57432,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1973288935246930250",
+    "fullText": "只有我对对各种 AI 的新闻彻底厌倦了吗？和各种手机发布会一样没啥特别的期待，感觉每天时间线里面都充斥着震惊体和大新闻，这个模型震惊世界吊打另外的模型，这个模型测评程序员又加速失业，这边贩卖邀请码，抢破头，生成一个自己和某某名人的视频过了新鲜劲再也不用了。\n\n我现在在就还在用 Claude4"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -37,7 +52,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59408,
+      "followersCount": 59409,
       "friendsCount": 386,
       "location": ""
     },
@@ -84,7 +99,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24537,
+      "followersCount": 24534,
       "friendsCount": 306,
       "location": "Guangdong"
     },
@@ -148,7 +163,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59408,
+      "followersCount": 59409,
       "friendsCount": 386,
       "location": ""
     },
@@ -230,7 +245,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135869,
+      "followersCount": 135873,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -311,7 +326,7 @@
       "name": "$tocks Network",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1970257981469024256/iWTyFP73_normal.jpg",
       "description": "Not even close to a financial advisor, do your own due diligence. Some posts are sponsored, most are my own opinion. Never follow my trading advice.",
-      "followersCount": 2432,
+      "followersCount": 2431,
       "friendsCount": 443,
       "location": "Hong Kong, London,Manhattan"
     },
@@ -358,7 +373,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57435,
+      "followersCount": 57432,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -408,7 +423,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135869,
+      "followersCount": 135873,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -425,14 +440,31 @@
       "name": "Five",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939036238104637440/kkfbcEOr_normal.jpg",
       "description": "I gamble Crypto currencies and pay for gym memberships I don't abuse. 🚫🧠\n\nHost of Five Chat ♦️ Five Updates ♦️ Ultrarunner ♦️ Memes",
-      "followersCount": 6774,
-      "friendsCount": 3964,
+      "followersCount": 6776,
+      "friendsCount": 3966,
       "location": "Stupid MFs"
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/FiveChatX/status/1973179360929808865",
     "fullText": "Did I just singlehandedly cancel netflix with my latest post and repost? \n\nwhat the f"
+  },
+  {
+    "user": {
+      "screenName": "Treki33",
+      "name": "Jorge | The Gaming Strategist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631116246577037312/in2b4fjU_normal.jpg",
+      "description": "Built @gam3strategist → the agency behind @gamingonsolana_ @playoffthegrid & @solanadesci | Streaming Web3 M–F | Helping projects scale from 0 → millions",
+      "followersCount": 13817,
+      "friendsCount": 5584,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973127510046154761/vid/avc1/3840x2160/rC5yGYvpbTtdaRZz.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Treki33/status/1973176891499749571",
+    "fullText": "Who ships faster? \n\nAmazon Prime or @playoffthegrid ?\nhttps://t.co/zV88jCCEmU"
   },
   {
     "user": {
@@ -472,7 +504,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135869,
+      "followersCount": 135873,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -502,6 +534,25 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3245,
+      "friendsCount": 1003,
+      "location": "Austin, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2IL_X4aIAMOz_g.jpg",
+      "https://pbs.twimg.com/media/G2IL_X2aIAY2m7S.jpg",
+      "https://pbs.twimg.com/media/G2IL_X3aUAAFPpo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1973152858104275323",
+    "fullText": "Nearly a decade in the making &amp; just getting started...\n\nThe @Cisco x @nvidia partnership is quietly redefining AI-powered collaboration. 🤝\n\nFrom layered AI frameworks to edge-optimized intelligence, here’s a behind-the-scenes look from WebexOne.\n\nStay tuned for insights from: https://t.co/cFIB9lEkSL"
+  },
+  {
+    "user": {
       "screenName": "Moms4Liberty",
       "name": "Moms for Liberty",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1338931301223718915/BZ46xN1N_normal.jpg",
@@ -521,7 +572,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -698,7 +749,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -766,7 +817,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -815,7 +866,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -849,7 +900,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -864,7 +915,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59408,
+      "followersCount": 59409,
       "friendsCount": 386,
       "location": ""
     },
@@ -896,7 +947,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4362815,
+      "followersCount": 4362986,
       "friendsCount": 3,
       "location": ""
     },
@@ -930,7 +981,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8892,
+      "followersCount": 8891,
       "friendsCount": 298,
       "location": ""
     },
@@ -945,7 +996,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24537,
+      "followersCount": 24534,
       "friendsCount": 306,
       "location": "Guangdong"
     },
@@ -1009,7 +1060,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135869,
+      "followersCount": 135873,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -1117,6 +1168,23 @@
     ],
     "tweetUrl": "https://x.com/easyBitcoinapp/status/1973012534425727040",
     "fullText": "Buy bitcoin, get more bitcoin. \n\nThat’s how we do rewards 😎 https://t.co/QO0Q4IHEOs"
+  },
+  {
+    "user": {
+      "screenName": "OriZilbershtein",
+      "name": "Ori Zilbershtein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942705147865333760/txoGL9MS_normal.jpg",
+      "description": "CMO & Founder @maxfusionai",
+      "followersCount": 1722,
+      "friendsCount": 1084,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973002416703283200/vid/avc1/2560x1440/ur3eCpnq7ZDJFnjJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OriZilbershtein/status/1973010889277124974",
+    "fullText": "Lip sync is DEAD, \n\nWe introduce emotion sync!\n\n- Make any image talk\n- Control the emotions with [tags]\n\nMake them [happy] [angry] [sad]. it's all in your control!\n\n- Generate videos of up to 60 seconds!\n- Design emotional voices from a single prompt!\n- 80% Faster than anything https://t.co/pUHyNVMLcX"
   },
   {
     "user": {
@@ -1461,6 +1529,21 @@
   },
   {
     "user": {
+      "screenName": "LouBasenese",
+      "name": "Lou Basenese",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935529991145451520/jLz7bIaQ_normal.jpg",
+      "description": "EVP of Market Strategy $PROP | Founder of https://t.co/tb6ZmSoo5A | Investor | Media Commentator |",
+      "followersCount": 7714,
+      "friendsCount": 1090,
+      "location": "NYC & FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LouBasenese/status/1972768490429010153",
+    "fullText": "From Tesla to Bitcoin to AI: Technicals, Fundamentals &amp; the Next Big Move https://t.co/qsujkLg52o"
+  },
+  {
+    "user": {
       "screenName": "FieldsOfMine",
       "name": "Fields of Mine",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968010634378739712/P-07ygT__normal.jpg",
@@ -1560,6 +1643,21 @@
     ],
     "tweetUrl": "https://x.com/chewbizz/status/1972694207157694741",
     "fullText": "Last time we checked, gum base is still made from Polyvinyl acetate, Polyethylene, Butyl rubber, etc.\n\nRecent studies show these plastics &amp; more depositing in decedent brain tissue...\n\nThere's a true need for natural gum bases again. https://t.co/idP7qjtpod"
+  },
+  {
+    "user": {
+      "screenName": "marchandthomas3",
+      "name": "Thomas Marchand",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1614469785462476800/_kv2JDsS_normal.jpg",
+      "description": "Founder who built and co-built 4 companies. 2 exits. 🇫🇷 Born. Former pro musician. Sport-fishing addict. @Marlins fan #wagemetric inventor",
+      "followersCount": 127,
+      "friendsCount": 302,
+      "location": "Miami Beach"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/marchandthomas3/status/1972671756348321954",
+    "fullText": "The @Marlins are the most efficient team in the MLB, according to the WAGE metric I just made up (Wins Against Gross Expenditure): Wins per $1M payroll, ranking MLB teams by efficiency.\nThe @Marlins are the only team to have a WAGE over 1.\nLook who is last...\n\n1. Miami Marlins:"
   },
   {
     "user": {
