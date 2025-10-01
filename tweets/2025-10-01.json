@@ -1,11 +1,59 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6947,
+      "friendsCount": 732,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1973241058600559035",
+    "fullText": "我的第一辆车大众 Bora 1.8T 2003 行驶后关掉引擎，整个车静悄悄。后来 2004 年在加拿大开了几辆丰田 mini-van，每辆车开完之后都会「嘣嘣」地响。我以为这是日本车的问题。2009 年起开过的 Audi，BMW，Benz 无一例外都会响。我问 ChatGPT 什么原因。它说 2003 的车 still pretty overbuilt。"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 59415,
+      "friendsCount": 386,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2JZ-CYbQAAmFAJ.jpg",
+      "https://pbs.twimg.com/media/G2JaXdFaIAozK4x.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1973240450594353230",
+    "fullText": "【突发】【美国政府关门】\n由于两党在医疗问题上拉锯未达成一致，国会预算拨款未在午夜前通过；美国政府将在10月1日起关门；这是美国联邦政府7年来首次关门，也是特朗普任内的第三次\n\n这次关门很可能导致联邦雇员大量失业，市场预计美国失业率会从目前的4.3%飙升至4.6-4.7% https://t.co/EHPuf7zOs0"
+  },
+  {
+    "user": {
+      "screenName": "feargreedcrypto",
+      "name": "feargreedcrypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1969894114066923520/3ydxQQ9E_normal.jpg",
+      "description": "FEARNGREED $FNG. DYOR do your own research. https://t.co/WYrGY3Avba\nhttps://t.co/d0OHqFpgoT",
+      "followersCount": 395,
+      "friendsCount": 240,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/feargreedcrypto/status/1973237550052680084",
+    "fullText": "Stocks or Crypto?\nFear or Greed — which one’s your favorite plaything in the market?\nComment it out!"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34314,
+      "followersCount": 34315,
       "friendsCount": 185,
       "location": "China"
     },
@@ -37,7 +85,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135838,
+      "followersCount": 135844,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -71,7 +119,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34314,
+      "followersCount": 34315,
       "friendsCount": 185,
       "location": "China"
     },
@@ -103,7 +151,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34314,
+      "followersCount": 34315,
       "friendsCount": 185,
       "location": "China"
     },
@@ -135,7 +183,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34314,
+      "followersCount": 34315,
       "friendsCount": 185,
       "location": "China"
     },
@@ -183,7 +231,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135838,
+      "followersCount": 135844,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -215,7 +263,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135838,
+      "followersCount": 135844,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -264,7 +312,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -331,6 +379,38 @@
       "location": "SF | LA | NYC"
     },
     "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Techweek_/status/1973104895655027196",
+    "fullText": "okay it's that time of the day - tell me what kind of event you're looking for and ill send you an event to RSVP to"
+  },
+  {
+    "user": {
+      "screenName": "amadon",
+      "name": "Amadon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963830690740604928/A8XI0NC0_normal.jpg",
+      "description": "exploiting CV + AI 🏴",
+      "followersCount": 141640,
+      "friendsCount": 3795,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/G2HYaWRbsAA_MuN.mp4"
+    ],
+    "tweetUrl": "https://x.com/amadon/status/1973096110437630055",
+    "fullText": "Night Wolf https://t.co/8xtsQ7xVHy"
+  },
+  {
+    "user": {
+      "screenName": "Techweek_",
+      "name": "Tech Week",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900253033684205568/nxK4ub-J_normal.jpg",
+      "description": "For founders, by founders. The biggest convos, the best collisions. Presented by @a16z | SF: Oct 6–12 | LA: Oct 13–19",
+      "followersCount": 15670,
+      "friendsCount": 252,
+      "location": "SF | LA | NYC"
+    },
+    "images": [],
     "videos": [
       "https://video.twimg.com/amplify_video/1973086647987347461/vid/avc1/1920x1080/eeasfsd6CeXJwYfS.mp4?tag=21"
     ],
@@ -343,7 +423,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -394,7 +474,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -443,7 +523,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -456,11 +536,28 @@
   },
   {
     "user": {
+      "screenName": "WilderWorld",
+      "name": "Wilder World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927422180880441344/12l-KRgw_normal.jpg",
+      "description": "Play now on Epic Games 👇",
+      "followersCount": 256615,
+      "friendsCount": 999,
+      "location": "Wiami"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2HAy7AawAAmmg3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WilderWorld/status/1973070385919697243",
+    "fullText": "Daily rewards are now LIVE in Super Early Access!\n\nIt pays to play 🦾 https://t.co/0eW57rfPlu"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -475,7 +572,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59413,
+      "followersCount": 59415,
       "friendsCount": 386,
       "location": ""
     },
@@ -507,7 +604,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4361803,
+      "followersCount": 4362006,
       "friendsCount": 3,
       "location": ""
     },
@@ -541,7 +638,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8893,
+      "followersCount": 8892,
       "friendsCount": 298,
       "location": ""
     },
@@ -556,7 +653,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24530,
+      "followersCount": 24533,
       "friendsCount": 306,
       "location": "Guangdong"
     },
@@ -605,7 +702,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 135838,
+      "followersCount": 135844,
       "friendsCount": 1401,
       "location": "Chicago, IL"
     },
@@ -654,7 +751,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34314,
+      "followersCount": 34315,
       "friendsCount": 185,
       "location": "China"
     },
@@ -671,7 +768,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8893,
+      "followersCount": 8892,
       "friendsCount": 298,
       "location": ""
     },
@@ -720,7 +817,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153593,
+      "followersCount": 153594,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -735,7 +832,7 @@
       "name": "TopstepTV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1837219857412096000/GxFGCPjm_normal.jpg",
       "description": "📺🔥The leading voice in futures day trading & news, live on YouTube Sun-Fri. Check out https://t.co/POpN1llQEL for more! 💪 https://t.co/KtN2JZi0re",
-      "followersCount": 7996,
+      "followersCount": 8002,
       "friendsCount": 32,
       "location": "Chicago, IL"
     },
@@ -982,7 +1079,7 @@
       "name": "Hivenet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1858512019621568513/GCzBREJF_normal.jpg",
       "description": "Join Hivenet - the sustainable, distributed, and community-centric cloud solution. We're transforming the way data is stored and accessed for a greener future.",
-      "followersCount": 1439,
+      "followersCount": 1438,
       "friendsCount": 71,
       "location": "Geneva, Switzerland"
     },
