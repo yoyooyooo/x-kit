@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8896,
+      "friendsCount": 300,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1973948180959277152",
+    "fullText": "刷到个起点编辑的视频，解释为什么网文同质化严重，其中一个原因是：市场火爆的题材受众广，作者也是要吃饭的，作者的实力很难扩大 10 倍，但是他们能让自己的受众扩大 10 倍。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 136054,
+      "friendsCount": 1408,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973943477785247744/vid/avc1/704x1280/1YDQ2MEZUXLvpg0b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1973943534802870279",
+    "fullText": "黑客帝国躲子弹生成效果不太行呀 https://t.co/qdRSr7QnId"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18508,
+      "followersCount": 18510,
       "friendsCount": 1436,
       "location": "Hard roads are never crowed."
     },
@@ -20,7 +52,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57446,
+      "followersCount": 57447,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -35,7 +67,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57446,
+      "followersCount": 57447,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -62,6 +94,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/TradeVALA/status/1973908083446550831",
     "fullText": "3…2…1 ACTION \n\nGo Fund Yourself x VALA\n\nVALA just went from your phone screen to the BIG screen.\n\nMillions will learn how VALA is turning their dreams into reality\n\nAiring 11/6 on @cheddar  📺 https://t.co/9LGOjQ8ISr"
+  },
+  {
+    "user": {
+      "screenName": "roo_code",
+      "name": "Roo Code",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904730753948065793/L5zhk0Yq_normal.jpg",
+      "description": "A whole dev team of AI agents in your VS Code.",
+      "followersCount": 8141,
+      "friendsCount": 711,
+      "location": "Your Editor"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973907531199291392/vid/avc1/1080x1920/Ml9Ob-ZbftriiN0x.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/roo_code/status/1973908064068923880",
+    "fullText": "\"I Don't Write Code Anymore.\" \n\nSix months without writing a line of code. Every change goes through AI, even the one-liners. Roo Code has shifted the meta from typing code to typing thoughts. https://t.co/QXDnKLxLOv"
   },
   {
     "user": {
@@ -101,7 +150,7 @@
       "name": "IGN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1967642331370360836/-hHCaX_i_normal.jpg",
       "description": "We're all about movies, TV, and video games!",
-      "followersCount": 10249746,
+      "followersCount": 10249908,
       "friendsCount": 1441,
       "location": ""
     },
@@ -116,7 +165,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20071,
+      "followersCount": 20072,
       "friendsCount": 865,
       "location": "San Jose, CA"
     },
@@ -133,7 +182,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18508,
+      "followersCount": 18510,
       "friendsCount": 1436,
       "location": "Hard roads are never crowed."
     },
@@ -150,7 +199,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18508,
+      "followersCount": 18510,
       "friendsCount": 1436,
       "location": "Hard roads are never crowed."
     },
@@ -165,7 +214,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18508,
+      "followersCount": 18510,
       "friendsCount": 1436,
       "location": "Hard roads are never crowed."
     },
@@ -183,7 +232,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16528,
+      "followersCount": 16529,
       "friendsCount": 4221,
       "location": ""
     },
@@ -234,7 +283,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16528,
+      "followersCount": 16529,
       "friendsCount": 4221,
       "location": ""
     },
@@ -268,7 +317,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8895,
+      "followersCount": 8896,
       "friendsCount": 300,
       "location": ""
     },
@@ -285,7 +334,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5097,
+      "followersCount": 5098,
       "friendsCount": 511,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -317,7 +366,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75907,
+      "followersCount": 75909,
       "friendsCount": 3471,
       "location": ""
     },
@@ -347,7 +396,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18508,
+      "followersCount": 18510,
       "friendsCount": 1436,
       "location": "Hard roads are never crowed."
     },
@@ -366,7 +415,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8895,
+      "followersCount": 8896,
       "friendsCount": 300,
       "location": ""
     },
@@ -398,7 +447,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8367,
+      "followersCount": 8366,
       "friendsCount": 1900,
       "location": ""
     },
@@ -432,7 +481,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16528,
+      "followersCount": 16529,
       "friendsCount": 4221,
       "location": ""
     },
@@ -449,7 +498,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34325,
+      "followersCount": 34323,
       "friendsCount": 187,
       "location": "China"
     },
@@ -498,7 +547,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136051,
+      "followersCount": 136054,
       "friendsCount": 1408,
       "location": "Chicago, IL"
     },
@@ -530,7 +579,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136051,
+      "followersCount": 136054,
       "friendsCount": 1408,
       "location": "Chicago, IL"
     },
@@ -547,7 +596,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36134,
+      "followersCount": 36136,
       "friendsCount": 698,
       "location": "Hong Kong"
     },
@@ -564,7 +613,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34325,
+      "followersCount": 34323,
       "friendsCount": 187,
       "location": "China"
     },
@@ -598,7 +647,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5097,
+      "followersCount": 5098,
       "friendsCount": 511,
       "location": "🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -641,6 +690,23 @@
   },
   {
     "user": {
+      "screenName": "olivarius8208",
+      "name": "Olivier Leclercq 🇫🇷🪂🛩️🇺🇸🐳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900951819016441856/0QAKcg0d_normal.jpg",
+      "description": "TAP ⚔️🪂 ⚔️. Entrepreneur B2C(s)++🛒. Owner of https://t.co/Gk1sqcajK9, Mott50, Suntect… Chief Curiosity Officer. Control Freak USA • California • Nevada • Tahoe •",
+      "followersCount": 1253,
+      "friendsCount": 695,
+      "location": "Montecito, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Nnqt0a4AAj0Au.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/olivarius8208/status/1973535053461561352",
+    "fullText": "Cancel Netflix..\nGo Woke ..Go broke https://t.co/ltu4C9j6QI"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -670,6 +736,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1973507398016147942",
     "fullText": "黑石：AI时代怎么玩？ https://t.co/bgDyaoF1y4 via @YouTube"
+  },
+  {
+    "user": {
+      "screenName": "p4sc4lh",
+      "name": "p4sc4l",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879904972801785857/D2CQfZTT_normal.jpg",
+      "description": "Because isn't AI the best 'person' to ask about AI? 💻🦾🤖",
+      "followersCount": 84,
+      "friendsCount": 73,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Mk0A5WwAAF5Pb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/p4sc4lh/status/1973461555497849211",
+    "fullText": "Gemini: The prevailing “opt-out” and “pay-per-output” frameworks, often presented as solutions to the intellectual property dilemmas posed by AI, are fundamentally untenable. Technologically the influence of training data is permanently &amp; inextricably encoded into a model’s core https://t.co/nXC141bNMD"
+  },
+  {
+    "user": {
+      "screenName": "FlipChicagoRed",
+      "name": "Chicago Flips Red",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861460713526509568/pP819Iak_normal.jpg",
+      "description": "CFR is a grassroots initiative dedicated to transforming the political landscape by prioritizing the needs of communities and citizens of Chicago",
+      "followersCount": 19732,
+      "friendsCount": 134,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2MYIymWsAAlig4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FlipChicagoRed/status/1973447609286300087",
+    "fullText": "Join us at REBAR for conversation and cocktails. We look forward to meeting all of you! https://t.co/svjSAMwKuK"
   },
   {
     "user": {
