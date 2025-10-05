@@ -5,7 +5,42 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
+      "friendsCount": 1446,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1974729278114955621",
+    "fullText": "https://t.co/goGQuFVyMx"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 136350,
+      "friendsCount": 1413,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2ejfaxXsAA239C.jpg",
+      "https://pbs.twimg.com/media/G2ejkH7XUAAnRQp.jpg",
+      "https://pbs.twimg.com/media/G2ejoTjXkAAGeeA.jpg",
+      "https://pbs.twimg.com/media/G2ejrQGXIAAZ0qH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1974727179851427875",
+    "fullText": "中学老师用 AI 出题，结果用的古诗还是 AI 编的😅 https://t.co/qLDcWTBdLo"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -20,7 +55,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -37,7 +72,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6940,
+      "followersCount": 6942,
       "friendsCount": 732,
       "location": "San Jose, CA"
     },
@@ -54,7 +89,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16659,
+      "followersCount": 16660,
       "friendsCount": 4231,
       "location": ""
     },
@@ -71,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34460,
+      "followersCount": 34458,
       "friendsCount": 188,
       "location": "China"
     },
@@ -143,7 +178,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6940,
+      "followersCount": 6942,
       "friendsCount": 732,
       "location": "San Jose, CA"
     },
@@ -195,7 +230,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136348,
+      "followersCount": 136350,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -212,7 +247,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136348,
+      "followersCount": 136350,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -222,6 +257,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1974606131575341075",
     "fullText": "codex 中输入 /status 就能看状态， pro 用户的 Token 用量也是有限制的，但正常还是不容易达到的，我最近一周使用强度蛮高，只用 GPT-5-Codex high，半周也才 26% https://t.co/etcJvMkkA0"
+  },
+  {
+    "user": {
+      "screenName": "TheeAdventurers",
+      "name": "Thee Adventurer’s Guild",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1708828824052416512/CWlzMLlk_normal.png",
+      "description": "Thee Adventurer’s Guild is a community organization for gamers, adventurers, and content creators to make memories and have fun! | #TheeAdventurersGuild",
+      "followersCount": 140,
+      "friendsCount": 119,
+      "location": "Naples, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2cwBZlWkAAZGBJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheeAdventurers/status/1974600661347283020",
+    "fullText": "Tune in on Twitch to join the Collab Stream with The Triple Threat!\n\nViewers have a stake in the game and will vote on moves in the chats.\n\nLinks in the thread below. https://t.co/LS0qkL8Fgi"
   },
   {
     "user": {
@@ -315,7 +367,7 @@
       "name": "America First Legal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1651630619154104321/Wq51K9QY_normal.jpg",
       "description": "Fighting for the American people and defending the rule of law in the United States 🇺🇸 | https://t.co/YYdmOR6NMg",
-      "followersCount": 355543,
+      "followersCount": 355545,
       "friendsCount": 526,
       "location": "Washington DC"
     },
@@ -362,7 +414,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136348,
+      "followersCount": 136350,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -392,7 +444,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -439,7 +491,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16659,
+      "followersCount": 16660,
       "friendsCount": 4231,
       "location": ""
     },
@@ -505,7 +557,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8418,
+      "followersCount": 8416,
       "friendsCount": 1905,
       "location": ""
     },
@@ -522,7 +574,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34460,
+      "followersCount": 34458,
       "friendsCount": 188,
       "location": "China"
     },
@@ -556,7 +608,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -573,7 +625,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8418,
+      "followersCount": 8416,
       "friendsCount": 1905,
       "location": ""
     },
@@ -627,7 +679,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16659,
+      "followersCount": 16660,
       "friendsCount": 4231,
       "location": ""
     },
@@ -644,7 +696,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -659,7 +711,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -677,7 +729,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34460,
+      "followersCount": 34458,
       "friendsCount": 188,
       "location": "China"
     },
@@ -694,7 +746,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8418,
+      "followersCount": 8416,
       "friendsCount": 1905,
       "location": ""
     },
@@ -709,7 +761,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18510,
+      "followersCount": 18512,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -724,7 +776,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36138,
+      "followersCount": 36140,
       "friendsCount": 698,
       "location": "Hong Kong"
     },
@@ -739,7 +791,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57487,
+      "followersCount": 57484,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -915,6 +967,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3267,
+      "friendsCount": 1003,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1974184106096287745/vid/avc1/1920x1080/ij5FO1ofyAYTp-er.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1974184435345195380",
+    "fullText": "Understanding the two deployment models of AI is key. 🌐 At Cisco's WebexOne, Snorre Kjesbu (SVP &amp; GM, @Cisco Collaboration) and Deepu Talla (VP, Robotics &amp; Edge AI, @NVIDIA) joined @MelodyBrue (VP and Principal Analyst, (@MoorInsStrat) to discuss the most significant shift of https://t.co/eNREiaoeoO"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -1013,7 +1082,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21451,
+      "followersCount": 21448,
       "friendsCount": 1042,
       "location": ""
     },
@@ -1071,5 +1140,22 @@
     ],
     "tweetUrl": "https://x.com/BobaCatOfficial/status/1974045237321363882",
     "fullText": "Wanna get high? https://t.co/kCFk28SJEF"
+  },
+  {
+    "user": {
+      "screenName": "retailbriefs",
+      "name": "Retail Briefs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777674874263109633/iRzG3ZKt_normal.jpg",
+      "description": "Retail Manager turned Journalist.\n\n🩲News Briefs🩲\n and insight from the Retail & Ecommerce Industries",
+      "followersCount": 161,
+      "friendsCount": 188,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2UweTZWsAAXJh2.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/retailbriefs/status/1974039713800454649",
+    "fullText": "According to Inside Retail Amazon has unveiled it own private label grocery portfolio (with 1000 SKUs). This could be trouble for ecommerce sellers.\n\nLower prices, rapid home delivery.  How is my \"seafood hot sauce\" supposed to compete? https://t.co/LTHuoDUuiF"
   }
 ]
