@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8898,
+      "friendsCount": 300,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1974867138998640660",
+    "fullText": "优剪的连锁店容易剪出寸头 😅 花 500 块钱洗剪吹烫，以为让 Tony 按照之前设计的造型剪就可以了，没强调留长点，没想到会剪那么短，感觉我还不如是随便找个三四十的剪，亏大了。也可能是聊天的时候问我做什么的，我说了程序员，然后就给我剪短了......"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8416,
+      "friendsCount": 1906,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2gdQjmacAACta0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1974860614754603384",
+    "fullText": "#副业有道 零花钱不够，副业来凑。儿子从小热衷搞钱，家里的废旧被他全部垄断了，每个星期3-5块钱的稳定现金流收入，从不间断。#搞钱分享 https://t.co/EoIjGWBW6O"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -57,7 +89,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
       "followersCount": 18506,
-      "friendsCount": 1447,
+      "friendsCount": 1448,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -72,7 +104,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
       "followersCount": 18506,
-      "friendsCount": 1447,
+      "friendsCount": 1448,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -87,7 +119,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
       "followersCount": 18506,
-      "friendsCount": 1447,
+      "friendsCount": 1448,
       "location": "Hard roads are never crowed."
     },
     "images": [
@@ -103,7 +135,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8414,
+      "followersCount": 8416,
       "friendsCount": 1906,
       "location": ""
     },
@@ -137,7 +169,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34462,
+      "followersCount": 34461,
       "friendsCount": 188,
       "location": "China"
     },
@@ -154,7 +186,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8414,
+      "followersCount": 8416,
       "friendsCount": 1906,
       "location": ""
     },
@@ -188,7 +220,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34462,
+      "followersCount": 34461,
       "friendsCount": 188,
       "location": "China"
     },
@@ -205,7 +237,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34462,
+      "followersCount": 34461,
       "friendsCount": 188,
       "location": "China"
     },
@@ -220,7 +252,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20094,
+      "followersCount": 20096,
       "friendsCount": 866,
       "location": "San Jose, CA"
     },
@@ -235,7 +267,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20094,
+      "followersCount": 20096,
       "friendsCount": 866,
       "location": "San Jose, CA"
     },
@@ -252,7 +284,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57484,
+      "followersCount": 57488,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -286,7 +318,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8414,
+      "followersCount": 8416,
       "friendsCount": 1906,
       "location": ""
     },
@@ -318,7 +350,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136435,
+      "followersCount": 136443,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -331,6 +363,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1974727179851427875",
     "fullText": "中学老师用 AI 出题，结果用的古诗还是 AI 编的😅 https://t.co/qLDcWTBdLo"
+  },
+  {
+    "user": {
+      "screenName": "DoomerOnBaseCTO",
+      "name": "DOOMER",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1960660073908232192/M7OBWwOV_normal.jpg",
+      "description": "They once called me Wojak, now I'm just a Doomer 🚬\nCA: 0xD3741ac9B3f280B0819191E4b30be4ECd990771e",
+      "followersCount": 7400,
+      "friendsCount": 27,
+      "location": "@Base"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2eP_TXXkAAjRSu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DoomerOnBaseCTO/status/1974705283453829210",
+    "fullText": "Gettin rich with my crypto bitch 🖤 https://t.co/IkrEtBdF4e"
   },
   {
     "user": {
@@ -371,7 +420,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
       "followersCount": 18506,
-      "friendsCount": 1447,
+      "friendsCount": 1448,
       "location": "Hard roads are never crowed."
     },
     "images": [
@@ -404,7 +453,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16662,
+      "followersCount": 16664,
       "friendsCount": 4234,
       "location": ""
     },
@@ -421,7 +470,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34462,
+      "followersCount": 34461,
       "friendsCount": 188,
       "location": "China"
     },
@@ -545,7 +594,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136435,
+      "followersCount": 136443,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -562,7 +611,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136435,
+      "followersCount": 136443,
       "friendsCount": 1413,
       "location": "Chicago, IL"
     },
@@ -628,7 +677,7 @@
       "name": "Rally Cry",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1243014751342346240/DYd7N4JM_normal.jpg",
       "description": "Your destination for esports tournaments and turnkey operations!\n\n🛠️ @AirForceGaming @R6esportsna @USAELesports and more!\n\n💼 business@rallycry.gg",
-      "followersCount": 1665,
+      "followersCount": 1666,
       "friendsCount": 168,
       "location": ""
     },
@@ -648,7 +697,7 @@
       "name": "p4sc4l",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879904972801785857/D2CQfZTT_normal.jpg",
       "description": "Because isn't AI the best 'person' to ask about AI? 💻🦾🤖",
-      "followersCount": 91,
+      "followersCount": 89,
       "friendsCount": 73,
       "location": ""
     },
