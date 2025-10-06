@@ -16,6 +16,23 @@
   },
   {
     "user": {
+      "screenName": "Zeyu_Shen_yo",
+      "name": "Zeyu Shen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832122419265568768/_9UQfzYK_normal.png",
+      "description": "Princeton CS PhD",
+      "followersCount": 144,
+      "friendsCount": 270,
+      "location": "New Jersey, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2iwNeGW8AEWILN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Zeyu_Shen_yo/status/1975022185849798815",
+    "fullText": "New paper: ReliabilityRAG — Effective and provably robust defense for RAG-based web search.\n\nLLMs often search online for answers to questions. However, retrieved documents can be irrelevant, noisy, contradictory, or even malicious. When retrieved results disagree, who should the https://t.co/dDeu3IeRdf"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -56,7 +73,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4378140,
+      "followersCount": 4378182,
       "friendsCount": 3,
       "location": ""
     },
@@ -71,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136509,
+      "followersCount": 136512,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -88,7 +105,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136509,
+      "followersCount": 136512,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -529,7 +546,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136509,
+      "followersCount": 136512,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -600,7 +617,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34493,
+      "followersCount": 34496,
       "friendsCount": 188,
       "location": "China"
     },
@@ -685,7 +702,7 @@
       "name": "Adam Goldstein",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864416801582665729/0pLww17O_normal.jpg",
       "description": "Founder & CEO of @ArcherAviation",
-      "followersCount": 40930,
+      "followersCount": 40934,
       "friendsCount": 416,
       "location": "Santa Clara, CA"
     },
@@ -736,7 +753,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136509,
+      "followersCount": 136512,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
