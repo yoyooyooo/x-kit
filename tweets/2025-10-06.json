@@ -1,12 +1,29 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8415,
+      "friendsCount": 1906,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2jlzflaEAA4urC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1975081150398996568",
+    "fullText": "#云南小吃 #凉米线，夏天吃起来很爽… https://t.co/NIzZ27STBo"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
       "followersCount": 34507,
-      "friendsCount": 188,
+      "friendsCount": 189,
       "location": "China"
     },
     "images": [],
@@ -37,7 +54,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24580,
+      "followersCount": 24579,
       "friendsCount": 306,
       "location": "Guangdong"
     },
@@ -69,7 +86,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36144,
+      "followersCount": 36145,
       "friendsCount": 698,
       "location": "Hong Kong"
     },
@@ -105,7 +122,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4378406,
+      "followersCount": 4378474,
       "friendsCount": 3,
       "location": ""
     },
@@ -120,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136516,
+      "followersCount": 136525,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -137,7 +154,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136516,
+      "followersCount": 136525,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -186,7 +203,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6582,
+      "followersCount": 6581,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -273,6 +290,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/PaulC__vapor114/status/1974910156053025029",
     "fullText": "@SimplyBitcoinTV @maxkeiser @hodlwithLedn I don't really understand the 'computer science' of bitcoin. I am the 'bookkeeper' trained in audit trails, generally accepted accounting principles, double entry accounting, forecasting compound interest and understanding sound money, exponential, unsustainable: terms like that."
+  },
+  {
+    "user": {
+      "screenName": "Glyble",
+      "name": "based",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1778159067233443840/i7fLBDWw_normal.jpg",
+      "description": "based-not financial advice Edu & Live Trading, #SPX #ES_F #SPY #QQQ #NQ_F\n\nDM for discords/groups I trade in",
+      "followersCount": 399,
+      "friendsCount": 695,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Glyble/status/1974908419778969979",
+    "fullText": "X Sentiment Score (XSS) Analysis for Futures Market Open on October 5, 2025\n\nXSS Score: -0.04 (Slightly bearish overall, reflecting cautious optimism tempered by overbought concerns and potential pullbacks).\n\nTo derive a comprehensive sentiment assessment for the upcoming futures"
   },
   {
     "user": {
@@ -378,7 +410,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18497,
+      "followersCount": 18500,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -393,7 +425,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18497,
+      "followersCount": 18500,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -408,7 +440,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18497,
+      "followersCount": 18500,
       "friendsCount": 1446,
       "location": "Hard roads are never crowed."
     },
@@ -460,7 +492,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
       "followersCount": 34507,
-      "friendsCount": 188,
+      "friendsCount": 189,
       "location": "China"
     },
     "images": [],
@@ -494,7 +526,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
       "followersCount": 34507,
-      "friendsCount": 188,
+      "friendsCount": 189,
       "location": "China"
     },
     "images": [
@@ -511,7 +543,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
       "followersCount": 34507,
-      "friendsCount": 188,
+      "friendsCount": 189,
       "location": "China"
     },
     "images": [],
@@ -525,7 +557,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20101,
+      "followersCount": 20102,
       "friendsCount": 866,
       "location": "San Jose, CA"
     },
@@ -540,7 +572,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20101,
+      "followersCount": 20102,
       "friendsCount": 866,
       "location": "San Jose, CA"
     },
@@ -608,7 +640,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136516,
+      "followersCount": 136525,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
@@ -830,7 +862,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 136516,
+      "followersCount": 136525,
       "friendsCount": 1414,
       "location": "Chicago, IL"
     },
