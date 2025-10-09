@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 36393,
+      "friendsCount": 700,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2zoe85bUAAnhB6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1976210843651191120",
+    "fullText": "分享Youtube上看到的Chrome Dev Tools MCP的一个实用用法。如果我在浏览器调试了CSS样式，那么只需要告诉AI请用dev-tools mcp检查我刚才的样式修改，同时修改对应的代码就可以了。\n\n我就不用再去搜索css代码进行修改，这个还挺实用的。有时候搜组件找半天（有时候还挺怀念BEM的，哈哈哈哈哈） https://t.co/OYSWlXgzSR"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57778,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2zk57KaAAE0JtC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1976206324724826586",
+    "fullText": "今天在 Hackernews 上读到的：原来在 Reddit 上发帖能搞垮一家年收入 2350万美元的公司 \n\nhttps://t.co/8BxPEMI1yP\n\nCodesmith 是一个编程教学网站，业内享有良好声誉，巅峰时期年收入达到2350万美元。\n\n然后竞争对手 Michael Novati 担任Reddit 子版块 https://t.co/ZLZ2X8gI8T"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153676,
+      "followersCount": 153677,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -57,7 +91,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153676,
+      "followersCount": 153677,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -104,7 +138,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16903,
+      "followersCount": 16905,
       "friendsCount": 4258,
       "location": ""
     },
@@ -121,7 +155,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75973,
+      "followersCount": 75975,
       "friendsCount": 3481,
       "location": ""
     },
@@ -219,7 +253,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36382,
+      "followersCount": 36393,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -268,7 +302,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36382,
+      "followersCount": 36393,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -338,7 +372,7 @@
       "name": "Walt Disney Studios",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963673965983154176/7RhK-Q_U_normal.jpg",
       "description": "Get tickets now for Tron: Ares, in theaters Friday: https://t.co/eyeIRKIc24",
-      "followersCount": 6660658,
+      "followersCount": 6660676,
       "friendsCount": 274,
       "location": "Los Angeles, CA"
     },
@@ -353,7 +387,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75973,
+      "followersCount": 75975,
       "friendsCount": 3481,
       "location": ""
     },
@@ -499,7 +533,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4393713,
+      "followersCount": 4393768,
       "friendsCount": 3,
       "location": ""
     },
@@ -661,7 +695,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4393713,
+      "followersCount": 4393768,
       "friendsCount": 3,
       "location": ""
     },
@@ -845,7 +879,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16903,
+      "followersCount": 16905,
       "friendsCount": 4258,
       "location": ""
     },
@@ -998,7 +1032,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75973,
+      "followersCount": 75975,
       "friendsCount": 3481,
       "location": ""
     },
