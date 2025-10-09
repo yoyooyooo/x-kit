@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6938,
+      "friendsCount": 734,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2x0-dpaAAIx7cO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1976083056500035997",
+    "fullText": "最近解决了一档进二档的问题。一种情况是急加速，一定要到五千转以上。另一种情况是休闲驾驶的时候，摘掉一档之后慢慢进档，这时候 GR86 的电脑会自动小小地轰一下油，趁机上二档就很丝滑。 https://t.co/nkmfyxzBJX"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 5104,
+      "friendsCount": 517,
+      "location": "🟩🟩🟩🟧🟨🟨🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1975937651250479105/vid/avc1/1152x720/rnGXS1dXmPBVSxLa.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/1976082683416502777",
+    "fullText": "为已有视频快速制作 3D 运镜教学📹（no pr，0 视频剪辑基础 1 分钟上手）\n\n刚刚有用户咨询：\n已有的视频能不能快速地制作 3D 运镜？\n\n能！而且非常简单。\n\n我给他录了个视频演示，也发在推上给大家看看，用 ScreenSage 做 3D 运镜有多简单！ https://t.co/VBZROduqaq"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4392986,
+      "followersCount": 4393033,
       "friendsCount": 3,
       "location": ""
     },
@@ -20,7 +54,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4392986,
+      "followersCount": 4393033,
       "friendsCount": 3,
       "location": ""
     },
@@ -54,7 +88,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59499,
+      "followersCount": 59500,
       "friendsCount": 394,
       "location": ""
     },
@@ -65,11 +99,28 @@
   },
   {
     "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16906,
+      "friendsCount": 1203,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vzdAlX0AAooWo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1975940567801696406",
+    "fullText": "Over 55% of global VC funding this year has gone to AI, led by OpenAI, Anthropic and xAI, according to @PitchBook.\n\nIn public markets, Nvidia, Microsoft and the rest of the Magnificent 7 have powered the S&amp;P 500 to record highs, while the equal-weighted index lags far behind. https://t.co/TjiMO5lsWY"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59499,
+      "followersCount": 59500,
       "friendsCount": 394,
       "location": ""
     },
@@ -86,7 +137,7 @@
       "name": "FlyingBeagle \"Abu Alya\"",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1843282948545552384/eDAE3zh6_normal.jpg",
       "description": "Gaza 🌶️🔻 Palestine  🇵🇸",
-      "followersCount": 9625,
+      "followersCount": 9626,
       "friendsCount": 1917,
       "location": ""
     },
@@ -104,7 +155,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59499,
+      "followersCount": 59500,
       "friendsCount": 394,
       "location": ""
     },
@@ -117,11 +168,28 @@
   },
   {
     "user": {
+      "screenName": "FirewhaleWin",
+      "name": "Firewhale",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1778251568036323328/6a6Nisb-_normal.jpg",
+      "description": "Truth-Seeker, Optimistic, Entrepreneur, Hexican. Patiently waiting for Kurzweil vision to take place.",
+      "followersCount": 2520,
+      "friendsCount": 402,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1975931276113686528/pu/vid/avc1/320x108/MG_xUhAEZZdffA3P.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/FirewhaleWin/status/1975932520358203628",
+    "fullText": "Launch day of XGAME is going to be an epic moment in Pulsechain history.\n\nDEFI space will become aware something special is happening on Pulsechain.\n\nXGAME price performance will SHOCK everyone, including believers.\n\nIt is sitting at 2 cents now.\n\nHow far can it go?\n\nI say 1$ :) https://t.co/frgLnj0YnB"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16840,
+      "followersCount": 16849,
       "friendsCount": 4257,
       "location": ""
     },
@@ -181,11 +249,26 @@
   },
   {
     "user": {
+      "screenName": "defidevcorp",
+      "name": "DeFi Dev Corp. (DFDV)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897064824317861888/I02i5oX3_normal.jpg",
+      "description": "The go-to $SOL Digital Asset Treasury (DAT) | Compounding SOL Per Share (SPS) | Listed on Nasdaq: $DFDV | Tokenized on Solana: $DFDVx |",
+      "followersCount": 12301,
+      "friendsCount": 192,
+      "location": "Turbine"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/defidevcorp/status/1975902123876639082",
+    "fullText": "1/ $DFDV declares Shareholder Warrant Dividend\n\nThe complete press release. 👇\nhttps://t.co/sCkbJEygXG"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75961,
+      "followersCount": 75962,
       "friendsCount": 3479,
       "location": ""
     },
@@ -273,7 +356,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -311,7 +394,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57758,
+      "followersCount": 57766,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -343,7 +426,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -413,7 +496,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16840,
+      "followersCount": 16849,
       "friendsCount": 4257,
       "location": ""
     },
@@ -447,7 +530,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -464,7 +547,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -479,7 +562,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34693,
+      "followersCount": 34698,
       "friendsCount": 192,
       "location": "China"
     },
@@ -496,7 +579,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -562,7 +645,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16840,
+      "followersCount": 16849,
       "friendsCount": 4257,
       "location": ""
     },
@@ -579,7 +662,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16840,
+      "followersCount": 16849,
       "friendsCount": 4257,
       "location": ""
     },
@@ -679,7 +762,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36230,
+      "followersCount": 36234,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
