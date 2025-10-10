@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 137065,
+      "friendsCount": 1423,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G24OcUVXcAAh4J3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1976533232041550180",
+    "fullText": "问：想问个问题，如果ToB的卡点是懂业务的和懂技术的不是一波人，在构建Agent的方式上，老板们就会倾向于通过低代码落地，但langchain新文章的逻辑又很扎实：低代码产品的空间在被模型能力和纯代码挤压，看起来这类产品似乎是过渡态。那整体未来的方向可能是什么呢？在企业里做低代码一定是沉没成本吗 https://t.co/aAxJc1jZZz"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18459,
+      "followersCount": 18455,
       "friendsCount": 1456,
       "location": "Hard roads are never crowed."
     },
@@ -39,7 +56,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36675,
+      "followersCount": 36687,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -56,7 +73,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153706,
+      "followersCount": 153715,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -71,7 +88,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57793,
+      "followersCount": 57796,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -88,7 +105,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 137053,
+      "followersCount": 137065,
       "friendsCount": 1423,
       "location": "Chicago, IL"
     },
@@ -105,7 +122,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36675,
+      "followersCount": 36687,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -122,7 +139,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34710,
+      "followersCount": 34712,
       "friendsCount": 192,
       "location": "China"
     },
@@ -139,7 +156,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34710,
+      "followersCount": 34712,
       "friendsCount": 192,
       "location": "China"
     },
@@ -173,7 +190,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57793,
+      "followersCount": 57796,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -207,7 +224,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191225,
+      "followersCount": 191227,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -399,11 +416,26 @@
   },
   {
     "user": {
+      "screenName": "DanCevette",
+      "name": "Dan Cevette",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952770759450824704/j5_8rQMx_normal.jpg",
+      "description": "Northeast Supervisor @prepbaseball | 3rd round draft pick, 11 yr pro, '02 PA @Gatorade ⚡️ POTY | ⚾️ & motivation | 80k+ strong | 🇺🇸 | ✝️",
+      "followersCount": 83761,
+      "friendsCount": 18902,
+      "location": "Pennsylvania, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DanCevette/status/1976395137761833283",
+    "fullText": "GPA is one of the most underrated stats in recruiting:\n\n4.0 = 94% of schools can recruit you\n3.5 = 72%\n3.0 = 51%\n2.5 = 21%\n2.0 = Only 8%\n\nKnowledge is power."
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36675,
+      "followersCount": 36687,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -879,6 +911,23 @@
   },
   {
     "user": {
+      "screenName": "10minutedrill",
+      "name": "10 Minute Drill",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946819852565426177/iLAjMfCk_normal.jpg",
+      "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattdizwhitlock. New episodes T/Th.",
+      "followersCount": 3861,
+      "friendsCount": 150,
+      "location": "Washington, DC "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976139131185983488/vid/avc1/1280x720/8fbpQbCynWow8-x5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/10minutedrill/status/1976282752195624988",
+    "fullText": "🗳️November election update \n\nWith less than a month until election day in Virginia and New Jersey, we take a look at the biggest races, who has momentum, and what surprises to look out for. https://t.co/kWzis5wqco"
+  },
+  {
+    "user": {
       "screenName": "USFunds",
       "name": "U.S. Global Investors",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
@@ -968,8 +1017,8 @@
       "name": "GraniteShares ETFs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1975028403293032448/FLcaq_ac_normal.jpg",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
-      "followersCount": 11622,
-      "friendsCount": 2570,
+      "followersCount": 11625,
+      "friendsCount": 2562,
       "location": "Manhattan, NY"
     },
     "images": [
@@ -985,7 +1034,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18459,
+      "followersCount": 18455,
       "friendsCount": 1456,
       "location": "Hard roads are never crowed."
     },
@@ -1000,7 +1049,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18459,
+      "followersCount": 18455,
       "friendsCount": 1456,
       "location": "Hard roads are never crowed."
     },
@@ -1032,7 +1081,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "你想怎样度过这一生",
-      "followersCount": 18459,
+      "followersCount": 18455,
       "friendsCount": 1456,
       "location": "Hard roads are never crowed."
     },
@@ -1064,7 +1113,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34710,
+      "followersCount": 34712,
       "friendsCount": 192,
       "location": "China"
     },
@@ -1113,7 +1162,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36677,
+      "followersCount": 36687,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -1251,7 +1300,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76001,
+      "followersCount": 76003,
       "friendsCount": 3483,
       "location": ""
     },
@@ -1613,7 +1662,7 @@
       "name": "Concordium",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904167599270686720/m6c3T9HI_normal.jpg",
       "description": "→ Layer-1 blockchain built to enable enterprise-ready stablecoins with built-in trust and compliance-ready design | 📍 Smart Money Starts here",
-      "followersCount": 163613,
+      "followersCount": 163632,
       "friendsCount": 139,
       "location": "Zug, Switzerland"
     },
