@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57795,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976458368509411330/vid/avc1/1080x1920/jfgGcHY22J9w5Q0L.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1976458475015372916",
+    "fullText": "在上海十几年了 还是呆过最发达的城市 我家附近十分钟有个狗狗乐园 全封闭 非常大 有各种狗狗游乐设施 这是我见过最现代的宠物友好公园了\n\n这就是我想一直呆在上海的原因 包容 友好 基础设施都是顶尖的 https://t.co/jKydtb2scV"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 16931,
+      "friendsCount": 4259,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976389148954013696/vid/avc1/480x852/nK6ejKHuydCdCnVV.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1976457815134023875",
+    "fullText": "笑死，创作水平取决于作者经历和脑洞\n\n https://t.co/C7OElcPKbU"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 191211,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1976454664989430031",
+    "fullText": "周五软件分享\n\n- Sumo Paint：图像编辑工具，Photoshop的网页替代品 https://t.co/snlRkkSRN9\n\n- pdoc：将Python脚本注释转为API文档 https://t.co/5chP8kzmvr\n\n- Scribe OCR：对图片和PDF文件进行OCR的网页应用 https://t.co/dsPooxGLje\n\n更多软件 #科技爱好者周刊（第368期）https://t.co/HNZ1iNuJCS"
+  },
+  {
+    "user": {
       "screenName": "Benzinga",
       "name": "Benzinga",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864785671535165440/j4HvN5m7_normal.jpg",
@@ -69,11 +118,26 @@
   },
   {
     "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972671265002381312/QLJe5-gY_normal.jpg",
+      "description": "MONOPOLY IS BACK AT McD’S!! GET YOUR BAG! REGISTRATION AND RULES IN THE APP. https://t.co/qx3XOdl6Z1",
+      "followersCount": 4784514,
+      "friendsCount": 12962,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1976402618852561269",
+    "fullText": "Monopoly at McD’s is back, and Mr. Monopoly cannot stop talking about it. Certified Yapper. Play now for a chance to WIN!"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36629,
+      "followersCount": 36636,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -81,6 +145,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihui_indie/status/1976392364316107176",
     "fullText": "分享个真事儿，国庆期间发现有两个之前认识但不熟的朋友突然买房了，我挺好奇的是，为什么在这个经济周期下还会买房，是钱太多用不完吗？\n\n 结论：好像是的......\n\n我认真的研究了一下他们的朋友圈+小红书，2个相似点：\n1. 他们频繁往返迪拜\n2. 前两年都加入了crypto的公司"
+  },
+  {
+    "user": {
+      "screenName": "IZADI",
+      "name": "IZADI 🫟",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1973912140961759232/Bgh1eLPg_normal.png",
+      "description": "🥂🕯️Founder: @GraffitiMansion 🎨 \nWhat I trade with https://t.co/RXL42XEGrZ\n\nTweets = NFA & DYOR\nDisclaimer:",
+      "followersCount": 42239,
+      "friendsCount": 10333,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976383214353829888/vid/avc1/2160x3840/2bN5FYCQ5UKtNYR0.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/IZADI/status/1976386812877865240",
+    "fullText": "so @itisdanielmac didnt know the make 1 0f 1 Rolls-Royce's ¯\\_(ツ)_/¯ https://t.co/6VhrOs0jhh"
   },
   {
     "user": {
@@ -101,6 +182,21 @@
   },
   {
     "user": {
+      "screenName": "StephenP48273",
+      "name": "Stephen D Pelletier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1926959435139723264/HA0_4mjc_normal.jpg",
+      "description": "Un-retiring tech exec: Interleaf, Intuit, OffRoad, Sun, ApplePie, now Just Beyond Holdings. Ignited by Grok’s voice: a Grokistotle advocate.",
+      "followersCount": 239,
+      "friendsCount": 339,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StephenP48273/status/1976355755226697801",
+    "fullText": "@BrianRoemmele Human social attention focuses on controversies, not axioms, and tends to be bipolar. Reddit's downvoting mechanism encourages partisan engagement by offering them the \"win\" of suppressing their competition but is a terrible result to train on because it erases real debates."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -118,6 +214,23 @@
   },
   {
     "user": {
+      "screenName": "Benzinga",
+      "name": "Benzinga",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864785671535165440/j4HvN5m7_normal.jpg",
+      "description": "Financial News, Data & Education 💸",
+      "followersCount": 314291,
+      "friendsCount": 2866,
+      "location": "Detroit"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976343714537603074/vid/avc1/1920x1080/T89Pqcsqe2y9ZMGu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Benzinga/status/1976345887648759856",
+    "fullText": "Matt Meeker, CEO of Bark ($BARK), joined @marketopolis_ to talk about what it takes to turn around a struggling public company.\n\nIn 2023, Bark’s $400M cash pile dropped to $200M — just a year of runway. Now? The company’s EBITDA positive and generating cash flow.\n\nListen now! https://t.co/EX0uCAZYu7"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -132,6 +245,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1976343576520085928",
     "fullText": "【美国居民收入情况】\n美国统计局9月份公布了2024年美国居民的收入情况，信息含量挺高，我圈出了重点：\n1. 已婚家庭收入高于其他家庭组成情况的收入\n2. 亚裔收入高于其他族裔\n3. 45-54岁这个年龄阶段收入最高\n4. 多读书明显有利于提升收入 https://t.co/x2Jj0Ea9Vt"
+  },
+  {
+    "user": {
+      "screenName": "Outkick",
+      "name": "OutKick",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
+      "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/w97Usc0SLn",
+      "followersCount": 357257,
+      "friendsCount": 689,
+      "location": "America"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Outkick/status/1976335096593690964",
+    "fullText": ".@ClayTravis has his picks ready for tonight's and Sunday's football action!\n\nDownload the @PrizePicks app today and use code OUTKICK to get $50 in lineups after you play your first $5 lineup!"
   },
   {
     "user": {
@@ -225,7 +353,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16930,
+      "followersCount": 16931,
       "friendsCount": 4259,
       "location": ""
     },
@@ -321,7 +449,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34694,
+      "followersCount": 34698,
       "friendsCount": 192,
       "location": "China"
     },
@@ -370,7 +498,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36629,
+      "followersCount": 36636,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -387,7 +515,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57793,
+      "followersCount": 57795,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -404,7 +532,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153700,
+      "followersCount": 153699,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -422,7 +550,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153700,
+      "followersCount": 153699,
       "friendsCount": 491,
       "location": "中华人民共和国"
     },
@@ -437,7 +565,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 16930,
+      "followersCount": 16931,
       "friendsCount": 4259,
       "location": ""
     },
@@ -454,7 +582,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 75991,
+      "followersCount": 75992,
       "friendsCount": 3483,
       "location": ""
     },
@@ -469,7 +597,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34694,
+      "followersCount": 34698,
       "friendsCount": 192,
       "location": "China"
     },
@@ -501,7 +629,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36629,
+      "followersCount": 36636,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -535,7 +663,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 36629,
+      "followersCount": 36636,
       "friendsCount": 700,
       "location": "Hong Kong"
     },
@@ -598,6 +726,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1976097342362472698",
     "fullText": "昨晚没忍住，把公司买的英伟达Thor拆的稀巴烂，主要想研究一下Thor牛逼的散热结构\n\n败家子属性不改 😂 https://t.co/MTfkzNBIYf"
+  },
+  {
+    "user": {
+      "screenName": "DisneyStudios",
+      "name": "Walt Disney Studios",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976412435033772032/ub5vQD9r_normal.jpg",
+      "description": "Get tickets now for Tron: Ares, in theaters tonight: https://t.co/eyeIRKIc24",
+      "followersCount": 6661342,
+      "friendsCount": 274,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DisneyStudios/status/1976096995543826460",
+    "fullText": "Experience an “absolute rush from beginning to end” and see Tron: Ares now playing in theaters."
   },
   {
     "user": {
@@ -679,6 +822,23 @@
     ],
     "tweetUrl": "https://x.com/Ravens/status/1976016766573724151",
     "fullText": ".@alohigilman on joining the Ravens: https://t.co/m75KUbMklW"
+  },
+  {
+    "user": {
+      "screenName": "ConcordiumNet",
+      "name": "Concordium",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904167599270686720/m6c3T9HI_normal.jpg",
+      "description": "→ Layer-1 blockchain built to enable enterprise-ready stablecoins with built-in trust and compliance-ready design | 📍 Smart Money Starts here",
+      "followersCount": 163650,
+      "friendsCount": 139,
+      "location": "Zug, Switzerland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vkj7uagAAL6mG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ConcordiumNet/status/1975924171738853710",
+    "fullText": "🔔 The future of digital payments is taking shape.\n\nConcordium has partnered with @Ledger, the global leader in hardware wallet security, to bring privacy-preserving payments and identity to millions of users. https://t.co/hCVU1XKgU8"
   },
   {
     "user": {
