@@ -1,6 +1,42 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 36843,
+      "friendsCount": 700,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G28TJbIbwAQLgGU.jpg",
+      "https://pbs.twimg.com/media/G28TJbMbwAAB_7b.jpg",
+      "https://pbs.twimg.com/media/G28TJbKaUAAwCLj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1976819822542647314",
+    "fullText": "北京终于出太阳了，连续几天下雨。本来今天准备在工作室录课，看在好天气还是来咖啡店坐会，下午录制✌️ https://t.co/V6E4RWguY4"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "你想怎样度过这一生",
+      "followersCount": 18455,
+      "friendsCount": 1461,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G28RljobwAImwJf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1976818105696567565",
+    "fullText": "一觉睡醒，这根针扎到102000，太牛逼了🤣 https://t.co/4VgiQvEqPo"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,7 +58,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 137256,
+      "followersCount": 137264,
       "friendsCount": 1423,
       "location": "Chicago, IL"
     },
@@ -40,7 +76,7 @@
       "name": "Citizens for Sound Money",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1696988855105187841/0lgHAh83_normal.jpg",
       "description": "A non-profit to encourage the use of Sound Money and protect your right to do so!",
-      "followersCount": 3795,
+      "followersCount": 3794,
       "friendsCount": 181,
       "location": "United States"
     },
@@ -53,11 +89,28 @@
   },
   {
     "user": {
+      "screenName": "SermonAudio",
+      "name": "SermonAudio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953566079004889088/yyR_azeE_normal.jpg",
+      "description": "The largest and most trusted library of sermons from conservative churches and ministries worldwide.",
+      "followersCount": 7581,
+      "friendsCount": 66,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976467685480267778/vid/avc1/2578x1080/_RTwCr4nxj4vtQqz.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SermonAudio/status/1976724414562455676",
+    "fullText": "TRAILER: The Story of SermonAudio\n\nDiscover the remarkable journey of how SermonAudio began with a young boy in the 1980s who fell asleep each night listening to cassette tapes of preaching—a simple beginning that would, by God's providence, grow into a global platform reaching https://t.co/aK6sUt3306"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59519,
+      "followersCount": 59526,
       "friendsCount": 394,
       "location": ""
     },
@@ -82,6 +135,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1976701241171591553",
     "fullText": "刚才美股突然小幅跳水，终于等到抽底美股的时机了。我打算这周日去趟办个香港银行卡，准备入坑。问题是谁能告诉我一个签注港澳通行证的简单办法◔‸◔? 通关口岸能否现场签注现场通关？"
+  },
+  {
+    "user": {
+      "screenName": "10myrs",
+      "name": "Jus10 Myrs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937687936683966464/7u_daQyi_normal.jpg",
+      "description": "Ten Million Years of Humanity Start Today!",
+      "followersCount": 159,
+      "friendsCount": 444,
+      "location": "Tacoma, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/10myrs/status/1976700925717946485",
+    "fullText": "You know how when you play a videogame for too long in one sitting, and then when you close your eyes you see jumbled incoherent visuals from the game?\n\nI think that's what it's like to be an LLM."
   },
   {
     "user": {
@@ -168,7 +236,7 @@
       "name": "Fuse Energy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1951694856167829505/1-tBmsYQ_normal.jpg",
       "description": "Building energy superabundance - from low carbon generation powering your home, to smarter grids on @Solana.",
-      "followersCount": 15671,
+      "followersCount": 15670,
       "friendsCount": 24,
       "location": ""
     },
@@ -183,7 +251,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34741,
+      "followersCount": 34737,
       "friendsCount": 192,
       "location": "China"
     },
@@ -198,7 +266,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24747,
+      "followersCount": 24750,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -245,7 +313,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34741,
+      "followersCount": 34737,
       "friendsCount": 192,
       "location": "China"
     },
@@ -279,7 +347,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34741,
+      "followersCount": 34737,
       "friendsCount": 192,
       "location": "China"
     },
@@ -298,7 +366,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34741,
+      "followersCount": 34737,
       "friendsCount": 192,
       "location": "China"
     },
@@ -345,7 +413,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 34741,
+      "followersCount": 34737,
       "friendsCount": 192,
       "location": "China"
     },
@@ -362,7 +430,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20458,
+      "followersCount": 20468,
       "friendsCount": 868,
       "location": "San Jose, CA"
     },
@@ -377,7 +445,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20458,
+      "followersCount": 20468,
       "friendsCount": 868,
       "location": "San Jose, CA"
     },
@@ -392,7 +460,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 137256,
+      "followersCount": 137264,
       "friendsCount": 1423,
       "location": "Chicago, IL"
     },
@@ -509,7 +577,7 @@
       "name": "Shyam Sankar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1698394928991399936/4D_Gd9qV_normal.jpg",
       "description": "CTO @Palantirtech, Chairman @Ginkgo, Trustee @HudsonInstitute https://t.co/YfjjcyVdzX https://t.co/ePIcFWllby https://t.co/oaEBf1t1S5",
-      "followersCount": 46728,
+      "followersCount": 46735,
       "friendsCount": 270,
       "location": "Colorado"
     },
