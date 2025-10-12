@@ -1,11 +1,94 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 35193,
+      "friendsCount": 192,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1977204089349103616/pu/vid/avc1/1280x720/Z0VeZJfTAdvNM0DA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1977204156042707239",
+    "fullText": "罗素有思想，讲的太好了\n\n1. 理性的人会怀疑自己的想法，而不是盲目自信\n\n2. 一个好的思想本质是怀有善念，而不是传播仇恨\n\n从历史角度来说，人性没有什么对和错，所有的理论和制度背后，无非是一部分人和另外一部分人利益有冲突后，创造出来的各种各样的问题。 https://t.co/EfLPPBUEs4"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8431,
+      "friendsCount": 1924,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1977197147893506412",
+    "fullText": "国庆回家，老爸和我聊天说：从去年开始，他的退休金降了 1600，医保个人账户每月到账也只有之前的一半了。我随口说：我的工资也大不如前了，都是 XXX惹的祸。他说：你放屁，XXX 没错，你看美国政府都快关门了，咱们不买他们的大豆，美国农民日子都没法过了。我说：好吧，你懂的还挺多。😂😂😂"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 76049,
+      "friendsCount": 3483,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Bp3TRbwAUNj2u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1977196646141464634",
+    "fullText": "tsoding on PyCon China @tsoding \n\nhttps://t.co/yTkHKFGkw9 https://t.co/hv9QdNKW1t"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 9000,
+      "friendsCount": 555,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1977195339783557490",
+    "fullText": "XGo v1.5.2 发布，第一个 ai 作为主力程序员的版本 - https://t.co/SdkjZ1B8PA"
+  },
+  {
+    "user": {
+      "screenName": "1ogos_",
+      "name": "Gojo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1973593558973063168/Yi89dfPD_normal.jpg",
+      "description": "",
+      "followersCount": 2721,
+      "friendsCount": 102,
+      "location": "Philadelphia, PA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Bab3SWMAA0P-4.jpg",
+      "https://pbs.twimg.com/media/G3Bab3PXEAAAqQm.jpg",
+      "https://pbs.twimg.com/media/G3Bab3WXoAAee3E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/1ogos_/status/1977179674099782112",
+    "fullText": "In a free for all fight which movie Hulk comes out on top? https://t.co/sSQiF7gZOE"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17089,
+      "followersCount": 17095,
       "friendsCount": 4269,
       "location": ""
     },
@@ -39,7 +122,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20614,
+      "followersCount": 20615,
       "friendsCount": 869,
       "location": "San Jose, CA"
     },
@@ -71,7 +154,7 @@
       "name": "Plushie Dreadfuls",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1964463586929233923/HYtUvnfe_normal.jpg",
       "description": "Peculiarly Patched Plushies. Fan Requested, Crowd Designed #PlushieDreadfuls #plushie #emotionalsupportplushies #mentalhealthmatters",
-      "followersCount": 63669,
+      "followersCount": 63670,
       "friendsCount": 65,
       "location": "The Spooky Forest"
     },
@@ -105,7 +188,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24842,
+      "followersCount": 24845,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -120,7 +203,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17089,
+      "followersCount": 17095,
       "friendsCount": 4269,
       "location": ""
     },
@@ -137,7 +220,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18439,
+      "followersCount": 18441,
       "friendsCount": 1463,
       "location": "Hard roads are never crowed."
     },
@@ -186,8 +269,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8427,
-      "friendsCount": 1921,
+      "followersCount": 8431,
+      "friendsCount": 1924,
       "location": ""
     },
     "images": [
@@ -203,7 +286,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59583,
+      "followersCount": 59585,
       "friendsCount": 395,
       "location": ""
     },
@@ -220,7 +303,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18439,
+      "followersCount": 18441,
       "friendsCount": 1463,
       "location": "Hard roads are never crowed."
     },
@@ -288,8 +371,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8427,
-      "friendsCount": 1921,
+      "followersCount": 8431,
+      "friendsCount": 1924,
       "location": ""
     },
     "images": [
@@ -305,7 +388,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8897,
+      "followersCount": 8896,
       "friendsCount": 300,
       "location": ""
     },
@@ -320,7 +403,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35190,
+      "followersCount": 35193,
       "friendsCount": 192,
       "location": "China"
     },
@@ -339,7 +422,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18439,
+      "followersCount": 18441,
       "friendsCount": 1463,
       "location": "Hard roads are never crowed."
     },
@@ -354,7 +437,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8897,
+      "followersCount": 8896,
       "friendsCount": 300,
       "location": ""
     },
@@ -369,7 +452,7 @@
       "name": "BASEPOKER",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950113909991755776/XZhKpv4a_normal.jpg",
       "description": "Web-based Crypto Poker Platform\nPlay poker with crypto. \nJoin Daily MTTs\n$2000 Deposit Bonus\n\nhttps://t.co/adLNC37z1D",
-      "followersCount": 14228,
+      "followersCount": 14230,
       "friendsCount": 1220,
       "location": ""
     },
@@ -384,7 +467,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18439,
+      "followersCount": 18441,
       "friendsCount": 1463,
       "location": "Hard roads are never crowed."
     },
@@ -401,7 +484,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18439,
+      "followersCount": 18441,
       "friendsCount": 1463,
       "location": "Hard roads are never crowed."
     },
@@ -419,7 +502,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24842,
+      "followersCount": 24845,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -434,7 +517,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8897,
+      "followersCount": 8896,
       "friendsCount": 300,
       "location": ""
     },
@@ -451,8 +534,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8427,
-      "friendsCount": 1921,
+      "followersCount": 8431,
+      "friendsCount": 1924,
       "location": ""
     },
     "images": [
@@ -468,7 +551,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57812,
+      "followersCount": 57815,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -519,7 +602,7 @@
       "name": "Aasi Tahir Siddique",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599129635782103040/wg19Vcbn_normal.jpg",
       "description": "Independent Thinker and Agent for Change \n(Our true Nationality is Humankind)\nPeace through friendship, not wars",
-      "followersCount": 10840,
+      "followersCount": 10839,
       "friendsCount": 7200,
       "location": "United States"
     },
@@ -552,7 +635,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937687936683966464/7u_daQyi_normal.jpg",
       "description": "Ten Million Years of Humanity Start Today!",
       "followersCount": 159,
-      "friendsCount": 444,
+      "friendsCount": 445,
       "location": "Tacoma, WA"
     },
     "images": [],
