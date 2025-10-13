@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37100,
+      "friendsCount": 704,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1977737505651749134",
+    "fullText": "当几乎所有AI厂商的AI能力调用，都是通过一个API_KEY就支持的时候。\n\n我实在很难相信，居然国内某知名云厂商还要凭证 + 签名，看那文档简直像在吃💩..."
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57902,
+      "followersCount": 57905,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -60,6 +75,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1977721720900338137",
     "fullText": "一到冬天，满大街20-60岁之间的女性就会围上这条围巾，像是某种神秘的仪式 https://t.co/vZrZy3kcKV"
+  },
+  {
+    "user": {
+      "screenName": "seahawkmedia",
+      "name": "Seahawk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1543532736639426560/iu3LEN7w_normal.jpg",
+      "description": "WordPress services at revolutionary pricing. Trusted by the most popular WordPress web hosters, themes, and plugins for WordPress pro services.",
+      "followersCount": 572,
+      "friendsCount": 875,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977710340264665088/vid/avc1/1080x1920/qia_4hqpnfVeZ1Sc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/seahawkmedia/status/1977717712202674345",
+    "fullText": "We're thrilled to announce that WP Legends is now powered by @wearehostingcom!\nThis partnership will enable us to continue delivering authentic stories from the web's most innovative creators.\nWatch this quick video to learn more about our exciting partnership! https://t.co/fselBZY5zy"
   },
   {
     "user": {
@@ -112,7 +144,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35446,
+      "followersCount": 35448,
       "friendsCount": 196,
       "location": "China"
     },
@@ -230,7 +262,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76059,
+      "followersCount": 76066,
       "friendsCount": 3485,
       "location": ""
     },
@@ -245,7 +277,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 110930,
+      "followersCount": 110932,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -292,7 +324,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17146,
+      "followersCount": 17153,
       "friendsCount": 4281,
       "location": ""
     },
@@ -310,7 +342,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35446,
+      "followersCount": 35448,
       "friendsCount": 196,
       "location": "China"
     },
@@ -357,7 +389,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17146,
+      "followersCount": 17153,
       "friendsCount": 4281,
       "location": ""
     },
@@ -374,7 +406,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17146,
+      "followersCount": 17153,
       "friendsCount": 4281,
       "location": ""
     },
@@ -408,7 +440,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138206,
+      "followersCount": 138220,
       "friendsCount": 1426,
       "location": "Chicago, IL"
     },
@@ -425,7 +457,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57902,
+      "followersCount": 57905,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -474,7 +506,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59650,
+      "followersCount": 59651,
       "friendsCount": 400,
       "location": ""
     },
@@ -508,7 +540,7 @@
       "name": "David H Braun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860454817375698944/T5GXPMdT_normal.jpg",
       "description": "I post about extreme events that are coming, but which you likely won't believe are possible until they happen.",
-      "followersCount": 638,
+      "followersCount": 640,
       "friendsCount": 410,
       "location": "Midwest USA"
     },
@@ -1127,5 +1159,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1977062120601928061",
     "fullText": "真羡慕那些龟男人设的推友，大大方方的发情，没人觉得奇怪。我在评论区打点字，想想算了这么多人看着呢，只能默默的删掉，找个龟男嘴替评论点个赞"
+  },
+  {
+    "user": {
+      "screenName": "docpresley2020",
+      "name": "Richard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1601701249799245824/mOU3wMTy_normal.jpg",
+      "description": "- Husband for 50 years to 1,  Father to 12, Grandfather to 22\n- Founder of Success Vision Express\n- Founder Presley Family Ministries, medical missions",
+      "followersCount": 1230,
+      "friendsCount": 191,
+      "location": "Tulsa Oklahoma"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/docpresley2020/status/1977021065286017086",
+    "fullText": "Recently, a pastor pointed an unloaded AR-17 at his congregation to emphasize sermon points, and I get it.\n\nMen are dropping out of traditional church,  some professional clergy see this and know it's a bad thing.\n\nToday auditorium-style churches are almost 70% female."
   }
 ]
