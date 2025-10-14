@@ -5,7 +5,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35497,
+      "followersCount": 35504,
       "friendsCount": 196,
       "location": "China"
     },
@@ -22,7 +22,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138371,
+      "followersCount": 138380,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -39,7 +39,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138371,
+      "followersCount": 138380,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -90,7 +90,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59658,
+      "followersCount": 59660,
       "friendsCount": 401,
       "location": ""
     },
@@ -108,7 +108,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4400510,
+      "followersCount": 4400578,
       "friendsCount": 3,
       "location": ""
     },
@@ -157,7 +157,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8622,
+      "followersCount": 8623,
       "friendsCount": 2015,
       "location": ""
     },
@@ -170,11 +170,28 @@
   },
   {
     "user": {
+      "screenName": "heinenbros",
+      "name": "Daniel Heinen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740197876649648128/IAgLvG7H_normal.jpg",
+      "description": "Building the future of American Intelligence. Founder of @graylark_io / @GeospyAI",
+      "followersCount": 3118,
+      "friendsCount": 277,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977658710047727616/vid/avc1/3840x2160/PErlUhaYexZae-4t.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/heinenbros/status/1977766285967806921",
+    "fullText": "People like to think AI is the enemy.\n\nWe disagree.\n\nAI isn’t replacing people ... it’s protecting them.\n\nGeoSpy is already being used by local and federal task forces to solve crimes and save lives. https://t.co/amaq7ZLEHM"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59658,
+      "followersCount": 59660,
       "friendsCount": 401,
       "location": ""
     },
@@ -239,7 +256,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -264,12 +281,29 @@
   },
   {
     "user": {
+      "screenName": "anduriltech",
+      "name": "Anduril Industries",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892311837968125955/YmCsRx5t_normal.jpg",
+      "description": "Anduril is shaping the future of defense, transforming U.S. & allied military capabilities with advanced technology.",
+      "followersCount": 163130,
+      "friendsCount": 284,
+      "location": "Orange County, CA "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3JJByWWUAATbSJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/anduriltech/status/1977725937807466713",
+    "fullText": "Superpowers for Superheroes.\n\nToday, we unveil EagleEye: the family of warfighter augments that place mission command &amp; AI directly into the operator's helmet. https://t.co/Xrw1vxs9cY"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -284,7 +318,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [
@@ -301,7 +335,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -316,7 +350,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -331,7 +365,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
       "followersCount": 18440,
-      "friendsCount": 1466,
+      "friendsCount": 1467,
       "location": "Hard roads are never crowed."
     },
     "images": [],
@@ -345,7 +379,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35497,
+      "followersCount": 35504,
       "friendsCount": 196,
       "location": "China"
     },
@@ -379,7 +413,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24865,
+      "followersCount": 24866,
       "friendsCount": 311,
       "location": "Guangdong"
     },
@@ -396,7 +430,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153817,
+      "followersCount": 153815,
       "friendsCount": 492,
       "location": "中华人民共和国"
     },
@@ -411,7 +445,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76080,
+      "followersCount": 76084,
       "friendsCount": 3485,
       "location": ""
     },
@@ -426,7 +460,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 110972,
+      "followersCount": 110975,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -441,7 +475,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17193,
+      "followersCount": 17199,
       "friendsCount": 4281,
       "location": ""
     },
@@ -459,7 +493,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35497,
+      "followersCount": 35504,
       "friendsCount": 196,
       "location": "China"
     },
@@ -516,5 +550,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/BeefDaddy47/status/1977509848729399380",
     "fullText": "What should I call my disc golf retail shop in my garage?"
+  },
+  {
+    "user": {
+      "screenName": "capitalresearch",
+      "name": "Capital Research Center",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/914864741046149121/k3-BGI_s_normal.jpg",
+      "description": "Capital Research Center is America's Investigative Think Tank, covering all the influencers in our politics.",
+      "followersCount": 9237,
+      "friendsCount": 3215,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977403974723477504/vid/avc1/1080x1920/UNtxBMGtCyMr1WZE.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/capitalresearch/status/1977404059620462773",
+    "fullText": "The Indivisible Project was never grassroots. Born from a “disrupt town halls” guide after Trump’s election, it now scripts protests, pays demonstrators, and trains activists in media tactics. Backed by Soros and Tides money, Indivisible manufactures outrage that looks https://t.co/2dUe9iSLVu"
   }
 ]
