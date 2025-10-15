@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "yuxiyou",
+      "name": "尤雨溪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
+      "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+      "followersCount": 111032,
+      "friendsCount": 249,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuxiyou/status/1978446360366956886",
+    "fullText": "飞美国国内线，第一次坐 Southwest Airlines，居然是 open seating… 加钱的票就早上飞机早选座 😅"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
+      "followersCount": 18422,
+      "friendsCount": 1471,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1978446269069529557",
+    "fullText": "人生的三个阶段\n\n1.出生\n2.这啥啊 \n3.死亡"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8628,
+      "friendsCount": 2019,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3TZcjzaQAAVqFJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1978446168737657235",
+    "fullText": "福特离开了，比亚迪来了！\n10月9日，巴西总统卢拉亲临比亚迪巴西巴伊亚州卡马萨里工厂，见证比亚迪第1400万辆新能源汽车下线，并成为该车车主。卢拉在随后的激情演讲中称“今天是我人生中最难忘的一天”，盛赞比亚迪让巴西人民“重拾尊严”。 https://t.co/twgBUDvBbs"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17289,
+      "followersCount": 17291,
       "friendsCount": 4304,
       "location": ""
     },
@@ -54,7 +101,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57936,
+      "followersCount": 57937,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -69,7 +116,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35941,
+      "followersCount": 35947,
       "friendsCount": 199,
       "location": "China"
     },
@@ -102,8 +149,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8629,
-      "friendsCount": 2018,
+      "followersCount": 8628,
+      "friendsCount": 2019,
       "location": ""
     },
     "images": [
@@ -134,7 +181,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17289,
+      "followersCount": 17291,
       "friendsCount": 4304,
       "location": ""
     },
@@ -151,7 +198,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21435,
+      "followersCount": 21432,
       "friendsCount": 1043,
       "location": ""
     },
@@ -168,7 +215,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35941,
+      "followersCount": 35947,
       "friendsCount": 199,
       "location": "China"
     },
@@ -185,7 +232,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 35941,
+      "followersCount": 35947,
       "friendsCount": 199,
       "location": "China"
     },
@@ -460,7 +507,7 @@
       "name": "Samsung Mobile",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1684842116198055936/oJngzEVZ_normal.jpg",
       "description": "Official X of Samsung Galaxy.\n#GalaxyAI",
-      "followersCount": 12107753,
+      "followersCount": 12107460,
       "friendsCount": 113,
       "location": ""
     },
