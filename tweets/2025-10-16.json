@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17340,
+      "friendsCount": 4305,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1978680897193812108",
+    "fullText": "突然觉得，还是搞软件好一点，\n隔壁硬件组，调着调着就冒烟儿了…\n\n另外，软硬件工区还是隔离下比较好，\n这要是周末啥的可能回来就看不见工位了…"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 36129,
+      "friendsCount": 200,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3WsRBYbwAEgif0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1978677022499983702",
+    "fullText": "新买的 ThinkPad X1 Carbon Gen13 还不错\n\n虽然键盘手感没有我Dell G16好，但是优势就是轻啊，全身碳纤维，2斤重，15mm厚，续航还长，平常看看内核代码够够的\n\n还有个缺点，这个键帽太容易粘指纹了，才写了一周代码就爆浆了，不过我喜欢这种战斗的痕迹 https://t.co/2n73sepZ5d"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17340,
+      "friendsCount": 4305,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3WpM1QWEAAaM4J.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1978673659347636372",
+    "fullText": "咖啡罐🫙 废物利用💐 https://t.co/06zKJdGoHy"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6682,
+      "friendsCount": 380,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1978672675443687667",
+    "fullText": "虽然我们现在还在看 AI，但是其实未来科技也在发展，这块可能抓住了就是下一个趋势。\n\n比如太空科技、量子科技、生物科技、低碳科技。\n\n往往要等5-10年才能突然认识到爆发"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24904,
+      "followersCount": 24905,
       "friendsCount": 311,
       "location": "Guangdong"
     },
@@ -22,7 +86,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4402969,
+      "followersCount": 4403016,
       "friendsCount": 3,
       "location": ""
     },
@@ -71,7 +135,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138754,
+      "followersCount": 138763,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -148,7 +212,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138754,
+      "followersCount": 138763,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -158,6 +222,25 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1978637099176706230",
     "fullText": "目前，互联网上AI创作的文章数量已经超过了人类撰写的文章数量，但 AI 生成的文章并未完全淹没人类写作内容\n\n作者：梅根·莫罗内（Megan Morrone）\n\n新近发布的一份研究表明，虽然AI生成的新文章曾短暂超过人类撰写的内容数量，但如今两者比例大致相当。\n\n为何这很重要？ https://t.co/Rf5CCxDzO6"
+  },
+  {
+    "user": {
+      "screenName": "TheGrimofCrypto",
+      "name": "CryptoGrim",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1948091069238775809/XKuT-s2D_normal.jpg",
+      "description": "Spot Swinger, High Leverage Scalper, Emotionless Trader",
+      "followersCount": 975,
+      "friendsCount": 63,
+      "location": "Your Liquidation"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3VqZXLW8AAN_sm.jpg",
+      "https://pbs.twimg.com/media/G3VqZXOWsAAFpDJ.jpg",
+      "https://pbs.twimg.com/media/G3VqZXNWUAAwmnE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheGrimofCrypto/status/1978604599092060202",
+    "fullText": "Story Time \n-------------------------------------------------\nI think it is important to let you guys know where I come from and specifically, what to expect from me.\nHere we go:\n\nPhase 1:\n\nI bought some $ETH back in 2014 because someone said it’ll pay off my house one day. I https://t.co/b08JtwcnOg"
   },
   {
     "user": {
@@ -240,11 +323,28 @@
   },
   {
     "user": {
+      "screenName": "DelegateHiggins",
+      "name": "Delegate Geary Higgins",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1766300316419469313/7slfEmNF_normal.jpg",
+      "description": "Representing Virginia’s 30th House District.",
+      "followersCount": 1642,
+      "friendsCount": 233,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978534966238576640/vid/avc1/3840x2160/n6wasuDkiD2PGc6l.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DelegateHiggins/status/1978535236896956820",
+    "fullText": "🚨ANNOUNCEMENT:\n\nGovernor Youngkin is including authorization for Oak Hill to become a State Park in his final budget, at my request. https://t.co/cOzno17fIF"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138754,
+      "followersCount": 138763,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -279,7 +379,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20722,
+      "followersCount": 20721,
       "friendsCount": 872,
       "location": "San Jose, CA"
     },
@@ -294,7 +394,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37154,
+      "followersCount": 37151,
       "friendsCount": 704,
       "location": "Hong Kong"
     },
@@ -342,7 +442,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36120,
+      "followersCount": 36129,
       "friendsCount": 200,
       "location": "China"
     },
@@ -359,7 +459,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8629,
       "friendsCount": 2022,
       "location": ""
     },
@@ -567,7 +667,7 @@
       "name": "Runware",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940809348361457665/Z_TVOFHw_normal.png",
       "description": "Run any AI model with Runware, at the lowest cost. Pay less, build more.  🔗 https://t.co/hhJ2enriWU",
-      "followersCount": 4630,
+      "followersCount": 4629,
       "friendsCount": 328,
       "location": ""
     },
@@ -680,7 +780,7 @@
       "name": "Chipotle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1888771317903572992/D60NrOxQ_normal.jpg",
       "description": "gimme my chimi",
-      "followersCount": 1375389,
+      "followersCount": 1375386,
       "friendsCount": 36,
       "location": ""
     },
