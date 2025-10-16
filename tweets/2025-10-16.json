@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8922,
+      "friendsCount": 301,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1978638827305701735",
+    "fullText": "早上骑自行车上班，12 分钟的路程，内心会骂几次“滴你妈了”，到公司附近的肯德基拿早餐，路上需要时刻做好心理准备，不知道旁边哪个人突然就吐痰了，在公司上厕所，忍受旁边的人外放短视频难听的笑声 😂"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 138724,
+      "friendsCount": 1427,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3WH59iXQAAiYi3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1978637099176706230",
+    "fullText": "目前，互联网上AI创作的文章数量已经超过了人类撰写的文章数量，但 AI 生成的文章并未完全淹没人类写作内容\n\n作者：梅根·莫罗内（Megan Morrone）\n\n新近发布的一份研究表明，虽然AI生成的新文章曾短暂超过人类撰写的内容数量，但如今两者比例大致相当。\n\n为何这很重要？ https://t.co/Rf5CCxDzO6"
+  },
+  {
+    "user": {
+      "screenName": "CambriaFunds",
+      "name": "Cambria Funds",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957898052913766400/ZfAaGeD3_normal.jpg",
+      "description": "ETF Fund Manager\nhttps://t.co/h5GJzvCenN",
+      "followersCount": 2886,
+      "friendsCount": 0,
+      "location": "Manhattan Beach, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3VQJH0asAA6Z5K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CambriaFunds/status/1978575821762617852",
+    "fullText": "Please join @MebFaber on Thursday, October 16th at 2pm ET for a webinar on the launch of the Cambria US EW ETF (USEW) and 351 to ETF conversions.  \n\nHe’ll cover: \n• Drawbacks of traditional market capitalization weighting \n• 351 to ETF conversion process\n\nRegister below 👇 https://t.co/qX8MPYoG0F"
+  },
+  {
+    "user": {
       "screenName": "Outkick",
       "name": "OutKick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
       "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/w97Usc0SLn",
-      "followersCount": 357483,
+      "followersCount": 357486,
       "friendsCount": 691,
       "location": "America"
     },
@@ -37,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 138706,
+      "followersCount": 138724,
       "friendsCount": 1427,
       "location": "Chicago, IL"
     },
@@ -72,7 +121,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 20716,
+      "followersCount": 20719,
       "friendsCount": 872,
       "location": "San Jose, CA"
     },
@@ -87,7 +136,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37142,
+      "followersCount": 37147,
       "friendsCount": 704,
       "location": "Hong Kong"
     },
@@ -102,7 +151,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18422,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -117,7 +166,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36091,
+      "followersCount": 36106,
       "friendsCount": 200,
       "location": "China"
     },
@@ -134,7 +183,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8632,
       "friendsCount": 2022,
       "location": ""
     },
@@ -149,7 +198,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111044,
+      "followersCount": 111050,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -164,7 +213,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18422,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -179,7 +228,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8632,
       "friendsCount": 2022,
       "location": ""
     },
@@ -213,7 +262,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17319,
+      "followersCount": 17329,
       "friendsCount": 4304,
       "location": ""
     },
@@ -230,7 +279,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18422,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -245,7 +294,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18422,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -262,7 +311,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57957,
+      "followersCount": 57958,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -277,7 +326,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36091,
+      "followersCount": 36106,
       "friendsCount": 200,
       "location": "China"
     },
@@ -295,7 +344,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18422,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -310,7 +359,7 @@
       "name": "Runware",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940809348361457665/Z_TVOFHw_normal.png",
       "description": "Run any AI model with Runware, at the lowest cost. Pay less, build more.  🔗 https://t.co/hhJ2enriWU",
-      "followersCount": 4628,
+      "followersCount": 4630,
       "friendsCount": 328,
       "location": ""
     },
@@ -416,5 +465,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/ChipotleTweets/status/1977992770955391110",
     "fullText": "saw the group chat. saw the pics. had to try it. NEW red chimichurri is that good."
+  },
+  {
+    "user": {
+      "screenName": "ChipotleTweets",
+      "name": "Chipotle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888771317903572992/D60NrOxQ_normal.jpg",
+      "description": "gimme my chimi",
+      "followersCount": 1375393,
+      "friendsCount": 36,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChipotleTweets/status/1977992770108412337",
+    "fullText": "meet your new fall obsession. new red chimichurri just dropped. try it for the first time."
   }
 ]
