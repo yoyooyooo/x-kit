@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21433,
+      "friendsCount": 1043,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3cKq4mXIAArDo9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1979068507569480102",
+    "fullText": "今天在一个群里聊起 PH 打榜，就多扯了几句。在我看来，无非两种路径：\n- 人跟着产品走（公司，不好绑定某个人）\n- 产品跟着人走（独立开发，可以延伸出无数产品）\n\n在这两种路径下就会分化出不同的矩阵需要维护，比如是以人还是以产品建立社区影响力。\n\n除了 ph、还有 x、github、reddit、hacknews... https://t.co/fAhKJt8uhQ"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17413,
+      "friendsCount": 4312,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3cOOPdWUAA1hj2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1979066285343343000",
+    "fullText": "“当他们被要求做一些事时，\n他们会觉得自己没有话语权，\n没有选择权，\n选择是别人替他们做出的。\n\n所以，\n他们会拒绝做这件事或故意去做其他事，\n即使他们本来可能很乐意做这件事。” https://t.co/b94J2MHTWC"
+  },
+  {
+    "user": {
       "screenName": "xushiwei",
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
@@ -22,7 +56,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17412,
+      "followersCount": 17413,
       "friendsCount": 4312,
       "location": ""
     },
@@ -39,7 +73,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6679,
+      "followersCount": 6678,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -86,7 +120,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18432,
       "friendsCount": 1473,
       "location": "Hard roads are never crowed."
     },
@@ -120,7 +154,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18428,
+      "followersCount": 18432,
       "friendsCount": 1473,
       "location": "Hard roads are never crowed."
     },
@@ -135,7 +169,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36293,
+      "followersCount": 36297,
       "friendsCount": 200,
       "location": "China"
     },
@@ -170,7 +204,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191420,
+      "followersCount": 191421,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -189,7 +223,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191420,
+      "followersCount": 191421,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -208,7 +242,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139085,
+      "followersCount": 139091,
       "friendsCount": 1429,
       "location": "Chicago, IL"
     },
@@ -260,7 +294,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111101,
+      "followersCount": 111102,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -275,7 +309,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111101,
+      "followersCount": 111102,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -1180,7 +1214,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17412,
+      "followersCount": 17413,
       "friendsCount": 4312,
       "location": ""
     },
