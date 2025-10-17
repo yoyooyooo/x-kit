@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8630,
+      "friendsCount": 2024,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1979202847851057244",
+    "fullText": "MySQL 的试图能支持数据的新增、修改和删除操作吗？\n答案是：某些条件下能，当数据行能对应到原始表的情况下可以。比如基于单表创建的视图，没有子查询没有计算列等。这个规则应该适应于大部分 RDB。\n嗯，我在 #DataCollie 可以对 Table 和 View 使用同一个单表数据查看器了。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -50,7 +65,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8630,
       "friendsCount": 2024,
       "location": ""
     },
@@ -65,7 +80,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8630,
       "friendsCount": 2024,
       "location": ""
     },
@@ -80,7 +95,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6680,
+      "followersCount": 6681,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -112,7 +127,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8631,
+      "followersCount": 8630,
       "friendsCount": 2024,
       "location": ""
     },
@@ -127,7 +142,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36338,
+      "followersCount": 36339,
       "friendsCount": 201,
       "location": "China"
     },
@@ -240,7 +255,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6680,
+      "followersCount": 6681,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -270,7 +285,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36338,
+      "followersCount": 36339,
       "friendsCount": 201,
       "location": "China"
     },
@@ -1400,7 +1415,7 @@
       "name": "OutKick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
       "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/w97Usc0SLn",
-      "followersCount": 357545,
+      "followersCount": 357554,
       "friendsCount": 693,
       "location": "America"
     },
