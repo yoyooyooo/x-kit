@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 9006,
+      "friendsCount": 555,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3bwtyaXMAAwWg5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/1979033766958969171",
+    "fullText": "历史时刻：第一次，XGo语言进入小学校园 https://t.co/K4FxnHyHN1"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17408,
+      "friendsCount": 4310,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3btY9GXYAAi4fS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1979030109458739712",
+    "fullText": "老软件 到 新软件 还是没有颠覆性的进步，能不能策划一期 \n软件 到 Xxx （一个目前还不存在的事物\n\n比如，最近在想《AI 产品的未来是社区》，\n软件产品可能不存在了，\n就好像电子书让实体书式微一样 https://t.co/YZcTQVglBa"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -35,7 +69,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57967,
+      "followersCount": 57964,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -69,7 +103,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57967,
+      "followersCount": 57964,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -101,7 +135,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36301,
+      "followersCount": 36300,
       "friendsCount": 200,
       "location": "China"
     },
@@ -118,7 +152,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37164,
+      "followersCount": 37156,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -174,7 +208,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139052,
+      "followersCount": 139057,
       "friendsCount": 1429,
       "location": "Chicago, IL"
     },
@@ -187,11 +221,28 @@
   },
   {
     "user": {
+      "screenName": "GBMauction",
+      "name": "GBM Auctions",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930239358818279424/oCVvRIa-_normal.jpg",
+      "description": "GBM is the Win-Win auction system where bidders make money when they are outbid. \n\n$200M+ in bidding volume and over $6M earned by bidders to date.",
+      "followersCount": 18478,
+      "friendsCount": 4359,
+      "location": "Learn More:"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978983799300984832/vid/avc1/1920x1080/XQxFEu-YOh9iNhF1.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/GBMauction/status/1978986104448594426",
+    "fullText": "We loved the recent @coinage_media livestream on @zora with @zGuz and @jessepollak ❤️\n\nIn this clip, Zack showcased the new @trustless_media Auction House, where creators have been selling Tokenized Ad-Space on @base - using our Win-Win auctions.\n\nBada-bing, bada-boom! https://t.co/bVKrxHQNRk"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59801,
+      "followersCount": 59804,
       "friendsCount": 406,
       "location": ""
     },
@@ -209,7 +260,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111091,
+      "followersCount": 111092,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -224,7 +275,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111091,
+      "followersCount": 111092,
       "friendsCount": 249,
       "location": "Singapore"
     },
@@ -301,6 +352,23 @@
   },
   {
     "user": {
+      "screenName": "playoffthegrid",
+      "name": "Off The Grid",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972976053531414528/wn43HfVG_normal.png",
+      "description": "Next-Gen Cyberpunk F2P Extraction Royale. Early Access now on PC, PS5 & Xbox Series X|S. 🦖 Developed by @GunzillaGames",
+      "followersCount": 223645,
+      "friendsCount": 27,
+      "location": "Teardrop Island"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978922848455659520/vid/avc1/3840x2160/2RhAi9icQZcVLLc8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/playoffthegrid/status/1978925402195398797",
+    "fullText": "Halloween hits Teardrop — TRICK, TREAT OR DIE\n\nCandy bags to hunt, HEXes to crack, missions to survive. \n\nGhost trails in the sky, blood trails on the ground, and community challenges to light up the Feed.\n\nFEARDROP drops this weekend 🎃 https://t.co/RwFgP6l3FT"
+  },
+  {
+    "user": {
       "screenName": "theIJreport",
       "name": "The Investment Journal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869096395971362816/EW5EAQg1_normal.jpg",
@@ -313,6 +381,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/theIJreport/status/1978909195798773955",
     "fullText": "Markets falling? Must be Wednesday. Consistency is key."
+  },
+  {
+    "user": {
+      "screenName": "SolidProof_io",
+      "name": "SolidProof.io Official",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1700086054353555456/Ed6de-gK_normal.jpg",
+      "description": "🛡 Blockchain Security \n\nSecurity Audits/Scoring · KYC · Development · Consulting\n\n💬 https://t.co/zD94zR52Gi\n📰 @solidproof_news\n💻 @SP_TrustNet",
+      "followersCount": 149939,
+      "friendsCount": 732,
+      "location": "Based in Germany - WorldWide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978902993178177536/vid/avc1/1920x1080/0IhMz1oxsK259_IP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SolidProof_io/status/1978903308220735579",
+    "fullText": "Congratulations to the @GroupVk99470 Team. \n\nAnother smart contract audit was done from our long-term customer🛡️\n\nThanks a lot for the trust! https://t.co/iVPRqrQOrS"
   },
   {
     "user": {
@@ -350,7 +435,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59801,
+      "followersCount": 59804,
       "friendsCount": 406,
       "location": ""
     },
@@ -397,7 +482,7 @@
       "name": "comma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1294400502604500992/cb91CdbW_normal.jpg",
       "description": "Building the Android of self-driving cars.\n\ncomma 3X is available now for $999, plugs into the car you already drive, and drives half your miles.",
-      "followersCount": 103365,
+      "followersCount": 103367,
       "friendsCount": 43,
       "location": "San Diego, CA"
     },
@@ -412,7 +497,7 @@
       "name": "NEAR Protocol",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1970880320103985152/SAMA6Vh0_normal.jpg",
       "description": "The blockchain for AI.",
-      "followersCount": 1860205,
+      "followersCount": 1860147,
       "friendsCount": 1255,
       "location": ""
     },
@@ -456,6 +541,23 @@
     ],
     "tweetUrl": "https://x.com/anduriltech/status/1978860623862571113",
     "fullText": "Plan the unfair fight. \n\nEagleEye offers the ultimate birds-eye view through a collaborative 3D sand table. Execute remote mission rehearsals. Integrate location-aware video feeds. Coordinate movements. Win the fight. https://t.co/py6wq4WbOc"
+  },
+  {
+    "user": {
+      "screenName": "PeytonHigginson",
+      "name": "Peyton Higginson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1960574789128687616/5JEl1op1_normal.jpg",
+      "description": "Salem Hills HS  | 3⭐| WR/S | 3.65 GPA | 2027 👨‍🎓| \n6’3” | 180lbs | WS 77” | ✋ 10.25”| Trackit Verified |\nNCAA ID 2503547165 |📞 435-448-7125 |",
+      "followersCount": 746,
+      "friendsCount": 1957,
+      "location": "Salem Hills "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3ZQDY5XEAAiwz1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeytonHigginson/status/1978860271319011416",
+    "fullText": "Who do you Got? Pulling up to the Holy War! Can’t wait! Privileged to be recruited by both of these incredible teams. Big thanks to @BYUfootball for the invite this weekend. @hills_salem @JeffHigginson @fsitake @kalanifsitake @BrandonHuffman @247recruiting @Andy_Pham1 https://t.co/D5mmiCYXqF"
   },
   {
     "user": {
@@ -527,7 +629,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59801,
+      "followersCount": 59804,
       "friendsCount": 406,
       "location": ""
     },
@@ -574,7 +676,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76136,
+      "followersCount": 76129,
       "friendsCount": 3487,
       "location": ""
     },
@@ -584,6 +686,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1978805014236647770",
     "fullText": "#今天的跑步电台。推荐 https://t.co/2qfNTRep2r"
+  },
+  {
+    "user": {
+      "screenName": "AmneziaVPN",
+      "name": "AmneziaVPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1859646549795500032/C6_9tR1t_normal.jpg",
+      "description": "Start with Privacy. Enjoy your Internet Freedom\nhttps://t.co/GstHNapIJq",
+      "followersCount": 356,
+      "friendsCount": 53,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3YUUvJWcAA5Thz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmneziaVPN/status/1978804066328146343",
+    "fullText": "🎉Amnezia VPN turns 5!\n\nWe can hardly believe how much time has passed since the first self-hosted prototype to the app's millions of users.\n\nFive years ago, it all started with a small idea and a strong desire to give people a tool for internet freedom and complete privacy. https://t.co/73YDO2vFxj"
   },
   {
     "user": {
@@ -766,7 +885,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139052,
+      "followersCount": 139057,
       "friendsCount": 1429,
       "location": "Chicago, IL"
     },
@@ -877,6 +996,23 @@
   },
   {
     "user": {
+      "screenName": "MireloAI",
+      "name": "Mirelo.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1866128865904488448/WlqNQ_5g_normal.jpg",
+      "description": "Context-aware sound effects and music generated straight from your visuals. \nSee it. Hear it. Instantly.\n\n🎵  https://t.co/zAYWws7Yxa",
+      "followersCount": 287,
+      "friendsCount": 149,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978492977879056384/vid/avc1/1080x1080/KoM-_DDZcL1QjwYQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MireloAI/status/1978493034317688989",
+    "fullText": "Meet Mirelo Studio: your creative workspace for instant cinematic sound.\n\nMirelo Studio is built for creators who move at the speed of their ideas. Generate rich, synced sound in seconds and explore variants until it's just right — perfect for content creators, AI videos, and https://t.co/rd4dKzrVv7"
+  },
+  {
+    "user": {
       "screenName": "aviator_ac",
       "name": "Aviator",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1856034933392740352/VpEtWr0Q_normal.jpg",
@@ -928,7 +1064,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17407,
+      "followersCount": 17408,
       "friendsCount": 4310,
       "location": ""
     },
