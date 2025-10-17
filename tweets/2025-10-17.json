@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 57966,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1979001174981242880/vid/avc1/1848x1080/NKpfvkPlM6hkVql4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1979002224308293969",
+    "fullText": "Cloudflare 是不是换设计师了，最近的几个设计都很惊艳啊，新出的这个 sandbox 沙盒功能：\nhttps://t.co/73fjUXG8WR\n\n设计很大胆啊，这个服务也很有意思，可以在沙盒里面安全运行不受信任的代码。不过是在 Workers 付费采用的功能，想到一个场景是，可以安全运行测试 LLM https://t.co/qj1v3o1ubc"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
+      "followersCount": 18430,
+      "friendsCount": 1472,
+      "location": "Hard roads are never crowed."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1979001692633940209",
+    "fullText": "为什么眼睛鼻子嘴巴nene**肚脐眼脚趾头都是在人的前半侧，后半侧只有个pp，好纯粹的设计"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 36295,
+      "friendsCount": 200,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3bRXHPWQAATYkc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1978999283568214052",
+    "fullText": "干不动了，写故事把我CPU烧了，你们还想听创业故事不？\n\n听的举手，要不我今天要躺平，晚上起来抽奖 https://t.co/NPjRhMo2SD"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -23,7 +72,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191434,
+      "followersCount": 191432,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -42,7 +91,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191434,
+      "followersCount": 191432,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -61,7 +110,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139013,
+      "followersCount": 139020,
       "friendsCount": 1428,
       "location": "Chicago, IL"
     },
@@ -78,7 +127,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59774,
+      "followersCount": 59787,
       "friendsCount": 406,
       "location": ""
     },
@@ -139,6 +188,23 @@
   },
   {
     "user": {
+      "screenName": "danielmhanover",
+      "name": "Daniel Hanover",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1219471988818837504/IokwfYRq_normal.jpg",
+      "description": "Co-Founder @ Dandy",
+      "followersCount": 475,
+      "friendsCount": 271,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3aUMjAXIAA9aQT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/danielmhanover/status/1978932059843231808",
+    "fullText": "We're thrilled to share that @meet_Dandy has been named to @LinkedIn Top Startups list for the 3rd time! 🎉 For context, Dandy is only 5 years old.  \n\nSince launching in 2020, we've grown to a team of 1,900 talented people working to transform dental care.  What started as a https://t.co/0R1dBo4AOi"
+  },
+  {
+    "user": {
       "screenName": "theIJreport",
       "name": "The Investment Journal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869096395971362816/EW5EAQg1_normal.jpg",
@@ -173,7 +239,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59774,
+      "followersCount": 59787,
       "friendsCount": 406,
       "location": ""
     },
@@ -188,7 +254,7 @@
       "name": "Kai Hasenyager (快)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1964724183474278400/sFQQxkNE_normal.jpg",
       "description": "Multi-sport ATH 🎓c/o 2029 🏈#80 WR/PR/KR/CB/FS 🏀PG/SG ⚾SS/CF/UT/P 🤙 Getting better every day! @DMWolvesFB @DMWolvesBball @BasketballDMHS",
-      "followersCount": 429,
+      "followersCount": 430,
       "friendsCount": 1018,
       "location": "Scottsdale AZ"
     },
@@ -205,7 +271,7 @@
       "name": "Teamsters",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1535321370032234497/osKtsL6w_normal.jpg",
       "description": "North America's strongest union.",
-      "followersCount": 132549,
+      "followersCount": 132550,
       "friendsCount": 9256,
       "location": "Washington, D.C."
     },
@@ -218,11 +284,43 @@
   },
   {
     "user": {
+      "screenName": "anduriltech",
+      "name": "Anduril Industries",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892311837968125955/YmCsRx5t_normal.jpg",
+      "description": "Anduril is shaping the future of defense, transforming U.S. & allied military capabilities with advanced technology.",
+      "followersCount": 173313,
+      "friendsCount": 284,
+      "location": "Orange County, CA "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978849490644643841/vid/avc1/1920x1080/GrNj9LA12xHGHeDi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/anduriltech/status/1978860623862571113",
+    "fullText": "Plan the unfair fight. \n\nEagleEye offers the ultimate birds-eye view through a collaborative 3D sand table. Execute remote mission rehearsals. Integrate location-aware video feeds. Coordinate movements. Win the fight. https://t.co/py6wq4WbOc"
+  },
+  {
+    "user": {
+      "screenName": "_donazoff",
+      "name": "Donnie Azoff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1967085080188207104/GovoCqnS_normal.jpg",
+      "description": "Socially Unhinged, Fiscally Jewish, Sexually Anarchist",
+      "followersCount": 554,
+      "friendsCount": 86,
+      "location": "Montenegro"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/_donazoff/status/1978846776716038541",
+    "fullText": "I am buying a new growth stock with 3x potential:\n\nSince 2020, it has delivered;\n\n- 12% YoY increases in order volume \n- Increasing buybacks and dividends \n- 18% profit margins on sales \n\nIt’s just trading at $0.95 P/S. \n\nHere is my free, full investment thesis:"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
-      "followersCount": 8627,
+      "followersCount": 8628,
       "friendsCount": 2023,
       "location": ""
     },
@@ -237,7 +335,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8929,
+      "followersCount": 8930,
       "friendsCount": 301,
       "location": ""
     },
@@ -254,7 +352,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 59774,
+      "followersCount": 59787,
       "friendsCount": 406,
       "location": ""
     },
@@ -265,11 +363,28 @@
   },
   {
     "user": {
+      "screenName": "heykahn",
+      "name": "Zain Kahn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889312610702512128/tqpykcHj_normal.jpg",
+      "description": "Scaled products to 10M users + I write the world's biggest AI newsletter @superhuman_ai (1.5M readers). Sharing playbooks on how to build with AI here.",
+      "followersCount": 508603,
+      "friendsCount": 370,
+      "location": "Join 1.5 Million readers →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978809829381529600/vid/avc1/1280x720/8bGO8x3g8l1pr_PP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/heykahn/status/1978811430481563756",
+    "fullText": "“Real-world impact has come much faster with AI than it did with mobile.” -Mike Krieger   \n\nAI is already changing budgets, workflows, and P&amp;Ls.\n\nI sat with @mikeyk, CPO at Anthropic. Here’s what he told me:\n\n• How AI is driving revenue today\n• Sonnet 4.5: Opus-level brains at https://t.co/fiwJfG2bAw"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18429,
+      "followersCount": 18430,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -284,7 +399,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76138,
+      "followersCount": 76134,
       "friendsCount": 3487,
       "location": ""
     },
@@ -301,7 +416,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18429,
+      "followersCount": 18430,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -318,7 +433,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18429,
+      "followersCount": 18430,
       "friendsCount": 1472,
       "location": "Hard roads are never crowed."
     },
@@ -335,7 +450,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 36297,
+      "followersCount": 36295,
       "friendsCount": 200,
       "location": "China"
     },
@@ -352,7 +467,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8929,
+      "followersCount": 8930,
       "friendsCount": 301,
       "location": ""
     },
@@ -367,7 +482,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 57962,
+      "followersCount": 57966,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -476,7 +591,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139013,
+      "followersCount": 139020,
       "friendsCount": 1428,
       "location": "Chicago, IL"
     },
@@ -508,7 +623,7 @@
       "name": "OutKick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
       "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/w97Usc0SLn",
-      "followersCount": 357546,
+      "followersCount": 357549,
       "friendsCount": 692,
       "location": "America"
     },
@@ -557,7 +672,7 @@
       "name": "Kasey Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978158844061904896/wlNxXgbP_normal.jpg",
       "description": "🇺🇸 | buildin @osmosis_ai; yc w25 | prev: @audacioushq @challengers_up (acq) | aspiring hedgehog; chopping wood and carrying water",
-      "followersCount": 2386,
+      "followersCount": 2388,
       "friendsCount": 1012,
       "location": "San Francisco "
     },
