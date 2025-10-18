@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8626,
+      "friendsCount": 2027,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1979382597118758956",
+    "fullText": "程序员 Yapie 使用 DeepSeek 和 Make Best Music 工具，以 “暗恋到分手” 的七天情感叙事为核心提示词，仅用数小时完成《七天爱人》的词曲创作。歌曲上线网易云音乐后，播放量迅速突破 200 万次，跻身飙升榜、赏音榜等榜单。重要的是还取得了商业上的突破，歌曲版权卖出了数万元。"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8626,
+      "friendsCount": 2027,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3grOwFXwAE8UKZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1979379583687495924",
+    "fullText": "在我老家，这叫白包谷，五毛钱一根；在深圳，这叫奶浆玉米，五块钱一根。 https://t.co/o70RUojw4r"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -86,7 +118,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36364,
+      "followersCount": 36369,
       "friendsCount": 202,
       "location": "China"
     },
@@ -103,7 +135,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139259,
+      "followersCount": 139260,
       "friendsCount": 1430,
       "location": "Chicago, IL"
     },
@@ -165,7 +197,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139259,
+      "followersCount": 139260,
       "friendsCount": 1430,
       "location": "Chicago, IL"
     },
@@ -201,10 +233,10 @@
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
-      "description": "这世界不为你不为我所了解能掌控，或许它根本就不存在",
-      "followersCount": 18427,
-      "friendsCount": 1475,
-      "location": "Hard roads are never crowed."
+      "description": "这世界不为你不为我所了解能掌控",
+      "followersCount": 18432,
+      "friendsCount": 1474,
+      "location": ""
     },
     "images": [],
     "videos": [],
@@ -249,7 +281,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21430,
+      "followersCount": 21431,
       "friendsCount": 1043,
       "location": ""
     },
@@ -306,5 +338,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1979202847851057244",
     "fullText": "MySQL 的试图能支持数据的新增、修改和删除操作吗？\n答案是：某些条件下能，当数据行能对应到原始表的情况下可以。比如基于单表创建的视图，没有子查询没有计算列等。这个规则应该适应于大部分 RDB。\n嗯，我在 #DataCollie 可以对 Table 和 View 使用同一个单表数据查看器了。"
+  },
+  {
+    "user": {
+      "screenName": "XDCNetwork",
+      "name": "XDC Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852620254549266432/-_Y9Rhp__normal.jpg",
+      "description": "Layer-1 blockchain live since 2019 | EVM compatible | Powering payments, RWA tokenization, DePIN & more | Secure, scalable (2000+ TPS), for enterprise & retail.",
+      "followersCount": 134795,
+      "friendsCount": 999,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Zee3eXkAAHo2l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/XDCNetwork/status/1978876251872842087",
+    "fullText": "XDC Network ETP Launched with a Gong Ceremony at Euronext Amsterdam.\nA proud milestone for XDCNetwork!\nCo-Founder @atulkhekade joined @21shares to open the trading day with a gong ceremony at @euronext Amsterdam to mark the launch of the XDC Network ETP (ticker: XDCN).\n\nWatch the https://t.co/CuZfGb4JM3"
   }
 ]
