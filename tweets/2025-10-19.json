@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Python #DataScience #MachineLearning",
+      "followersCount": 8629,
+      "friendsCount": 2037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1979779961969099237",
+    "fullText": "#不懂就问 \n在向量数据库做文本相似度搜索时，假如我存储的向量是 1000 维的，查询出来如果是文本化展示那没问题，直接显示就好了。但如果我想在二维平面或者三维空间里图形化展示，那我怎么把一个高维向量变成一个二维或者三维的向量呢？🤔"
+  },
+  {
+    "user": {
+      "screenName": "TorBox",
+      "name": "TorBox",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977245470645719041/4EMaNfUp_normal.jpg",
+      "description": "The modern all-in-one downloading platform. Create your free account today👇",
+      "followersCount": 1479,
+      "friendsCount": 0,
+      "location": "Worldwide"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3mRLcnWAAAW9ul.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TorBox/status/1979773180316406111",
+    "fullText": "how it feels having no ip limits in when everyone else has them https://t.co/GnnjqpsZ1d"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36557,
+      "followersCount": 36564,
       "friendsCount": 204,
       "location": "China"
     },
@@ -22,7 +54,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -37,7 +69,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -52,7 +84,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37227,
+      "followersCount": 37229,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -88,7 +120,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36557,
+      "followersCount": 36564,
       "friendsCount": 204,
       "location": "China"
     },
@@ -212,7 +244,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139608,
+      "followersCount": 139625,
       "friendsCount": 1429,
       "location": "Chicago, IL"
     },
@@ -229,7 +261,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -240,11 +272,28 @@
   },
   {
     "user": {
+      "screenName": "komarglobal",
+      "name": "Walter Komarek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1150359891632152582/bpG5tNaI_normal.jpg",
+      "description": "Angel investor, analyst, entrepreneur, advisor!",
+      "followersCount": 200,
+      "friendsCount": 442,
+      "location": "Cyprus"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3j1olaXIAAJ1Rx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/komarglobal/status/1979602116395327490",
+    "fullText": "How President Putin will approach Budapest with his plane? All countries which are surrounding Hungary are ICC members ! They could theoretically force the plane of President Putin to land and arrest him ! https://t.co/1POQnLHDti"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17447,
+      "followersCount": 17446,
       "friendsCount": 4318,
       "location": ""
     },
@@ -261,7 +310,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -295,7 +344,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139608,
+      "followersCount": 139625,
       "friendsCount": 1429,
       "location": "Chicago, IL"
     },
@@ -312,7 +361,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -344,7 +393,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -359,7 +408,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -376,7 +425,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -396,7 +445,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76326,
+      "followersCount": 76328,
       "friendsCount": 3490,
       "location": ""
     },
@@ -414,7 +463,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -429,7 +478,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -446,7 +495,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60057,
+      "followersCount": 60059,
       "friendsCount": 406,
       "location": ""
     },
@@ -478,7 +527,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18437,
+      "followersCount": 18435,
       "friendsCount": 1475,
       "location": ""
     },
@@ -496,7 +545,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36557,
+      "followersCount": 36564,
       "friendsCount": 204,
       "location": "China"
     },
@@ -714,6 +763,21 @@
       "name": "Virginia American Revolution 250 Commemoration",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902437448124133377/BmpZhic2_normal.jpg",
       "description": "Celebrating the 250th anniversary of the American Revolution, the Revolutionary War, and US Independence in the Commonwealth of Virginia.",
+      "followersCount": 2214,
+      "friendsCount": 269,
+      "location": "Virginia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VARevolution250/status/1979228842985468287",
+    "fullText": "Virginia’s history is America’s history. Explore it together →"
+  },
+  {
+    "user": {
+      "screenName": "VARevolution250",
+      "name": "Virginia American Revolution 250 Commemoration",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902437448124133377/BmpZhic2_normal.jpg",
+      "description": "Celebrating the 250th anniversary of the American Revolution, the Revolutionary War, and US Independence in the Commonwealth of Virginia.",
       "followersCount": 2213,
       "friendsCount": 269,
       "location": "Virginia"
@@ -754,6 +818,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/SkillhoodCA/status/1979220612833857992",
     "fullText": "\"Active\" mode added https://t.co/nZf1pCqVon"
+  },
+  {
+    "user": {
+      "screenName": "barstoolsports",
+      "name": "Barstool Sports",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
+      "description": "Viva La Stool",
+      "followersCount": 6737323,
+      "friendsCount": 652,
+      "location": "America"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1979202897209348096/vid/avc1/1080x1920/qwp0jviODTRd--B1.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/barstoolsports/status/1979216332504862954",
+    "fullText": "The list of quarterbacks the Colts have beaten is not impressive\n\n@PFFShow presented by @ChevyTrucks https://t.co/VwPtxXUbBW"
+  },
+  {
+    "user": {
+      "screenName": "PriceOfMyVote",
+      "name": "Price Of My Vote",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/868130699055951873/Ewxt3Qr8_normal.jpg",
+      "description": "The Price of My Vote seeks sanity over mindless partisanship, demands common sense in service of Americans’ common interests. #PriceOfMyVote",
+      "followersCount": 71,
+      "friendsCount": 387,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1979204685841006592/vid/avc1/720x720/V28l8pEcM1k_Uqfg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PriceOfMyVote/status/1979204738580091257",
+    "fullText": "Broken Promises by the POTUS D J Trump, Economic Fallout In The USA, and Rising Fear Are Causing CRACKS In The MAGA Base... https://t.co/Pmcul18ZVp"
   },
   {
     "user": {
