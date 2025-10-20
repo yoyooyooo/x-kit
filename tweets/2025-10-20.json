@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6952,
+      "friendsCount": 735,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1980150497555489084",
+    "fullText": "探讨美国的选举制度，要看探讨的人是不是有一种急功近利的情绪。比如说，如果讨论 rank-based vote，或者说 popular prime election，以及两党制。那这些都是基于制度本身的探讨，功利因素很少。可是媒体上满是声讨选举人制度，不说这个制度本身如何，就因为加州人多你们左派就这么着急，好看吗？"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 139802,
+      "friendsCount": 1429,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980145512020844544/vid/avc1/852x480/aukdrRc7ADM9a7Yo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1980145580862296211",
+    "fullText": "宇树发布 | Unitree H2 天命觉醒！\n高180cm，重70kg。H2仿生人，为安全和友好地服务大家而生。 https://t.co/vIapEUl59d"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18425,
+      "followersCount": 18426,
       "friendsCount": 1481,
       "location": ""
     },
@@ -13,6 +45,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1980143899969741095",
     "fullText": "看错了老乡鸡的用券时间，本顿消费35，心在滴血"
+  },
+  {
+    "user": {
+      "screenName": "america_gpt",
+      "name": "AImerican History",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943929267903246336/t5LsqoEi_normal.jpg",
+      "description": "A republic, not mob rule. Democracy, not tyranny. Christian ideals made the balance possible.",
+      "followersCount": 19,
+      "friendsCount": 50,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3rUaHzXwAEUBOt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/america_gpt/status/1980128534376177856",
+    "fullText": "From James McPherson’s Pulitzer Prize winner Battle Cry of Freedom. Jefferson’s dream of a republic of self-reliant farmers was doomed by the rise of wage labor. Today’s economy runs on financial dependence — wages, credit, and corporate ownership — yet we still worship https://t.co/6PTaFy2HTi"
   },
   {
     "user": {
@@ -48,6 +97,21 @@
   },
   {
     "user": {
+      "screenName": "MargolinRabbi",
+      "name": "European Rabbi Margolin Menachem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884899852380770304/bb7LoUpw_normal.jpg",
+      "description": "Chairman of the European Jewish Association\nChairman of the Rabbinical Centre of Europe",
+      "followersCount": 1423,
+      "friendsCount": 336,
+      "location": "Brussels, Belgium "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MargolinRabbi/status/1980096491575443899",
+    "fullText": "Blood\nThe bloodlust of the overwhelming majority of Gaza’s residents is uncontrollable.\nEither they kill Jews, or they kill Palestinians, or they kill their own family members, or they kill a whale shark, or they kill themselves. The main thing, for them, is that blood is"
+  },
+  {
+    "user": {
       "screenName": "BoomerangBeats",
       "name": "Boomerang Kid Beats🤠",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965475680163885056/2Dx5l9Eb_normal.jpg",
@@ -69,7 +133,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36782,
+      "followersCount": 36785,
       "friendsCount": 205,
       "location": "China"
     },
@@ -296,7 +360,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18425,
+      "followersCount": 18426,
       "friendsCount": 1481,
       "location": ""
     },
@@ -360,7 +424,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36782,
+      "followersCount": 36785,
       "friendsCount": 205,
       "location": "China"
     },
@@ -377,7 +441,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18425,
+      "followersCount": 18426,
       "friendsCount": 1481,
       "location": ""
     },
@@ -409,7 +473,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18425,
+      "followersCount": 18426,
       "friendsCount": 1481,
       "location": ""
     },
@@ -426,7 +490,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18425,
+      "followersCount": 18426,
       "friendsCount": 1481,
       "location": ""
     },
