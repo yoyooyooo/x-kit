@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37237,
+      "friendsCount": 703,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980478051650592768/vid/avc1/3840x2160/bipChfPfoatBS0jm.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1980479054643175531",
+    "fullText": "刚逛shadcn的注册表，发现Kokonut UI的这一系列AI组件还挺不错的，非常适合用来做AI Chat相关的产品开发，推荐给大家。\n\nshadcn的注册表中的组件也都可以使用shadcn MCP引入，如果不知道的可以看我的MCP那期课程，课程地址见评论区👇👇👇 https://t.co/YpRb7Bu4uT"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6957,
+      "friendsCount": 735,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1980474192350122101",
+    "fullText": "GTA 6 再晚点出，在加州就只能显示电车模型了。"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -20,7 +52,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36980,
+      "followersCount": 36981,
       "friendsCount": 205,
       "location": "China"
     },
@@ -37,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139929,
+      "followersCount": 139934,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -86,7 +118,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139929,
+      "followersCount": 139934,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -137,7 +169,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139929,
+      "followersCount": 139934,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -348,8 +380,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17479,
-      "friendsCount": 4327,
+      "followersCount": 17480,
+      "friendsCount": 4328,
       "location": ""
     },
     "images": [
@@ -397,7 +429,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36980,
+      "followersCount": 36981,
       "friendsCount": 205,
       "location": "China"
     },
@@ -429,7 +461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139929,
+      "followersCount": 139934,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -439,6 +471,23 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/1980145580862296211",
     "fullText": "宇树发布 | Unitree H2 天命觉醒！\n高180cm，重70kg。H2仿生人，为安全和友好地服务大家而生。 https://t.co/vIapEUl59d"
+  },
+  {
+    "user": {
+      "screenName": "WeAreTheOverlap",
+      "name": "The Overlap",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952312552844644352/7XZPBpsa_normal.jpg",
+      "description": "Exclusive clips 📽️ Your home for everything Overlap & Stick to Football! ⚽ Brought to you by ARNE 🤝",
+      "followersCount": 176751,
+      "friendsCount": 251,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977748816834031616/vid/avc1/1080x1080/fMpeGwD5W_KSF6IZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WeAreTheOverlap/status/1980136900414390774",
+    "fullText": "\"I've played more European games than any other English player in history!\" 👏\n\nCarra's Champions League flex doesn't come much bigger than that! https://t.co/wsLpoIOVok"
   },
   {
     "user": {
