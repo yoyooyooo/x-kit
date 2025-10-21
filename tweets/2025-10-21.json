@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6957,
+      "friendsCount": 735,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1980469862934933654",
+    "fullText": "1996 年宿舍买了电脑不久，大家发现了一款小游戏叫 Max TT Superbike。玩起来挺爽。大家觉得这场景肯定是个幻想游戏。二十年后才知道是写实曼岛。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 36980,
+      "friendsCount": 205,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980467486181965824/vid/avc1/1920x1080/rA1bmgZsRiopX6eA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1980467583783706992",
+    "fullText": "其实做操作系统最重要的是品味，品味包括独特的交互方式、有趣的动画和看着很舒服的配色\n\n很多做操作系统的主要是没有品味，最后做的东西没有灵魂\n\n有了品味，用户操作你的作品的时候，就会收获效率以外的东西，我称之为：幸福感\n\n这是我早上看的一个有趣的作者发布的视频，评论区可以查看项目地址 https://t.co/tCUBa0Mva8"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139925,
+      "followersCount": 139929,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -37,7 +69,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76372,
+      "followersCount": 76374,
       "friendsCount": 3491,
       "location": ""
     },
@@ -54,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139925,
+      "followersCount": 139929,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -105,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139925,
+      "followersCount": 139929,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -171,7 +203,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18445,
+      "followersCount": 18446,
       "friendsCount": 1484,
       "location": ""
     },
@@ -235,7 +267,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24952,
+      "followersCount": 24954,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -250,7 +282,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18445,
+      "followersCount": 18446,
       "friendsCount": 1484,
       "location": ""
     },
@@ -365,7 +397,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36981,
+      "followersCount": 36980,
       "friendsCount": 205,
       "location": "China"
     },
@@ -397,7 +429,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139925,
+      "followersCount": 139929,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -414,7 +446,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24952,
+      "followersCount": 24954,
       "friendsCount": 310,
       "location": "Guangdong"
     },
