@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 24954,
+      "friendsCount": 310,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1980483739215097899",
+    "fullText": "实测：Python 3.14 的 32 位版本比 3.11 慢一倍。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37237,
+      "friendsCount": 703,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980481292492763136/vid/avc1/2560x1440/NEhHpR47gYU9fXv0.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1980483208459538573",
+    "fullText": "2周10万！用AI开发「商业化小程序」的最佳流程🧐 https://t.co/EBO4xYqd7O"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 36982,
+      "friendsCount": 205,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3wUrP-XsAA1oYT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1980481105259294887",
+    "fullText": "iPhone 17 Air 明天就要到了\n\n除了亲自测试 iOS 26 以外，主要想玩一些新潮的软件\n\n大佬们，你们平常用哪些牛逼的 “付费” 软件啊？\n\n求推荐，我也去买来用 https://t.co/dMrCnLDIco"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -52,7 +101,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36981,
+      "followersCount": 36982,
       "friendsCount": 205,
       "location": "China"
     },
@@ -69,7 +118,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139934,
+      "followersCount": 139937,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -101,7 +150,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76374,
+      "followersCount": 76375,
       "friendsCount": 3491,
       "location": ""
     },
@@ -118,7 +167,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139934,
+      "followersCount": 139937,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -169,7 +218,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139934,
+      "followersCount": 139937,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
@@ -228,6 +277,36 @@
     "videos": [],
     "tweetUrl": "https://x.com/huuep/status/1980316413966618740",
     "fullText": "Bitcoin Alpha 2025.\n\nIn case Bitcoin catches on, study Bitcoin. \nIn case Art on Bitcoin catches on, study this new canvas for culture.\n\nMoney and art define power and culture. \nBoth are being redefined on Bitcoin.🔥 https://t.co/ILYlpH97NM"
+  },
+  {
+    "user": {
+      "screenName": "OElhelo",
+      "name": "Ohad Elhelo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980293910778740736/lsqdAoiZ_normal.jpg",
+      "description": "CEO at AUI (Augmented Intelligence)",
+      "followersCount": 364,
+      "friendsCount": 123,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OElhelo/status/1980297908424696217",
+    "fullText": "@Yampeleg They had Spinoza and Kant, Beethoven and Brahms, discovered most of known physics and solved most of known math. But we \"can just do things\""
+  },
+  {
+    "user": {
+      "screenName": "Westcat7777",
+      "name": "Westcat",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968026943187718144/3zOkbQrp_normal.jpg",
+      "description": "Mom, Gamer, Veteran, Laboratory Scientist (ASCP), what else? #Patriot #Veteran #USAF",
+      "followersCount": 126,
+      "friendsCount": 243,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Westcat7777/status/1980293802565968033",
+    "fullText": "OK y'all real questions for real RESPECTFUL dialogue. What are your thoughts on \"safe spaces\"?\n\nFor example, I'm part of a women's FB group for female veterans and disabilities. I feel it's helpful and women are not afraid to talk about the female specific issues.\n\nAt the same"
   },
   {
     "user": {
@@ -397,7 +476,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21426,
+      "followersCount": 21427,
       "friendsCount": 1044,
       "location": ""
     },
@@ -429,7 +508,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 36981,
+      "followersCount": 36982,
       "friendsCount": 205,
       "location": "China"
     },
@@ -461,7 +540,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 139934,
+      "followersCount": 139937,
       "friendsCount": 1431,
       "location": "Chicago, IL"
     },
