@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 140093,
+      "friendsCount": 1433,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1981036607227518976/vid/avc1/540x720/aBK0MMM9bGpSDZhq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1981036963516792965",
+    "fullText": "这种用首尾帧拼的AI视频还挺火的，经常刷到，相对制作难度也不高，选好素材就有不错的播放量。\n\n视频来源：https://t.co/HFeAKuQKDM https://t.co/F6vz7U3pGL"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17490,
+      "friendsCount": 4333,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1981030590737432576/vid/avc1/1280x710/DC8QpzaYPZwIfbsD.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1981031538004561977",
+    "fullText": "《王自如 x 罗永浩！你问你的，我答我的》\n（👀出处见水印 https://t.co/S2NRUOlgpl"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -22,7 +56,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 4906,
+      "followersCount": 4910,
       "friendsCount": 943,
       "location": "New York, USA"
     },
@@ -40,7 +74,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -68,11 +102,26 @@
   },
   {
     "user": {
+      "screenName": "bldgUSAfuture",
+      "name": "Building America's Future",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914761276137357312/CPibw_2i_normal.png",
+      "description": "Building America’s Future supports policies and ideas that make America’s future strong.",
+      "followersCount": 3403,
+      "friendsCount": 21,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bldgUSAfuture/status/1980985950894514226",
+    "fullText": "For too long, 340B has been a system of abuse. Now, U.S. Senators are cracking down—reforming the program to ensure every dollar serves patients, not profits. This is how we restore fairness and accountability in healthcare."
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -89,7 +138,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191561,
+      "followersCount": 191568,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -106,7 +155,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17493,
+      "followersCount": 17490,
       "friendsCount": 4333,
       "location": ""
     },
@@ -140,7 +189,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58128,
+      "followersCount": 58129,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -157,7 +206,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37391,
+      "followersCount": 37400,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -174,7 +223,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18435,
+      "followersCount": 18437,
       "friendsCount": 1489,
       "location": ""
     },
@@ -189,7 +238,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -206,7 +255,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -223,7 +272,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8932,
+      "followersCount": 8934,
       "friendsCount": 303,
       "location": ""
     },
@@ -238,7 +287,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38061,
+      "followersCount": 38090,
       "friendsCount": 208,
       "location": "China"
     },
@@ -248,6 +297,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1980925648278618530",
     "fullText": "微信聊天记录导出的功能已经开发出来了\n\n想要的老板私信我，不方便公开说，搞不赢南山必胜客 😂 https://t.co/ZdCg5sBqh9"
+  },
+  {
+    "user": {
+      "screenName": "harry_dewhirst",
+      "name": "Harry Dewhirst",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897435642046373888/UJyNoUNb_normal.jpg",
+      "description": "CEO @ https://t.co/c1KFCIlpiH | Ex-CEO @ https://t.co/gMjxv0VPwW | DePIN | Tech | Data | Crypto | Cellular | Wireless | Media | Multi Exit Entrepreneur & Investor",
+      "followersCount": 6676,
+      "friendsCount": 1035,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G32WOr9XoAASudU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/harry_dewhirst/status/1980906282199744533",
+    "fullText": "Great chat with @trtworld just now. AI needs more of everything. Data, energy, compute and storage in data centres coupled with edge and far edge.\n\n@375ai_ , @nvidia and many others believe in this also. \nDo you? https://t.co/mnR54sNiow"
   },
   {
     "user": {
@@ -272,7 +338,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18435,
+      "followersCount": 18437,
       "friendsCount": 1489,
       "location": ""
     },
@@ -289,7 +355,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76408,
+      "followersCount": 76418,
       "friendsCount": 3492,
       "location": ""
     },
@@ -443,6 +509,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1980765483143164181",
     "fullText": "注意力是一种奢侈品\n\n奢侈品很特别：它们稀缺、昂贵。当我们拥有它时，会赢得一些人的羡慕，因为这代表我们花的钱超过了实际需求。 https://t.co/8PZ1PenSXV"
+  },
+  {
+    "user": {
+      "screenName": "gosselinbooks",
+      "name": "Douglas Gosselin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1960035875611394048/_zYouPGC_normal.jpg",
+      "description": "25 year military veteran, law enforcement, airborne infantry, contracting officer, contingency war planner, federal contracts consultant, and author.",
+      "followersCount": 106,
+      "friendsCount": 12,
+      "location": "Dallas, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980763726304198656/vid/avc1/1080x1620/60tswsz-11rFSmvo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/gosselinbooks/status/1980764221424951779",
+    "fullText": "We don’t need new law to build America’s AI bench. We need courage, MOUs, and a 90-day clock. https://t.co/cmuQjUKasz"
   },
   {
     "user": {
@@ -804,6 +887,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/huuep/status/1980653074965463126",
     "fullText": "It might make sense just to get some in case on-chain art catches on.\n\n@OnChainMonkey embedded the art fully on-chain (inside the tokenURI) and since 2021 has been rendered natively by @opensea directly from the blockchain, with no external dependencies.\n\nNo AWS outage can break https://t.co/WoTo106qtP"
+  },
+  {
+    "user": {
+      "screenName": "farmcredit",
+      "name": "Farm Credit System",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/852165545528971264/Q3Ig4yRH_normal.jpg",
+      "description": "Farm Credit supports rural communities and agriculture with reliable, consistent credit and financial services, today and tomorrow.",
+      "followersCount": 14506,
+      "friendsCount": 4035,
+      "location": "All 50 States and Puerto Rico"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/farmcredit/status/1980652545514303784",
+    "fullText": "Jamie and Josh own Sanders Honey Company and manage 1,500 beehives across Georgia. For more than 100 years, Farm Credit has supported operations like theirs, helping producers grow through every season."
   },
   {
     "user": {
@@ -1372,7 +1470,7 @@
       "name": "GAIN Coalition",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729554896628629504/lVLXekeA_normal.jpg",
       "description": "Grow America’s Infrastructure Now is a coalition focused on promoting infrastructure investments that ensure a stronger, more secure, and prosperous country.",
-      "followersCount": 6917,
+      "followersCount": 6916,
       "friendsCount": 1299,
       "location": "Washington, DC"
     },
