@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 37898,
+      "friendsCount": 207,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G33elOXXkAArd_a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1980984144785227795",
+    "fullText": "内网穿透后就可以外网webdav挂载了\n\n啥都不用管，零配置 https://t.co/KBmYkQlVXb"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 191533,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G33dm9HW4AE1KKN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1980983096901267788",
+    "fullText": "软件的错误处理有不同的方式。\n\nJava、JavaScript 和 Python 是抛出异常，C 语言和 Go 语言是返回一个错误值。\n\n我一直想知道，哪种方式更好？\n\n前不久，我读到一篇多年前的文章，明确提出抛出异常好于返回状态码。\n\n他的理由很有说服力，文章好像还没有中译，我就翻译出来了。https://t.co/nGRINrE0BT https://t.co/PCRnobwpAI"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17489,
+      "friendsCount": 4333,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G33djHNWwAAUZdF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1980983015317840196",
+    "fullText": "自如不是做 AI 吗？\n怎么也开始做视频播客了🤣 https://t.co/swgmXCzBeI"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58133,
+      "followersCount": 58134,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -22,7 +73,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37377,
+      "followersCount": 37378,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -54,7 +105,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 37880,
+      "followersCount": 37898,
       "friendsCount": 207,
       "location": "China"
     },
@@ -71,7 +122,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 37880,
+      "followersCount": 37898,
       "friendsCount": 207,
       "location": "China"
     },
@@ -103,7 +154,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 37880,
+      "followersCount": 37898,
       "friendsCount": 207,
       "location": "China"
     },
@@ -154,8 +205,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76402,
-      "friendsCount": 3491,
+      "followersCount": 76403,
+      "friendsCount": 3492,
       "location": ""
     },
     "images": [],
@@ -186,7 +237,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24950,
+      "followersCount": 24951,
       "friendsCount": 310,
       "location": "Guangdong"
     },
