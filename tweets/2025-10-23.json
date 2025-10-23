@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 140301,
+      "friendsCount": 1434,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3-SXb5WUAA0cMZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1981464325836455938",
+    "fullText": "ChatGPT Atlas 使用案例：让它帮助整理汇总推文（需要打开 Agent Mode）\nPrompt:\n&gt; 帮我看这条推文下有哪些有价值的回复，汇总整理给我；如果回复的推文被折叠，请点开查看详情 https://t.co/p7mx1rxwn2"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4434938,
+      "followersCount": 4434993,
       "friendsCount": 3,
       "location": ""
     },
@@ -71,7 +88,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 153946,
+      "followersCount": 153939,
       "friendsCount": 495,
       "location": "中华人民共和国"
     },
@@ -86,7 +103,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18438,
+      "followersCount": 18434,
       "friendsCount": 1489,
       "location": ""
     },
@@ -152,7 +169,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37699,
+      "followersCount": 37700,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -167,7 +184,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -184,7 +201,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18438,
+      "followersCount": 18434,
       "friendsCount": 1489,
       "location": ""
     },
@@ -201,7 +218,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -218,7 +235,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -236,7 +253,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -288,7 +305,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -337,7 +354,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -354,7 +371,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -371,7 +388,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -386,7 +403,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 111337,
+      "followersCount": 111333,
       "friendsCount": 250,
       "location": "Singapore"
     },
@@ -418,7 +435,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18438,
+      "followersCount": 18434,
       "friendsCount": 1489,
       "location": ""
     },
@@ -433,7 +450,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37699,
+      "followersCount": 37700,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -450,7 +467,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18438,
+      "followersCount": 18434,
       "friendsCount": 1489,
       "location": ""
     },
@@ -465,7 +482,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38641,
+      "followersCount": 38636,
       "friendsCount": 207,
       "location": "China"
     },
@@ -499,7 +516,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37699,
+      "followersCount": 37700,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -774,7 +791,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 140287,
+      "followersCount": 140301,
       "friendsCount": 1434,
       "location": "Chicago, IL"
     },
@@ -872,7 +889,7 @@
       "name": "Jan Sramek 🇺🇲 🌁 ⛰️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1803253645582147586/Uatv9AnH_normal.jpg",
       "description": "Founder & CEO, @CAForever. Raised $1bn+ to build a new city on 100+ square miles an hour north of SF/SV. For those who believe California's best days are ahead.",
-      "followersCount": 12021,
+      "followersCount": 12023,
       "friendsCount": 404,
       "location": "Solano, California"
     },
