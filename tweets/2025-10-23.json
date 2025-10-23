@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 58132,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1981157537488716256",
+    "fullText": "深深觉得老年人才是被手机毒害最深的一批人 刷视频也就算了 我看到很多老年人走在路上永远都是在外放有声书 我丈母娘也是 干什么事都是在放 问她 她说听故事能赚钱 一天赚个块八毛的 这种盈利模式到底是哪个软件是始作俑者？"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24952,
+      "followersCount": 24951,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -18,11 +33,28 @@
   },
   {
     "user": {
+      "screenName": "PlayerProfit",
+      "name": "Player Profit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979231845960048640/PRyhmI-5_normal.png",
+      "description": "🏈 The #1 BANKROLL CHALLENGE Platform ⬇️ Get Up To $100,000 in Bankroll! | Code: “PLAYER” to get 10% off your purchase | @playerpsupport",
+      "followersCount": 8439,
+      "friendsCount": 45,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G35rVHEWwAE66OZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PlayerProfit/status/1981138903420543034",
+    "fullText": "If Cooper Flagg scores 20+ points tonight, we'll give 1 person who LIKES a free $10K CHALLENGE ACCOUNT!\n\nMust be following! https://t.co/5FT9K6DGJU"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 140116,
+      "followersCount": 140132,
       "friendsCount": 1433,
       "location": "Chicago, IL"
     },
@@ -33,11 +65,45 @@
   },
   {
     "user": {
+      "screenName": "Hedgeye",
+      "name": "Hedgeye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1075083234260803584/LLWz7WJH_normal.jpg",
+      "description": "We are an independent investment research and financial media company. Not Investment Advice. Access our actionable data-driven research at https://t.co/7g2FfaekGA.",
+      "followersCount": 211729,
+      "friendsCount": 1336,
+      "location": "Stamford, Connecticut"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G35bBntXYAAHSmx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hedgeye/status/1981120974138593315",
+    "fullText": "🚨 U.S. National Debt just hit $38 trillion\n\nThe last trillion was added in 71 days—the fastest pace ever outside the pandemic.\n\nThat’s $14 billion every single day.\n\nOr $69,714 every second.\n\nInterest costs now exceed $1T annually. https://t.co/qh4JeP9CUt"
+  },
+  {
+    "user": {
+      "screenName": "ACC_National",
+      "name": "American Conservation Coalition",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869814322655887361/Ttgmnb64_normal.jpg",
+      "description": "Building the conservative environmental movement 🇺🇸 Protecting our natural heritage 🏞️ Unleashing American energy ⚡️",
+      "followersCount": 35933,
+      "friendsCount": 1914,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1981100046637494272/vid/avc1/1080x1920/L9QBnh8_UI8xEnnQ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ACC_National/status/1981100474188386601",
+    "fullText": "At the second stop of the Energy Freedom Tour, Interior @SecretaryBurgum broke down the obstacles we need to address to ensure America can meet its growing energy demands.\n\nCutting red tape and permitting reform are critical to unlocking more energy to power America's future https://t.co/JiQTCJKUvX"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4431145,
+      "followersCount": 4431247,
       "friendsCount": 3,
       "location": ""
     },
@@ -84,7 +150,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 140116,
+      "followersCount": 140132,
       "friendsCount": 1433,
       "location": "Chicago, IL"
     },
@@ -94,6 +160,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1981091854209995041",
     "fullText": "转译：软件开发成本：为什么AI并没有让价格降下来？\n作者：Vincent Schmalbach\n\n总有人问我，AI工具有没有让软件开发变得更便宜？\n\n简单来说：没有。\n\n但详细的答案，要有趣得多。\n\n我从事软件开发已经二十多年了，而过去这两年与AI的亲密接触，已经从根本上改变了我的工作方式。 https://t.co/QKScJurwKJ"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 16932,
+      "friendsCount": 1201,
+      "location": "San Antonio, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G34892uWQAAtuM8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/USFunds/status/1981087988932096098",
+    "fullText": "Cruise travel is booming again, with a record 21.7      MILLION Americans expected to set sail by 2026!\n\nWhat was once a niche for retirees is now a popular, cost-effective choice as airfare and hotel prices stay elevated.\n\nAfter a tough few years, the cruise industry is seeing https://t.co/GWwE8Ss5Wm"
   },
   {
     "user": {
@@ -116,7 +199,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 140116,
+      "followersCount": 140132,
       "friendsCount": 1433,
       "location": "Chicago, IL"
     },
@@ -129,11 +212,28 @@
   },
   {
     "user": {
+      "screenName": "JSHorwitz",
+      "name": "Joel Horowitz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1497070628318318593/Pn_LJxlw_normal.jpg",
+      "description": "Short in stature, Tall in life. Caffeine, Data, and Laughter driven growth leader, marathoner, and father of two, partner of one.",
+      "followersCount": 1355,
+      "friendsCount": 272,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G34hspRWYAEfsq0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JSHorwitz/status/1981058024812007560",
+    "fullText": "The @AmpCode Librarian could not have come sooner. AI Agents have a tendancy to create a lot of unneccessary files and a folder structure that can be a bit unweildly. With The Librarian and The Oracle I cleaned up my workspace. French say, \"mise en place\" before you start cookin' https://t.co/zPL9ZmvxuZ"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 24952,
+      "followersCount": 24951,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -148,7 +248,7 @@
       "name": "Jan Sramek 🇺🇲 🌁 ⛰️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1803253645582147586/Uatv9AnH_normal.jpg",
       "description": "Founder & CEO, @CAForever. Raised $1bn+ to build a new city on 100+ square miles an hour north of SF/SV. For those who believe California's best days are ahead.",
-      "followersCount": 11932,
+      "followersCount": 11937,
       "friendsCount": 404,
       "location": "Solano, California"
     },
@@ -165,7 +265,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 140116,
+      "followersCount": 140132,
       "friendsCount": 1433,
       "location": "Chicago, IL"
     },
@@ -197,7 +297,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17487,
+      "followersCount": 17488,
       "friendsCount": 4334,
       "location": ""
     },
@@ -229,7 +329,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -239,6 +339,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1981024686323728521",
     "fullText": "博客写了628篇文章，132万字\n\n最近脑细胞死太多了🤣 https://t.co/62NYAh34Ln"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965851729825546240/fLHeW0Ji_normal.jpg",
+      "description": "The world's largest prediction market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket for live odds.",
+      "followersCount": 693258,
+      "friendsCount": 5515,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G33x9h3WwAAXr0_.png",
+      "https://pbs.twimg.com/media/G33yIBEW0AAFrI3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/1981008549615644748",
+    "fullText": "We’re honored and proud to be named the Official Prediction Market Partner of the NHL.\n\nYou can now trade with no fees, no house, &amp; no limits. https://t.co/XuFOboiklY"
   },
   {
     "user": {
@@ -264,7 +382,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -281,7 +399,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6675,
+      "followersCount": 6676,
       "friendsCount": 380,
       "location": "杭州"
     },
@@ -296,7 +414,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -309,11 +427,26 @@
   },
   {
     "user": {
+      "screenName": "JoinCrowdHealth",
+      "name": "CrowdHealth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
+      "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
+      "followersCount": 22508,
+      "friendsCount": 1987,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JoinCrowdHealth/status/1980983333011243376",
+    "fullText": "The biggest myth in healthcare is that insurance companies get you better prices than you could get yourself."
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191576,
+      "followersCount": 191585,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -330,7 +463,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17487,
+      "followersCount": 17488,
       "friendsCount": 4334,
       "location": ""
     },
@@ -347,7 +480,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58128,
+      "followersCount": 58132,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -364,7 +497,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37489,
+      "followersCount": 37497,
       "friendsCount": 703,
       "location": "Hong Kong"
     },
@@ -381,7 +514,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18431,
+      "followersCount": 18435,
       "friendsCount": 1489,
       "location": ""
     },
@@ -396,7 +529,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -413,7 +546,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -445,7 +578,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 38247,
+      "followersCount": 38261,
       "friendsCount": 208,
       "location": "China"
     },
@@ -487,5 +620,54 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1980891505708663088",
     "fullText": "好消息，币安 Alpha 要上 $ON 了。\n坏消息，我之前在 Monad 测试网挖的，没什么卵用。\n\n你们玩吧，祝发财🙂 https://t.co/0sjlh37UbL"
+  },
+  {
+    "user": {
+      "screenName": "River",
+      "name": "River",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901677501132296192/QM1Gzicb_normal.jpg",
+      "description": "Invest in #Bitcoin with confidence | Zero-fee recurring buys | Bitcoin Interest on Cash | Proven full reserve custody | Support: https://t.co/nBDgqPyMDT",
+      "followersCount": 54390,
+      "friendsCount": 111,
+      "location": "Get started on"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980610865234595840/vid/avc1/1920x1080/tKltmv9p0xjYDJ77.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/River/status/1980637217782661287",
+    "fullText": "Introducing supercharged recurring buys! ⚡️\n\nThe recurring bitcoin buy that automatically doubles during dips. With zero fees. https://t.co/j42CSI2xaj"
+  },
+  {
+    "user": {
+      "screenName": "Truthcoin",
+      "name": "Paul Sztorc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1618693718847922178/mhcvXLRO_normal.jpg",
+      "description": "Founder and CEO @LayerTwoLabs | Creator https://t.co/IHe4l8yOT4 | Blogger https://t.co/KdoSQm3aD5 | Author BIP 300/301",
+      "followersCount": 31784,
+      "friendsCount": 400,
+      "location": "Connecticut, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3ybV92XEAAPQHl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Truthcoin/status/1980628740284588515",
+    "fullText": "My article was published in @blockspacepod \n\n\"For bitcoin mining to survive, we need to rethink L2s\"\n(their title)\n\nImminently, (next 5 or so years), L2s will drive:\n\n* 99.99% of miner revenues\n* the sale price of every ASIC\n* the fate of @BITMAINtech @Whatsminer_MBT @canaanio https://t.co/LBIBuSniCD"
+  },
+  {
+    "user": {
+      "screenName": "TuttleCapital",
+      "name": "Matthew Tuttle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939365937527857152/h-w6XzEv_normal.jpg",
+      "description": "The Formula Wall Street Doesn't Want You To Know.  To Subscribe to The Daily H.E.A.T. https://t.co/GSxIMmAkwg \n\nhttps://t.co/00bHz5dxEc",
+      "followersCount": 14491,
+      "friendsCount": 1055,
+      "location": "Greenwich, CT"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TuttleCapital/status/1980598410815131982",
+    "fullText": "Why Covered Call ETFs Suck-And What To Do Instead\nThursday October 23rd 2-3PM EST\n\nCovered call ETFs are everywhere — and everyone thinks they’ve found a “safe” way to collect yield in a sideways market.\n\nThe truth?\nMost of them suck.\nThey cap your upside, mislead investors with"
   }
 ]
