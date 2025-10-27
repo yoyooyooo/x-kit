@@ -1,6 +1,42 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 141021,
+      "friendsCount": 1437,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4PApBfWQAAToxb.jpg",
+      "https://pbs.twimg.com/media/G4PAqFxXgAA3ks-.jpg",
+      "https://pbs.twimg.com/media/G4PArNkXkAAcocF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1982640123440234754",
+    "fullText": "研究 Vibe  Coding 都能写论文了，来自中科院、杜克大学等的这篇《基于大语言模型的Vibe Coding综述》，还是花了点功夫把 Vibe Coding 相关的论文、信息梳理了一遍，有一些值得看的内容。\n\n【一】\n首先是对 Vibe Coding 的定义，这篇论文把 Vibe Coding 描述成一个“三方关系” （参考图1）：\n\n1. https://t.co/bpzmzPxSou"
+  },
+  {
+    "user": {
+      "screenName": "munchimonster",
+      "name": "MUNCHIMONSTER",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977234954062016512/xstFPEEw_normal.jpg",
+      "description": "OFFICIAL MUNCHIMONSTER:  Parents! Super-Salad! Nutrition-Sports-Garden BOOKS:  Avatars Of Gaia & Munchimonster series!  ART=Copyrighted",
+      "followersCount": 842,
+      "friendsCount": 976,
+      "location": "GAIA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1982624068693008384/vid/avc1/752x416/ofb327I-qfxswceY.mp4?tag=23"
+    ],
+    "tweetUrl": "https://x.com/munchimonster/status/1982624138213908708",
+    "fullText": "Munchimonster's epic WOOHOO vine swing! 🌱 Powered with nutrition! Watch now! Art by MM, animation by @grok. Fun fact for young explorers: his treehouse was built in a day &amp; is 100% organic! @PBSKIDS @SecKennedy @PBS https://t.co/KYd7ZQlT2T"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -20,7 +56,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60268,
+      "followersCount": 60266,
       "friendsCount": 428,
       "location": ""
     },
@@ -37,7 +73,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58288,
+      "followersCount": 58292,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -50,11 +86,28 @@
   },
   {
     "user": {
+      "screenName": "0xGasless",
+      "name": "0xGasless",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1665338288658427904/l1Rj_DB3_normal.jpg",
+      "description": "Financial layer for AI agents | Backed by @avax",
+      "followersCount": 12008,
+      "friendsCount": 21,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4Or3JDWsAA57uD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xGasless/status/1982618517242249291",
+    "fullText": "We’re upgrading 0xGasless to ERC-8004 unlocking the full x402 A2A flow on @avax.\n\nAgents can now discover, verify, pay, execute, and build reputation entirely on-chain.\n\nWhy it matters\n• Enables trustless agent discovery and autonomous negotiation\n• Establishes verifiable https://t.co/eupFzo22K0"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 141011,
+      "followersCount": 141021,
       "friendsCount": 1437,
       "location": "Chicago, IL"
     },
@@ -88,7 +141,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25011,
+      "followersCount": 25012,
       "friendsCount": 310,
       "location": "Guangdong"
     },
@@ -120,7 +173,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -137,7 +190,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5159,
+      "followersCount": 5161,
       "friendsCount": 528,
       "location": "🟩🟩🟩🟧🟨🟨🟨🟨🟨🟨 $100k Rev"
     },
@@ -154,7 +207,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37751,
+      "followersCount": 37753,
       "friendsCount": 706,
       "location": "Hong Kong"
     },
@@ -184,8 +237,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8659,
-      "friendsCount": 2054,
+      "followersCount": 8662,
+      "friendsCount": 2055,
       "location": ""
     },
     "images": [
@@ -201,7 +254,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -219,8 +272,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8659,
-      "friendsCount": 2054,
+      "followersCount": 8662,
+      "friendsCount": 2055,
       "location": ""
     },
     "images": [
@@ -236,7 +289,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58288,
+      "followersCount": 58292,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -285,7 +338,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6948,
+      "followersCount": 6949,
       "friendsCount": 735,
       "location": "San Jose, CA"
     },
@@ -300,7 +353,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58288,
+      "followersCount": 58292,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -315,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60268,
+      "followersCount": 60266,
       "friendsCount": 428,
       "location": ""
     },
@@ -332,7 +385,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60268,
+      "followersCount": 60266,
       "friendsCount": 428,
       "location": ""
     },
@@ -347,8 +400,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8659,
-      "friendsCount": 2054,
+      "followersCount": 8662,
+      "friendsCount": 2055,
       "location": ""
     },
     "images": [
@@ -382,7 +435,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -397,7 +450,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -417,7 +470,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -434,7 +487,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18441,
+      "followersCount": 18438,
       "friendsCount": 1500,
       "location": ""
     },
@@ -481,7 +534,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58288,
+      "followersCount": 58292,
       "friendsCount": 280,
       "location": "Shanghai"
     },
