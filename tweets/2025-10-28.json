@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154055,
+      "friendsCount": 498,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1983065371579232734",
+    "fullText": "Claude Code 好像又偷降成本了，使用 Sonnet 4.5 后，它会混合使用大量的 Haiku 4.5。有办法强制它只使用 Sonnet 4.5 吗？我的 Max 订阅使用 Sonnet 都根本用不完，别用 Haiku 来充数啊。"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -84,7 +99,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 141302,
+      "followersCount": 141305,
       "friendsCount": 1439,
       "location": "Chicago, IL"
     },
@@ -99,7 +114,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58356,
+      "followersCount": 58355,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -114,7 +129,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 141302,
+      "followersCount": 141305,
       "friendsCount": 1439,
       "location": "Chicago, IL"
     },
@@ -193,7 +208,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 39251,
+      "followersCount": 39253,
       "friendsCount": 212,
       "location": "China"
     },
@@ -225,7 +240,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 39251,
+      "followersCount": 39253,
       "friendsCount": 212,
       "location": "China"
     },
@@ -274,7 +289,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6676,
+      "followersCount": 6677,
       "friendsCount": 379,
       "location": "杭州"
     },
@@ -323,7 +338,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4446631,
+      "followersCount": 4446676,
       "friendsCount": 3,
       "location": ""
     },
@@ -453,7 +468,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4446631,
+      "followersCount": 4446676,
       "friendsCount": 3,
       "location": ""
     },
@@ -714,6 +729,23 @@
   },
   {
     "user": {
+      "screenName": "guardrailai",
+      "name": "Guardrail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954987070625030144/7h3VzHAh_normal.jpg",
+      "description": "Real-time, onchain security monitoring for Web3 protocols. Catch threats before they become headlines. Backed by Coinbase, Haun & others. NYC based 🇺🇸",
+      "followersCount": 869,
+      "friendsCount": 63,
+      "location": "NYC 🇺🇸"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4C26hKWYAAG58s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/guardrailai/status/1982809517407793298",
+    "fullText": "Guardrail has partnered with @KuruExchange to secure their smart aggregator &amp; order book.\n\nAs Kuru brings institutional-grade trading to @monad, we provide &lt;200ms detection for manipulation, liquidity anomalies, and oracle attacks.\n\nProud to secure the next evolution of onchain https://t.co/fbcY2OoTEO"
+  },
+  {
+    "user": {
       "screenName": "noosphereapp",
       "name": "Noosphere",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899949724712456192/DzSpie2i_normal.jpg",
@@ -946,6 +978,25 @@
     ],
     "tweetUrl": "https://x.com/BoomerangBeats/status/1982720747425742929",
     "fullText": "'ZYN MAN' tap in for the license or join me club beatconnect - check below! https://t.co/8vAXHxwelX"
+  },
+  {
+    "user": {
+      "screenName": "dirkcryptodiggy",
+      "name": "Dirk Crypto Diggy (IC VIP)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1388748668631543811/rbs2MfLS_normal.jpg",
+      "description": "Tweets not financial advice. \nFREE telegram channel below.",
+      "followersCount": 10273,
+      "friendsCount": 1282,
+      "location": "Singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4QGwBaWUAAyJs6.png",
+      "https://pbs.twimg.com/media/G4QHdPOXcAAt8qp.png",
+      "https://pbs.twimg.com/media/G4QHhzjWcAALMIg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dirkcryptodiggy/status/1982718200111583581",
+    "fullText": "I don't use this app for leads or promoting my stuff mostly, but I do have a detailed course how to trade and make money from a single simple setup.\n\nIt's $8/mo or it's even free if you trade on Blofin with my ref link.\n\nJust in case anyone is interested, have spent many years https://t.co/DNrZTPBYHL"
   },
   {
     "user": {
