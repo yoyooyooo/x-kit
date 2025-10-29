@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37781,
+      "friendsCount": 706,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983360344753057792/vid/avc1/3840x2160/PfQp9fWqjRtBh-Zc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1983363361820827940",
+    "fullText": "用AI + EasyApp模板开发iOS应用的Demo，上午再优化下UI就准备开始录课了。这是一个基于AI训练小狗的App，致力于通过有效的训练、行为指导和全面的狗护理教育。    \n\n基于模板，登陆注册、引导页、AI功能、付费订阅墙一应俱全。 https://t.co/fRA8i5gAw2"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21421,
+      "friendsCount": 1045,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1983358837383164260",
+    "fullText": "AI 浏览器都是 Chromium 套壳，更确切点说，套壳的 90% 都在基于 Electron 搞…"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154092,
+      "followersCount": 154095,
       "friendsCount": 498,
       "location": "中华人民共和国"
     },
@@ -20,7 +52,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 39743,
+      "followersCount": 39770,
       "friendsCount": 212,
       "location": "China"
     },
@@ -37,7 +69,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 39743,
+      "followersCount": 39770,
       "friendsCount": 212,
       "location": "China"
     },
@@ -54,7 +86,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18410,
+      "followersCount": 18416,
       "friendsCount": 1506,
       "location": ""
     },
@@ -69,8 +101,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17845,
-      "friendsCount": 4381,
+      "followersCount": 17850,
+      "friendsCount": 4383,
       "location": ""
     },
     "images": [],
@@ -101,7 +133,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60344,
+      "followersCount": 60347,
       "friendsCount": 433,
       "location": ""
     },
@@ -116,7 +148,7 @@
       "name": "Palantir",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877789778344828928/ibFj3Vhw_normal.jpg",
       "description": "Software that dominates.",
-      "followersCount": 323375,
+      "followersCount": 323509,
       "friendsCount": 46,
       "location": "Denver, CO"
     },
@@ -133,7 +165,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60344,
+      "followersCount": 60347,
       "friendsCount": 433,
       "location": ""
     },
@@ -148,7 +180,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60344,
+      "followersCount": 60347,
       "friendsCount": 433,
       "location": ""
     },
@@ -156,6 +188,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1983250640903254491",
     "fullText": "微软在过去这几年间累计给Open AI投资了130亿美金，现在这130亿估值涨了10倍，到了1350亿\n\n算是扫清了Open AI商业化过程中最大障碍之一\n\n另外一个是马斯克，不知道他早些年投的最关键的那几千万如今获得了多少股份\n\n当然，这些，如果未来Open AI上市都会在发行文书中说清楚"
+  },
+  {
+    "user": {
+      "screenName": "odysseyml",
+      "name": "Odyssey",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719796151363485697/TkPnacWy_normal.jpg",
+      "description": "We're an AI lab pioneering interactive video models.",
+      "followersCount": 14624,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983246676761686016/vid/avc1/1206x2622/pjirB1iWth1W2ny_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/odysseyml/status/1983246863240441933",
+    "fullText": "Play god with Odyssey-2. https://t.co/DqiPVQ88Kq"
   },
   {
     "user": {
@@ -195,7 +244,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60344,
+      "followersCount": 60347,
       "friendsCount": 433,
       "location": ""
     },
@@ -210,7 +259,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60344,
+      "followersCount": 60347,
       "friendsCount": 433,
       "location": ""
     },
@@ -242,7 +291,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37778,
+      "followersCount": 37781,
       "friendsCount": 706,
       "location": "Hong Kong"
     },
@@ -292,7 +341,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58451,
+      "followersCount": 58455,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -307,7 +356,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58451,
+      "followersCount": 58455,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -322,7 +371,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4449579,
+      "followersCount": 4449742,
       "friendsCount": 3,
       "location": ""
     },
@@ -337,7 +386,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4449579,
+      "followersCount": 4449742,
       "friendsCount": 3,
       "location": ""
     },
@@ -352,7 +401,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 58451,
+      "followersCount": 58455,
       "friendsCount": 280,
       "location": "Shanghai"
     },
