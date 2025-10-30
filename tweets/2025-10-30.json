@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 40333,
+      "friendsCount": 214,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1983789467199795298",
+    "fullText": "微信卖货把我的ArchLinux干OOM了，Fcitx输入法的模块被系统强制回收了，fcitx --replace又报wayland错误，折腾了半天，还是OOM Killer厉害。\n\n重启吧， 先卖货，等我回去再调整一下 OOM Killer 优先级，下次遇到内存爆炸，先把Chrome杀了嘛，一个憨憨"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 17973,
+      "friendsCount": 4395,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4fUk5eWoAALbc-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1983789357258699222",
+    "fullText": "如果你能在 Youmind 找到这只猫，\n那基本上就了解了 Youmind IPO 的精髓，\n功能太丰富，学习曲线过于陡峭，\n但是一旦熟悉了，就非常爽了😄\n\n准备 跟着 玉伯 @lifesinger 做产品了，\n摸着 Youmind 过河，哈哈哈 https://t.co/UAwqysFPdl"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191657,
+      "followersCount": 191656,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -23,7 +55,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8834,
+      "followersCount": 8836,
       "friendsCount": 2068,
       "location": ""
     },
@@ -40,7 +72,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17969,
+      "followersCount": 17973,
       "friendsCount": 4395,
       "location": ""
     },
@@ -74,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40327,
+      "followersCount": 40333,
       "friendsCount": 214,
       "location": "China"
     },
@@ -111,7 +143,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40327,
+      "followersCount": 40333,
       "friendsCount": 214,
       "location": "China"
     },
@@ -128,7 +160,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40327,
+      "followersCount": 40333,
       "friendsCount": 214,
       "location": "China"
     },
@@ -143,7 +175,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17969,
+      "followersCount": 17973,
       "friendsCount": 4395,
       "location": ""
     },
@@ -173,7 +205,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40327,
+      "followersCount": 40333,
       "friendsCount": 214,
       "location": "China"
     },
@@ -188,7 +220,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4453393,
+      "followersCount": 4453443,
       "friendsCount": 3,
       "location": ""
     },
@@ -205,7 +237,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 17969,
+      "followersCount": 17973,
       "friendsCount": 4395,
       "location": ""
     },
@@ -256,7 +288,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37851,
+      "followersCount": 37854,
       "friendsCount": 706,
       "location": "Hong Kong"
     },
@@ -530,6 +562,23 @@
   },
   {
     "user": {
+      "screenName": "Jacobjonesjj1",
+      "name": "JJ - Bottom-Up - Top-Down Corruption Exposed",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1331357466538471435/TZsIsbkF_normal.jpg",
+      "description": "Talk about public servant hypocrisy.  Go to the link on my profile & see my Posts.   https://t.co/WQGNcZAcQn",
+      "followersCount": 4581,
+      "friendsCount": 5084,
+      "location": "Against Abuse & False Heroism"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GP5s2tpWUAIYXVb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Jacobjonesjj1/status/1983615060384821663",
+    "fullText": "So not only do we have to pay taxes for Tampa Macdill AFB to waste flying over our neighborhoods.   We also get to have them make our kids death &amp; pollute the air.\n\nhttps://t.co/6ZaYNOdhr0"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -576,6 +625,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1983606236311703826",
     "fullText": "美联储主席杰罗姆·鲍威尔讲话表示，12月的利率下调“远非”已成定局，市场尿📉"
+  },
+  {
+    "user": {
+      "screenName": "PocketPatientMD",
+      "name": "PocketPatientMD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1389860203428864000/g6cEZvNJ_normal.jpg",
+      "description": "PocketPatientMD allows physicians and patients access to medical information anytime, anywhere, safely, securely & FREE in multiple languages, online & offline",
+      "followersCount": 1736,
+      "friendsCount": 774,
+      "location": "🌎Africa|Americas|Asia|Oceania"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4csrtjWUAAKLpm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PocketPatientMD/status/1983603461829861818",
+    "fullText": "🌍 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗚𝗹𝗼𝗯𝗮𝗹 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗪𝗶𝘁𝗵 𝗘𝘃𝗲𝗿𝘆 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗩𝗶𝘀𝗶𝘁, 𝗢𝗻𝗲 𝗣𝗮𝘁𝗶𝗲𝗻𝘁 𝗮𝘁 𝗮 𝗧𝗶𝗺𝗲\n\nFrom 𝗔𝗳𝗿𝗶𝗰𝗮 𝘁𝗼 𝗔𝘀𝗶𝗮, 𝗟𝗔𝗧𝗔𝗠 𝘁𝗼 𝗢𝗰𝗲𝗮𝗻𝗶𝗮, doctors, clinics, and hospitals in 𝟭𝟱𝟬+ 𝗰𝗼𝘂𝗻𝘁𝗿𝗶𝗲𝘀 https://t.co/m04zg61UZ8"
   },
   {
     "user": {
