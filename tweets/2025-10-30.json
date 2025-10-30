@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "允许一切如其所是",
+      "followersCount": 18411,
+      "friendsCount": 1509,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4gUZN0bEAAEz1h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1983858066987872356",
+    "fullText": "上次吃螺蛳粉，这次吃老友粉，哦哦哦 https://t.co/02fkJ4wUJQ"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25069,
+      "friendsCount": 314,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4gTC4ia8AcUHiv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1983857613491335648",
+    "fullText": "这家伙同老婆聊起来小时候想玩街机却被父母限制没法如愿的悲伤故事，然后几天后他生日，老婆买了一台街机放在家里当作生日礼物送他！那天，他第一次打街机打了个通宵！ https://t.co/Rvnm4H72RP"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 8947,
+      "friendsCount": 303,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4gSkGea8AMIHBj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1983856049745740122",
+    "fullText": "很多网文都是有一个好的点子，有个吸引人的开头，后面就写不下去，剧情非常水 😂 这个账号打通了任督二脉，直接用各种有反套路的小点子做成两三分钟的视频，现在 B 站都 140 万粉丝了。这些点子对写网文其实没太大作用，都支撑不起网文上架前的剧情。 https://t.co/PzzyEsnu7S"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37865,
+      "friendsCount": 707,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1983853094757920801",
+    "fullText": "问一下大家，如何在独立终端的Claude Code当中，使用不同的模型？"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -22,7 +88,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25073,
+      "followersCount": 25069,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -39,7 +105,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -56,7 +122,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -73,7 +139,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 18042,
+      "followersCount": 18049,
       "friendsCount": 4402,
       "location": ""
     },
@@ -90,7 +156,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154156,
+      "followersCount": 154157,
       "friendsCount": 498,
       "location": "中华人民共和国"
     },
@@ -105,7 +171,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -120,7 +186,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 18042,
+      "followersCount": 18049,
       "friendsCount": 4402,
       "location": ""
     },
@@ -137,7 +203,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191659,
+      "followersCount": 191662,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -155,7 +221,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8843,
+      "followersCount": 8844,
       "friendsCount": 2068,
       "location": ""
     },
@@ -172,7 +238,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 18042,
+      "followersCount": 18049,
       "friendsCount": 4402,
       "location": ""
     },
@@ -206,7 +272,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -223,7 +289,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60425,
+      "followersCount": 60428,
       "friendsCount": 433,
       "location": ""
     },
@@ -243,7 +309,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -260,7 +326,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40373,
+      "followersCount": 40378,
       "friendsCount": 215,
       "location": "China"
     },
@@ -275,7 +341,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 18042,
+      "followersCount": 18049,
       "friendsCount": 4402,
       "location": ""
     },
@@ -664,6 +730,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3334,
+      "friendsCount": 1003,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983619045191462912/vid/avc1/1920x884/jnZne2CvhKB8vhys.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1983619639625011378",
+    "fullText": "AI is accelerating faster than any previous tech shift! 🚀 From @NVIDIA GTC 2025 in Washington D.C., @PatrickMoorhead (CEO and Chief Analyst, @MoorInsStrat) shares his perspective on the current technological inflection point. He explains that while history shows major tech https://t.co/s6I9jleKaV"
+  },
+  {
+    "user": {
       "screenName": "Fondocom",
       "name": "Fondo.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1821270141922861056/qlYkLQS9_normal.png",
@@ -1042,6 +1125,23 @@
     ],
     "tweetUrl": "https://x.com/10minutedrill/status/1983545608465203496",
     "fullText": "🇺🇳 The UN is M.I.A. \n\nThe UN was once an important institution for preserving peace in the world. But as President Trump has taken on the mantle of peacemaker in chief, people are asking: where is the UN?\n\nThe answer: forcing wokeness and climate alarmism on developing countries. https://t.co/WFo5TdzqSW"
+  },
+  {
+    "user": {
+      "screenName": "AufmuthDavid",
+      "name": "LoneStarRed",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947392784815603712/zFlSNjS1_normal.jpg",
+      "description": "+Please follow\n+sold business\n+political connoisseur \n+sports enthusiast\n+veteran",
+      "followersCount": 131,
+      "friendsCount": 345,
+      "location": "Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1983544127640719362/pu/vid/avc1/720x960/BYVzIyo9-LBZLoSr.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AufmuthDavid/status/1983544269978616177",
+    "fullText": "Me pretending I dont know my wife after a flight🙂 https://t.co/D78UCdbR2I"
   },
   {
     "user": {
@@ -1546,6 +1646,23 @@
     ],
     "tweetUrl": "https://x.com/SaintGeorgein/status/1983219574540566981",
     "fullText": "😕Deadlines keep coming. Rent. Fuel. Suppliers. Payroll... And all you have in your hands is a check due to cash in a few days. How will you make your payments? What will you do?  \nCall Bob Dilliplaine, at 714-345-9654 (cell)  \nEmail: bob@sgibco.com\nFind the solution you're https://t.co/c5EyCEzJOj"
+  },
+  {
+    "user": {
+      "screenName": "krea_ai",
+      "name": "KREA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884407047279747072/IpioOz4w_normal.jpg",
+      "description": "delightful creative tools with AI inside.",
+      "followersCount": 96910,
+      "friendsCount": 15,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983208064795979778/vid/avc1/1920x1080/wKVJvcaNsL8r6FXy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/krea_ai/status/1983208116297597230",
+    "fullText": "introducing Hailuo 2.3 Unlimited.\n\nthis new model brings improved physics and incredibly dynamic movements, working great with start frames.\n\nonly this week, unlimited generations for Pro and Max users. https://t.co/42dblOeD4P"
   },
   {
     "user": {
