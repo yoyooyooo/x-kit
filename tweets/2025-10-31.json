@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 37925,
+      "friendsCount": 707,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1984106392660406272/vid/avc1/3840x2160/WUNNylEd9xUXFz9d.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/1984110285628829811",
+    "fullText": "🥳我Vibe Coding一个完整的iOS应用！教程预告！\n\n我们将开发一个具有Apple登陆、RevenueCat付费墙、AI功能的产品。代码、图片、系统提示词全部都是靠AI编写的。相信我，这期视频很棒！\n\n本周日在我的AI编程课发布，对iOS应用开发感兴趣的可以学起来！ https://t.co/03MKwfEh4j"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6678,
+      "friendsCount": 381,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1984109460579926060",
+    "fullText": "以前不觉得，现在见的多了，真的能够感受到不太会用 AI 的人，确实就能把 AI 用的有多一般，或者说多差。\n因为缺乏对 AI 处理事情的一般理解"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60519,
+      "followersCount": 60528,
       "friendsCount": 433,
       "location": ""
     },
@@ -52,7 +84,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21421,
+      "followersCount": 21422,
       "friendsCount": 1045,
       "location": ""
     },
@@ -67,7 +99,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154192,
+      "followersCount": 154188,
       "friendsCount": 498,
       "location": "中华人民共和国"
     },
@@ -82,7 +114,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191597,
+      "followersCount": 191598,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -135,7 +167,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191597,
+      "followersCount": 191598,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -154,7 +186,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40546,
+      "followersCount": 40559,
       "friendsCount": 217,
       "location": "China"
     },
@@ -196,6 +228,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/greggroman/status/1984041901582864787",
     "fullText": "Sad: @KevinRobertsTX just torched @Heritage's 50-year legacy by defending @TuckerCarlson  mainstreaming of Holocaust denier Nick Fuentes. If you can't distinguish between policy debate and platforming neo-Nazis, you're not a conservative leader—you're a moral coward hiding behind"
+  },
+  {
+    "user": {
+      "screenName": "Tina22_2",
+      "name": "Tina",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982503462202916864/lXnuc2DZ_normal.jpg",
+      "description": "Bachelor's degree in science, and in playful sarcasm.  Love space, physics, fantasy/sci-fy and music 🎵 Support Elon and his endeavors, they help us all. 🚀🇱🇷",
+      "followersCount": 5128,
+      "friendsCount": 2777,
+      "location": "Ohio"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4imteWWcAAhrwe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tina22_2/status/1984018937944956992",
+    "fullText": "Finally, Grokipedia delivers unbiased info. without agendas. The full spectrum of realities, unfiltered and unapologetic \n\nImagine that: facts that are true. \nThank you, Elon for a welcomed change. https://t.co/vjjYlzIbdA"
   },
   {
     "user": {
@@ -248,11 +297,28 @@
   },
   {
     "user": {
+      "screenName": "Jomboy_",
+      "name": "Jomboy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1570402475764596737/iqfqkRff_normal.jpg",
+      "description": "@jomboymedia. Not a reporter. Yankees fan.",
+      "followersCount": 611333,
+      "friendsCount": 1270,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983970387034537985/vid/avc1/1080x708/h0inHgc-upxoScHZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Jomboy_/status/1983971198947004586",
+    "fullText": "Brett Gardner gets ejected for saying nothing, a breakdown throwback https://t.co/kOc9p3h3v0"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60519,
+      "followersCount": 60528,
       "friendsCount": 433,
       "location": ""
     },
@@ -284,7 +350,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4456044,
+      "followersCount": 4456110,
       "friendsCount": 3,
       "location": ""
     },
@@ -297,12 +363,29 @@
   },
   {
     "user": {
+      "screenName": "CosineAI",
+      "name": "Cosine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910384351784644608/SDlwSnUT_normal.png",
+      "description": "Welcome to the post IDE era. Our cutting-edge Genie 2 model works in your codebase, solving hard problems asynchronously while you tackle other things.",
+      "followersCount": 3123,
+      "friendsCount": 80,
+      "location": "Any Codebase"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983906805269856257/vid/avc1/1080x1920/3ENCK80mBHEzHYCN.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CosineAI/status/1983945841686802606",
+    "fullText": "We're excited to announce our partnership with @RedHat to bring our multi-agent engineer to OpenShift! 🤝\n\nEnterprise teams looking to move faster can now kick off tasks, review async PRs, and ship confidently right inside their infrastructure. @RedHatPartners https://t.co/B9GjdbMsUK"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8864,
-      "friendsCount": 2071,
+      "followersCount": 8865,
+      "friendsCount": 2072,
       "location": ""
     },
     "images": [],
@@ -316,7 +399,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142040,
+      "followersCount": 142046,
       "friendsCount": 1440,
       "location": "Chicago, IL"
     },
@@ -333,7 +416,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60519,
+      "followersCount": 60528,
       "friendsCount": 433,
       "location": ""
     },
@@ -348,7 +431,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 37922,
+      "followersCount": 37925,
       "friendsCount": 707,
       "location": "Hong Kong"
     },
@@ -365,7 +448,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18401,
+      "followersCount": 18402,
       "friendsCount": 1510,
       "location": ""
     },
@@ -399,7 +482,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40546,
+      "followersCount": 40559,
       "friendsCount": 217,
       "location": "China"
     },
@@ -465,7 +548,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60519,
+      "followersCount": 60528,
       "friendsCount": 433,
       "location": ""
     },
@@ -480,7 +563,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 40546,
+      "followersCount": 40559,
       "friendsCount": 217,
       "location": "China"
     },
@@ -514,7 +597,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18401,
+      "followersCount": 18402,
       "friendsCount": 1510,
       "location": ""
     },
@@ -531,7 +614,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25087,
+      "followersCount": 25089,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -548,7 +631,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8949,
+      "followersCount": 8950,
       "friendsCount": 303,
       "location": ""
     },
@@ -707,6 +790,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Marktechpost/status/1983784557112660124",
     "fullText": "We just open-sourced our entire collection of production-ready colab notebooks on GitHub.\n\nI'm excited to share a comprehensive collection of 100+ AI coding notebooks that my team Marktechpost AI Media Inc has built, covering everything from simple implementations to https://t.co/k6n2zUKaVH"
+  },
+  {
+    "user": {
+      "screenName": "LeonardoAi",
+      "name": "Leonardo.Ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983246289489014789/Pp4i4Z3a_normal.png",
+      "description": "The advanced creative toolkit for curious makers.",
+      "followersCount": 58130,
+      "friendsCount": 1208,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983742764245512194/vid/avc1/1080x1936/c4_2f4aoFzu0CsNZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LeonardoAi/status/1983742927533961357",
+    "fullText": "Hot dogs, family secrets, and... witchcraft?\n\nCheck out Witch Wieners, submission by @CinemaByChaCha to the Third Annual AI Horror Film Competition, presented by\n@curiousrefuge, @epidemicsound, and @LeonardoAi \n\nJust as a dark presence descends, a young woman uncovers her https://t.co/zjR4UpBUo6"
   },
   {
     "user": {
@@ -878,5 +978,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/kilocode/status/1983577424219472369",
     "fullText": "No secret models\nNo \"premium requests\"\nNo rate limits\n\nComplete control\n\nYour productivity tool shouldn't be your biggest productivity problem. https://t.co/gfTHr33JM7"
+  },
+  {
+    "user": {
+      "screenName": "InvestorIdeas",
+      "name": "InvestorIdeas.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1155865753838473217/GIj9ITFO_normal.jpg",
+      "description": "Discover your next Investing Idea with Stock Alerts. Podcasts, News & more 📈 AI, Biotech,  Crypto, Defense, Energy, Mining & More. Read paid disclosures.",
+      "followersCount": 29934,
+      "friendsCount": 13219,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983527988655468544/vid/avc1/1080x1920/TgSs2wM5ji_RhQnE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/InvestorIdeas/status/1983528388620112085",
+    "fullText": "AI Defense Stock @VWAVInc  VisionWaveHoldings ( Nasdaq: $VWAV)  and PVML Enter Execution Phase of Secure-AI Partnership\nCollaboration Follows Founders Meeting in Tel Aviv https://t.co/7MxkuFmjQM"
   }
 ]
