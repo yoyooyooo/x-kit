@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "itsEvKlev",
+      "name": "Everett Kleven",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931080382285225984/8TjyzEVo_normal.jpg",
+      "description": "Solutions Engineering @daftengine | AI Futurist & Public Speaker | Opinions are my own",
+      "followersCount": 93,
+      "friendsCount": 188,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G47z1_XbQAQvgVo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/itsEvKlev/status/1985794481158045952",
+    "fullText": "@daftengine \"By employing Dynamic Prefix Bucketing locally and Prefix-Aware Routing globally, we are able to avoid the GPU idle time caused by the global sort, while still achieving good prefix cache hit rates across the cluster.\" https://t.co/iJZwrZZpxy"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142652,
+      "followersCount": 142636,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -22,7 +39,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60626,
+      "followersCount": 60627,
       "friendsCount": 434,
       "location": ""
     },
@@ -39,7 +56,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 4844,
+      "followersCount": 4854,
       "friendsCount": 1021,
       "location": "New York, USA"
     },
@@ -56,7 +73,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19351,
+      "followersCount": 19353,
       "friendsCount": 4459,
       "location": ""
     },
@@ -73,7 +90,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60626,
+      "followersCount": 60627,
       "friendsCount": 434,
       "location": ""
     },
@@ -93,8 +110,8 @@
       "name": "Connor Axiotes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954914500156489728/ngLHiEBr_normal.jpg",
       "description": "Running @TailEndFilms & making a documentary on the race to AGI.",
-      "followersCount": 2953,
-      "friendsCount": 2406,
+      "followersCount": 2978,
+      "friendsCount": 2407,
       "location": "London, England"
     },
     "images": [],
@@ -127,7 +144,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18387,
+      "followersCount": 18388,
       "friendsCount": 1527,
       "location": ""
     },
@@ -161,7 +178,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42074,
+      "followersCount": 42077,
       "friendsCount": 225,
       "location": "China"
     },
@@ -178,7 +195,7 @@
       "name": "Shido",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918437415141670912/sZxHWrI-_normal.jpg",
       "description": "Shido Network is a leading Multi-VM Layer 1 Proof-of-Stake Blockchain with superior speed and infinite scalability. Build on Shido today. TG - https://t.co/O3kP8XRXwp",
-      "followersCount": 93310,
+      "followersCount": 93279,
       "friendsCount": 359,
       "location": "Shidoverse"
     },
@@ -274,7 +291,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19351,
+      "followersCount": 19353,
       "friendsCount": 4459,
       "location": ""
     },
@@ -291,7 +308,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19351,
+      "followersCount": 19353,
       "friendsCount": 4459,
       "location": ""
     },
@@ -451,7 +468,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60626,
+      "followersCount": 60627,
       "friendsCount": 434,
       "location": ""
     },
@@ -466,7 +483,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142652,
+      "followersCount": 142636,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -481,7 +498,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42074,
+      "followersCount": 42077,
       "friendsCount": 225,
       "location": "China"
     },
@@ -498,7 +515,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142652,
+      "followersCount": 142636,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -515,7 +532,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42074,
+      "followersCount": 42077,
       "friendsCount": 225,
       "location": "China"
     },
@@ -938,7 +955,7 @@
       "name": "CrowdHealth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
       "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
-      "followersCount": 23865,
+      "followersCount": 23878,
       "friendsCount": 1986,
       "location": "Austin, TX"
     },
@@ -1106,7 +1123,7 @@
       "name": "Core Wallet 🔺",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902726336734478336/QQ3SF5SH_normal.jpg",
       "description": "🌐 Your multichain wallet of choice. \n🔺 @avax's native wallet.\n🌐 Built by @avalabs.\n📖 https://t.co/Krz5QJf5N5",
-      "followersCount": 30877,
+      "followersCount": 30923,
       "friendsCount": 78,
       "location": ""
     },
