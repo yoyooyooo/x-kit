@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 59165,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G45Z6k3bQAIMQBm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1985623366641074457",
+    "fullText": "让 AI 写最新版 Next.js 16 的朋友，想让它获取最新的写法和文档，可以直接使用 Next.js 16 的 MCP：\nhttps://t.co/7NuEPcbPvV\n\n我试着让 Composer1 将一个 Demo 项目重构修改为新版本以及使用 Cache Components，一次性成功，当然项目本身简单也有关系，anyway，这个还是非常好用，比 Context7 https://t.co/w7sCRf2Gdu"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38255,
+      "followersCount": 38258,
       "friendsCount": 709,
       "location": "Hong Kong"
     },
@@ -37,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60602,
+      "followersCount": 60598,
       "friendsCount": 433,
       "location": ""
     },
@@ -52,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142576,
+      "followersCount": 142579,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -67,7 +84,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 41894,
+      "followersCount": 41902,
       "friendsCount": 225,
       "location": "China"
     },
@@ -84,7 +101,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142576,
+      "followersCount": 142579,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -101,7 +118,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 41894,
+      "followersCount": 41902,
       "friendsCount": 225,
       "location": "China"
     },
@@ -184,7 +201,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154336,
+      "followersCount": 154333,
       "friendsCount": 500,
       "location": "中华人民共和国"
     },
@@ -199,7 +216,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38255,
+      "followersCount": 38258,
       "friendsCount": 709,
       "location": "Hong Kong"
     },
@@ -227,6 +244,23 @@
     ],
     "tweetUrl": "https://x.com/TylerRyalsX/status/1985515128838844771",
     "fullText": "Pass it on. https://t.co/nIEhIW4FH7"
+  },
+  {
+    "user": {
+      "screenName": "LucasAFerrara",
+      "name": "Lucas A. Ferrara",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/910980790162423809/3AvhHe2Q_normal.jpg",
+      "description": "Founding partner of Newman Ferrara, Lucas has been a Super Lawyer® every year since 2007, repeatedly achieving \"Top 100\" recognition",
+      "followersCount": 2900,
+      "friendsCount": 271,
+      "location": "New York, New York"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985514328615735298/vid/avc1/1080x1080/qJt84JSAu631fVWw.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LucasAFerrara/status/1985514398509637769",
+    "fullText": "Two defining voices on justice and culture take center stage:\n \nChief Medaria “Rondo” Arradondo and journalist Jane Eisner join ….\n \nSHAKE IT OFF WITH MERT &amp; LUCAS — LIVE! \n \nSunday, Nov. 9, 2025 | 7–9 PM EST | AM970 Radio | Replays streaming everywhere. https://t.co/bd7ayJ6SiC"
   },
   {
     "user": {
@@ -283,7 +317,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18389,
+      "followersCount": 18385,
       "friendsCount": 1526,
       "location": ""
     },
@@ -300,7 +334,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25135,
+      "followersCount": 25138,
       "friendsCount": 313,
       "location": "Guangdong"
     },
@@ -349,7 +383,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6952,
+      "followersCount": 6951,
       "friendsCount": 735,
       "location": "San Jose, CA"
     },
@@ -379,7 +413,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142576,
+      "followersCount": 142579,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -419,6 +453,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cyndyr77/status/1985461230514188790",
     "fullText": "A “clean Carfax” doesn’t always mean a clean history.\n\nIt doesn’t guarantee your car was problem-free — it only reflects what’s been reported.\n\nWith @Hyundai vehicles, some major warranty repairs — like engine replacements, oil-consumption tests, or transmission work — may not"
+  },
+  {
+    "user": {
+      "screenName": "AFPhq",
+      "name": "Americans for Prosperity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876374146801598464/HarIVfZc_normal.jpg",
+      "description": "Through broad-based grassroots outreach, Americans for Prosperity is driving long-term solutions to the country’s biggest problems. \n\n#ReigniteTheAmericanDream",
+      "followersCount": 94944,
+      "friendsCount": 4121,
+      "location": "Arlington, VA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AFPhq/status/1985461218136699292",
+    "fullText": "Americans aren't political leverage."
   },
   {
     "user": {
@@ -475,7 +524,7 @@
       "name": "CrowdHealth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
       "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
-      "followersCount": 23828,
+      "followersCount": 23826,
       "friendsCount": 1986,
       "location": "Austin, TX"
     },
@@ -534,6 +583,23 @@
     ],
     "tweetUrl": "https://x.com/BubblyCheekzz/status/1985405709366776241",
     "fullText": "Mooncat coded. https://t.co/jOJdfuB9N0"
+  },
+  {
+    "user": {
+      "screenName": "PocketPatientMD",
+      "name": "PocketPatientMD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1389860203428864000/g6cEZvNJ_normal.jpg",
+      "description": "PocketPatientMD allows physicians and patients access to medical information anytime, anywhere, safely, securely & FREE in multiple languages, online & offline",
+      "followersCount": 1756,
+      "friendsCount": 774,
+      "location": "🌎Africa|Americas|Asia|Oceania"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G42PWAeW8AAzoq1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PocketPatientMD/status/1985400631902048512",
+    "fullText": "𝗕𝗲𝘁𝘁𝗲𝗿 𝗰𝗮𝗿𝗲, 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗶𝗺𝗽𝗮𝗰𝘁 𝗮𝗹𝗹 𝘀𝘁𝗮𝗿𝘁 𝘄𝗶𝘁𝗵 𝗼𝗻𝗲 𝘁𝗵𝗶𝗻𝗴 — 𝗱𝗶𝗴𝗶𝘁𝗶𝘇𝗮𝘁𝗶𝗼𝗻.\n\nToo often, healthcare projects focus on short-term fixes or grants — without building the foundation: 𝗮𝗰𝗰𝘂𝗿𝗮𝘁𝗲, 𝗿𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 https://t.co/C3G8cezJaW"
   },
   {
     "user": {
@@ -673,7 +739,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18389,
+      "followersCount": 18385,
       "friendsCount": 1526,
       "location": ""
     },
