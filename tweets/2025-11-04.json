@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154338,
+      "friendsCount": 500,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1985533917953499399",
+    "fullText": "Apple 为了推 iMessage 熟人社交，把 iOS 26 信息 App 的短信功能改的太难用，其实除了美国，用 iMessage 的很少。咱不行就把 iMessage 拆出来单独做一个 Apple Chat App 吧。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38244,
+      "followersCount": 38247,
       "friendsCount": 709,
       "location": "Hong Kong"
     },
@@ -23,7 +38,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18389,
+      "followersCount": 18392,
       "friendsCount": 1526,
       "location": ""
     },
@@ -57,7 +72,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6953,
+      "followersCount": 6952,
       "friendsCount": 735,
       "location": "San Jose, CA"
     },
@@ -72,7 +87,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142526,
+      "followersCount": 142538,
       "friendsCount": 1441,
       "location": "Chicago, IL"
     },
@@ -82,6 +97,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1985480030399418844",
     "fullText": "关于“AI到底会不会取代我们的工作”，这可能是过去两年里我们聊得最多、也最焦虑的话题。包括我自己参与的大部分讨论都是“我觉得”、“我猜”、“我听说”，充满了各种宏大预测，或者拿历史蒸汽革命、互联网浪潮来类比，基本都没有真实的数据。\n\n有一位叫 Henley Wing Chiu https://t.co/FLCBUYJEsV"
+  },
+  {
+    "user": {
+      "screenName": "TakeProfitLLC",
+      "name": "TakeProfitTrader",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826752325702352900/UJukmHYV_normal.jpg",
+      "description": "The official account of TakeProfitTrader. \n📝 Risk Disclaimer: https://t.co/M4pfsHtcYG",
+      "followersCount": 22839,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TakeProfitLLC/status/1985461986126131499",
+    "fullText": "Futures Traders: Profits made today are profits you can take today.\nWithdraw from Day 1 in PRO—no waiting, no payout windows, no delays.\nStay disciplined &amp; get paid when it’s convenient for you, not just for the firm"
   },
   {
     "user": {
@@ -132,6 +162,23 @@
   },
   {
     "user": {
+      "screenName": "HeliuxInc",
+      "name": "Heliux",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911940112130150400/qYZHJ0zI_normal.png",
+      "description": "Heliux is a software platform that unifies and accelerates enterprise-wide operations for manufacturers.",
+      "followersCount": 97,
+      "friendsCount": 23,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G42NR32bQAY-eMe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HeliuxInc/status/1985399643791114362",
+    "fullText": "SF/Bay Area Software Engineers: join us on November 6 at @Shinola in San Francisco to learn more about what it takes to rebuild the software layer that powers the manufacturing enterprise—a critical mission you may not have heard of. Enjoy food, drinks, hear from our customers, https://t.co/nJO7SzsL50"
+  },
+  {
+    "user": {
       "screenName": "coreapp",
       "name": "Core Wallet 🔺",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1902726336734478336/QQ3SF5SH_normal.jpg",
@@ -149,11 +196,26 @@
   },
   {
     "user": {
+      "screenName": "ScottWLuton",
+      "name": "Scott W. Luton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1416825457274671104/W67ggrQA_normal.jpg",
+      "description": "Founder & CEO of Supply Chain Now, a global digital media company. #SupplyChain makes it happen. Do good. Give forward. Be the change. Deeds not words.",
+      "followersCount": 41700,
+      "friendsCount": 22979,
+      "location": "Atlanta, GA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ScottWLuton/status/1985391067232182504",
+    "fullText": "The Buzz for November 3rd https://t.co/Ywr5JcQD87"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8925,
+      "followersCount": 8927,
       "friendsCount": 2098,
       "location": ""
     },
@@ -185,7 +247,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18389,
+      "followersCount": 18392,
       "friendsCount": 1526,
       "location": ""
     },
@@ -202,7 +264,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60604,
+      "followersCount": 60600,
       "friendsCount": 433,
       "location": ""
     },
@@ -219,8 +281,8 @@
       "name": "Ohad Elhelo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980293910778740736/lsqdAoiZ_normal.jpg",
       "description": "CEO at AUI (Augmented Intelligence)",
-      "followersCount": 432,
-      "friendsCount": 134,
+      "followersCount": 435,
+      "friendsCount": 135,
       "location": "New York, USA"
     },
     "images": [
@@ -236,7 +298,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19335,
+      "followersCount": 19336,
       "friendsCount": 4456,
       "location": ""
     },
@@ -251,7 +313,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60604,
+      "followersCount": 60600,
       "friendsCount": 433,
       "location": ""
     },
@@ -283,7 +345,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19335,
+      "followersCount": 19336,
       "friendsCount": 4456,
       "location": ""
     },
@@ -298,7 +360,7 @@
       "name": "Matt Pavelle 🇺🇸",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937921123947298816/whkRnP3Z_normal.jpg",
       "description": "co(Founder/CEO) @Doctronic · Democratizing Healthcare · NYC · Father of twins · @SCSatCMU @lightspeedvp @USV @HF0",
-      "followersCount": 6546,
+      "followersCount": 6550,
       "friendsCount": 407,
       "location": "New York City"
     },
@@ -313,7 +375,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18389,
+      "followersCount": 18392,
       "friendsCount": 1526,
       "location": ""
     },
@@ -345,7 +407,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 41792,
+      "followersCount": 41808,
       "friendsCount": 224,
       "location": "China"
     },
@@ -379,7 +441,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 41792,
+      "followersCount": 41808,
       "friendsCount": 224,
       "location": "China"
     },
@@ -396,7 +458,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19335,
+      "followersCount": 19336,
       "friendsCount": 4456,
       "location": ""
     },
@@ -413,7 +475,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 41792,
+      "followersCount": 41808,
       "friendsCount": 224,
       "location": "China"
     },
@@ -430,7 +492,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59148,
+      "followersCount": 59150,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -462,7 +524,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "CEO, Bootloader AI\n我也绝非等闲之辈！🥹",
-      "followersCount": 7677,
+      "followersCount": 7676,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -499,7 +561,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 8925,
+      "followersCount": 8927,
       "friendsCount": 2098,
       "location": ""
     },
@@ -674,6 +736,25 @@
   },
   {
     "user": {
+      "screenName": "zestyondating",
+      "name": "Zesty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981204798167781376/rfwtPG9t_normal.jpg",
+      "description": "Attraction isn't random. It's a signal buried in noise.\n\nZesty helps you transform your dating profile with AI, Data Science and Real Human Feedback.",
+      "followersCount": 9,
+      "friendsCount": 33,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G40OLRpWkAARc3b.jpg",
+      "https://pbs.twimg.com/media/G40OLRmXQAAEHBd.jpg",
+      "https://pbs.twimg.com/media/G40ObiXWMAEXIaP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/zestyondating/status/1985258893274931410",
+    "fullText": "Zesty allow you to run your dating profile like a startup runs their product. Launch variants, gather votes, compare performance, track lift. If a change didn't move the needle, you'll know. If it worked, you'll see exactly how much. https://t.co/d6fr7mUZjd"
+  },
+  {
+    "user": {
       "screenName": "McDonalds",
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985377728816676865/w4LcfOIV_normal.jpg",
@@ -703,6 +784,23 @@
     ],
     "tweetUrl": "https://x.com/speakeasytlkshw/status/1985203039834460393",
     "fullText": ".@housh84 Wants Dan Quinn to take accountability for leaving Jayden Daniels in the game when they had no chance of winning!!! 😡\n\nWE ARE LIVE IN THE SPEAKEASY RIGHT NOW AND WE ARE JUST GETTING ROLLING! COME JOIN THE DISCUSSION RIGHT HERE ➡️ https://t.co/bjjMqyxh3G https://t.co/rE58qp6fWt"
+  },
+  {
+    "user": {
+      "screenName": "BTCFieldNotes",
+      "name": "Bitcoin Field Notes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976769259327176706/28D1bL-Y_normal.jpg",
+      "description": "Research & GTM for Bitcoin",
+      "followersCount": 336,
+      "friendsCount": 368,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4zKFf2bIAAZfhn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTCFieldNotes/status/1985184522129101311",
+    "fullText": "In 2008, a 9-page PDF reimagined what money could be. Just 17 years later, the U.S. Treasury Secretary is saluting Bitcoin.  What a moment for Satoshi’s idea. https://t.co/EPvuoqo75j"
   },
   {
     "user": {
@@ -747,7 +845,7 @@
       "name": "Master Nick Eagle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1960731536850083840/sGW7wGss_normal.jpg",
       "description": "Please seek truth and want to leave behind fear\n🦅 I will test you\n🥇 Amazon Bestselling Author\nPhilosophy PhD | BJJ Black Belt\n⚡️Book 👇",
-      "followersCount": 288,
+      "followersCount": 291,
       "friendsCount": 81,
       "location": "Sedona, AZ"
     },
