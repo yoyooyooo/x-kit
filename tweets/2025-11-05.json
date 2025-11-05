@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4470855,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1985950264525013210",
+    "fullText": "Introducing IndQA — a new benchmark that evaluates how well AI systems understand Indian languages and everyday cultural context.\n\nhttps://t.co/MWbRDFQQup"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "允许一切如其所是",
+      "followersCount": 18397,
+      "friendsCount": 1527,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G49_ysVbQAICqEu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1985946497343766755",
+    "fullText": "拔智齿的第五天，吃泡菜粉加了一个虎皮鸡爪，没想到是辣的，太馋了就全吃完了\n\n求求别发炎好不好🙏 https://t.co/aGRWBOvjVP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 42202,
+      "friendsCount": 225,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G499j9DakAAKTSc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1985944020577890355",
+    "fullText": "Arch的内核又下毒了吗\n\nkernel panic了 😑 https://t.co/g4vkLvqv8n"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38292,
+      "followersCount": 38291,
       "friendsCount": 713,
       "location": "Hong Kong"
     },
@@ -22,7 +71,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42190,
+      "followersCount": 42202,
       "friendsCount": 225,
       "location": "China"
     },
@@ -39,7 +88,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42190,
+      "followersCount": 42202,
       "friendsCount": 225,
       "location": "China"
     },
@@ -56,7 +105,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42190,
+      "followersCount": 42202,
       "friendsCount": 225,
       "location": "China"
     },
@@ -86,11 +135,31 @@
   },
   {
     "user": {
+      "screenName": "_blakesilver",
+      "name": "BlakeSilver",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1768661154895708160/TTHGdSx3_normal.jpg",
+      "description": "@overmatchvc",
+      "followersCount": 342,
+      "friendsCount": 930,
+      "location": "USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G49tq78WAAEH_33.jpg",
+      "https://pbs.twimg.com/media/G49vhzZWMAAUfgG.jpg",
+      "https://pbs.twimg.com/media/G49w7tFXUAAzUaO.jpg",
+      "https://pbs.twimg.com/media/G49zF_2WoAAwlf7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_blakesilver/status/1985932699542913108",
+    "fullText": "Recently, everyone has been talking about the rare earth space. \n\nIn the crosshairs of Chinese trade war, REEs have taken center stage - 1) because they are the very fabric of our technology enabled world, and 2) no one understands what goes into processing them. \n\nToday, I will https://t.co/moH5IKqGTZ"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -105,7 +174,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -122,7 +191,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19357,
+      "followersCount": 19355,
       "friendsCount": 4463,
       "location": ""
     },
@@ -139,7 +208,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21423,
+      "followersCount": 21425,
       "friendsCount": 1044,
       "location": ""
     },
@@ -174,7 +243,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19357,
+      "followersCount": 19355,
       "friendsCount": 4463,
       "location": ""
     },
@@ -223,7 +292,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -238,7 +307,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42190,
+      "followersCount": 42202,
       "friendsCount": 225,
       "location": "China"
     },
@@ -289,7 +358,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42190,
+      "followersCount": 42202,
       "friendsCount": 225,
       "location": "China"
     },
@@ -389,7 +458,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142729,
+      "followersCount": 142732,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -424,7 +493,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -490,7 +559,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142729,
+      "followersCount": 142732,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -541,7 +610,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -646,7 +715,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19357,
+      "followersCount": 19355,
       "friendsCount": 4463,
       "location": ""
     },
@@ -663,7 +732,7 @@
       "name": "Injective 🥷",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985002191493492736/b5dRrAC0_normal.jpg",
       "description": "The blockchain built for finance. Access unlimited tokenized stocks, RWAs & stablecoins on the fastest L1. EVM Mainnet Coming Soon: https://t.co/uJS5SXfb1U",
-      "followersCount": 544516,
+      "followersCount": 544500,
       "friendsCount": 695,
       "location": "Made in America"
     },
@@ -680,7 +749,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60728,
+      "followersCount": 60743,
       "friendsCount": 435,
       "location": ""
     },
@@ -700,7 +769,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18392,
+      "followersCount": 18397,
       "friendsCount": 1527,
       "location": ""
     },
@@ -1226,7 +1295,7 @@
       "name": "LUTE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982520824734048256/xn0sTpGa_normal.jpg",
       "description": "The best trades happen together.\nDesktop & mobile. https://t.co/ewj5nfU17m",
-      "followersCount": 8622,
+      "followersCount": 8649,
       "friendsCount": 4,
       "location": "Soon"
     },
@@ -1256,6 +1325,23 @@
   },
   {
     "user": {
+      "screenName": "NetChoice",
+      "name": "NetChoice",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1534632720541818880/NVTSXG-p_normal.png",
+      "description": "We fight to make the internet safe for free enterprise and free expression.",
+      "followersCount": 4421,
+      "friendsCount": 345,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G41bIRmX0AAoZoG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NetChoice/status/1985343211745796294",
+    "fullText": "NetChoice's Digital Safety Shield for America offers a real plan for kids safety online. \n\nIt calls policymakers to fund for law enforcement to stop predators, support digital education in schools, and promote resources that empower parents. https://t.co/24cpex6JE7"
+  },
+  {
+    "user": {
       "screenName": "Icarus_ICG",
       "name": "Icarus International Consulting Group LLC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732272333853962240/9ej51twl_normal.jpg",
@@ -1277,7 +1363,7 @@
       "name": "Jack Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903587731697197056/50o1l3IY_normal.jpg",
       "description": "Perfectionist. Founder & CEO of @Airwallex. 🇦🇺",
-      "followersCount": 8656,
+      "followersCount": 8657,
       "friendsCount": 617,
       "location": "London"
     },
