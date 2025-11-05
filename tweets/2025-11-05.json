@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 42229,
+      "friendsCount": 225,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1985992023661515248",
+    "fullText": "iOS客户端终于传来好消息了\n\n苹果爹终于放过我们的应用商店了，坏消息是，爹在美国测试VPN的时候挂了，又要卡我们几天 😑"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 42229,
+      "friendsCount": 225,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4-ou0MbUAACBED.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1985991496349446349",
+    "fullText": "懒猫相册2.0的功能在内部高强度测试了，先给大家爆料：\n\n1. 手机换机后产生的设备ID发生变化：不会重新上传重复照片到云端\n\n2. PC端删除手机端上传的图片后：手机端打开相册会自动删除，方便PC管理手机的照片，苹果牛逼还是需要弹出确认对话框\n\n3. 多线程上传图片，把照片的同步速度提升个10倍\n\n4. https://t.co/yfkaABTTj0"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59225,
+      "followersCount": 59228,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -22,7 +54,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -39,7 +71,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -57,7 +89,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -125,7 +157,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -172,7 +204,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4471212,
+      "followersCount": 4471280,
       "friendsCount": 4,
       "location": ""
     },
@@ -187,7 +219,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18393,
+      "followersCount": 18387,
       "friendsCount": 1527,
       "location": ""
     },
@@ -204,7 +236,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -238,7 +270,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -255,7 +287,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -326,7 +358,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60778,
+      "followersCount": 60782,
       "friendsCount": 435,
       "location": ""
     },
@@ -341,7 +373,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60778,
+      "followersCount": 60782,
       "friendsCount": 435,
       "location": ""
     },
@@ -358,7 +390,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19366,
+      "followersCount": 19367,
       "friendsCount": 4464,
       "location": ""
     },
@@ -410,7 +442,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19366,
+      "followersCount": 19367,
       "friendsCount": 4464,
       "location": ""
     },
@@ -459,7 +491,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 60778,
+      "followersCount": 60782,
       "friendsCount": 435,
       "location": ""
     },
@@ -540,7 +572,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42225,
+      "followersCount": 42229,
       "friendsCount": 225,
       "location": "China"
     },
@@ -614,6 +646,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/BROHagan3/status/1985836049114021942",
     "fullText": "Meet Oscar Wilde: An Excerpt from the novel Scoundrel in the Thick\nThe celebrated Irish playwright, novelist, and poet  appears several times in Scoundrel in the Thick. Wilde was renowned for his witty and satirical works…and for his one and only appearance as an action hero. In https://t.co/jgocEIHRp5"
+  },
+  {
+    "user": {
+      "screenName": "RealDavidHBraun",
+      "name": "David H Braun",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860454817375698944/T5GXPMdT_normal.jpg",
+      "description": "I post about extreme events that are coming, but which you likely won't believe are possible until they happen.",
+      "followersCount": 763,
+      "friendsCount": 411,
+      "location": "Midwest USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RealDavidHBraun/status/1985835206415434160",
+    "fullText": "God is already in our tomorrow, waiting for us to arrive."
   },
   {
     "user": {
@@ -962,6 +1009,23 @@
   },
   {
     "user": {
+      "screenName": "RealJackHibbs",
+      "name": "Jack Hibbs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963014903075373060/5Iz0Ae1N_normal.jpg",
+      "description": "Founder & President of Real Life Network- Senior & Founding Pastor of Calvary Chapel Chino Hills • Nationally Syndicated Radio and TV Host",
+      "followersCount": 127357,
+      "friendsCount": 79,
+      "location": "Chino Hills, California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985727351939072000/vid/avc1/406x720/Q4pHLxV1nqTq7kAi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RealJackHibbs/status/1985728202145460315",
+    "fullText": "LIFT Daily Prayer: Be Content in the Lord | November 4, 2025\n\nToday’s Verse: Hebrews 13:5 (NKJV)\n“Let your conduct be without covetousness; be content with such things as you have. For He Himself has said, ‘I will never leave you nor forsake you.’”\n\nTrue wealth isn’t measured by https://t.co/qFkcJyLN1y"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -993,6 +1057,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1985718107378499946",
     "fullText": "最近我才渐渐明白，一代人有一代人的牢笼，父亲的牢笼叫做故土，而我的牢笼是他乡。一个走不出去，一个个无法回来，故乡的土地困住了他，远方的生活锁住了我。我们名为选择，实为囚徒。 https://t.co/RgTmyiIdyv"
+  },
+  {
+    "user": {
+      "screenName": "ticotiricox",
+      "name": "DoctorManhattanX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978199656787025920/LE6B1Uq-_normal.jpg",
+      "description": "No crying in the casino 🎰",
+      "followersCount": 62,
+      "friendsCount": 409,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ticotiricox/status/1985717866251899159",
+    "fullText": "Guys, you can't have millions of dollars in leveraged positions in this market. I know you might get some predictions right sometimes, but most of the time you'll lose! \nLosing $1 million isn't a problem if you have over $20 million, but what if that's your entire networth and"
   },
   {
     "user": {
@@ -1524,7 +1603,7 @@
       "name": "PocketPatientMD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1389860203428864000/g6cEZvNJ_normal.jpg",
       "description": "PocketPatientMD allows physicians and patients access to medical information anytime, anywhere, safely, securely & FREE in multiple languages, online & offline",
-      "followersCount": 1779,
+      "followersCount": 1780,
       "friendsCount": 774,
       "location": "🌎Africa|Americas|Asia|Oceania"
     },
@@ -1634,6 +1713,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NetChoice/status/1985343211745796294",
     "fullText": "NetChoice's Digital Safety Shield for America offers a real plan for kids safety online. \n\nIt calls policymakers to fund for law enforcement to stop predators, support digital education in schools, and promote resources that empower parents. https://t.co/24cpex6JE7"
+  },
+  {
+    "user": {
+      "screenName": "nick_eubanks",
+      "name": "nick Ξubanks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976544885575397377/fde5hJKK_normal.jpg",
+      "description": "VP @semrush ($SEMR) Founder @IFTFAgency (sold) CoFounder @TTTSEOCommunity (sold). Car enthusiast. Assassins Only👇",
+      "followersCount": 16147,
+      "friendsCount": 777,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nick_eubanks/status/1985342191729021387",
+    "fullText": "2 months left in 2025...\n\nIt's not too late to get your agency's growth engine in place and start launching sales campaigns\n\nHere are 6 ways to start:"
   },
   {
     "user": {
