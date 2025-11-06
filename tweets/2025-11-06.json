@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25153,
+      "friendsCount": 314,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1986280344421867886",
+    "fullText": "有没有人和我一样觉得刷推导致自己耐心下降的？现在超过 140 字的东西我会没耐心读下去（以前刷知乎我还经常看长文的），视频超过 20 分钟我也没耐心看下去，所以我已经很久没看电影了，现在只看 “一口气看完XXX” 或者 20 分钟以内的动画片和短剧。"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21430,
+      "followersCount": 21429,
       "friendsCount": 1043,
       "location": ""
     },
@@ -22,7 +37,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19408,
+      "followersCount": 19409,
       "friendsCount": 4464,
       "location": ""
     },
@@ -56,7 +71,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19408,
+      "followersCount": 19409,
       "friendsCount": 4464,
       "location": ""
     },
@@ -73,7 +88,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76711,
+      "followersCount": 76710,
       "friendsCount": 3501,
       "location": ""
     },
@@ -90,7 +105,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19408,
+      "followersCount": 19409,
       "friendsCount": 4464,
       "location": ""
     },
@@ -137,7 +152,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76711,
+      "followersCount": 76710,
       "friendsCount": 3501,
       "location": ""
     },
@@ -186,7 +201,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4473438,
+      "followersCount": 4473447,
       "friendsCount": 4,
       "location": ""
     },
@@ -264,6 +279,23 @@
   },
   {
     "user": {
+      "screenName": "accelnoai",
+      "name": "Accelno",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1973775024579289088/i4rp-Lpg_normal.jpg",
+      "description": "Helping analysts get more stuff done",
+      "followersCount": 19,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986182497067991040/vid/avc1/3840x2160/VK4ZdkK15jXDkyv_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/accelnoai/status/1986182641897361731",
+    "fullText": "We’re opening a few final spots for our Family Office Pilot Program.  At Accelno, we’re reimagining how investment teams work  automating financial modeling &amp; research from DCFs/LBOs to comps &amp; diligence. \n\n If your team still lives in Excel, this will change everything. https://t.co/aqJk2GAUN0"
+  },
+  {
+    "user": {
       "screenName": "WilderWorld",
       "name": "Wilder World",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927422180880441344/12l-KRgw_normal.jpg",
@@ -285,7 +317,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142967,
+      "followersCount": 142969,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -346,6 +378,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fx_replay/status/1986157988252688468",
     "fullText": "We built FXR Script to give indicator developers a new way to create, share, and reach traders worldwide.  \n\nWith a few lines of code, any trader can create world-class indicators for backtesting. \n\nHuge props to @outof0ptions for launching EIGHT new indicators directly on our https://t.co/Vz0O5j3Gr1"
+  },
+  {
+    "user": {
+      "screenName": "youmakeai",
+      "name": "YouMake.Ai - Art Creators Mall",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981013334779437057/P-IVQV6e_normal.jpg",
+      "description": "''AI doesn't make a move without YOU!'' — https://t.co/JP0J6BZkop",
+      "followersCount": 1800,
+      "friendsCount": 4281,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5A8_5aWQAA7R54.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/youmakeai/status/1986154506627735754",
+    "fullText": "🔺️ Try a //  Gemini-2.5-Flash ::: {{JSON}} Prompt\n\n``\nPrompt:\n{\n{\n// ::: Whimsical doll-like character ::: portrait of a melancholic clown girl\n// ::: Fair skin ::: large expressive eyes ::: voluminous white curly hair\n// ::: Innocent gaze ::: direct eye contact ::: gentle https://t.co/8ABJttD2kE"
   },
   {
     "user": {
@@ -470,7 +519,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153074,
+      "followersCount": 153081,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -502,7 +551,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154372,
+      "followersCount": 154377,
       "friendsCount": 500,
       "location": "中华人民共和国"
     },
@@ -517,7 +566,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153074,
+      "followersCount": 153081,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -549,7 +598,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42336,
+      "followersCount": 42340,
       "friendsCount": 226,
       "location": "China"
     },
@@ -567,7 +616,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
       "followersCount": 9028,
-      "friendsCount": 2115,
+      "friendsCount": 2116,
       "location": ""
     },
     "images": [
@@ -649,7 +698,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18388,
+      "followersCount": 18392,
       "friendsCount": 1526,
       "location": ""
     },
@@ -664,7 +713,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38291,
+      "followersCount": 38292,
       "friendsCount": 713,
       "location": "Hong Kong"
     },
@@ -728,7 +777,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42336,
+      "followersCount": 42340,
       "friendsCount": 226,
       "location": "China"
     },
@@ -745,7 +794,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42336,
+      "followersCount": 42340,
       "friendsCount": 226,
       "location": "China"
     },
@@ -762,7 +811,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42336,
+      "followersCount": 42340,
       "friendsCount": 226,
       "location": "China"
     },
@@ -946,6 +995,23 @@
   },
   {
     "user": {
+      "screenName": "GJA4PA_Action",
+      "name": "George Assad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953207184541560832/Wf6ekRy1_normal.jpg",
+      "description": "Leader, Restructuring, complex problem-solver. Public Figure Banker! https://t.co/ZNvhIt21ti  https://t.co/OHXrcMiNog  https://t.co/KdyseJ9DID",
+      "followersCount": 262,
+      "friendsCount": 971,
+      "location": "Allentown, PA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G49_XBgXsAA8j65.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GJA4PA_Action/status/1985949064177885461",
+    "fullText": "PA &amp; America's industries face critical challenges that need REAL, LASTING SOLUTIONS. \n\nWe see a sense of urgency (many crises) and deeply interconnected problems across sectors, including:\n\n​Healthcare: Crowded hospital waiting rooms, costs, access and stressed doctors. https://t.co/v6vxxGG5Ke"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -994,6 +1060,40 @@
     ],
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1985845388310708686",
     "fullText": "Intellectual Property Remains a Battleground for AI. ⚖️ Is generative AI infringing on copyright? David Nicholson (@MasSubestimado), @TheFuturumGroup's SVP and Global Technology Advisor, analyzes a recent UK ruling on a case involving Stability AI. He explains the pivotal https://t.co/7Z1xXvEUmv"
+  },
+  {
+    "user": {
+      "screenName": "plutus_fi_x",
+      "name": "Plutus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931424335329124352/kMhuEECz_normal.jpg",
+      "description": "Liquidity, Yield, and Stability — chains simplified. Parent protocol for Orange Finance, Berancia, Deep Thought, and LPfun. $PLUTUS",
+      "followersCount": 18782,
+      "friendsCount": 17,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G48FEPZXAAEIMRa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plutus_fi_x/status/1985814313752469788",
+    "fullText": "plvHEDGE — Built for Volatility\n\nThe sea is rough, the market restless.\nWhen volatility surges, plvHEDGE grows stronger.\n\nIt turns the storm into yield,\nsteady through the chaos. https://t.co/Lg5E5SNX9U"
+  },
+  {
+    "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 5042,
+      "friendsCount": 1033,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985769006049955840/vid/avc1/1080x1920/fVYQxPeAQIyMw6GV.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/valent44355/status/1985769107443060811",
+    "fullText": "It’s about to break through \n$NXXT https://t.co/tIGqrBD9i8"
   },
   {
     "user": {
@@ -1127,6 +1227,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/hekint/status/1985706374030819756",
     "fullText": "It is now accepted that Jenner learned from the surgeon John Fewster (1738-1824) that farmers who once had cowpox were immune to smallpox and could not be variolated against it. The milkmaid story is apocryphal, invented by Jenner’s biographer some years after his death. https://t.co/gj6dio4N39"
+  },
+  {
+    "user": {
+      "screenName": "SaudiEXIM",
+      "name": "بنك التصدير والاستيراد السعودي",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893911971684143104/SZpOyXjs_normal.jpg",
+      "description": "الحساب الرسمي لبنك التصدير والاستيراد السعودي | The official account of the Saudi EXIM نمّكن الصادرات السعودية من الوصول للأسواق العالمية",
+      "followersCount": 20643,
+      "friendsCount": 34,
+      "location": "🇸🇦 | 8004333330"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SaudiEXIM/status/1985667647485407247",
+    "fullText": "Saudi EXIM Global Partners Forum.. where visions meet opportunities, and partnerships launch toward new horizons of global growth."
   },
   {
     "user": {
