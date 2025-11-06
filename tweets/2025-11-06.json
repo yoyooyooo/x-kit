@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154384,
+      "friendsCount": 500,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1986284629951987743",
+    "fullText": "Apple SDK 的很多 class 都没有 public init（比如 StoreKit.Transaction 和很多扩展使用的类型），写单元测试没有办法 mock，为了写单测就要隔离很多层，搞出很臭的代码，非常难受，大家有没有好办法？"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21429,
+      "followersCount": 21430,
       "friendsCount": 1043,
       "location": ""
     },
@@ -37,7 +52,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19409,
+      "followersCount": 19410,
       "friendsCount": 4464,
       "location": ""
     },
@@ -71,7 +86,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19409,
+      "followersCount": 19410,
       "friendsCount": 4464,
       "location": ""
     },
@@ -88,7 +103,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76710,
+      "followersCount": 76711,
       "friendsCount": 3501,
       "location": ""
     },
@@ -105,7 +120,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19409,
+      "followersCount": 19410,
       "friendsCount": 4464,
       "location": ""
     },
@@ -152,7 +167,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76710,
+      "followersCount": 76711,
       "friendsCount": 3501,
       "location": ""
     },
@@ -162,6 +177,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/1986213126048776681",
     "fullText": "惊了，麦当劳取餐如果是会员也会尊贵一点。 https://t.co/IAFzve6UkL"
+  },
+  {
+    "user": {
+      "screenName": "FudgiewhaleArt",
+      "name": "Fudgiewhale",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1765068452153393153/7veGG7sW_normal.jpg",
+      "description": "Hi Friends! I make art and instrumental music using guitars and a guitar synthesizer. My work has been described as refreshing, creative and unique.",
+      "followersCount": 2017,
+      "friendsCount": 461,
+      "location": "Chester County, Pennsylvania"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1986210414569324544/pu/vid/avc1/720x1280/TnG9hzRlvdEWh5VA.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/FudgiewhaleArt/status/1986210524715991079",
+    "fullText": "WTF - Watch the Flow - strange results from slowing down some watering footage. https://t.co/QLFlB44haL"
   },
   {
     "user": {
@@ -201,7 +233,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4473447,
+      "followersCount": 4473527,
       "friendsCount": 4,
       "location": ""
     },
@@ -243,6 +275,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cryptoworthey/status/1986189803201663483",
     "fullText": "$forma is looking 🔥 robotics ai is gonna slap."
+  },
+  {
+    "user": {
+      "screenName": "PlanetReportHQ",
+      "name": "Planet Report HQ | News & Media 🌍",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1813351278199672832/LZCelJFk_normal.jpg",
+      "description": "🚨 Global Breaking News | 24/7 Real-Time Updates 🌎\nFacts First, Always – No Bias, Just News.\nOfficial Media Organization | Category: News & Media 📰",
+      "followersCount": 29155,
+      "friendsCount": 6279,
+      "location": "🌎 US & Global News"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5BZKy4XwAAbI_t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PlanetReportHQ/status/1986185480157720606",
+    "fullText": "🚨 JUST IN: NVIDIA CEO: “CHINA IS GOING TO WIN THE AI RACE.”\nJensen Huang told Financial Times that China’s massive talent pool and government-backed infrastructure give it a decisive long-term edge in artificial intelligence.\n\nThe AI Cold War just got real.\n(Source: FT) https://t.co/dnbT91vDXp"
   },
   {
     "user": {
@@ -317,7 +366,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142969,
+      "followersCount": 142984,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -519,7 +568,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153081,
+      "followersCount": 153089,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -551,7 +600,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154377,
+      "followersCount": 154384,
       "friendsCount": 500,
       "location": "中华人民共和国"
     },
@@ -566,7 +615,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153081,
+      "followersCount": 153089,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -581,7 +630,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61098,
+      "followersCount": 61099,
       "friendsCount": 436,
       "location": ""
     },
@@ -598,7 +647,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42340,
+      "followersCount": 42342,
       "friendsCount": 226,
       "location": "China"
     },
@@ -615,7 +664,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎥YouTuber: https://t.co/B9Yau8Uemb",
-      "followersCount": 9028,
+      "followersCount": 9029,
       "friendsCount": 2116,
       "location": ""
     },
@@ -643,11 +692,28 @@
   },
   {
     "user": {
+      "screenName": "spaceandtime",
+      "name": "Space and Time",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876320944266117120/yesGxlq6_normal.jpg",
+      "description": "Data blockchain securing onchain finance. Backed by Microsoft's Venture Fund @m12vc.",
+      "followersCount": 357732,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986088026498584577/vid/avc1/1280x720/WEI3DIzuvZh0MoIN.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/spaceandtime/status/1986088096476406206",
+    "fullText": "Introducing Space and Time v2: the data blockchain securing onchain finance.\n\nWith the latest mainnet upgrade, institutions can now use SXT to secure offchain financial datasets and power more sophisticated asset tokenization onchain. https://t.co/m1uPX8Athg"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61098,
+      "followersCount": 61099,
       "friendsCount": 436,
       "location": ""
     },
@@ -664,7 +730,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61098,
+      "followersCount": 61099,
       "friendsCount": 436,
       "location": ""
     },
@@ -762,7 +828,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59233,
+      "followersCount": 59236,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -770,6 +836,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/vikingmute/status/1986047023431459221",
     "fullText": "今天又听说一个认识的人练习跑全马猝死了 感觉现在过度运动就和宗教献祭一样 尤其是每天996休息严重不足的人\n\n太多中年人把马拉松当救赎重生仪式 不顾身体代价 朋友圈晒打卡、配速、PB以及朝圣式参赛\n\n睡眠不好一定不要过度运动 PB不是KPI 活着才是"
+  },
+  {
+    "user": {
+      "screenName": "jeffbuff73",
+      "name": "J Buff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855782358022082560/bzPTt418_normal.jpg",
+      "description": "Retired US Army\nArizona Wildcat Graduate\nSyracuse Hoops and NYG Fanatic\n\nVenmo:  jeffbuff73",
+      "followersCount": 1365,
+      "friendsCount": 793,
+      "location": "Syracuse, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jeffbuff73/status/1986038125643145229",
+    "fullText": "Another solid night, wish the CFB game didn't start so slow.  Not sure what they were doing in the 1H, the offenses were really bad, but the 2H is how I thought the game would be.  Still almost went over\n\nNice 11-3 run the past 3 days.  Won 3 in a row CBB.  Won 3 in a row NBA."
   },
   {
     "user": {
@@ -889,6 +970,23 @@
     ],
     "tweetUrl": "https://x.com/vikingmute/status/1985988868840022423",
     "fullText": "这个项目真的太有趣了，用纯 CSS 生成的地形图，我发现这个世界上还是有很多人去做一些看起来没用但是完全为了自己开心的事情，我不知道他的一开始脑洞是怎么想的，但是真的很酷。\n\nhttps://t.co/Rxre6ue0wi\n\n像素风，给我一种很多复古像素游戏的感觉，尤其是曾经很痴迷的 SimCity https://t.co/4HuQPqRYS2"
+  },
+  {
+    "user": {
+      "screenName": "LeonardoAi",
+      "name": "Leonardo.Ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983246289489014789/Pp4i4Z3a_normal.png",
+      "description": "The advanced creative toolkit for curious makers.",
+      "followersCount": 58237,
+      "friendsCount": 1208,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985979561973334020/vid/avc1/1920x1080/gdZXIrUOKeuzTgtN.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LeonardoAi/status/1985980424624177636",
+    "fullText": "Stop making boring videos. Motion 2.0 Motion Control is the biggest hack for creating insane videos. https://t.co/xGmvvx1zHc"
   },
   {
     "user": {
@@ -1016,7 +1114,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61098,
+      "followersCount": 61099,
       "friendsCount": 436,
       "location": ""
     },
@@ -1043,6 +1141,23 @@
     ],
     "tweetUrl": "https://x.com/valent44355/status/1985901763124183107",
     "fullText": "BREAKIN! FARKAS RUN \n\nThe year was 2020. Markets were bleeding. The S&amp;P fell off a cliff, oil went below zero, and traders ran for cash like lifeboats.\n\nIn that chaos, Blink Charging (NASDAQ: BLNK) quietly traded at $1.69.\nThen came Michael Farkas — not a salesman, but a https://t.co/tfACPJ4JGO"
+  },
+  {
+    "user": {
+      "screenName": "nunezspace",
+      "name": "What I know",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599709228175958017/4kb1ftvh_normal.jpg",
+      "description": "Born again Christian. Saved by grace through faith",
+      "followersCount": 687,
+      "friendsCount": 104,
+      "location": "United States of America"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G48qlRnXcAAeuGd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nunezspace/status/1985853196271550637",
+    "fullText": "Knowing God—whether through faith, philosophy, reason, or experience—often unfolds gradually, layer by layer, like a lifelong conversation rather than a single revelation. It can involve doubt, wonder, study, prayer, or quiet reflection, and it evolves as we do. Even from a https://t.co/52foZyZ1dk"
   },
   {
     "user": {
@@ -1084,7 +1199,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5042,
+      "followersCount": 5047,
       "friendsCount": 1033,
       "location": "New York, USA"
     },
@@ -1126,6 +1241,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/galaxyoneapp/status/1985766038689259895",
     "fullText": "There’s still time to register for Thursday’s webinar with @GalaxyOneZac and @GalaxyOneJake for a live walkthrough of GalaxyOne and a Q&amp;A session 👇 https://t.co/qAoi9bvxD3"
+  },
+  {
+    "user": {
+      "screenName": "BetterPlayToday",
+      "name": "BetterPlayInitiative",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1901731190882627584/pvYKdQ4A_normal.jpg",
+      "description": "Providing definitive information about recycled rubber and its uses in creating safe, sustainable community spaces.",
+      "followersCount": 66,
+      "friendsCount": 180,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G47WauZW0AAC_Oo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BetterPlayToday/status/1985760383362351516",
+    "fullText": "Did You Know: Extensive testing has confirmed that recycled rubber is environmentally resistant — ensuring that it remains resilient throughout the year.\n\nRecycled rubber preserves existing drainage systems and keeps surfaces safe to use after bad weather, without requiring https://t.co/msAj1IzcmI"
   },
   {
     "user": {
@@ -1175,6 +1307,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/billylongsnaps/status/1985735378700059091",
     "fullText": "100 tackles!  Also led the entire PCL in Def. tackles and special teams tackles!! @AW_VikingsFB @CoachGoettner stats also via @HuckPalmer https://t.co/w9sWZlEuWD"
+  },
+  {
+    "user": {
+      "screenName": "KathleenCurlee",
+      "name": "Kathleen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949257829749067776/IGGIyq2Z_normal.jpg",
+      "description": "Space + national security and emerging tech.\nResearch Analyst @csetgeorgetown\nUPenn 2021.",
+      "followersCount": 206,
+      "friendsCount": 206,
+      "location": "Washington, D.C."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G463cxLW8AAkiGi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KathleenCurlee/status/1985728810478678460",
+    "fullText": "New from @CSETGeorgetown: Seven decades of launches, collisions, and anti-satellite tests have left more than 34,000 tracked pieces of debris orbiting Earth.\n\nA handful of events by just a few countries created most of it. 🧵 https://t.co/yCIliymFG1"
   },
   {
     "user": {
