@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21429,
+      "friendsCount": 1043,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5DCCh3asAA7aTs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1986302048674193518",
+    "fullText": "不要迷信基于 Chromium 二次开发的应用就一定比 Electron 流畅，我的 Arc 后台运行时，经常内存泄漏，干爆 CPU...\n\nArc 各种小 Bug 也挺多的，比如正常网页的某些脚本不加载、按钮不可点等等... https://t.co/sGoi2hOU08"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154385,
+      "followersCount": 154384,
       "friendsCount": 501,
       "location": "中华人民共和国"
     },
@@ -20,7 +37,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42347,
+      "followersCount": 42350,
       "friendsCount": 226,
       "location": "China"
     },
@@ -33,11 +50,30 @@
   },
   {
     "user": {
+      "screenName": "Fabumamas",
+      "name": "Fabumama",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517229022677446656/SDTo9q11_normal.jpg",
+      "description": "We are a global women's social and professional network.\nA place for women of all interests to create, connect\n& collaborate. #Fabumama #Healthcare #Wellness",
+      "followersCount": 140,
+      "friendsCount": 236,
+      "location": "Honolulu, Hawaii"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5CyINFbIAM6tGq.jpg",
+      "https://pbs.twimg.com/media/G5CyMVMaQAAqYq7.jpg",
+      "https://pbs.twimg.com/media/G5CyQ0vbIAIJelc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Fabumamas/status/1986285031237853473",
+    "fullText": "Our kids have been riding the same bus for over 50 years! Totally unacceptable! It's time for an update! Here are some remodel ideas. Anything would be better than what it currently is! Let's show the next generation some love and get them a nicer and safer new ride! Perhaps some https://t.co/9FG9bULgmO"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154385,
+      "followersCount": 154384,
       "friendsCount": 501,
       "location": "中华人民共和国"
     },
@@ -52,7 +88,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25154,
+      "followersCount": 25139,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -67,7 +103,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21427,
+      "followersCount": 21429,
       "friendsCount": 1043,
       "location": ""
     },
@@ -84,8 +120,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19412,
-      "friendsCount": 4464,
+      "followersCount": 19399,
+      "friendsCount": 4463,
       "location": ""
     },
     "images": [],
@@ -131,12 +167,29 @@
   },
   {
     "user": {
+      "screenName": "Tina22_2",
+      "name": "Tina",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982503462202916864/lXnuc2DZ_normal.jpg",
+      "description": "Bachelor's degree in science, and in playful sarcasm.  Love space, physics, fantasy/sci-fy and music 🎵 Support Elon and his endeavors, they help us all. 🚀🇱🇷",
+      "followersCount": 5353,
+      "friendsCount": 2922,
+      "location": "Moon born. Waiting for a lift."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5Cael9WcAIttF7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tina22_2/status/1986257289431412746",
+    "fullText": "@elonmusk \nThe Echo Grind\nIn the feed's endless loop,\nghosts of the favored dance-\nrabbit trails, frozen memes,\nspotlit voices in the chamber.\n\nYou? Hammering stars from scrap,\nfingers raw on the forge,\npouring sweat into the void\nwhile they sip from the echo.\n\nBut wait—cracks in https://t.co/gtaU5D8rPF"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19412,
-      "friendsCount": 4464,
+      "followersCount": 19399,
+      "friendsCount": 4463,
       "location": ""
     },
     "images": [
@@ -148,12 +201,29 @@
   },
   {
     "user": {
+      "screenName": "PokketCoach",
+      "name": "Pokket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930136058953400322/jt7AIUrh_normal.jpg",
+      "description": "Hi! I'm Pokket, your personal mental game coach.",
+      "followersCount": 74,
+      "friendsCount": 3,
+      "location": "your pocket"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986237120969641984/vid/avc1/3840x2160/tuUixfOcRJI_rZLf.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PokketCoach/status/1986248158242828551",
+    "fullText": "Winning has never been easier. https://t.co/SRbHWsv5ll"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76711,
-      "friendsCount": 3501,
+      "followersCount": 76682,
+      "friendsCount": 3496,
       "location": ""
     },
     "images": [],
@@ -188,8 +258,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19412,
-      "friendsCount": 4464,
+      "followersCount": 19399,
+      "friendsCount": 4463,
       "location": ""
     },
     "images": [
@@ -235,8 +305,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 76711,
-      "friendsCount": 3501,
+      "followersCount": 76682,
+      "friendsCount": 3496,
       "location": ""
     },
     "images": [
@@ -301,7 +371,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4473584,
+      "followersCount": 4472572,
       "friendsCount": 4,
       "location": ""
     },
@@ -413,6 +483,40 @@
   },
   {
     "user": {
+      "screenName": "OmegleAppMe",
+      "name": "OmegleMe!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784320636225036288/FtEbr7oA_normal.jpg",
+      "description": "Official Twitter account of OmegleMe!",
+      "followersCount": 1171,
+      "friendsCount": 34,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5BVPmdbIAEtf2J.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OmegleAppMe/status/1986181219386888470",
+    "fullText": "Your World of Connections. https://t.co/qFh9LKveOM"
+  },
+  {
+    "user": {
+      "screenName": "Blockstats_app",
+      "name": "Blockstats",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902528317393170432/prf_JRov_normal.jpg",
+      "description": "Automate Your Crypto Taxes 100% & Track Your Portfolio in One app. \n \nNew version 2.0 coming soon..nov",
+      "followersCount": 109,
+      "friendsCount": 41,
+      "location": "Dallas, Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5BScIIXoAAB1nw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Blockstats_app/status/1986178580829635071",
+    "fullText": "Try AI search feature. \n\nWith blockstats it's as easy as 1,2,3. here are the few examples you can try 👇\n\n 1. Ask AI to to search transactions as \"Show me all ETH trades today\".\n2. You can also filter transactions as \"show me Coinbase transactions\".\n3. Also ask \"show me https://t.co/51wg2f46Ov"
+  },
+  {
+    "user": {
       "screenName": "WilderWorld",
       "name": "Wilder World",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927422180880441344/12l-KRgw_normal.jpg",
@@ -434,7 +538,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 142989,
+      "followersCount": 142990,
       "friendsCount": 1442,
       "location": "Chicago, IL"
     },
@@ -653,7 +757,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153091,
+      "followersCount": 153099,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -685,7 +789,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154385,
+      "followersCount": 154384,
       "friendsCount": 501,
       "location": "中华人民共和国"
     },
@@ -700,7 +804,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153091,
+      "followersCount": 153099,
       "friendsCount": 508,
       "location": "東京 港区"
     },
@@ -715,7 +819,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61104,
+      "followersCount": 61097,
       "friendsCount": 436,
       "location": ""
     },
@@ -728,11 +832,28 @@
   },
   {
     "user": {
+      "screenName": "AIOZNetwork",
+      "name": "AIOZ Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1656122682122072070/wCn6wn-c_normal.jpg",
+      "description": "DePIN Powering Web3\n\n● AI Compute Infrastructure \n● Decentralized S3 Object Storage\n● IPFS Pinning Service \n● p2p Media Streaming",
+      "followersCount": 106343,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986093648857931776/vid/avc1/1080x1080/HmUKHixrbnIgzzPn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AIOZNetwork/status/1986094030220865839",
+    "fullText": "Why Adaptive Bitrate Streaming (ABR) supercharges AIOZ Stream?\n\nOur player adjusts quality in real-time to your device &amp; network speed, delivering maximum QoE (Quality of Experience).\n\nKey Features:\n\n→ Global DePIN devices for minimized latency \n→ Increased redundancy during https://t.co/BQDZsDQtcA"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42347,
+      "followersCount": 42350,
       "friendsCount": 226,
       "location": "China"
     },
@@ -815,7 +936,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61104,
+      "followersCount": 61097,
       "friendsCount": 436,
       "location": ""
     },
@@ -953,6 +1074,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1986021152578572424",
     "fullText": "懒猫微服开发者：这个有啥用，看起来好牛逼的样子？ https://t.co/kYL5mJrfDW"
+  },
+  {
+    "user": {
+      "screenName": "SoundBlueMusic",
+      "name": "Sound Blue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959784756201308160/WkACWib0_normal.jpg",
+      "description": "",
+      "followersCount": 54,
+      "friendsCount": 728,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SoundBlueMusic/status/1986018532971401528",
+    "fullText": "Anyone familiar with Too Lost LLC (music distribution)? Looking for feedback from those who've used their services"
   },
   {
     "user": {
@@ -1216,7 +1352,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61104,
+      "followersCount": 61097,
       "friendsCount": 436,
       "location": ""
     },
@@ -1331,7 +1467,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5047,
+      "followersCount": 5055,
       "friendsCount": 1033,
       "location": "New York, USA"
     },
@@ -1373,6 +1509,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/galaxyoneapp/status/1985766038689259895",
     "fullText": "There’s still time to register for Thursday’s webinar with @GalaxyOneZac and @GalaxyOneJake for a live walkthrough of GalaxyOne and a Q&amp;A session 👇 https://t.co/qAoi9bvxD3"
+  },
+  {
+    "user": {
+      "screenName": "Musaffa_Fintech",
+      "name": "Musaffa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922602171574444032/Gc21zxBO_normal.jpg",
+      "description": "The most downloaded Halal Investment Research App.\nDownload the Musaffa app to start your halal investment journey!",
+      "followersCount": 976,
+      "friendsCount": 19,
+      "location": "New York "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G47Zal_WwAAFwbF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Musaffa_Fintech/status/1985764775679131809",
+    "fullText": "Get $AAPL, $AMD, $AVGO, $ADBE, and $HD free when you join.\n\nGet $5 in stocks just for joining.\n\nAlso earn $5 in stocks for every friend you refer.\n\nTrade U.S. stocks on a riba-free platform built for Muslim investors.\n\nThe easiest $5 in stocks you will ever get. Join the waitlist https://t.co/ladaEtyGxn"
   },
   {
     "user": {
@@ -1422,6 +1575,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/DavidMakovsky/status/1985747186324300193",
     "fullText": "30 years after Yitzhak Rabin’s assassination, his legacy endures: strength through moral courage and accountability. As Israel faces a defining post-war moment, leaders who embody Rabin’s integrity are more needed than ever. I remember fond moments with Rabin in my oped here:"
+  },
+  {
+    "user": {
+      "screenName": "connoraxiotes",
+      "name": "Connor Axiotes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954914500156489728/ngLHiEBr_normal.jpg",
+      "description": "Running @TailEndFilms & making a documentary on the race to AGI.",
+      "followersCount": 3066,
+      "friendsCount": 2416,
+      "location": "London, England"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985736012169936896/vid/avc1/1920x1080/InB1cmZn9dsnQZBr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/connoraxiotes/status/1985742725837213768",
+    "fullText": "Making God - the documentary on AI you might actually watch all the way through.\n\nWatch our teaser below. https://t.co/JDHPzhE54M"
   },
   {
     "user": {
