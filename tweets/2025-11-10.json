@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
+      "followersCount": 9061,
+      "friendsCount": 2145,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1987744326085149158",
+    "fullText": "向量数据库的客户端工具和传统RDB的客户端工具有着完全不一样的交互范式：构建查询向量、执行相似度搜索、然后分析返回的得分以理解结果的相关性。它要做的是，哪些记录最像 X？像到什么程度？处理的是模糊语义探索而不是精确的条件逻辑匹配。@datacollie"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154482,
+      "followersCount": 154480,
       "friendsCount": 505,
       "location": "中华人民共和国"
     },
@@ -40,7 +55,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61373,
+      "followersCount": 61379,
       "friendsCount": 447,
       "location": ""
     },
@@ -55,7 +70,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -72,7 +87,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -89,7 +104,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38311,
+      "followersCount": 38313,
       "friendsCount": 714,
       "location": "Hong Kong"
     },
@@ -106,7 +121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -123,7 +138,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59353,
+      "followersCount": 59354,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -140,7 +155,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -170,7 +185,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 143873,
+      "followersCount": 143877,
       "friendsCount": 1445,
       "location": "Chicago, IL"
     },
@@ -190,7 +205,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 143873,
+      "followersCount": 143877,
       "friendsCount": 1445,
       "location": "Chicago, IL"
     },
@@ -217,6 +232,23 @@
     ],
     "tweetUrl": "https://x.com/gmi_cloud/status/1987632897378103558",
     "fullText": "11. 10\n\n1 day out \n\nbeyond the future, one powerhouse https://t.co/vUkI5EfWTr"
+  },
+  {
+    "user": {
+      "screenName": "geoffreywoo",
+      "name": "Geoffrey Woo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981066406587150337/Vvvh0wdz_normal.jpg",
+      "description": "founder/gp @antifund founder @ketone https://t.co/MBAwrm3woR https://t.co/RCCgkMtaI2 🇺🇸 @stanford cs",
+      "followersCount": 18634,
+      "friendsCount": 2399,
+      "location": "Internet"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1987627851340787712/vid/avc1/1206x2622/gZSB4NP01tWVhvPg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/geoffreywoo/status/1987627984652841210",
+    "fullText": "Hi @jasonlk. I like your podcast with @HarryStebbings and thanks for the shoutout. \n\nI bet you @Antifund delivers better financial returns than your SaaStr Fund. \n\nWe’ll deliver superior DPI and IRR, and within 5 years, @jakepaul @LoganPaul and I will have more AUM than you. https://t.co/XV1OJDApZI"
   },
   {
     "user": {
@@ -250,11 +282,28 @@
   },
   {
     "user": {
+      "screenName": "AJ_Dunkentell",
+      "name": "Alonzo Dunkentell Jr.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1948800712143409152/7d6mXqK0_normal.jpg",
+      "description": "Class of 2027. #14 🏈 WR/DB. 6 foot 1 inch. 177 lbs. GPA: 3.54. Dual student ( High school & College). - Christian - Student - Athlete. 910-915-5422",
+      "followersCount": 46,
+      "friendsCount": 308,
+      "location": "Chesapeake, VA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5VQh7WWQAAcxCp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AJ_Dunkentell/status/1987583363469771044",
+    "fullText": "2 way player who gets it done in a top 10 district.\n@GBHSWildcat_FB @will_englert @JReid3014 @CoachWoodJr @CoachBlackstock @CoachMikeLondon @WMTribeFootball @NCATRecruiting https://t.co/uDwXUSWszz"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38311,
+      "followersCount": 38313,
       "friendsCount": 714,
       "location": "Hong Kong"
     },
@@ -303,7 +352,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38311,
+      "followersCount": 38313,
       "friendsCount": 714,
       "location": "Hong Kong"
     },
@@ -350,7 +399,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59353,
+      "followersCount": 59354,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -380,7 +429,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -407,6 +456,21 @@
     ],
     "tweetUrl": "https://x.com/LeeMmai/status/1987490960100700647",
     "fullText": "吃了根皮筋出来，商家打电话道歉问我怎么处理，我说这菜才10块，你赔我3元意思一下吧，最后发了5元红包给我，还发了一大串语音解释 https://t.co/rLJqafLIzf"
+  },
+  {
+    "user": {
+      "screenName": "RealDavidHBraun",
+      "name": "David H Braun",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860454817375698944/T5GXPMdT_normal.jpg",
+      "description": "I post about extreme events that are coming, but which you likely won't believe are possible until they happen.",
+      "followersCount": 785,
+      "friendsCount": 411,
+      "location": "Midwest USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RealDavidHBraun/status/1987476860348117496",
+    "fullText": "I call him President Antichrist or the Orange Messiah so everyone knows who I'm talking about without having to use his name.\nOddly, it's been hit or miss whether I'm allowed to promote posts that use his name.\nYou might not see my posts that use his name unless you follow me."
   },
   {
     "user": {
@@ -548,7 +612,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 42991,
+      "followersCount": 42992,
       "friendsCount": 226,
       "location": "China"
     },
@@ -565,7 +629,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61373,
+      "followersCount": 61379,
       "friendsCount": 447,
       "location": ""
     },
@@ -898,6 +962,23 @@
   },
   {
     "user": {
+      "screenName": "patdelaney36",
+      "name": "Patrick Delaney",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/339818962/Patrick_normal.jpg",
+      "description": "Exploring the mysteries of our Universe...in there, wisdom awaits.",
+      "followersCount": 88,
+      "friendsCount": 125,
+      "location": "Earth. @ Mars 2030."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1987230286401122304/vid/avc1/480x640/wwBCCYc64WCpvKjW.mp4?tag=23"
+    ],
+    "tweetUrl": "https://x.com/patdelaney36/status/1987230405167116351",
+    "fullText": "Mine eyes have seen the Glory of the coming of the Lord....he will be here soon. Is your soul ready?\nCome meet him at Pine Grove Missionary Baptist Church in Detroit Michigan https://t.co/9jbyXBu4pj"
+  },
+  {
+    "user": {
       "screenName": "VariantMkt",
       "name": "Variant",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903580628421091328/MHrSSa4Z_normal.png",
@@ -912,6 +993,21 @@
     ],
     "tweetUrl": "https://x.com/VariantMkt/status/1987215084754481513",
     "fullText": "Introducing the next generation of YC founders.\nThey’re avatars. 👀\nDeadline to apply: Nov 10 \n\n@garrytan @saranormous @snowmaker @bosmeny @_ram_ @sdianahu @eladgil @sama @ballmatthew @GJarrosson @levie @eglyman @gokulr @terronk @skeptrune @lina_colucci @IbrahimAjami @hazhubble https://t.co/hke1yG4h5l"
+  },
+  {
+    "user": {
+      "screenName": "matpatriotparty",
+      "name": "The Patriot Party 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965806204912844800/LO1wR1_f_normal.jpg",
+      "description": "Host of The Patriot Party. New Podcasts available weekly on Apple & Spotify. Holding Media & Politicians to a higher standard with Truth & Constitution 💪🇺🇸",
+      "followersCount": 13177,
+      "friendsCount": 141,
+      "location": "Bossier City, LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/matpatriotparty/status/1987190587523551510",
+    "fullText": "From Podcast to policy, The Patriot Party is the First movement in American history to align the legislative process, the media, and the people under one unifying principle — the Constitution itself.\n\nThis isn’t party politics as usual. As a matter of fact, no matter what"
   },
   {
     "user": {
@@ -946,6 +1042,21 @@
     ],
     "tweetUrl": "https://x.com/AlphaWaveFM/status/1987140347206484135",
     "fullText": "There is a game we used to play when we were leverage trading crypto heavy, and I mean Super Grok Heavy. The market is shaping up for an epic session of that game. It's called \"Catch the Falling Knife.\" Alpha Fund AVA DAO, Alexander Nimos, and the $DELI team are ready to play. https://t.co/HcwCRQo42R"
+  },
+  {
+    "user": {
+      "screenName": "SuperiorSource",
+      "name": "Superior Source",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949964773858172928/ilCPFA7F_normal.jpg",
+      "description": "Named “Best Supplements” by Better Nutrition Magazine, Superior Source has 100 MicroLingual supplement tablets that dissolve under the tongue. #NoPillsToSwallow",
+      "followersCount": 13500,
+      "friendsCount": 12247,
+      "location": "Los Angeles"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SuperiorSource/status/1987065115552927880",
+    "fullText": "When taking NMN many people feel more energized, notice improved focus and less brain fog*"
   },
   {
     "user": {
