@@ -1,6 +1,54 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
+      "followersCount": 9111,
+      "friendsCount": 2152,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1988480171553468588",
+    "fullText": "放眼当今世界，以 AI 为代表的各种新技术日新月异，在现行社会经济财富分配制度下技术进步所带来的红利流向了特定行业和少部分人手中，而很多行业和普通人则越来越卷，在剩下的仅有的越来越少的资源中互相竞争。"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 61647,
+      "friendsCount": 450,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5h9rmNb0AApohv.jpg",
+      "https://pbs.twimg.com/media/G5h9rmMaQAEcdfp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/1988477430785610157",
+    "fullText": "【偶尔做个酸文人】（以下文字写于2023年12月28日）\n\n太浩湖.翡翠湾\n\n去徒步了，一个人，8公里，沿着湖边的森林小路走，听着山林里的风和还有水拍打湖岸的声音，感受自己的呼吸，是真正自由人的感觉。 https://t.co/9wywcLUWXT"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 5181,
+      "friendsCount": 534,
+      "location": "🟩🟩🟩🟧🟨🟨🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/1988476127959298481",
+    "fullText": "新收录了 18 款今年黑色星期五的 Mac App 优惠🎁\n\n其中包括多款国人开发的优秀的独立开发作品，欢迎提交&amp;关注，早来早占前排💺\n\n效率工具：\nZipic/Wins/MenubarX/TimeGo-Clock/DynamicLake/CleanClip/DeskRest\n\n内容生产：\nScreenSage Pro\n\nAI 工具：\nOrchard/TypeBoost/TypingMind/RewriteBar\n\n更多:"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -22,7 +70,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43379,
+      "followersCount": 43382,
       "friendsCount": 230,
       "location": "China"
     },
@@ -39,7 +87,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144154,
+      "followersCount": 144159,
       "friendsCount": 1447,
       "location": "Chicago, IL"
     },
@@ -56,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43379,
+      "followersCount": 43382,
       "friendsCount": 230,
       "location": "China"
     },
@@ -107,14 +155,31 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19595,
-      "friendsCount": 4479,
+      "followersCount": 19599,
+      "friendsCount": 4481,
       "location": ""
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/1988436496186065189",
     "fullText": "“灵魂决定命运。​”\n        —— Herodotus"
+  },
+  {
+    "user": {
+      "screenName": "TheCalloutIndex",
+      "name": "The Callout Index",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970941554492571648/eI9pUZcm_normal.jpg",
+      "description": "Cutting through the spin, we expose the misfits unfit for the public trust. Watch. React. Call It Out!",
+      "followersCount": 48,
+      "friendsCount": 21,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988429649265692672/vid/avc1/720x1280/RZ_LtS97SdehTDY8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheCalloutIndex/status/1988430652358746591",
+    "fullText": "Get It Together @USCongress Leadership Matters! https://t.co/1Ii3KjAkw3"
   },
   {
     "user": {
@@ -137,7 +202,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43379,
+      "followersCount": 43382,
       "friendsCount": 230,
       "location": "China"
     },
@@ -188,7 +253,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144154,
+      "followersCount": 144159,
       "friendsCount": 1447,
       "location": "Chicago, IL"
     },
@@ -303,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61634,
+      "followersCount": 61647,
       "friendsCount": 450,
       "location": ""
     },
@@ -568,6 +633,23 @@
   },
   {
     "user": {
+      "screenName": "m0",
+      "name": "M0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912499168616071168/YwutsRBu_normal.jpg",
+      "description": "M0 is the universal platform powering builders of application-specific stablecoins.",
+      "followersCount": 19648,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988003197705990144/vid/avc1/1920x1080/vBiSPlCC_yCr5KSZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/m0/status/1988248878752141425",
+    "fullText": "Answer the call. Sleep later. Ship now.\n\nYou can shape the entire world from your bedroom. https://t.co/qAaMRmxMjy"
+  },
+  {
+    "user": {
       "screenName": "JohnKusumi",
       "name": "John Kusumi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963715956322041856/Dya7HAdv_normal.jpg",
@@ -771,6 +853,21 @@
   },
   {
     "user": {
+      "screenName": "BuckelewZachary",
+      "name": "Zac Buckelew",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907481525156761600/qucPmTVg_normal.jpg",
+      "description": "Husband to an amazing woman. Father to two wonderful children. Redeemed by the Blood of Christ. I am a stranger in a strange land. This world is not my home.",
+      "followersCount": 4305,
+      "friendsCount": 5093,
+      "location": "Tennessee"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BuckelewZachary/status/1988138755601961079",
+    "fullText": "Eire's Voyage is officially out today! Check out this unique spin on Southern rock with a flair of Scotch-Irish elements - the story told like a sea shanty from a weary sailor. Help support this project, countless hours and trial and error have gone into it! And another song is"
+  },
+  {
+    "user": {
       "screenName": "TheFGA",
       "name": "The FGA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644095459693322240/OkneUM7u_normal.jpg",
@@ -920,6 +1017,23 @@
   },
   {
     "user": {
+      "screenName": "Complex",
+      "name": "Complex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1616533296770416655/AumWVpWu_normal.jpg",
+      "description": "Making Culture Pop.",
+      "followersCount": 2411127,
+      "friendsCount": 787,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1987913741812355074/vid/avc1/1080x1920/UmJkFsRj8BNjbFbV.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Complex/status/1987915051911839877",
+    "fullText": "\"Budgets and talking about money is very important.” - @cp3. Watch the GOAT point guard explain why on Ball On A Budget. Powered by @chime https://t.co/gTM0j9w7Fl"
+  },
+  {
+    "user": {
       "screenName": "resend",
       "name": "Resend",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985309141926051840/KJjI60Uq_normal.jpg",
@@ -934,5 +1048,22 @@
     ],
     "tweetUrl": "https://x.com/resend/status/1987899940128084372",
     "fullText": "In the last seven days, we shipped six new features.\n\nHere's a quick recap of what we launched 👇 https://t.co/6sZZ2ntYpx"
+  },
+  {
+    "user": {
+      "screenName": "ceoalain",
+      "name": "Alain F",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912323931450621953/7cnMzOFf_normal.jpg",
+      "description": "Custom software is a significant investment. We help you move past uncertainty to build solutions grounded in data, research, and proven strategies.",
+      "followersCount": 139,
+      "friendsCount": 82,
+      "location": "Makati, Philippines"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5YERjgXkAA_g52.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceoalain/status/1987782036514308361",
+    "fullText": "Every major profession eventually faces a moment when technology reshapes the ground beneath it. For law, that moment is now.\n\nThe question isn’t whether AI will replace lawyers. It’s whether lawyers who use AI will replace those who don’t. The firms that win the next decade https://t.co/XghuGSEcdD"
   }
 ]
