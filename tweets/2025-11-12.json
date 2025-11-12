@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 38337,
+      "friendsCount": 716,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5hyXd7a4AAol7C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1988465474628424024",
+    "fullText": "又录制完了新一期的视频口播，现在发现录口播其实是视频里面最简单的一个环节，太轻松了！\n\n顺带分享一下前两天有个朋友问我一个问题：“我想做自媒体，该不该露脸？”\n\n我的回答是：“如果不是还在职场，顾虑个人职位的原因，那么一定要露脸！”\n\n至于为什么？原因主要有2个：\n1. https://t.co/p0qlYmB33c"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43383,
+      "followersCount": 43379,
+      "friendsCount": 230,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5hs_wVbAAAUAnr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1988459083364724985",
+    "fullText": "问我选哪个？果断KDE呀 😜 https://t.co/BsfC3PHTY6"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 144155,
+      "friendsCount": 1447,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5hsMy2XYAA4l9B.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1988458254234423461",
+    "fullText": "给 AI 设计“工具”时，不要把 AI 当成“程序”，要把它当成“用户”。\n\n大多数人，是把自己的后端 API 直接封装成工具给 AI。 比如查 Slack，你给了它三个 API 工具：1. 加载对话；2. 用用户 ID 查用户名；3. 用频道 ID 查频道名。 结果 AI 为了看懂一条消息，得手忙脚乱地调用三次工具，然后自己去拼凑。 https://t.co/uloFArVAh5"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43379,
       "friendsCount": 230,
       "location": "China"
     },
@@ -22,7 +73,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6676,
+      "followersCount": 6675,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -56,7 +107,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
-      "followersCount": 19591,
+      "followersCount": 19592,
       "friendsCount": 4479,
       "location": ""
     },
@@ -67,11 +118,26 @@
   },
   {
     "user": {
+      "screenName": "PattensPoint",
+      "name": "Pat Patten, MFA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970726663525736448/Z3TKoVMM_normal.jpg",
+      "description": "Between War and Peace, my debut novel, published in the shadow years of life, proves it’s never too late to follow your bliss.",
+      "followersCount": 6,
+      "friendsCount": 28,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PattensPoint/status/1988409117732438445",
+    "fullText": "Between War and Peace: Honoring Courage on Veterans Day\n\nThis morning, I had the privilege of joining Rance Adams on WJXT Channel 4’s River City Live, along with Lynn Geiser, Founder and CEO of Hope4Veterans, to talk about my book and my mission to support female veterans."
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43383,
+      "followersCount": 43379,
       "friendsCount": 230,
       "location": "China"
     },
@@ -122,7 +188,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144152,
+      "followersCount": 144155,
       "friendsCount": 1447,
       "location": "Chicago, IL"
     },
@@ -216,11 +282,28 @@
   },
   {
     "user": {
+      "screenName": "anduriltech",
+      "name": "Anduril Industries",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892311837968125955/YmCsRx5t_normal.jpg",
+      "description": "Anduril is shaping the future of defense, transforming U.S. & allied military capabilities with advanced technology.",
+      "followersCount": 192351,
+      "friendsCount": 288,
+      "location": "Orange County, CA "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5fasq_bcAQxUEz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/anduriltech/status/1988299878439800888",
+    "fullText": "Today and every day, Anduril honors our heroes.\n\nVeterans are core to our mission. They make up over 13% of our employee base. That’s more than twice the share in the US Labor Force.\n\nWe asked our employees to nominate their Veteran teammates to recognize their impact. Here's https://t.co/IEIKYAG6bd"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61610,
+      "followersCount": 61631,
       "friendsCount": 449,
       "location": ""
     },
@@ -304,7 +387,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5502,
+      "followersCount": 5507,
       "friendsCount": 1053,
       "location": "New York, USA"
     },
@@ -338,7 +421,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43383,
+      "followersCount": 43379,
       "friendsCount": 230,
       "location": "China"
     },
@@ -448,6 +531,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/1988260291046764801",
     "fullText": "WindowsXP 除了 IE6 让无数人抓狂之外，干净清爽的界面还是挺怀念的。反观现在的 Windows 系统，臃肿、烦人和充满干扰，甚至已经沦为微软自家产品的销售引流渠道。它再也不干净了！ https://t.co/UMNH0FVlGv"
+  },
+  {
+    "user": {
+      "screenName": "USFunds",
+      "name": "U.S. Global Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1375537509573267459/sLLnaHma_normal.jpg",
+      "description": "U.S. Global Investors, Inc. is an innovative investment manager with vast experience in global markets and specialized sectors.\n\nNASDAQ: $GROW",
+      "followersCount": 17036,
+      "friendsCount": 1203,
+      "location": "San Antonio, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/G5euoEqWcAAVNkw.mp4"
+    ],
+    "tweetUrl": "https://x.com/USFunds/status/1988249877256536167",
+    "fullText": "WHEELS UP!\n\nLast night the Senate voted to end the longest U.S. government shutdown, with a bipartisan deal now moving to the House before heading to the President’s desk.\n\nThis is welcome news for the travel sector, TSA operations, airport staffing, and airline schedules can now https://t.co/W4yhlicffR"
   },
   {
     "user": {
@@ -718,6 +818,23 @@
   },
   {
     "user": {
+      "screenName": "resolveai",
+      "name": "Resolve AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1842617853385879552/Oi2hVOwU_normal.jpg",
+      "description": "AI for Prod",
+      "followersCount": 1887,
+      "friendsCount": 215,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1987971342365585410/vid/avc1/1920x1080/h934-wmw1z3M4BbR.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/resolveai/status/1987971781119115665",
+    "fullText": "Resolve is the only comprehensive AI tool that investigates across your entire production stack.\n\nCode. Infrastructure. Runtime metrics. Security. All correlated with evidence.\n\nWatch it turn a simple Kafka question into a full production analysis across four systems. https://t.co/C1xOPr2uF8"
+  },
+  {
+    "user": {
       "screenName": "artemis",
       "name": "Artemis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896982195723546624/2XeO9mPb_normal.png",
@@ -807,7 +924,7 @@
       "name": "Resend",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985309141926051840/KJjI60Uq_normal.jpg",
       "description": "Email for developers.",
-      "followersCount": 25997,
+      "followersCount": 25998,
       "friendsCount": 21,
       "location": "San Francisco, CA"
     },
