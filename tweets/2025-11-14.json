@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜ 🤖 AGI 降临派 ｜💻 独立开发者 ｜🎙️播客《细胞视角》｜🎨 造物矩阵 https://t.co/7481d4ZjH6｜🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 19839,
+      "friendsCount": 4490,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rs0RpXUAA10tk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1989164587288002652",
+    "fullText": "读完了《余华写作课》，这本书收录 余华 老师 40 年的写作实战经验，19 篇随笔记录了他从早期遇到障碍，到后期技巧突破的完整路径。\n\n看完最大的收获：写作的难题都可以拆解成简单步骤！\n\n我试着提炼了 6 个可以拿来就用的方法： https://t.co/FmZBFtUfvN"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21429,
+      "friendsCount": 1042,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rtH0fbgAAWkbQ.jpg",
+      "https://pbs.twimg.com/media/G5rtH0hacAMmyRY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/1989163634975797474",
+    "fullText": "electron + better-sqlite3 因 node 版本不一致，构建时经常出现各种错误。node-gyp 更是大坑，不少依赖构建都死在上面...\n\n如果目前在使用 electron v39+，遇到 build error 可以先试试我这个 fix 方案。代码是 codex review 修复的，ai 真的可以提  pr 了！\nhttps://t.co/MURxxx52MN https://t.co/qC0bJSGftg"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43807,
+      "followersCount": 43813,
+      "friendsCount": 230,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1989158987045216256/pu/vid/avc1/720x1280/GuIm6XsqTfjMOW4h.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1989159034482749955",
+    "fullText": "兄弟，你站的位置，白天容易被狙，晚上还要跪榴莲 😂 https://t.co/5UisuiwnCK"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43813,
+      "friendsCount": 230,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rmXTWaoAA85AP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1989155830395265347",
+    "fullText": "这就是懒猫的直连效果，感谢老板认可 https://t.co/ikz9exqvJc"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43813,
       "friendsCount": 230,
       "location": "China"
     },
@@ -22,7 +91,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144411,
+      "followersCount": 144414,
       "friendsCount": 1449,
       "location": "Chicago, IL"
     },
@@ -39,7 +108,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4495101,
+      "followersCount": 4495103,
       "friendsCount": 4,
       "location": ""
     },
@@ -56,7 +125,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191203,
+      "followersCount": 191205,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -90,7 +159,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191203,
+      "followersCount": 191205,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -107,7 +176,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18361,
+      "followersCount": 18362,
       "friendsCount": 1545,
       "location": ""
     },
@@ -124,7 +193,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43807,
+      "followersCount": 43813,
       "friendsCount": 230,
       "location": "China"
     },
@@ -137,11 +206,28 @@
   },
   {
     "user": {
+      "screenName": "OnyxOdds",
+      "name": "Onyx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838603056302149633/CkrYvAzz_normal.jpg",
+      "description": "Sports Predictions, Made Simple 🏆",
+      "followersCount": 15955,
+      "friendsCount": 361,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5qSDSOW0AAlVcz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OnyxOdds/status/1989062774639718842",
+    "fullText": "Like and reply to this tweet. \n\nMaye be nothing.\nMaye be something. https://t.co/6w0ryXxk7l"
+  },
+  {
+    "user": {
       "screenName": "realtordotcom",
       "name": "Realtor.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1410598720056414225/p6XuSZE-_normal.png",
       "description": "To each their home. #realestate",
-      "followersCount": 297145,
+      "followersCount": 297137,
       "friendsCount": 562,
       "location": "worldwide"
     },
@@ -188,7 +274,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4495101,
+      "followersCount": 4495103,
       "friendsCount": 4,
       "location": ""
     },
@@ -203,7 +289,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144411,
+      "followersCount": 144414,
       "friendsCount": 1449,
       "location": "Chicago, IL"
     },
@@ -252,7 +338,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5840,
+      "followersCount": 5846,
       "friendsCount": 1052,
       "location": "New York, USA"
     },
@@ -269,7 +355,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38508,
+      "followersCount": 38514,
       "friendsCount": 720,
       "location": "Hong Kong"
     },
@@ -286,7 +372,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43807,
+      "followersCount": 43813,
       "friendsCount": 230,
       "location": "China"
     },
@@ -301,7 +387,7 @@
       "name": "Matthew Tuttle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939365937527857152/h-w6XzEv_normal.jpg",
       "description": "The Formula Wall Street Doesn't Want You To Know.  To Subscribe to The Daily H.E.A.T. https://t.co/GSxIMmAkwg \n\nhttps://t.co/00bHz5dxEc",
-      "followersCount": 14779,
+      "followersCount": 14777,
       "friendsCount": 1061,
       "location": "Greenwich, CT"
     },
@@ -318,7 +404,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59520,
+      "followersCount": 59524,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -335,7 +421,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59520,
+      "followersCount": 59524,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -428,6 +514,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/1988916362714968198",
     "fullText": "来吃小火锅🍲这一盘3-5-7元，想吃饱估计得小一百… https://t.co/YIRWI3kc7v"
+  },
+  {
+    "user": {
+      "screenName": "gkoi0x",
+      "name": "GKOI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1825808345011212288/FTGRDy2n_normal.jpg",
+      "description": "⛩️We are building the future of Gaming for the Warriors, Degens & Legends of Web3. Where your PFP isn’t just Art, it’s your Destiny🔥\nFight. Win. Evolve. GKOI",
+      "followersCount": 39659,
+      "friendsCount": 3101,
+      "location": "NFTArena"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988909104664907776/vid/avc1/1920x1080/x9yLsC2lK9jbzn3j.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/gkoi0x/status/1988909545758875931",
+    "fullText": "GM! The first look at the GKOI Universe is here showcasing the world we’re building. Cinematic shots, new arenas &amp; live gameplay with elemental strikes &amp; power-ups that HIT\n\nGKOI is your gateway to a world where warriors evolve &amp; your PFP fights back!\n\nFight. Win. Evolve. @gkoi0x https://t.co/JJy7Jr7GmI"
+  },
+  {
+    "user": {
+      "screenName": "graniteshares",
+      "name": "GraniteShares ETFs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1975028403293032448/FLcaq_ac_normal.jpg",
+      "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
+      "followersCount": 12651,
+      "friendsCount": 2567,
+      "location": "Manhattan, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5oComqaMAAo16l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/graniteshares/status/1988905162497568873",
+    "fullText": "GraniteShares announced distribution rates for the YieldBOOST™ COIN ETF (COYY) as of November 13, 2025\n \n$COYY\n\nCOYY: Standardized performance: Since Inception (7/29/2025): -23.49% https://t.co/NtacduB5i1"
   },
   {
     "user": {
@@ -585,7 +705,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18361,
+      "followersCount": 18362,
       "friendsCount": 1545,
       "location": ""
     },
