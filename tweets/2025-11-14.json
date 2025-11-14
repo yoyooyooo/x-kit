@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 191200,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rPh6AbwAA6WmE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1989130390486094035",
+    "fullText": "新的博客文章《国产大模型接入 Claude Code 教程》。\n\n本文分享一种更换 Claude Code 底层模型的通用方法。\n\n这种方法不影响原始的 Claude Code，可以两个模型同时使用。你还能继续添加其他模型，每一个模型都有自己的调用命令，方便测试新模型。https://t.co/JPRkaQoaUN https://t.co/Y0e7zLrXmB"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "允许一切如其所是",
+      "followersCount": 18359,
+      "friendsCount": 1545,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rOzrNacAEEAQq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1989129588547719531",
+    "fullText": "家人们今晚特斯拉可以塞蛋吗？ https://t.co/nnOoVyPB4n"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -15,6 +49,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1989111634560991451",
     "fullText": "男人的玩具，玩到凌晨2点 😂 https://t.co/x2OMeHCjEH"
+  },
+  {
+    "user": {
+      "screenName": "realtordotcom",
+      "name": "Realtor.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1410598720056414225/p6XuSZE-_normal.png",
+      "description": "To each their home. #realestate",
+      "followersCount": 297145,
+      "friendsCount": 562,
+      "location": "worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/realtordotcom/status/1989060475288694863",
+    "fullText": "Only 3 in 10 Veterans know about 0% down home loans. \n\nJoin our mission to help veterans find their way home."
   },
   {
     "user": {
@@ -39,7 +88,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4494815,
+      "followersCount": 4494910,
       "friendsCount": 4,
       "location": ""
     },
@@ -54,7 +103,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144384,
+      "followersCount": 144385,
       "friendsCount": 1449,
       "location": "Chicago, IL"
     },
@@ -65,12 +114,29 @@
   },
   {
     "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 5824,
+      "friendsCount": 1052,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989009948068446213/vid/avc1/1080x1920/7hhjxNilw-KFSEba.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/valent44355/status/1989010235227275384",
+    "fullText": "THIS IS SIMPLE -  This is Wall Street-level accumulation happening right in front of you.\n\nTHIS IS An OPPORTUNITY ! \n\nDONT BLINK \n\nDYOR https://t.co/NJ5GjEBgIr"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38499,
-      "friendsCount": 719,
+      "followersCount": 38502,
+      "friendsCount": 720,
       "location": "Hong Kong"
     },
     "images": [
@@ -86,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -133,7 +199,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -150,7 +216,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -167,8 +233,8 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38499,
-      "friendsCount": 719,
+      "followersCount": 38502,
+      "friendsCount": 720,
       "location": "Hong Kong"
     },
     "images": [
@@ -184,7 +250,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -233,7 +299,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43796,
+      "followersCount": 43806,
       "friendsCount": 230,
       "location": "China"
     },
@@ -250,7 +316,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154585,
+      "followersCount": 154591,
       "friendsCount": 506,
       "location": "中华人民共和国"
     },
@@ -319,7 +385,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
-      "followersCount": 6674,
+      "followersCount": 6673,
       "friendsCount": 381,
       "location": "杭州"
     },
@@ -334,7 +400,7 @@
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965851729825546240/fLHeW0Ji_normal.jpg",
       "description": "The world's largest prediction market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket for live odds.",
-      "followersCount": 762226,
+      "followersCount": 762272,
       "friendsCount": 5539,
       "location": ""
     },
