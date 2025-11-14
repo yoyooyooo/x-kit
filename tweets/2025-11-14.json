@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 144390,
+      "friendsCount": 1449,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989138665281335298/vid/avc1/852x480/RnZrsVYe1X_O_BAB.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1989139235593679071",
+    "fullText": "微博看到的瓜：Amazon 拍广告，找了配音演员穆雪婷配音，一共 7 集，找人家录了 3 集，后 4 集用 AI 克隆音色，直接 AI 配音，后面就不用付钱了，现在正在微博维权 https://t.co/tRyfwfNOW5"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4494976,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rWePUbgAAcsZS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1989138776585851038",
+    "fullText": "Group chats in ChatGPT are now piloting in Japan, New Zealand, South Korea, and Taiwan.\n\nA new way to collaborate with friends, family, or coworkers and ChatGPT in the same conversation. https://t.co/UQKhqjcnQQ"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191200,
+      "followersCount": 191198,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5rSejxacAIpem-.jpg",
+      "https://pbs.twimg.com/media/G5rSejoacAAzT3L.jpg",
+      "https://pbs.twimg.com/media/G5rSej5bUAAOcJj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1989133621924655567",
+    "fullText": "周五软件分享\n\n- MagicMirror²（图一）：智能镜子应用 https://t.co/lJwGxmJHty\n\n- btop（图二）：在终端详细展示系统信息 https://t.co/Oh6fYXMhGp\n\n- DroidDock（图三）：苹果电脑管理安卓手机 https://t.co/ETG1Hscm4s\n\n更多软件 #科技爱好者周刊（第373期） https://t.co/LFQyh4pLi8 https://t.co/YYxveW6rni"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard (https://t.co/t0XT54LQwE). Just-for-Instagram app on Apple Vision Pro. ByteDance",
+      "followersCount": 6673,
+      "friendsCount": 381,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1989132767649796582",
+    "fullText": "苹果新规范的这一条：\n4.1(c): This new guideline specifies that you cannot use another developer's icon, brand, or product name in your app's icon or name, without approval from the developer.\n\n我能理解是知识产权保护，但是问题是这不应该走一个严格的路径吗？难道别的开发者做了一个"
+  },
+  {
+    "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 191198,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -67,6 +135,21 @@
   },
   {
     "user": {
+      "screenName": "realtordotcom",
+      "name": "Realtor.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1410598720056414225/p6XuSZE-_normal.png",
+      "description": "To each their home. #realestate",
+      "followersCount": 297142,
+      "friendsCount": 562,
+      "location": "worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/realtordotcom/status/1989060475032830217",
+    "fullText": "Only 3 in 10 Veterans know about 0% down home loans. \n\nJoin our mission to help veterans find their way home."
+  },
+  {
+    "user": {
       "screenName": "valent44355",
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
@@ -88,7 +171,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4494910,
+      "followersCount": 4494976,
       "friendsCount": 4,
       "location": ""
     },
@@ -103,7 +186,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144385,
+      "followersCount": 144390,
       "friendsCount": 1449,
       "location": "Chicago, IL"
     },
@@ -131,11 +214,28 @@
   },
   {
     "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 5829,
+      "friendsCount": 1052,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988998025532911616/vid/avc1/1080x1920/_dEGq24HCCXIv_Lj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/valent44355/status/1988999513814523974",
+    "fullText": "BREAKING ! OFFICIAL NOW ! Details from NextNRG, Inc. ( $NXXT) regarding its upcoming earnings and corporate update:\n\nInstitutionally, recent filings show:\n\nVanguard Group Inc. added ~595,448 shares (~+131.2%) in Q3 2025. \nGeode Capital Management, LLC added ~238,294 shares https://t.co/MIn6fc7ABI"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38502,
+      "followersCount": 38504,
       "friendsCount": 720,
       "location": "Hong Kong"
     },
@@ -163,11 +263,28 @@
   },
   {
     "user": {
+      "screenName": "TuttleCapital",
+      "name": "Matthew Tuttle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939365937527857152/h-w6XzEv_normal.jpg",
+      "description": "The Formula Wall Street Doesn't Want You To Know.  To Subscribe to The Daily H.E.A.T. https://t.co/GSxIMmAkwg \n\nhttps://t.co/00bHz5dxEc",
+      "followersCount": 14774,
+      "friendsCount": 1061,
+      "location": "Greenwich, CT"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5pCZnVWQAAylQM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TuttleCapital/status/1988975201678459063",
+    "fullText": "https://t.co/0z9NdWDPwX"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59503,
+      "followersCount": 59508,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -184,7 +301,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59503,
+      "followersCount": 59508,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -233,7 +350,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 38502,
+      "followersCount": 38504,
       "friendsCount": 720,
       "location": "Hong Kong"
     },
@@ -400,7 +517,7 @@
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965851729825546240/fLHeW0Ji_normal.jpg",
       "description": "The world's largest prediction market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket for live odds.",
-      "followersCount": 762272,
+      "followersCount": 762336,
       "friendsCount": 5539,
       "location": ""
     },
