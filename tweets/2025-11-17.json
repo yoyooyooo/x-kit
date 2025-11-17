@@ -1,12 +1,27 @@
 [
   {
     "user": {
+      "screenName": "CNZ_DAO",
+      "name": "Cryptocurrency NZ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1674596519029391360/W7cIJx0s_normal.jpg",
+      "description": "New Zealand Crypto Community, Education & News",
+      "followersCount": 508,
+      "friendsCount": 64,
+      "location": "New Zealand"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CNZ_DAO/status/1990300749885276550",
+    "fullText": "Students Are Building NZ's Web3’s Future at the University of Auckland with WEB3UOA.\n\n- Founded in 2025 by engineering student Chris Kwon,  WEB3UOA has grown to over 150 members in under a year, uniting students  from various disciplines to explore and build web3 tech.\n\n-"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
       "followersCount": 38735,
-      "friendsCount": 721,
+      "friendsCount": 722,
       "location": "Hong Kong"
     },
     "images": [
@@ -57,7 +72,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25248,
+      "followersCount": 25249,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -72,7 +87,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43760,
+      "followersCount": 43761,
       "friendsCount": 240,
       "location": "China"
     },
@@ -104,7 +119,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61966,
+      "followersCount": 61967,
       "friendsCount": 452,
       "location": ""
     },
@@ -139,7 +154,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
       "followersCount": 38735,
-      "friendsCount": 721,
+      "friendsCount": 722,
       "location": "Hong Kong"
     },
     "images": [
@@ -151,11 +166,28 @@
   },
   {
     "user": {
+      "screenName": "crrow777",
+      "name": "Crow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804556774470516736/4ODpdGlx_normal.jpg",
+      "description": "~Belief is the enemy of knowing~\nhttps://t.co/1jFPHzGvhl",
+      "followersCount": 18205,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990244366963691520/vid/avc1/1920x1080/epZB4Eq1DKUodw8b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/crrow777/status/1990244848209657944",
+    "fullText": "The Magic of Vibration: Frequency, Color and Geometry - A lost science once linked vibration, color, geometry and consciousness into a single system. Ancient builders, musicians and healers understood that sound created form, that light carried information, and that specific https://t.co/Y8tRGSowCt"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25248,
+      "followersCount": 25249,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -185,7 +217,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43760,
+      "followersCount": 43761,
       "friendsCount": 240,
       "location": "China"
     },
@@ -202,7 +234,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 144689,
+      "followersCount": 144693,
       "friendsCount": 1452,
       "location": "Chicago, IL"
     },
@@ -287,7 +319,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 61966,
+      "followersCount": 61967,
       "friendsCount": 452,
       "location": ""
     },
@@ -303,7 +335,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
       "followersCount": 38735,
-      "friendsCount": 721,
+      "friendsCount": 722,
       "location": "Hong Kong"
     },
     "images": [
@@ -319,7 +351,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43760,
+      "followersCount": 43761,
       "friendsCount": 240,
       "location": "China"
     },
@@ -355,7 +387,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59788,
+      "followersCount": 59791,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -387,7 +419,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43760,
+      "followersCount": 43761,
       "friendsCount": 240,
       "location": "China"
     },
@@ -402,7 +434,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59788,
+      "followersCount": 59791,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -419,7 +451,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43760,
+      "followersCount": 43761,
       "friendsCount": 240,
       "location": "China"
     },
@@ -436,7 +468,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59788,
+      "followersCount": 59791,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -480,6 +512,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1990029398838509592",
     "fullText": "这个歌手绝对上推特啊，歌词太豪放了 😂 https://t.co/vg9GCbqftr"
+  },
+  {
+    "user": {
+      "screenName": "RedMountain_ASX",
+      "name": "Red Mountain Mining",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689502566718361600/97KXIjtW_normal.jpg",
+      "description": "Red Mountain Mining ASX: $RMX US CODE: $RMXFF is helping AMERICA FIRST with its US Critical Minerals Projects in IDAHO & UTAH & Armidale Antimony Project in NSW",
+      "followersCount": 1620,
+      "friendsCount": 535,
+      "location": "Idaho, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990019691117756416/vid/avc1/1080x1080/WfayrF3Rf9BcJ-Yq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RedMountain_ASX/status/1990023007272919304",
+    "fullText": "Red Mountain Mining is Fast-Tracking the Exploration and Development of our US and Australian Critical Minerals Projects and we are pleased to give USA based investors direct access to $RMXFF shares via our upcoming listing on the @OTCMarkets exchange https://t.co/88R3clfcaa"
   },
   {
     "user": {
