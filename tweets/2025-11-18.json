@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 59827,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1990706645807370543",
+    "fullText": "万能的推友请问一下：Cusor 在自动运行 terminal 命令的过程中经常卡住是什么原因？就是一直显示在 loading 的状态。\n\n点右上角的 open in external terminal 以后去观察发现看起来命令根本就没有自动运行，没有任何命令运行以后的输出。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43657,
+      "friendsCount": 247,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6Bn8kBbMAMsXO1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1990705751166497043",
+    "fullText": "我20多岁的时候，觉得人生要多听听不同的声音\n\n我35岁以后，发现听不同的声音没用\n\n后面人生持续做减法，减法才是快乐的根源呀😎 https://t.co/4ex0M1yCDd"
+  },
+  {
+    "user": {
       "screenName": "KazeeLandon",
       "name": "Landon Kazee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1855169697744044032/Ej9o3SOJ_normal.jpg",
@@ -163,7 +195,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39232,
+      "followersCount": 39233,
       "friendsCount": 723,
       "location": "Hong Kong"
     },
@@ -180,7 +212,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43658,
+      "followersCount": 43657,
       "friendsCount": 247,
       "location": "China"
     },
@@ -229,7 +261,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️ 「BIP 订阅制真人秀」概念提出者 ｜ 💻 独立开发者 ｜🌍 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM 创始人 ｜🎯 关注 AI & Crypto · 构建创作者生态 · 探索个体与社区的更多可能 ｜🌐 English: @CellNomad",
-      "followersCount": 20182,
+      "followersCount": 20184,
       "friendsCount": 4529,
       "location": ""
     },
