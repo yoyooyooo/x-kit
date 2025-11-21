@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 190514,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6PSxl4acAQuFa0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/1991667346377969767",
+    "fullText": "本周的新闻，欧洲做出决定，6GHz 怎么分配。\n\n欧洲把 6GHz 一分为二，较低的频段给 WiFi 使用，较高的频段留给手机通信。\n\n这跟美国和中国都不一样，美国把整个 6GHz 分配给 WiFi，中国则是全部分配给手机通信。\n\n我来说说，对于这个新闻的感想。https://t.co/Y7CTNEwyhi https://t.co/8cHyToggUz"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43910,
+      "friendsCount": 253,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1991665720808402944/pu/vid/avc1/1280x720/dimrQ7yMYN-LLSrI.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1991666166188896685",
+    "fullText": "路虎揽胜和仰望U8，百万土豪使劲造车 😓\n\n武汉这帮越野哥们啊，真猛啊\n\n至从我坦克500提车第一周就把后杠磕废以后，老婆就不准我和他们玩了  😂 https://t.co/JUFgnSVQAh"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 43910,
+      "friendsCount": 253,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6POF17bIAAfvw3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1991662062444163464",
+    "fullText": "武汉人还是牛逼，你们都这样坐百度萝卜快跑了吗？ 😂 https://t.co/UTSfFJBWgR"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4513278,
+      "followersCount": 4513293,
       "friendsCount": 4,
       "location": ""
     },
@@ -20,7 +71,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62307,
+      "followersCount": 62311,
       "friendsCount": 456,
       "location": ""
     },
@@ -35,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145066,
+      "followersCount": 145079,
       "friendsCount": 1457,
       "location": "Chicago, IL"
     },
@@ -52,7 +103,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62307,
+      "followersCount": 62311,
       "friendsCount": 456,
       "location": ""
     },
@@ -67,7 +118,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4513278,
+      "followersCount": 4513293,
       "friendsCount": 4,
       "location": ""
     },
@@ -84,7 +135,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62307,
+      "followersCount": 62311,
       "friendsCount": 456,
       "location": ""
     },
@@ -99,7 +150,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4513278,
+      "followersCount": 4513293,
       "friendsCount": 4,
       "location": ""
     },
@@ -116,7 +167,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25249,
+      "followersCount": 25252,
       "friendsCount": 314,
       "location": "Guangdong"
     },
@@ -131,7 +182,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18336,
+      "followersCount": 18334,
       "friendsCount": 1556,
       "location": ""
     },
@@ -148,7 +199,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9300,
+      "followersCount": 9305,
       "friendsCount": 2165,
       "location": ""
     },
@@ -201,7 +252,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️ 「BIP 订阅制真人秀」概念提出者 ｜ 💻 独立开发者 ｜🌍 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM 创始人 ｜🎯 关注 AI & Crypto · 构建创作者生态 · 探索个体与社区的更多可能 ｜🌐 English: @CellNomad",
-      "followersCount": 20354,
+      "followersCount": 20355,
       "friendsCount": 4534,
       "location": ""
     },
@@ -218,7 +269,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 59897,
+      "followersCount": 59896,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -235,7 +286,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18336,
+      "followersCount": 18334,
       "friendsCount": 1556,
       "location": ""
     },
@@ -250,7 +301,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "允许一切如其所是",
-      "followersCount": 18336,
+      "followersCount": 18334,
       "friendsCount": 1556,
       "location": ""
     },
@@ -267,7 +318,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 8971,
+      "followersCount": 8972,
       "friendsCount": 305,
       "location": ""
     },
@@ -282,7 +333,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9300,
+      "followersCount": 9305,
       "friendsCount": 2165,
       "location": ""
     },
@@ -394,6 +445,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/1991436648106848342",
     "fullText": "今天这个All in one看书的软件不错呀，看起来不用折腾了 https://t.co/Nb82LOQLo1"
+  },
+  {
+    "user": {
+      "screenName": "McCulloughFund",
+      "name": "McCullough Foundation",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918717935511609344/BZwN17tL_normal.jpg",
+      "description": "Investigative scholarship, analysis, media commentary, public and physician education, justice, and public policy.",
+      "followersCount": 68605,
+      "friendsCount": 314,
+      "location": "Dallas, TX USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1991212397760036864/vid/avc1/1920x1080/V9AkSLQBojlPFLhd.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/McCulloughFund/status/1991214676399493277",
+    "fullText": "From uncovering global vaccine injury to testifying in Senate hearings and standing in courtrooms across the country, the McCullough Foundation shows up where others won’t — confronting captured institutions, protecting the injured, exposing false claims, and fighting for ethical https://t.co/4ntGIIQe8K"
   },
   {
     "user": {
