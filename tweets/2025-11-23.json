@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "允许一切如其所是",
+      "followersCount": 18321,
+      "friendsCount": 1560,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6aciQsa4AAtbtf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1992452213424431498",
+    "fullText": "🐟 https://t.co/ApEo9X3165"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 39605,
+      "friendsCount": 729,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6aYjQcagAAkzo0.jpg",
+      "https://pbs.twimg.com/media/G6aYcEKacAA6Uy_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1992447637178749017",
+    "fullText": "再次开始低碳健康生活 https://t.co/xshjqlmFoG"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9399,
+      "followersCount": 9400,
       "friendsCount": 2167,
       "location": ""
     },
@@ -22,7 +57,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145692,
+      "followersCount": 145696,
       "friendsCount": 1458,
       "location": "Chicago, IL"
     },
@@ -39,7 +74,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39604,
+      "followersCount": 39605,
       "friendsCount": 729,
       "location": "Hong Kong"
     },
@@ -56,7 +91,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -90,7 +125,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -107,7 +142,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -124,7 +159,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -141,7 +176,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62319,
+      "followersCount": 62320,
       "friendsCount": 456,
       "location": ""
     },
@@ -159,7 +194,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145692,
+      "followersCount": 145696,
       "friendsCount": 1458,
       "location": "Chicago, IL"
     },
@@ -176,7 +211,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62319,
+      "followersCount": 62320,
       "friendsCount": 456,
       "location": ""
     },
@@ -193,7 +228,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145692,
+      "followersCount": 145696,
       "friendsCount": 1458,
       "location": "Chicago, IL"
     },
@@ -210,7 +245,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -238,6 +273,23 @@
   },
   {
     "user": {
+      "screenName": "MayanFinance",
+      "name": "Mayan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1984641516195688448/XrBNDCrE_normal.jpg",
+      "description": "Instant bridging with the best rates. \n\nJoin us: https://t.co/PF1rxNoWep",
+      "followersCount": 35317,
+      "friendsCount": 341,
+      "location": "Between chains."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992237885324414976/vid/avc1/1920x1080/duibfgU8g8kAzKfA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MayanFinance/status/1992254110381306219",
+    "fullText": "Big things are about to land on @Monad, and Mayan moves you there.\n\nWe’re powering transfers for the top teams building on Monad from day one.\n\nGet ready. https://t.co/tyNwm3o6yF"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -257,7 +309,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9399,
+      "followersCount": 9400,
       "friendsCount": 2167,
       "location": ""
     },
@@ -272,7 +324,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9399,
+      "followersCount": 9400,
       "friendsCount": 2167,
       "location": ""
     },
@@ -287,7 +339,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9399,
+      "followersCount": 9400,
       "friendsCount": 2167,
       "location": ""
     },
@@ -306,7 +358,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60023,
+      "followersCount": 60022,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -323,7 +375,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -340,7 +392,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39604,
+      "followersCount": 39605,
       "friendsCount": 729,
       "location": "Hong Kong"
     },
@@ -372,7 +424,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9399,
+      "followersCount": 9400,
       "friendsCount": 2167,
       "location": ""
     },
@@ -423,7 +475,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -440,7 +492,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -457,7 +509,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39604,
+      "followersCount": 39605,
       "friendsCount": 729,
       "location": "Hong Kong"
     },
@@ -474,7 +526,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 43859,
+      "followersCount": 43860,
       "friendsCount": 253,
       "location": "China"
     },
@@ -493,7 +545,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145692,
+      "followersCount": 145696,
       "friendsCount": 1458,
       "location": "Chicago, IL"
     },
@@ -895,7 +947,7 @@
       "name": "Analogue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
       "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
-      "followersCount": 105271,
+      "followersCount": 105277,
       "friendsCount": 250,
       "location": "usa"
     },
@@ -929,7 +981,7 @@
       "name": "KneeOverToesGuy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936145050196492288/q8p0PBBd_normal.jpg",
       "description": "All my programs and equipment are on sale for the holidays! @atgusamade  https://t.co/y61zp6agzX",
-      "followersCount": 206219,
+      "followersCount": 206225,
       "friendsCount": 238,
       "location": ""
     },
@@ -946,7 +998,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 145692,
+      "followersCount": 145696,
       "friendsCount": 1458,
       "location": "Chicago, IL"
     },
@@ -956,6 +1008,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/1991786129046044735",
     "fullText": "手绘风格的信息图卡片提示词（主题可以自由替换）\n\n----\n\n创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 https://t.co/t9m8R9m84V"
+  },
+  {
+    "user": {
+      "screenName": "skate_chain",
+      "name": "Skate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873921084871106563/NEW0LSI6_normal.jpg",
+      "description": "Connecting all VMs.\n\nInteract with applications from any VM while staying on your favorite chain.\n\nBacked by @HashKey_Capital @SeliniCapital @NomadCapital_io",
+      "followersCount": 666510,
+      "friendsCount": 447,
+      "location": "SkatePark"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6QmNoyacAYXezx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skate_chain/status/1991759064699924517",
+    "fullText": "Skate AMM will be live on @monad mainnet from Day 1. https://t.co/6TrFNOWTFM"
   },
   {
     "user": {
