@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9005,
+      "friendsCount": 305,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/1993667794505019589",
+    "fullText": "看纯银的文章说 Gemini 3 Pro 对产品的理解不错。我最近尝试用 AI 对话理清产品设计的思路，很多很有参考价值的建议，AI 说的东西，很多逻辑上都是自洽的，也可能因为我不是专业的产品，没有那么好的判断力，才觉得 AI 说的不错。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25331,
+      "friendsCount": 315,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6rrsIGaYAA3GBP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1993664935243768004",
+    "fullText": "github 现在怎么沦落到几个按钮的高度都对不齐呢？ https://t.co/wJfgDpXEyt"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
+      "followersCount": 20710,
+      "friendsCount": 4548,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6rq5p3XwAAfXtI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1993664098324840618",
+    "fullText": "出差忘带拓展坞没有扩展屏，\n习惯三屏刷推，难受要死...\n\n试了下 Chrome Split View 新特性，\n很丝滑！开启步骤：\n\n1）访问 chrome://flags/\n2）开启 Split View\n3）再 Tab 标签右键拆分视图 https://t.co/2PWBRS4MKk"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 60187,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6rpjgXa4AAIgHV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1993662630356193582",
+    "fullText": "最近要做一个简单个性化的 AI 语音 Agent，发现了这个开源的 TEN framework，https://t.co/yDTYNXVtSK  支持实时多模态对话，扩展性也很强还能集成头像以及各种高级功能，已经 8.6K stars 了，调研以后发现是强大。\n\n官方已经提供了大量的实例：https://t.co/HOmqIJL4Rz\n\n比如：\n\n* 实时语音聊天的 AI https://t.co/0KJ5sZAvmo"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39706,
+      "followersCount": 39705,
       "friendsCount": 730,
       "location": "Hong Kong"
     },
@@ -36,11 +102,28 @@
   },
   {
     "user": {
+      "screenName": "graniteshares",
+      "name": "GraniteShares ETFs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1975028403293032448/FLcaq_ac_normal.jpg",
+      "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
+      "followersCount": 12693,
+      "friendsCount": 2561,
+      "location": "Manhattan, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6rcNdsaEAAehez.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/graniteshares/status/1993647921015783720",
+    "fullText": "GraniteShares announced distribution rates for all GraniteShares YieldBOOST™ ETFs today, as listed in the table below.\n\n(1) Distribution per share: As of Nov 26, 2025\n(2) The Distribution Rate is shown as of Nov 28, 2025. It is the annual rate an investor would receive if the https://t.co/l7PQbMVwRx"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39706,
+      "followersCount": 39705,
       "friendsCount": 730,
       "location": "Hong Kong"
     },
@@ -70,8 +153,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 20708,
-      "friendsCount": 4549,
+      "followersCount": 20710,
+      "friendsCount": 4548,
       "location": ""
     },
     "images": [],
@@ -104,7 +187,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -121,7 +204,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -138,7 +221,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -155,7 +238,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -172,7 +255,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -189,7 +272,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -206,7 +289,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -241,7 +324,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -258,7 +341,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -275,7 +358,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 39706,
+      "followersCount": 39705,
       "friendsCount": 730,
       "location": "Hong Kong"
     },
@@ -292,7 +375,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -309,7 +392,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -326,8 +409,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 20708,
-      "friendsCount": 4549,
+      "followersCount": 20710,
+      "friendsCount": 4548,
       "location": ""
     },
     "images": [],
@@ -341,7 +424,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -358,7 +441,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -375,7 +458,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -392,7 +475,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -411,7 +494,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -428,7 +511,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -445,7 +528,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -462,7 +545,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -479,7 +562,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -496,7 +579,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -528,7 +611,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 44178,
+      "followersCount": 44180,
       "friendsCount": 255,
       "location": "China"
     },
@@ -545,8 +628,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 20708,
-      "friendsCount": 4549,
+      "followersCount": 20710,
+      "friendsCount": 4548,
       "location": ""
     },
     "images": [
@@ -562,8 +645,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 20708,
-      "friendsCount": 4549,
+      "followersCount": 20710,
+      "friendsCount": 4548,
       "location": ""
     },
     "images": [
@@ -610,8 +693,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 20708,
-      "friendsCount": 4549,
+      "followersCount": 20710,
+      "friendsCount": 4548,
       "location": ""
     },
     "images": [],
@@ -946,7 +1029,7 @@
       "name": "OutKick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
       "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/BtL9zRewif",
-      "followersCount": 359563,
+      "followersCount": 359553,
       "friendsCount": 707,
       "location": "America"
     },
@@ -1924,7 +2007,7 @@
       "name": "Stronghold",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1395379043269107715/neB2XQ-j_normal.jpg",
       "description": "A Forbes FinTech 50 Company\n\nEnabling access to legacy and next-gen payments and financial services through a simple API\n\nFollow us: https://t.co/H8yvyjhxIZ",
-      "followersCount": 33325,
+      "followersCount": 33329,
       "friendsCount": 65,
       "location": "San Francisco, CA"
     },
@@ -2000,6 +2083,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/goblintown/status/1993038382088569112",
     "fullText": "Week 3 Free Tickets\n\nWe want to give some @Goblintown Shweepshtakes tickets away for free over the next few days!\n\nAll you need to do is (1) follow us, (2) like, (3) retweet and (4) reply to THIS post with your base/eth wallet and you may end up with one, two, or many tickets! https://t.co/o1SzcscB86"
+  },
+  {
+    "user": {
+      "screenName": "CryptoCloaks",
+      "name": "CryptoCloaks™ 🥰",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1985346992734969856/vU2aL5tv_normal.jpg",
+      "description": "Building in the Bitcoin Space since 2017.\n3D Printing, Metal and YOLO Hashing.\nEST BLOCK #496,801\nhttps://t.co/zcjbNYkTbR\n\nEverything below!\nhttps://t.co/A6hLtKtrq5",
+      "followersCount": 35939,
+      "friendsCount": 4203,
+      "location": "Colorado, US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993033321157476352/vid/avc1/1920x1080/QkCmOchp7DDH3mXm.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CryptoCloaks/status/1993033597293674690",
+    "fullText": "CryptoCloaks Europe has officially launched!  \n\nGet your favorite CryptoCloaks items like the Bitcoin Grenade, Bitcoin Mining Shrouds, and other Bitcoin goodies without hopping the pond!  \n\nCheck it out @cryptocloakseu and save on shipping and customs! https://t.co/pOHEvczFMh"
   },
   {
     "user": {
