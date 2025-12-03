@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 150456,
+      "friendsCount": 1465,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Q7BCiWAAA-4sc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1996285439867556304",
+    "fullText": "A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4531006,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Q1VUBaYAAH9uB.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1996281175770599447",
+    "fullText": "We trained a variant of GPT-5 Thinking to produce two outputs:\n(1) the main answer you see.\n(2) a confession focused only on honesty about compliance.\n\nThe main answer is judged across many dimensions—like correctness, helpfulness, safety, style. The confession is judged and https://t.co/fS1PlETtjO"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9693,
+      "followersCount": 9692,
       "friendsCount": 2190,
       "location": ""
     },
@@ -20,7 +54,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4530975,
+      "followersCount": 4531006,
       "friendsCount": 4,
       "location": ""
     },
@@ -35,7 +69,7 @@
       "name": "Waymo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1958686951692984320/93TDUCiO_normal.jpg",
       "description": "The world's first fully autonomous ride-hailing service. Over 10M trips served and counting.",
-      "followersCount": 129473,
+      "followersCount": 129488,
       "friendsCount": 227,
       "location": "Mountain View, CA"
     },
@@ -84,7 +118,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -101,7 +135,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60622,
+      "followersCount": 60624,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -118,7 +152,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25351,
+      "followersCount": 25350,
       "friendsCount": 315,
       "location": "Guangdong"
     },
@@ -152,7 +186,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -187,7 +221,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60622,
+      "followersCount": 60624,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -251,7 +285,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -283,7 +317,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60622,
+      "followersCount": 60624,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -315,7 +349,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21113,
+      "followersCount": 21115,
       "friendsCount": 4582,
       "location": ""
     },
@@ -332,7 +366,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21113,
+      "followersCount": 21115,
       "friendsCount": 4582,
       "location": ""
     },
@@ -364,7 +398,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21113,
+      "followersCount": 21115,
       "friendsCount": 4582,
       "location": ""
     },
@@ -379,7 +413,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21113,
+      "followersCount": 21115,
       "friendsCount": 4582,
       "location": ""
     },
@@ -426,7 +460,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21113,
+      "followersCount": 21115,
       "friendsCount": 4582,
       "location": ""
     },
@@ -475,7 +509,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -490,7 +524,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -609,7 +643,7 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "世上有两个我：一个过度分享，一个一言不发",
-      "followersCount": 18317,
+      "followersCount": 18318,
       "friendsCount": 1584,
       "location": ""
     },
@@ -953,7 +987,7 @@
       "name": "Amazon Web Services",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945121625373855744/lmMqMz7V_normal.png",
       "description": "The official account for Amazon Web Services (AWS). #AWSreInvent December 1-5, 2025",
-      "followersCount": 2216089,
+      "followersCount": 2216110,
       "friendsCount": 437,
       "location": "Seattle, WA"
     },
