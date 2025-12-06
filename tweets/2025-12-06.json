@@ -1,12 +1,95 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25358,
+      "friendsCount": 316,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1997243850952511860",
+    "fullText": "最新 Windows SDK 里某个头文件定义了 byte 为 unsigned char ，但是呢如果你把 visual c++ 的工具链标准设置到 17 以上，就会和 cstddef 和 cstdio 里面定义的   enum class byte : unsigned char {}; \n发生冲突，导致无法编译。"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7ehnZ7akAA534Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1997242669064765654",
+    "fullText": "科技改变生活，在后海这里一堆人围着送快递/外卖的无人机看热闹。\n\n这需要买什么东西才能让无人机配送呀？ https://t.co/l3Gcz14GCx"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 45517,
+      "friendsCount": 265,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1997241373393850369/pu/vid/avc1/720x1280/W5bHwSfQPmDwgF69.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1997241533234643232",
+    "fullText": "一说放烟花，就可以拐走所有小朋友，哈哈哈哈 https://t.co/VQDC7qa4RA"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "没有人可以带你走到现在",
+      "followersCount": 18314,
+      "friendsCount": 1590,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7egOp_a8AAlEAq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1997241140991725770",
+    "fullText": "男厕里面用玻璃挡板，我不理解 https://t.co/flqBYrXZyP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 45517,
+      "friendsCount": 265,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1997240814955806720/pu/vid/avc1/960x544/U8vunvb0hMhZtC5I.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1997240957847408663",
+    "fullText": "哈哈哈哈哈哈哈，哈哈哈哈哈 🤣 https://t.co/gpg0y2sNBK"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦LeeMaimai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "没有人可以带你走到现在",
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [
@@ -58,7 +141,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40160,
+      "followersCount": 40161,
       "friendsCount": 736,
       "location": "Hong Kong"
     },
@@ -75,8 +158,8 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [],
@@ -90,7 +173,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9714,
+      "followersCount": 9711,
       "friendsCount": 2206,
       "location": ""
     },
@@ -107,8 +190,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21321,
-      "friendsCount": 4607,
+      "followersCount": 21323,
+      "friendsCount": 4608,
       "location": ""
     },
     "images": [],
@@ -139,8 +222,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21321,
-      "friendsCount": 4607,
+      "followersCount": 21323,
+      "friendsCount": 4608,
       "location": ""
     },
     "images": [],
@@ -188,7 +271,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9714,
+      "followersCount": 9711,
       "friendsCount": 2206,
       "location": ""
     },
@@ -224,8 +307,8 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [
@@ -241,7 +324,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40160,
+      "followersCount": 40161,
       "friendsCount": 736,
       "location": "Hong Kong"
     },
@@ -258,8 +341,8 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [],
@@ -484,8 +567,8 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [
@@ -501,8 +584,8 @@
       "name": "李麦麦LeeMaimai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "没有人可以带你走到现在",
-      "followersCount": 18318,
-      "friendsCount": 1589,
+      "followersCount": 18314,
+      "friendsCount": 1590,
       "location": ""
     },
     "images": [],
@@ -631,7 +714,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9714,
+      "followersCount": 9711,
       "friendsCount": 2206,
       "location": ""
     },
