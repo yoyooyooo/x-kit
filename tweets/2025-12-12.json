@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40176,
+      "friendsCount": 734,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G78K4LXagAsgA5l.jpg",
+      "https://pbs.twimg.com/media/G78K47lbAAA7he6.jpg",
+      "https://pbs.twimg.com/media/G78K5pEagAUSMvU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1999328756071313641",
+    "fullText": "当我早上10点到牛屋，就说明有something 开始build了！ https://t.co/Hsw5vuB3uq"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 45627,
+      "friendsCount": 272,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G78JG7YbcAA_A6y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1999327270285246740",
+    "fullText": "按照这个节奏下去，距离开发面试人员跟我说擅长用 Gemini、Claude、Deepseek 编程也不远了......🤡 https://t.co/NqwBQGM4G3"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
+      "followersCount": 21551,
+      "friendsCount": 4646,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1999326062132756674",
+    "fullText": "别再追问“AI有没有泡沫”这种玄学问题了！\n\n技术泡沫？\n产业/应用泡沫？\n金融杠杆泡沫？\n\n不拆开讨论，最后一定各说各话。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -118,6 +169,23 @@
   },
   {
     "user": {
+      "screenName": "humanelabsco",
+      "name": "Humané Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998475614567673856/667kLjvn_normal.jpg",
+      "description": "Premium design and engineering services for startups.",
+      "followersCount": 44,
+      "friendsCount": 0,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1999296933765009411/vid/avc1/2880x2160/tg9SZboEckMSUK8b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/humanelabsco/status/1999298160225845304",
+    "fullText": "Mobile appearance experience 🚀 https://t.co/GmQVFobwEy"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -173,7 +241,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 188590,
+      "followersCount": 188593,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -192,7 +260,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4547125,
+      "followersCount": 4547030,
       "friendsCount": 4,
       "location": ""
     },
@@ -207,7 +275,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4547125,
+      "followersCount": 4547030,
       "friendsCount": 4,
       "location": ""
     },
@@ -239,7 +307,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4547125,
+      "followersCount": 4547030,
       "friendsCount": 4,
       "location": ""
     },
@@ -254,7 +322,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62925,
+      "followersCount": 62926,
       "friendsCount": 474,
       "location": ""
     },
@@ -286,8 +354,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18358,
-      "friendsCount": 1604,
+      "followersCount": 18361,
+      "friendsCount": 1605,
       "location": ""
     },
     "images": [
@@ -365,7 +433,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62925,
+      "followersCount": 62926,
       "friendsCount": 474,
       "location": ""
     },
@@ -382,8 +450,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18358,
-      "friendsCount": 1604,
+      "followersCount": 18361,
+      "friendsCount": 1605,
       "location": ""
     },
     "images": [],
@@ -1030,11 +1098,43 @@
   },
   {
     "user": {
+      "screenName": "iTrustCapital",
+      "name": "iTrustCapital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1686871044022468610/LIxyIWmc_normal.png",
+      "description": "Buy, Sell, & Custody 90+ Cryptocurrencies & Precious Metals 24/7 • Tax-Advantaged IRAs • Non-IRA Accounts • Staking • #1 Award-Winning Crypto IRA Platform*",
+      "followersCount": 28712,
+      "friendsCount": 1613,
+      "location": "Irvine, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/iTrustCapital/status/1998845060654469171",
+    "fullText": "No External Wallets or Unnecessary Risks, Just a Trusted Way to Buy &amp; Custody Crypto."
+  },
+  {
+    "user": {
+      "screenName": "krea_ai",
+      "name": "KREA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884407047279747072/IpioOz4w_normal.jpg",
+      "description": "delightful creative tools with AI inside.",
+      "followersCount": 98423,
+      "friendsCount": 16,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1998826071995899904/vid/avc1/3840x2160/5nnCqbSWtX9tCx5A.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/krea_ai/status/1998826452117307863",
+    "fullText": "introducing Krea API.\n\nturn your workflows or trainings into endpoints and access any of the models we serve in Krea through our new API platform.\n\nlearn how to get started 👇 https://t.co/4Uj0OGZybY"
+  },
+  {
+    "user": {
       "screenName": "PalantirTech",
       "name": "Palantir",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877789778344828928/ibFj3Vhw_normal.jpg",
       "description": "Software that dominates.",
-      "followersCount": 338766,
+      "followersCount": 338783,
       "friendsCount": 46,
       "location": "Denver, CO"
     },
@@ -1071,7 +1171,7 @@
       "name": "Huawei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1570731236171329537/6Muib5Hc_normal.jpg",
       "description": "Welcome to the official Huawei X account. Huawei is a leading global provider of ICT infrastructure and smart devices.",
-      "followersCount": 10231396,
+      "followersCount": 10231148,
       "friendsCount": 32,
       "location": ""
     },
