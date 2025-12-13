@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40160,
+      "friendsCount": 734,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Bg7cHb0AA8XdV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1999705365869658602",
+    "fullText": "下一期【教程预告】：宝塔面板部署前后端分离项目。这是一期学员的点菜教学，就是有些课程是根据学员需求投票来更新😆。\n\n虽然新手部署服务，我更加推荐课程里面前面讲的Vercel和Zeabur的方式。但是耐不住有不少学员成长了，想折腾想玩，那我们就来玩吧。 https://t.co/BNlBB08Dlb"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 156164,
+      "friendsCount": 1471,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Bf1zPWAAQYHG_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1999705158239043899",
+    "fullText": "Draw it Wrong, Sora! \nTim's magically messy art adventure. https://t.co/yndRx6MSV3"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 45726,
+      "friendsCount": 275,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1999704670600855554/vid/avc1/360x640/Dc5zDVoAg8Uyb0My.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/1999704737130992047",
+    "fullText": "现在的机器人只有两种模式：令人尴尬的无用和可怕的有效。👈 https://t.co/2b9aUMx6XX"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "轻舟已过万重山",
+      "followersCount": 18371,
+      "friendsCount": 1622,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Be512akAA7dcb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1999702592159662512",
+    "fullText": "吃完酸辣粉，一会回去躺着了 https://t.co/2f1pvQVmaP"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62920,
+      "followersCount": 62923,
       "friendsCount": 474,
       "location": ""
     },
@@ -56,7 +124,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18372,
+      "followersCount": 18371,
       "friendsCount": 1622,
       "location": ""
     },
@@ -71,7 +139,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 156166,
+      "followersCount": 156164,
       "friendsCount": 1471,
       "location": "Chicago, IL"
     },
@@ -207,7 +275,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18372,
+      "followersCount": 18371,
       "friendsCount": 1622,
       "location": ""
     },
@@ -224,7 +292,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "",
-      "followersCount": 154917,
+      "followersCount": 154919,
       "friendsCount": 512,
       "location": "中华人民共和国"
     },
@@ -307,7 +375,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40164,
+      "followersCount": 40160,
       "friendsCount": 734,
       "location": "Hong Kong"
     },
@@ -507,8 +575,8 @@
       "name": "Paris Hilton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990837944026845184/E5VCTAEN_normal.jpg",
       "description": "Founder @ParivieBeauty ✨ \nInfinite Icon: A Visual Memoir  🎶\nIn Theaters January 30th 🎬🎥",
-      "followersCount": 13881813,
-      "friendsCount": 18001,
+      "followersCount": 13881964,
+      "friendsCount": 18000,
       "location": "Los Angeles, CA"
     },
     "images": [],
@@ -524,7 +592,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62920,
+      "followersCount": 62923,
       "friendsCount": 474,
       "location": ""
     },
@@ -558,8 +626,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21656,
-      "friendsCount": 4651,
+      "followersCount": 21658,
+      "friendsCount": 4652,
       "location": ""
     },
     "images": [
@@ -656,7 +724,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18372,
+      "followersCount": 18371,
       "friendsCount": 1622,
       "location": ""
     },
@@ -703,8 +771,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21656,
-      "friendsCount": 4651,
+      "followersCount": 21658,
+      "friendsCount": 4652,
       "location": ""
     },
     "images": [
@@ -1087,7 +1155,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62920,
+      "followersCount": 62923,
       "friendsCount": 474,
       "location": ""
     },
@@ -1117,7 +1185,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4550302,
+      "followersCount": 4550333,
       "friendsCount": 4,
       "location": ""
     },
@@ -1179,7 +1247,7 @@
       "name": "LTX-2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1981342604932370432/pvOZZLLH_normal.png",
       "description": "A complete AI creative engine with native 4K fidelity and an open-source foundation. Built for enterprise, developer, and studio workflows. By @lightricks",
-      "followersCount": 5193,
+      "followersCount": 5195,
       "friendsCount": 203,
       "location": ""
     },
