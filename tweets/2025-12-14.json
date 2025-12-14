@@ -1,12 +1,61 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 45961,
+      "friendsCount": 275,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8G-xPxbEAA-tv8.jpg",
+      "https://pbs.twimg.com/media/G8G-xL9bQAA6Rvm.jpg",
+      "https://pbs.twimg.com/media/G8G-xM-akAAu_AA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2000089495602119122",
+    "fullText": "景色还可以 https://t.co/cmW9VSMjP8"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "轻舟已过万重山",
+      "followersCount": 18368,
+      "friendsCount": 1615,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2000086413958906107",
+    "fullText": "小时候去超市，十分讨厌帮家里人排队\n\n每次一排队就有东西忘买，说去拿一下很快就回来，让我先排队占位\n\n我就开始焦虑：如果排到我了他们还没回来怎么办，如果他们回来其他大人不认我在排队怎么办"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25458,
+      "friendsCount": 316,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2000083887754772734",
+    "fullText": "今天体验了一次私人银行的内部电影院，小放映厅，就三排座位，沙发可以变成躺椅，其他也就和电影院差不多，小孩想看疯狂动物城2，懒得去外面人挤人了。"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9771,
-      "friendsCount": 2241,
+      "followersCount": 9768,
+      "friendsCount": 2244,
       "location": ""
     },
     "images": [],
@@ -20,8 +69,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62948,
-      "friendsCount": 477,
+      "followersCount": 62947,
+      "friendsCount": 478,
       "location": ""
     },
     "images": [
@@ -73,7 +122,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40172,
+      "followersCount": 40173,
       "friendsCount": 735,
       "location": "Hong Kong"
     },
@@ -107,8 +156,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62948,
-      "friendsCount": 477,
+      "followersCount": 62947,
+      "friendsCount": 478,
       "location": ""
     },
     "images": [
@@ -143,8 +192,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9771,
-      "friendsCount": 2241,
+      "followersCount": 9768,
+      "friendsCount": 2244,
       "location": ""
     },
     "images": [],
@@ -192,8 +241,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9771,
-      "friendsCount": 2241,
+      "followersCount": 9768,
+      "friendsCount": 2244,
       "location": ""
     },
     "images": [],
@@ -241,7 +290,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40172,
+      "followersCount": 40173,
       "friendsCount": 735,
       "location": "Hong Kong"
     },
@@ -290,8 +339,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62948,
-      "friendsCount": 477,
+      "followersCount": 62947,
+      "friendsCount": 478,
       "location": ""
     },
     "images": [],
@@ -386,8 +435,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18363,
-      "friendsCount": 1620,
+      "followersCount": 18368,
+      "friendsCount": 1615,
       "location": ""
     },
     "images": [],
@@ -418,7 +467,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60897,
+      "followersCount": 60898,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -450,8 +499,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18363,
-      "friendsCount": 1620,
+      "followersCount": 18368,
+      "friendsCount": 1615,
       "location": ""
     },
     "images": [
@@ -467,8 +516,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
-      "followersCount": 9771,
-      "friendsCount": 2241,
+      "followersCount": 9768,
+      "friendsCount": 2244,
       "location": ""
     },
     "images": [],
@@ -482,8 +531,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18363,
-      "friendsCount": 1620,
+      "followersCount": 18368,
+      "friendsCount": 1615,
       "location": ""
     },
     "images": [],
@@ -497,7 +546,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40172,
+      "followersCount": 40173,
       "friendsCount": 735,
       "location": "Hong Kong"
     },
@@ -767,7 +816,7 @@
       "name": "Paris Hilton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990837944026845184/E5VCTAEN_normal.jpg",
       "description": "Founder @ParivieBeauty ✨ \nInfinite Icon: A Visual Memoir  🎶\nIn Theaters January 30th 🎬🎥",
-      "followersCount": 13884672,
+      "followersCount": 13884744,
       "friendsCount": 18003,
       "location": "Los Angeles, CA"
     },
@@ -801,7 +850,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25456,
+      "followersCount": 25458,
       "friendsCount": 316,
       "location": "Guangdong"
     },
@@ -809,6 +858,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/1999505498442219962",
     "fullText": "岳母给我提需求了，让我给她做个 app，把每天涨停的股票选出来给她，并且强调，这个需求不复杂，“应该很快就能做出来”，我突然发现我以前的老大口气也和她一样 “应该很快就能做出来”，两人提需求的风格和语气，简直一模一样，我再考虑要不要让她先写份 PRD 再说？"
+  },
+  {
+    "user": {
+      "screenName": "metafide_ai",
+      "name": "Metafide AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1744396496370270217/iDPMVZJy_normal.jpg",
+      "description": "AI-backed prediction games built on #Base, #Sol, and #Bera\nWhere markets meet gameplay.\nPredict. Earn. Repeat.\nhttps://t.co/wyShyn7WDS",
+      "followersCount": 19729,
+      "friendsCount": 301,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/metafide_ai/status/1999487279535178043",
+    "fullText": "1-minute $BTC $NVDA price prediction market game with up to $10K prize pools https://t.co/PmOxymRqDT"
   },
   {
     "user": {
