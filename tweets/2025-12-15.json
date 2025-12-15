@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40201,
+      "friendsCount": 735,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8LthBAa4AEx-Gg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2000422953226526997",
+    "fullText": "今天早上发布了关于宝塔入门的课程，群里好评还挺多的。虽然我是不想做这期课程，对于新手而言还是Vercel、Zeabur、Dokploy、Coolify比较好，但无奈太多学员提出。\n\n但我想既然讲都讲了，我们就把部署的流程的知识点给讲得明明白白的！ https://t.co/2qx4E0ct16"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6928,
+      "friendsCount": 735,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8LsjAcakAEkVWr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2000421274926149793",
+    "fullText": "等儿子时候随便拍一张。 https://t.co/XofUo3HgV8"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -209,7 +243,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 156642,
+      "followersCount": 156637,
       "friendsCount": 1472,
       "location": "Chicago, IL"
     },
@@ -273,7 +307,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 62953,
+      "followersCount": 62954,
       "friendsCount": 478,
       "location": ""
     },
@@ -325,7 +359,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 60918,
+      "followersCount": 60921,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -529,7 +563,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
       "followersCount": 9805,
-      "friendsCount": 2254,
+      "friendsCount": 2255,
       "location": ""
     },
     "images": [
@@ -898,5 +932,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/FoundationGF_EN/status/1999948692892307801",
     "fullText": "A sci-fi strategy game based on Issac Asimov's Foundation series.\nMake your mark in the universe in Foundation: Galactic Frontier."
+  },
+  {
+    "user": {
+      "screenName": "SwaymaKdotAI",
+      "name": "Swaymak.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999881536800178177/ruNKeHoN_normal.jpg",
+      "description": "AI for Main Street businesses. We show you what actually works. DM “Deep Dive.”",
+      "followersCount": 364,
+      "friendsCount": 31,
+      "location": "🌎 Global Reach "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SwaymaKdotAI/status/1999879352117313720",
+    "fullText": "We’ve now helped 500+ real businesses take their first real steps into AI.\n\nNot theory.\nNot demos.\nActual day-to-day use.\n\nAnd no, it hasn’t all worked perfectly.\n\nWe’ve seen what doesn’t help Main Street.\nWe’ve watched tools overpromise.\nWe’ve learned where AI actually saves"
   }
 ]
