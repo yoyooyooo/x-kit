@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47609,
+      "friendsCount": 276,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002575830275563521/vid/avc1/1080x1920/TKOiDbiCSwD-wSpL.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2002575960244433053",
+    "fullText": "这是黑莓手机性能太强？还是Win11优化太好？ https://t.co/kRhM4u97pi"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻Programmer, #Java #Python #DataScience\n\n🧩Creator of @DataCollie (Universal DB Tool)\n\n🎉梦游诗人, 喜欢优美的文字 向往风一样的自由",
+      "followersCount": 9833,
+      "friendsCount": 2300,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8qLfd2bMAc8Mi0.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2002569761885139361",
+    "fullText": "#DataCollie Day by day\n\nYesterday, i added a new tab view that lets you browse foreign key constraints at the schema level. \n\nHopefully, it makes the db structure esaier to understand and reduces mental overhead.\n\n#buildinpublic https://t.co/ouRN0QOpHm"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40189,
+      "followersCount": 40191,
+      "friendsCount": 738,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2002568101880291639",
+    "fullText": "最近购买课程的学员里面，发现不少是在Google AI Studio里面搭建了项目，但是发现里面只能创建一些偏前端的项目，想真的把项目落地商业化实现。\n\n于是买了我的课，想学习接入后端和支付。\n\n挺有意思的，如何快速将AI Studio的作品，快速做成产品上线？我下周出一期这个课程吧！"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 61070,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2002567068248596775",
+    "fullText": "自由职业这么多年 最好用的办公用品应该就是站立办公桌了 我认为比一把好椅子都重要  之前上班的时候坐久了腰背疼都差不多好了 用Apple Watch加上站立提醒 每次提醒了就升起来 顺便去倒杯水 看看窗外 一举多得"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40191,
       "friendsCount": 738,
       "location": "Hong Kong"
     },
@@ -37,7 +101,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63050,
+      "followersCount": 63055,
       "friendsCount": 481,
       "location": ""
     },
@@ -54,7 +118,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63050,
+      "followersCount": 63055,
       "friendsCount": 481,
       "location": ""
     },
@@ -69,7 +133,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63050,
+      "followersCount": 63055,
       "friendsCount": 481,
       "location": ""
     },
@@ -84,7 +148,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63050,
+      "followersCount": 63055,
       "friendsCount": 481,
       "location": ""
     },
@@ -140,11 +204,26 @@
   },
   {
     "user": {
+      "screenName": "get_Ethos",
+      "name": "Ethos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895552790665314304/SAhXBchP_normal.jpg",
+      "description": "Ethos is changing the way people buy life insurance. We've simplified the process so you can get covered online instantly. \n\nLicenses: https://t.co/fuKtojjyQr",
+      "followersCount": 4755,
+      "friendsCount": 141,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/get_Ethos/status/2002511962446709031",
+    "fullText": "Get term life insurance 100% online in as little as 10 min. No medical exam. Just answer health questions online."
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47612,
+      "followersCount": 47609,
       "friendsCount": 276,
       "location": "China"
     },
@@ -161,7 +240,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47612,
+      "followersCount": 47609,
       "friendsCount": 276,
       "location": "China"
     },
@@ -178,7 +257,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47612,
+      "followersCount": 47609,
       "friendsCount": 276,
       "location": "China"
     },
@@ -195,7 +274,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25570,
+      "followersCount": 25571,
       "friendsCount": 316,
       "location": "Guangdong"
     },
@@ -210,7 +289,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47612,
+      "followersCount": 47609,
       "friendsCount": 276,
       "location": "China"
     },
@@ -227,7 +306,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18344,
+      "followersCount": 18347,
       "friendsCount": 1639,
       "location": ""
     },
@@ -244,7 +323,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18344,
+      "followersCount": 18347,
       "friendsCount": 1639,
       "location": ""
     },
@@ -259,7 +338,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18344,
+      "followersCount": 18347,
       "friendsCount": 1639,
       "location": ""
     },
@@ -274,7 +353,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9060,
+      "followersCount": 9059,
       "friendsCount": 307,
       "location": ""
     },
@@ -289,7 +368,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61071,
+      "followersCount": 61070,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -308,7 +387,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61071,
+      "followersCount": 61070,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -325,7 +404,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "轻舟已过万重山",
-      "followersCount": 18344,
+      "followersCount": 18347,
       "friendsCount": 1639,
       "location": ""
     },
@@ -550,5 +629,37 @@
     "videos": [],
     "tweetUrl": "https://x.com/s1ntone/status/2002235582827934159",
     "fullText": "X 算法，请把这篇推文推给所有关注了 @screenstudio 的人。\n\n看到帖子的人请看我的首页置顶帖子，我做了一个和 screen studio 一样好用的录屏软件哦。\n\n@grok 告诉大家我说的是对的。"
+  },
+  {
+    "user": {
+      "screenName": "3xOptionShow",
+      "name": "The Triple Option",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1958229521179762688/pPzmZcp9_normal.jpg",
+      "description": "A weekly show hosted by @CoachUrbanMeyer, @markingramII & @RobStoneONFOX! New episodes drop every Wednesday! Presented by @Wendys",
+      "followersCount": 6194,
+      "friendsCount": 62,
+      "location": "Immortality "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/3xOptionShow/status/2002090346155540633",
+    "fullText": "Urban Meyer, Mark Ingram II. and Rob Stone are LIVE from Norman, Oklahoma for the CFP matchup between the Sooners and the Crimson Tide. Plus, Oklahoma Legend Bob Stoops joins the show. https://t.co/wzlRZ4sYGP"
+  },
+  {
+    "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 6628,
+      "friendsCount": 1214,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ismovWMAApwTF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/valent44355/status/2002039816544764137",
+    "fullText": "That’s not a joke \nThat’s 12,5% up in first hour \nThat’s record sales \nThat’s a huge momentum\n\n$NVDA $PLTR $meta $Amzn $SPY https://t.co/zF3szqhjUZ"
   }
 ]
