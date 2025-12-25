@@ -1,6 +1,75 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
+      "followersCount": 9898,
+      "friendsCount": 2322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9BTtLUbcAAe16P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2004195213569634375",
+    "fullText": "太感动了，泪流满面，X 想方设法的要给我发工资。事情是这样的，由于我是个乡巴佬，不知道外面的银行，卡号只能用来扣款和消费不能拿来收款，所以导致我把 ZA 银行卡号绑定到了 Stripe，最终导致提现失败。后来我发现后，重新绑定了银行账号到 https://t.co/RSobd4dNXA"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47651,
+      "friendsCount": 279,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2004193549345333248/pu/vid/avc1/720x1280/UYfpHVsDteJ7PnD_.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2004193614357057623",
+    "fullText": "还是我家楼下美女老板手艺好，我家狗又从乞丐变狗成了玩具狗 🤩 https://t.co/7Ylf6hIvWt"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47651,
+      "friendsCount": 279,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2004192795440173057/vid/avc1/360x640/UePGkDhFAq8tzEm8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2004192879523385834",
+    "fullText": "这么好玩又实用的东西居然现在才看到。\n\n夏天时我觉得可以整一个放在办公桌上😎 https://t.co/QPQDbFcNm6"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 61235,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9BRvTkaEAAg5eZ.jpg",
+      "https://pbs.twimg.com/media/G9BRvTkb0AYTl1a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2004192083482235083",
+    "fullText": "给 https://t.co/fbylYylKf5 添加了一个新的主题：Perplexity，在 Claude 之后，是我目前也很喜欢的主题，配色非常清爽，尤其是 input 那层淡淡的阴影，非常舒服。\n\n用 shadcn/ui 的各位，可以在这里获取：https://t.co/gJtf096Tah\n\nhttps://t.co/ELxrXsZGGW 真的是个宝藏网站，现在主题太多了。 https://t.co/pnyZnKzfAh"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,7 +91,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Just-for-Instagram app on Apple Vision Pro.",
-      "followersCount": 6650,
+      "followersCount": 6651,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -38,7 +107,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [],
@@ -103,7 +172,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 77035,
+      "followersCount": 77039,
       "friendsCount": 3500,
       "location": ""
     },
@@ -121,7 +190,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [],
@@ -135,7 +204,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Just-for-Instagram app on Apple Vision Pro.",
-      "followersCount": 6650,
+      "followersCount": 6651,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -150,7 +219,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Just-for-Instagram app on Apple Vision Pro.",
-      "followersCount": 6650,
+      "followersCount": 6651,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -166,7 +235,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [
@@ -183,7 +252,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [],
@@ -197,7 +266,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9899,
+      "followersCount": 9898,
       "friendsCount": 2322,
       "location": ""
     },
@@ -298,7 +367,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [
@@ -315,7 +384,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [],
@@ -346,7 +415,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61237,
+      "followersCount": 61235,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -381,7 +450,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
       "followersCount": 18335,
-      "friendsCount": 1640,
+      "friendsCount": 1641,
       "location": ""
     },
     "images": [],
@@ -395,7 +464,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21949,
+      "followersCount": 21950,
       "friendsCount": 4704,
       "location": ""
     },
@@ -413,7 +482,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21949,
+      "followersCount": 21950,
       "friendsCount": 4704,
       "location": ""
     },
@@ -447,7 +516,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21949,
+      "followersCount": 21950,
       "friendsCount": 4704,
       "location": ""
     },
@@ -515,7 +584,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Just-for-Instagram app on Apple Vision Pro.",
-      "followersCount": 6650,
+      "followersCount": 6651,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -565,7 +634,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 160594,
+      "followersCount": 160609,
       "friendsCount": 1494,
       "location": "Chicago, IL"
     },
@@ -599,7 +668,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61237,
+      "followersCount": 61235,
       "friendsCount": 280,
       "location": "Shanghai"
     },
