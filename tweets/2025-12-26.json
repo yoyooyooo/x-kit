@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 160967,
+      "friendsCount": 1494,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9HRCzFXoAAVqcq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2004615922246713359",
+    "fullText": "Rob Pike 是 Go 语言联合创始人，UTF-8 编码共同发明人，Plan 9 操作系统核心开发者。你现在能在网页上看中文、日文、阿拉伯文混排，靠的就是他和 Ken Thompson 发明的 UTF-8。\n\n平时这位大佬给人的印象是睿智、冷静，追求极简主义。结果圣诞节当天，Rob Pike 在社交媒体上爆粗口：\n\n“Fuck you https://t.co/7T4jLk1aZc"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -37,7 +54,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -69,7 +86,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63104,
+      "followersCount": 63103,
       "friendsCount": 483,
       "location": ""
     },
@@ -118,7 +135,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63104,
+      "followersCount": 63103,
       "friendsCount": 483,
       "location": ""
     },
@@ -133,7 +150,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -214,7 +231,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 388,
       "location": "杭州"
     },
@@ -229,7 +246,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61267,
+      "followersCount": 61266,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -281,7 +298,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -298,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -315,7 +332,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -332,7 +349,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -398,7 +415,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -430,7 +447,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 114053,
+      "followersCount": 114055,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -445,7 +462,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -462,7 +479,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61267,
+      "followersCount": 61266,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -479,7 +496,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
@@ -528,7 +545,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47666,
+      "followersCount": 47660,
       "friendsCount": 279,
       "location": "China"
     },
