@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
+      "followersCount": 9957,
+      "friendsCount": 2345,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9JH918aYAAhcEt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2004745444027760833",
+    "fullText": "#DataCollie 日拱一卒\n\n删了DDL预览面板中的工具栏。把操作按钮迁移到右键上下文菜单中。目的是：\n\n1. 尽量保持界面干净清爽。\n2. 非高频操作一定要藏起来。减少可见元素，降低用户认知成本\n3. 单一原则，一个动作一个入口即可。\n\n当我开始不断在做减法的时候，说明好事将近。\n#BuildInPublic https://t.co/hvyxb8E4Vf"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40541,
+      "friendsCount": 741,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9JEVsqbYAAG1HU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2004741132924907578",
+    "fullText": "【预告】本期课程我们来将一个AI Studio开发的前端项目，变成真实的Next.js线上商业化项目，为其接入：\n\n- 邮箱登陆和Google登陆逻辑\n- 数据库\n- 数据存储（对象存储）\n- Stripe支付 + 积分逻辑\n- 接入AI（基于https://t.co/CrGTpBJ837）\n- Vercel部署 https://t.co/0oORDDRldV"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47662,
+      "followersCount": 47663,
       "friendsCount": 279,
       "location": "China"
     },
@@ -22,7 +56,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47662,
+      "followersCount": 47663,
       "friendsCount": 279,
       "location": "China"
     },
@@ -39,7 +73,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9959,
+      "followersCount": 9957,
       "friendsCount": 2345,
       "location": ""
     },
@@ -54,7 +88,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -86,7 +120,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -101,7 +135,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9959,
+      "followersCount": 9957,
       "friendsCount": 2345,
       "location": ""
     },
@@ -118,7 +152,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 389,
       "location": "杭州"
     },
@@ -133,7 +167,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -167,7 +201,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21535,
+      "followersCount": 21536,
       "friendsCount": 1045,
       "location": ""
     },
@@ -214,7 +248,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 389,
       "location": "杭州"
     },
@@ -246,7 +280,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -263,7 +297,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -295,7 +329,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
-      "followersCount": 6659,
+      "followersCount": 6660,
       "friendsCount": 389,
       "location": "杭州"
     },
@@ -310,7 +344,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61272,
+      "followersCount": 61276,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -362,7 +396,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47662,
+      "followersCount": 47663,
       "friendsCount": 279,
       "location": "China"
     },
@@ -379,7 +413,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47662,
+      "followersCount": 47663,
       "friendsCount": 279,
       "location": "China"
     },
@@ -396,7 +430,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47662,
+      "followersCount": 47663,
       "friendsCount": 279,
       "location": "China"
     },
@@ -413,7 +447,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "歪比巴卜",
-      "followersCount": 18321,
+      "followersCount": 18311,
       "friendsCount": 1643,
       "location": ""
     },
@@ -430,7 +464,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9959,
+      "followersCount": 9957,
       "friendsCount": 2345,
       "location": ""
     },
