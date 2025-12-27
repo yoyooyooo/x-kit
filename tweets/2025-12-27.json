@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 25596,
+      "friendsCount": 317,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9JuLfgaoAA_2Vv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2004786297014239236",
+    "fullText": "C++ 里想写点跨平台的代码有多烦？以格式化字符串为例，代码一页装不下，分成了左右： https://t.co/Gs1o05M7KI"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro. ThreadsDashboard. Bytedancer",
+      "followersCount": 6658,
+      "friendsCount": 389,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9JrBYBa0AAt6rK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2004782464464777438",
+    "fullText": "这是我目前订阅的跟 AI 相关、或者能获取 AI 新动态的一些小宇宙播客（当然除了第一个）\n\n求问各位老司机，还有没有高质量且活跃的AI类播客推荐？中英文都可以。 https://t.co/toSYSZt0S1"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -54,7 +88,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63088,
+      "followersCount": 63085,
       "friendsCount": 483,
       "location": ""
     },
@@ -69,7 +103,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9954,
+      "followersCount": 9953,
       "friendsCount": 2344,
       "location": ""
     },
@@ -86,7 +120,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40541,
+      "followersCount": 40539,
       "friendsCount": 741,
       "location": "Hong Kong"
     },
@@ -137,7 +171,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9954,
+      "followersCount": 9953,
       "friendsCount": 2344,
       "location": ""
     },
@@ -167,7 +201,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 161000,
+      "followersCount": 161012,
       "friendsCount": 1498,
       "location": "Chicago, IL"
     },
@@ -199,7 +233,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
-      "followersCount": 9954,
+      "followersCount": 9953,
       "friendsCount": 2344,
       "location": ""
     },
@@ -248,7 +282,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63088,
+      "followersCount": 63085,
       "friendsCount": 483,
       "location": ""
     },
@@ -265,7 +299,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21545,
+      "followersCount": 21546,
       "friendsCount": 1045,
       "location": ""
     },
@@ -282,7 +316,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9080,
+      "followersCount": 9082,
       "friendsCount": 310,
       "location": ""
     },
@@ -297,7 +331,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63088,
+      "followersCount": 63085,
       "friendsCount": 483,
       "location": ""
     },
@@ -327,7 +361,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9080,
+      "followersCount": 9082,
       "friendsCount": 310,
       "location": ""
     },
@@ -378,7 +412,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 77016,
+      "followersCount": 77013,
       "friendsCount": 3503,
       "location": ""
     },
@@ -425,7 +459,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61278,
+      "followersCount": 61279,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -462,7 +496,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
-      "followersCount": 77016,
+      "followersCount": 77013,
       "friendsCount": 3503,
       "location": ""
     },
@@ -521,6 +555,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2004539865464205564",
     "fullText": "后端开发人员尝试将一个 div 元素居中🤪 https://t.co/eruVhixr4O"
+  },
+  {
+    "user": {
+      "screenName": "oraichain",
+      "name": "Oraichain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872173481657544704/SrZif3qM_normal.jpg",
+      "description": "AI Layer 1 for Web3 Mass Adoption\n- AI oracle\n- DeFi deep research: @thesis_io\n- AI agent infra: @distilled_ai, @agentsdotland\n- DeFi: @OWallet_io, @lfg_land",
+      "followersCount": 80286,
+      "friendsCount": 337,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2004516601723592705/vid/avc1/1920x1080/IG4ivgEMcq1AC9kn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/oraichain/status/2004524811029258495",
+    "fullText": "Manual trading is the slowest part of your strategy.\n\nNot another bot, but a control panel to build your own trading agents &amp; trade across DEXs from one terminal.\n\nBuild agents, manage positions, and control TP/SL - all in Oraichain Quant Terminal.\n\nYou set the rules and risk. https://t.co/oHXhaePQiE"
   },
   {
     "user": {
