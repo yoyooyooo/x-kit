@@ -1,6 +1,72 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 61318,
+      "friendsCount": 281,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9Qbh9sbsAMYIrJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2005258031769235494",
+    "fullText": "假如有朋友要写 TUI，可以尝试使用 OpenTUI  这个库https://t.co/qcV0PYXtig\n\nOpenCode 就是基于它构建的，是现在一个很火的用来构建 TUI 的底层框架，提供了支持多种前端框架的协调库 reconciler（React/Vue/Solid），让前端开发可以用熟悉的 方式构建终端 UI，降低学习曲线，利用现有前端生态。 https://t.co/vlcDDquURL"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "Leo.X 程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻 Programmer · Java / Python · AI Engineering\n\n🧩 Founder & Builder @DataCollie\n\n🎉 梦游诗人｜向往风一样的自由",
+      "followersCount": 9955,
+      "friendsCount": 2353,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9QaFbtbIAA-NTu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2005257034388975857",
+    "fullText": "刚刚用 @DataCollie 连上今天装好的远程服务器上的 MySQL8.0 数据库了。随便测试了一下，还行。但是为什么 MySQL8.0 自己的元数据表字段命名规范都不一致呢？当真这个世界真的是个巨大的草台班子？ https://t.co/QRCBV7PJtt"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 40557,
+      "friendsCount": 742,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2005253137498812476",
+    "fullText": "虽然一直都在使用Notion，但我今天居然才体会到Notion AI这么好用...."
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "我真要控制你了",
+      "followersCount": 18310,
+      "friendsCount": 1650,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9QTda7aoAEPkZw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2005249144760447381",
+    "fullText": "1.没找到好中医，不对症。 \n2.药材不行。 \n3.没缘份。 \n4.心不诚。 \n5.被西医治过。 \n6.煎锅不行。 \n7.分药不平均。 \n8.电视剧不宣传中医。 \n9.被资本打压。 \n10.国家不重视。 \n11.失传了。 \n12.吃药时辰不对。 \n13.吃药时间不够长。 \n14.中医起效慢，年龄太大。 \n15.不舍得花钱。 https://t.co/NKaPc2GB45"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -88,7 +154,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI. Just-for-Instagram app on Apple Vision Pro.",
-      "followersCount": 6665,
+      "followersCount": 6666,
       "friendsCount": 389,
       "location": "杭州"
     },
@@ -186,7 +252,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 21959,
+      "followersCount": 21958,
       "friendsCount": 4708,
       "location": ""
     },
@@ -203,7 +269,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21731,
+      "followersCount": 21739,
       "friendsCount": 1045,
       "location": ""
     },
@@ -425,7 +491,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40547,
+      "followersCount": 40557,
       "friendsCount": 742,
       "location": "Hong Kong"
     },
@@ -491,7 +557,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61315,
+      "followersCount": 61318,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -531,6 +597,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2005097131129065841",
     "fullText": "如果国内的模型能够做到跟 codex、Claude code 一个水平，但是只要20人民币、100人民币的成本，那将带来怎样的体验，前提是开源"
+  },
+  {
+    "user": {
+      "screenName": "TheRebeccaRowan",
+      "name": "Rebecca Rowan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998525579839123456/OLR5Al0m_normal.jpg",
+      "description": "writer, creator, host @ For the Republic. center-left liberal musing about democracy, disinfo, and the American future.",
+      "followersCount": 34,
+      "friendsCount": 119,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheRebeccaRowan/status/2005093000649552333",
+    "fullText": "“Ad logic” has replaced any serious sense of what a decent society should actually work to deliver. If it can’t be auctioned it’s treated as fluff. You can’t have a park without a sponsor’s logo, a public train that isn’t plastered in brand wraps, or news outlets that don’t farm"
   },
   {
     "user": {
@@ -622,7 +703,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 162266,
+      "followersCount": 162293,
       "friendsCount": 1499,
       "location": "Chicago, IL"
     },
@@ -1043,7 +1124,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21731,
+      "followersCount": 21739,
       "friendsCount": 1045,
       "location": ""
     },
