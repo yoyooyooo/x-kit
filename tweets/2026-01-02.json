@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 6888,
+      "friendsCount": 436,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9onN1kaMAIyvnY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2006959713095987684",
+    "fullText": "AI 新硬件！\nOpenAI 预计推出一款挂脖式无屏幕 “AI 伴侣” 设备，类似于笔形态，可以放到口袋里，被誉为“世界上最酷的技术产品”设备，计划 2026 年一季度发布。\n设备通过 OpenAI 的语音模型和环境感知能力来交互，比如在用户开车、做饭的时候，给用户提建议、聊天、处理问题。\n还记得之前 Jony Ive 跟 https://t.co/5VBvs017rg"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9092,
+      "friendsCount": 308,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9omqYMaMAAN6Me.png",
+      "https://pbs.twimg.com/media/G9omsgtagAAJCCc.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2006959234911818148",
+    "fullText": "2T 的 SSD 系统盘都满了，下次要换 4T 的了。 https://t.co/pmvlYn6vRJ"
+  },
+  {
+    "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 9163,
+      "friendsCount": 571,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9okSsSbgAAvCBP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xushiwei/status/2006956507032858761",
+    "fullText": "陶哲轩：ai时代非常好的反向教学，让学生批改ai写的作业。这个主意真不错，找机会实践一下。 https://t.co/QUnd0eMrYW"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -20,11 +72,45 @@
   },
   {
     "user": {
+      "screenName": "perceptualware",
+      "name": "Chris Stafford",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864518033882103808/k11xMFCd_normal.jpg",
+      "description": "See clearly: Technologist, Psychology, Photographer. \nBuilding: https://t.co/TxFpqhnVvS\nNews: https://t.co/oiFFCzDMgJ",
+      "followersCount": 295,
+      "friendsCount": 840,
+      "location": "Melbourne Australia"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9oXf9RboAAMGab.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perceptualware/status/2006945251966234984",
+    "fullText": "Imagine I could give you a button.\n\nPress it, and all your negative emotions disappear.\nNo cost.\nNo catch.\n\nWould you press it? https://t.co/8HTDP3QqGu"
+  },
+  {
+    "user": {
+      "screenName": "IZADI",
+      "name": "IZADI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1973912140961759232/Bgh1eLPg_normal.png",
+      "description": "🥂🕯️Founder: @GraffitiMansion 🎨izadi Tweets = NFA & DYOR Disclaimer:",
+      "followersCount": 43206,
+      "friendsCount": 10448,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9oW-agbUAAiUz2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/IZADI/status/2006941947500573141",
+    "fullText": "and it's a big deal... time to L👀K into it again @lookdotfun https://t.co/gSTwnNIq1X"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -59,7 +145,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -76,7 +162,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -93,7 +179,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -110,7 +196,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 6879,
+      "followersCount": 6888,
       "friendsCount": 436,
       "location": "杭州"
     },
@@ -145,7 +231,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -162,7 +248,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76984,
+      "followersCount": 76980,
       "friendsCount": 3503,
       "location": ""
     },
@@ -179,7 +265,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -196,7 +282,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -213,7 +299,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -246,7 +332,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -263,7 +349,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -280,7 +366,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -297,7 +383,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 9162,
+      "followersCount": 9163,
       "friendsCount": 571,
       "location": ""
     },
@@ -314,7 +400,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -346,7 +432,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61507,
+      "followersCount": 61504,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -361,7 +447,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -378,7 +464,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 163965,
+      "followersCount": 163973,
       "friendsCount": 1503,
       "location": "Chicago, IL"
     },
@@ -395,7 +481,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63104,
+      "followersCount": 63105,
       "friendsCount": 487,
       "location": ""
     },
@@ -408,11 +494,28 @@
   },
   {
     "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947763656701448192/Wli8elHE_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 924972,
+      "friendsCount": 37906,
+      "location": "ALL TWEETS are just my opinion"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9nTnhraMAAHxlC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/donwinslow/status/2006868464976408701",
+    "fullText": "It starts with a\n                           DARING HEIST\n\nThen one mistake sends a MAN WITH A PERFECT LIFE TO PRISON\n                     IN PRISON HE HAS TO SURVIVE\n\nTHEY KEEP HIM SAFE.\nTHEY HAVE A PLAN FOR HIM.\n           WHEN HE GETS OUT, HE WILL DO THE UNTHINKABLE TO ESCAPE. https://t.co/C7TF8l4c2Z"
+  },
+  {
+    "user": {
       "screenName": "xushiwei",
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 9162,
+      "followersCount": 9163,
       "friendsCount": 571,
       "location": ""
     },
@@ -459,7 +562,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 6879,
+      "followersCount": 6888,
       "friendsCount": 436,
       "location": "杭州"
     },
@@ -474,7 +577,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -491,7 +594,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 6879,
+      "followersCount": 6888,
       "friendsCount": 436,
       "location": "杭州"
     },
@@ -499,6 +602,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2006757087028908092",
     "fullText": "最近在收集 AI Agent 相关的资料和课程，找了一些大概看起来还不错的：\n1. AI Agents for Beginners | Microsoft Learn\nhttps://t.co/QszohWOwxL\n2. 吴恩达《Agentic AI》https://t.co/4rp6w7zEhg\n3. 《Awesome Agentic Patterns》Github 教程\nhttps://t.co/bIhErd83gE\n4. 《Agentic Design"
+  },
+  {
+    "user": {
+      "screenName": "WangUWS",
+      "name": "Howe Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1659296546104438792/TeH4OqIb_normal.jpg",
+      "description": "\"people familiar with the matter\" - WSJ / make better algo https://t.co/kMSPaHwIvO / also make https://t.co/LZflOcIgjf https://t.co/ey9zRysWLT / write https://t.co/K1239VYV4V",
+      "followersCount": 1281,
+      "friendsCount": 2265,
+      "location": "New York "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9lqS7KXEAAo6ZF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WangUWS/status/2006752097581084717",
+    "fullText": "Year-end has a way of turning everyone into a forecaster. We audit portfolios, convictions, and narratives, and with “bubble” back in polite conversation, I found myself less interested in predictions than in the language we use when we’re certain we’re right. So I spent part of https://t.co/8OW1wQyBJg"
   },
   {
     "user": {
@@ -589,7 +709,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61507,
+      "followersCount": 61504,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -624,7 +744,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76984,
+      "followersCount": 76980,
       "friendsCount": 3503,
       "location": ""
     },
@@ -641,7 +761,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25705,
+      "followersCount": 25709,
       "friendsCount": 317,
       "location": "Guangdong"
     },
@@ -656,7 +776,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76984,
+      "followersCount": 76980,
       "friendsCount": 3503,
       "location": ""
     },
@@ -673,7 +793,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 6879,
+      "followersCount": 6888,
       "friendsCount": 436,
       "location": "杭州"
     },
@@ -688,7 +808,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76984,
+      "followersCount": 76980,
       "friendsCount": 3503,
       "location": ""
     },
@@ -703,7 +823,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 6879,
+      "followersCount": 6888,
       "friendsCount": 436,
       "location": "杭州"
     },
@@ -718,7 +838,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 47671,
+      "followersCount": 47673,
       "friendsCount": 280,
       "location": "China"
     },
@@ -852,7 +972,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63104,
+      "followersCount": 63105,
       "friendsCount": 487,
       "location": ""
     },
@@ -889,7 +1009,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 163965,
+      "followersCount": 163973,
       "friendsCount": 1503,
       "location": "Chicago, IL"
     },
@@ -1506,6 +1626,21 @@
     ],
     "tweetUrl": "https://x.com/CortesSteve/status/2006388212437025219",
     "fullText": ".@GOPMajorityWhip + other sellout \"conservatives\"\n\nYou invited mass migration from the 3rd World. Don't lie &amp; talk tough now!\n\nMy hits on @Bannons_WarRoom &amp; @LelandVittert's show w/ @bungarsargon\n\nCortes Investigates article in replies to this post, w/ clips &amp; RECEIPTS! https://t.co/U8xU4IkNLe"
+  },
+  {
+    "user": {
+      "screenName": "rbradthomas",
+      "name": "Brad Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
+      "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
+      "followersCount": 21002,
+      "friendsCount": 4651,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rbradthomas/status/2006383361917620694",
+    "fullText": "2026 is going to be the year for REITs! \n\n(Sign up for the Wide Moat Daily in the link below to get access to my Top 10 REITs for 2026)"
   },
   {
     "user": {
