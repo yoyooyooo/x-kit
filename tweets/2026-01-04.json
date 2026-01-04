@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
+      "followersCount": 22320,
+      "friendsCount": 4739,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9zymQSbIAAMjrK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2007746278449725941",
+    "fullText": "最近用一个“聊天式视频导演”做了条 60s 社区宣传片：\n\n把我的 2D 像素分身丢进真实世界，\n在真实工位/街头/会议室里穿梭，\n最后收束到社区入口。\n\n这次我刻意做了一个实验：\n\n不写复杂工具链、不手搓一堆 prompt，\n而是把“脚本-分镜-素材-配音-剪辑-导出”当成一段对话来完成。\n\n工具用的是 https://t.co/3VafHUjACP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47665,
+      "friendsCount": 281,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007740291051393024/vid/avc1/720x1280/sqRgZXvzWqSAhj7D.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2007740403072811408",
+    "fullText": "Tesla Cybertruck太强了🥲这涉水深度赶超硬派越野车 https://t.co/InIEHijNWB"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -39,7 +73,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22312,
+      "followersCount": 22320,
       "friendsCount": 4739,
       "location": ""
     },
@@ -86,7 +120,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 40905,
+      "followersCount": 40907,
       "friendsCount": 748,
       "location": "Hong Kong"
     },
@@ -321,7 +355,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22312,
+      "followersCount": 22320,
       "friendsCount": 4739,
       "location": ""
     },
@@ -336,7 +370,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7290,
+      "followersCount": 7300,
       "friendsCount": 442,
       "location": "杭州"
     },
@@ -407,7 +441,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7290,
+      "followersCount": 7300,
       "friendsCount": 442,
       "location": "杭州"
     },
@@ -441,7 +475,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7290,
+      "followersCount": 7300,
       "friendsCount": 442,
       "location": "杭州"
     },
@@ -458,7 +492,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7290,
+      "followersCount": 7300,
       "friendsCount": 442,
       "location": "杭州"
     },
@@ -546,7 +580,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22312,
+      "followersCount": 22320,
       "friendsCount": 4739,
       "location": ""
     },
@@ -678,7 +712,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 164803,
+      "followersCount": 164811,
       "friendsCount": 1509,
       "location": "Chicago, IL"
     },
@@ -1438,7 +1472,7 @@
       "name": "MrBeast",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2003879015598223360/lQlRQPnU_normal.jpg",
       "description": "Beast Games Strong Vs Smart Drops January 7th!!",
-      "followersCount": 33677952,
+      "followersCount": 33678161,
       "friendsCount": 2248,
       "location": "Follow me for a cookie"
     },
@@ -1487,7 +1521,7 @@
       "name": "America First Legal",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1651630619154104321/Wq51K9QY_normal.jpg",
       "description": "Fighting for the American people and defending the rule of law in the United States 🇺🇸 | https://t.co/XSAhvNhtIS",
-      "followersCount": 358957,
+      "followersCount": 358960,
       "friendsCount": 535,
       "location": "Washington DC"
     },
@@ -1504,7 +1538,7 @@
       "name": "Liberty Nation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1988639422980431872/X4zfTFZK_normal.jpg",
       "description": "Official X Feed of Liberty Nation News | Free Thinking. Free Speech. | News & Original Commentary",
-      "followersCount": 34836,
+      "followersCount": 34837,
       "friendsCount": 1651,
       "location": "Washington, DC"
     },
