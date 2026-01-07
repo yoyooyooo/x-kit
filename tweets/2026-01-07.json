@@ -1,6 +1,70 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 61699,
+      "friendsCount": 281,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-D7HF_W0AAZ-9X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2008881567658303788",
+    "fullText": "https://t.co/DSSlBwrX20\n\n一个新闻，Brave 浏览器对其内置的基于 Rust 的广告拦截引擎（adblock-rust）进行了重大重构，通过引入 FlatBuffers 等技术，将引擎的内存消耗大幅降低了 75%。默认情况下节省约 45 MB 内存。 https://t.co/soiuLW9dMG"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18347,
+      "friendsCount": 1682,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2008874692934029488",
+    "fullText": "外汇汇款真让人没安全感\n\n在目标银行 App 里翻烂了都找不到 Swift 信息，只能自己去官网查\n收款地址也是 google map 瞎找瞎填的\n英文名我也不知道自己是叫「A-B-C」还是「A-BC」还是「BC-A」\n\n这么稀里糊涂花了十几分钟终于填好了，确认发出之后又有点儿空虚，不知何时到账，不知是否被退"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "Leo Xiong（老熊）",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data · AI\n\n🧩 Building global data tooling @DataCollie\n\n🌍 Writing about · Databases · Dev Tools · Indie Dev",
+      "followersCount": 10100,
+      "friendsCount": 2391,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2008874242180518275",
+    "fullText": "刚结束的2025年，AI Coding 工具井喷式发展。作为  Vibe  Coding 元年，数以万计的各种工具正以前所未有的方式开始重塑着编程范式。小登们在雀跃可以变道超车，老登们在焦虑在彷徨在装逼...... \n\n 2026 年，你在哪里？你还在手搓代码吗？😆"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47929,
+      "friendsCount": 281,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-D0S4GakAAOWrY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2008874042363891732",
+    "fullText": "今天又买了一块3.5的硬盘，对微服做双重数据备份\n\n这两块硬盘的生产批次不一样，厂家不一样，然后它们的备份时间是交错的，这样相当于我的私人数据就有三重存储了\n\n这种备份方式要比RAID靠谱的多，而且恢复的时候也很方便，一键还原就好了 https://t.co/sgwVk3239A"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,7 +86,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7983,
+      "followersCount": 7992,
       "friendsCount": 465,
       "location": "杭州"
     },
@@ -54,7 +118,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5524,
+      "followersCount": 5523,
       "friendsCount": 597,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -71,7 +135,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5524,
+      "followersCount": 5523,
       "friendsCount": 597,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -86,7 +150,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7983,
+      "followersCount": 7992,
       "friendsCount": 465,
       "location": "杭州"
     },
@@ -133,7 +197,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7983,
+      "followersCount": 7992,
       "friendsCount": 465,
       "location": "杭州"
     },
@@ -148,7 +212,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25717,
+      "followersCount": 25724,
       "friendsCount": 317,
       "location": "Guangdong"
     },
@@ -163,7 +227,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7983,
+      "followersCount": 7992,
       "friendsCount": 465,
       "location": "杭州"
     },
@@ -215,7 +279,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21848,
+      "followersCount": 21847,
       "friendsCount": 1046,
       "location": ""
     },
@@ -334,7 +398,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 7983,
+      "followersCount": 7992,
       "friendsCount": 465,
       "location": "杭州"
     },
@@ -437,8 +501,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76933,
-      "friendsCount": 3508,
+      "followersCount": 76928,
+      "friendsCount": 3507,
       "location": ""
     },
     "images": [],
@@ -486,7 +550,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6910,
+      "followersCount": 6909,
       "friendsCount": 739,
       "location": "San Jose, CA"
     },
@@ -518,7 +582,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63292,
+      "followersCount": 63296,
       "friendsCount": 491,
       "location": ""
     },
@@ -1723,7 +1787,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999154437739122689/FxHWLb2a_normal.jpg",
       "description": "grimace is a close personal friend of mine",
-      "followersCount": 4569792,
+      "followersCount": 4569800,
       "friendsCount": 12919,
       "location": ""
     },
