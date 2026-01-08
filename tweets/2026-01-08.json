@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "xushiwei",
+      "name": "xushiwei",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
+      "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
+      "followersCount": 9192,
+      "friendsCount": 574,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2009116260924276736/vid/avc1/966x544/HjTUeDU2VN1Sij2w.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/xushiwei/status/2009116398812057657",
+    "fullText": "Delta学习法，核心要点是找到最有价值的增量，把存量封装成模块（函数），投入所有精力死磕Delta，刨根问底，并在实践中完善对增量的理解并精通它们。 https://t.co/Cxa3QfZvzP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 47958,
+      "friendsCount": 281,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-HQEoZXcAA8lZG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2009115701584531497",
+    "fullText": "赚钱的真相\n\n需要躬身入局，才知道方向真正在什么地方\n\n这个世界聪明的人太多，执行力才是人与人之间的差别\n\n现金会滞后于人的行动，这也是为什么人需要乐观，坚持到最后 https://t.co/gCdkQgdv8h"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
+      "followersCount": 22391,
+      "friendsCount": 4766,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2009113914194395204",
+    "fullText": "https://t.co/OdtKRYBlIU"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,7 +71,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -54,7 +103,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41021,
+      "followersCount": 41019,
       "friendsCount": 751,
       "location": "Hong Kong"
     },
@@ -121,7 +170,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22388,
+      "followersCount": 22391,
       "friendsCount": 4766,
       "location": ""
     },
@@ -204,7 +253,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -222,7 +271,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -273,7 +322,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22388,
+      "followersCount": 22391,
       "friendsCount": 4766,
       "location": ""
     },
@@ -305,7 +354,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 165739,
+      "followersCount": 165743,
       "friendsCount": 1519,
       "location": "Chicago, IL"
     },
@@ -316,11 +365,26 @@
   },
   {
     "user": {
+      "screenName": "rajatsuri",
+      "name": "Rajat Suri",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768332283161874432/TUwUwDJE_normal.jpg",
+      "description": "Helping skilled immigrants + futurizing group chats. Dad of 👦🏽👧🏻. Co-founder Lima, Presto, Lyft, @tribechatpro . Founders-in-Arms Podcast.",
+      "followersCount": 5230,
+      "friendsCount": 2685,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rajatsuri/status/2009015481341235345",
+    "fullText": "Watch the NFL?  \n\nTribe is running a fun NFL playoff bracket contest - win $50 if you can beat other members of the NFL group chat with your predictions! No entry fee required but limited to only 25 participants .\n\nIf interested, join the NFL chat at the link below before it"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4577345,
+      "followersCount": 4577377,
       "friendsCount": 4,
       "location": ""
     },
@@ -400,7 +464,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -434,7 +498,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -538,7 +602,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 61724,
+      "followersCount": 61729,
       "friendsCount": 281,
       "location": "Shanghai"
     },
@@ -553,7 +617,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8185,
+      "followersCount": 8189,
       "friendsCount": 466,
       "location": "杭州"
     },
@@ -1004,6 +1068,21 @@
     ],
     "tweetUrl": "https://x.com/manateelazycat/status/2008816197530452227",
     "fullText": "好方便的便携支架，有 magsafe 就完美了😌 https://t.co/L1sdhV5J4j"
+  },
+  {
+    "user": {
+      "screenName": "JustinMeck_",
+      "name": "justin.mecklenburg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1426636465321222154/V6kQKxr4_normal.jpg",
+      "description": "Founder | CEO | Built, scaled & exited multi-million $ businesses | Entrepreneurship, Capital Markets, Bitcoin | Developing People. Delivering Results.",
+      "followersCount": 433,
+      "friendsCount": 264,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JustinMeck_/status/2008714773245161501",
+    "fullText": "Social media is full of “entrepreneurs” selling freedom, independence, and sticking it to “the man.”\n\nIt’s mostly nonsense.\n\nHere’s the truth about entrepreneurship that influencers won’t tell you 🧵"
   },
   {
     "user": {
