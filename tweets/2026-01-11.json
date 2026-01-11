@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18363,
+      "friendsCount": 1698,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-W4EeebgAAGesA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2010215210741825550",
+    "fullText": "吃烤鸭了 https://t.co/T6bVX4kqOx"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 48867,
+      "friendsCount": 284,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2010214024039030965",
+    "fullText": "还是 claude --dangerously-skip-permission 好用\n\n反正都是测试工程师了，AI你就不要多此一举的让我按很多次yes\n\n我的保底工具就是git，你放心大胆的干，有前途🤣"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8579,
+      "followersCount": 8581,
       "friendsCount": 479,
       "location": "杭州"
     },
@@ -71,7 +103,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41070,
+      "followersCount": 41066,
       "friendsCount": 751,
       "location": "Hong Kong"
     },
@@ -88,7 +120,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 48865,
+      "followersCount": 48867,
       "friendsCount": 284,
       "location": "China"
     },
@@ -105,7 +137,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 48865,
+      "followersCount": 48867,
       "friendsCount": 284,
       "location": "China"
     },
@@ -122,7 +154,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 48865,
+      "followersCount": 48867,
       "friendsCount": 284,
       "location": "China"
     },
@@ -139,7 +171,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8579,
+      "followersCount": 8581,
       "friendsCount": 479,
       "location": "杭州"
     },
@@ -156,7 +188,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8579,
+      "followersCount": 8581,
       "friendsCount": 479,
       "location": "杭州"
     },
@@ -173,7 +205,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 48865,
+      "followersCount": 48867,
       "friendsCount": 284,
       "location": "China"
     },
@@ -190,7 +222,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8579,
+      "followersCount": 8581,
       "friendsCount": 479,
       "location": "杭州"
     },
@@ -205,7 +237,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 166524,
+      "followersCount": 166529,
       "friendsCount": 1526,
       "location": "Chicago, IL"
     },
@@ -220,7 +252,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63608,
+      "followersCount": 63610,
       "friendsCount": 495,
       "location": ""
     },
@@ -320,7 +352,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63608,
+      "followersCount": 63610,
       "friendsCount": 495,
       "location": ""
     },
@@ -386,7 +418,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9115,
+      "followersCount": 9113,
       "friendsCount": 309,
       "location": ""
     },
@@ -554,7 +586,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63608,
+      "followersCount": 63610,
       "friendsCount": 495,
       "location": ""
     },
@@ -586,7 +618,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63608,
+      "followersCount": 63610,
       "friendsCount": 495,
       "location": ""
     },
@@ -620,7 +652,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63608,
+      "followersCount": 63610,
       "friendsCount": 495,
       "location": ""
     },
@@ -686,7 +718,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9115,
+      "followersCount": 9113,
       "friendsCount": 309,
       "location": ""
     },
@@ -701,7 +733,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41070,
+      "followersCount": 41066,
       "friendsCount": 751,
       "location": "Hong Kong"
     },
@@ -750,7 +782,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 48865,
+      "followersCount": 48867,
       "friendsCount": 284,
       "location": "China"
     },
@@ -784,7 +816,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9115,
+      "followersCount": 9113,
       "friendsCount": 309,
       "location": ""
     },
@@ -862,7 +894,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8579,
+      "followersCount": 8581,
       "friendsCount": 479,
       "location": "杭州"
     },
@@ -986,7 +1018,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 166524,
+      "followersCount": 166529,
       "friendsCount": 1526,
       "location": "Chicago, IL"
     },
@@ -1093,6 +1125,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2009839466240966926",
     "fullText": "我朋友经常问我，为啥我充满了能量？\n\n从游戏、服装、开发、产品、设计、硬件、创业......一路走来，不累吗？\n\n我持续学习的秘密是我有灵魂伴侣\n\n她不会计算机，也不知道我每天在整啥\n\n但是她会和我一起学习，一起成长，包容我的缺点和不安全感\n\n她会在我非常困难的时候择留下（比如我从 deepin linux https://t.co/FdtU0031CE"
+  },
+  {
+    "user": {
+      "screenName": "interstellargw",
+      "name": "IGW",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949183561635889154/BBmHkw6j_normal.jpg",
+      "description": "Documenting & inspiring humanity’s newest endeavor into the stars | Cinematic Production | Live Streams | Exclusive Spaceflight Content | CEO: @joeyigw",
+      "followersCount": 16847,
+      "friendsCount": 227,
+      "location": "Starbase, Texas/Washington DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-Rff1CWwAAGBc-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/interstellargw/status/2009836338321977442",
+    "fullText": "BREAKING: After a medical situation onboard the ISS, @NASA &amp; @SpaceX are proceeding with an early return of Crew-11 back to Earth, with splashdown of the Dragon spacecraft and the Crew’s four astronauts slated for early January 15th, off the coast of California. https://t.co/eIPjZKP3Gm"
+  },
+  {
+    "user": {
+      "screenName": "afscme3299",
+      "name": "AFSCME Local 3299",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554532598457593857/24YHHCbx_normal.jpg",
+      "description": "UC’s First Employee Union 40K Strong! Service, Patient Care & Skilled Craft workers Across All UC Campuses & Med Centers Fighting for Equity & Justice",
+      "followersCount": 2542,
+      "friendsCount": 854,
+      "location": "Oakland, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/afscme3299/status/2009817776605565359",
+    "fullText": "\"They're doing so financially well, and then they are making choices and decisions that are really continuing to … put the squeeze on workers and students,\" @LizPerlman said. \"Then their public messaging, really, is that the sky is falling.\"\n\n UC leadership is \"using [Trump's]"
   },
   {
     "user": {
@@ -1353,6 +1417,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Outkick/status/2009666727756374473",
     "fullText": ".@ClayTravis is taking some of the best RBs in the game to cross the goal line this week! \n\nDownload the @PrizePicks app today and use code OUTKICK to get $50 in lineups after you play your first $5 lineup!"
+  },
+  {
+    "user": {
+      "screenName": "VictorRenajlj",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
+      "followersCount": 8466,
+      "friendsCount": 1318,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2009648190623027200/vid/avc1/1080x1080/5ZO44bJWPal6hn5C.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/VictorRenajlj/status/2009648558274724270",
+    "fullText": "why do companies expand their contracts with NASDAQ $RIME ?\n\n$RIME NASDAQ updated: pure-play SemiCab AI logistics now. 🚚\n\nPrice ≈ $1.02–$1.04 | Market Cap ~$2.8M | ARR projected &gt;$13M (post $6M contract) | Q3 revenue $1.7M (+1,273% YoY) | SemiCab ARR &gt; $8–13M+ | TAM $450B AI https://t.co/o4KArmt3Oa"
   },
   {
     "user": {
