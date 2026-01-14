@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 8743,
+      "friendsCount": 481,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2011288132076126510",
+    "fullText": "我现在用下来 Claude Code 在长时间使用以后也会出现响应不及时、类似于卡住的现象，跟/compact也没关系，应该是内部实现就是有点问题，只能杀掉重启 resume 之后，就又流畅了。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49061,
+      "friendsCount": 284,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-mHCuHbQAkD5eb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2011287411159191898",
+    "fullText": "昨天老婆妹妹从四川邮寄的香肠，麻辣味十足，好吃\n\n评论区不要问哪里买哈，自家香肠，自产自销，不卖哈 https://t.co/atzZNhoc5G"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 167633,
+      "followersCount": 167643,
       "friendsCount": 1529,
       "location": "Chicago, IL"
     },
@@ -38,7 +70,7 @@
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
-      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
       "followersCount": 6966,
       "friendsCount": 740,
       "location": "San Jose, CA"
@@ -69,7 +101,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -86,7 +118,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -136,7 +168,7 @@
       "name": "熠辉 Indie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41141,
+      "followersCount": 41143,
       "friendsCount": 752,
       "location": "Hong Kong"
     },
@@ -153,7 +185,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 22554,
+      "followersCount": 22553,
       "friendsCount": 4841,
       "location": ""
     },
@@ -188,7 +220,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 167633,
+      "followersCount": 167643,
       "friendsCount": 1529,
       "location": "Chicago, IL"
     },
@@ -220,7 +252,7 @@
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
       "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
-      "followersCount": 3475,
+      "followersCount": 3474,
       "friendsCount": 1008,
       "location": "Austin, Texas"
     },
@@ -265,11 +297,28 @@
   },
   {
     "user": {
+      "screenName": "AirChinaNA",
+      "name": "Air China",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1748109288/Air_China_Star_Alliance_Vertical_normal.png",
+      "description": "Official account for Air China North America. For customer service: https://t.co/sEnieF2vua…",
+      "followersCount": 27894,
+      "friendsCount": 254,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2011158420125081601/vid/avc1/752x416/t8C8yEYqIiGc5-b3.mp4?tag=23"
+    ],
+    "tweetUrl": "https://x.com/AirChinaNA/status/2011158615600873649",
+    "fullText": "✈️FLASH SALE: LIMITED-TIME PROMOTIONAL FARES TO CHINA FROM THE USA\nBook Now Through January 22, 2026.\nThe clock is ticking and so are the savings! Air China’s Flash Sale is your chance to lock in special fares from the U.S. to China and beyond. Whether you’re planning a family https://t.co/8FeG3UHnkK"
+  },
+  {
+    "user": {
       "screenName": "DiceyHQ",
       "name": "Dicey",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1991902935090171904/27gFh2nj_normal.jpg",
       "description": "Big Bankroll. No Drama Cashouts.",
-      "followersCount": 2015,
+      "followersCount": 2014,
       "friendsCount": 273,
       "location": ""
     },
@@ -414,8 +463,8 @@
       "name": "Leo Xiong（老熊）",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data · AI\n\n🧩 Building global data tooling @DataCollie\n\n🌍 Writing about · Databases · Dev Tools · Indie Dev",
-      "followersCount": 10264,
-      "friendsCount": 2433,
+      "followersCount": 10262,
+      "friendsCount": 2432,
       "location": ""
     },
     "images": [
@@ -446,7 +495,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25862,
+      "followersCount": 25863,
       "friendsCount": 320,
       "location": "Guangdong"
     },
@@ -493,7 +542,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8744,
+      "followersCount": 8743,
       "friendsCount": 481,
       "location": "杭州"
     },
@@ -542,7 +591,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -691,7 +740,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8744,
+      "followersCount": 8743,
       "friendsCount": 481,
       "location": "杭州"
     },
@@ -706,7 +755,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -723,7 +772,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -738,7 +787,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -755,7 +804,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -772,7 +821,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49060,
+      "followersCount": 49061,
       "friendsCount": 284,
       "location": "China"
     },
@@ -1029,6 +1078,21 @@
   },
   {
     "user": {
+      "screenName": "SwaymaKdotAI",
+      "name": "Swaymak.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999881536800178177/ruNKeHoN_normal.jpg",
+      "description": "AI for Main Street businesses. We show you what actually works. DM “Deep Dive.”",
+      "followersCount": 428,
+      "friendsCount": 35,
+      "location": "🌎 Global Reach "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SwaymaKdotAI/status/2010769050792583528",
+    "fullText": "We’re drowning in real work.\n\nSwaymak is landing small and mid-size businesses that want AI that actually runs their operations, not demos.\n\nWe need more freelance devs (1099).\nPaid monthly off real contracts.\nClear scope.\n30-day builds.\nRepeatable projects.\n\nIf you can ship and"
+  },
+  {
+    "user": {
       "screenName": "lumolabsdotai",
       "name": "Lumo Labs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1925209438342017024/8Pin7Wta_normal.jpg",
@@ -1061,11 +1125,26 @@
   },
   {
     "user": {
+      "screenName": "JKefaliotis",
+      "name": "John Kefaliotis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1662472427635458053/5iD7CGOl_normal.jpg",
+      "description": "Professional with major corporation executive experience having a specific interest in aviation and a general interest in all things government.",
+      "followersCount": 677,
+      "friendsCount": 23,
+      "location": "leesburg, VA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JKefaliotis/status/2010725218084331761",
+    "fullText": "Secretary Duffy Should Ask Congress for More than Money for ATC Modernization\nIn a previous post I asked the question – what is the FAA doing well. My answer – nothing. This answer derives from a look at four major areas of FAA responsibility and failures in these. What are these"
+  },
+  {
+    "user": {
       "screenName": "VictorRenajlj",
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 8664,
+      "followersCount": 8710,
       "friendsCount": 1321,
       "location": "New York, USA"
     },
