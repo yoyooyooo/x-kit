@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41144,
+      "friendsCount": 752,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2011692581844107551",
+    "fullText": "我去！刚刚一个0基础学员给我报喜，项目获得了天使轮🥳，而且那个项目我看还挺复杂的.\n\n这简直就是小白怎么做商业化项目的典范： \n\n1. 她先用Shipany + Claude Code折腾出项目全流程，不管交互、建表是否合理是否，先把核心流程做出来，部署到Vercel上\n2."
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 8747,
+      "friendsCount": 482,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2011691845760463095",
+    "fullText": "准备了一堆小号了，做好 Claude 封一个买一个了"
+  },
+  {
+    "user": {
       "screenName": "lencx_",
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21862,
+      "followersCount": 21861,
       "friendsCount": 1045,
       "location": ""
     },
@@ -75,8 +105,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5546,
-      "friendsCount": 601,
+      "followersCount": 5548,
+      "friendsCount": 602,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -158,8 +188,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5546,
-      "friendsCount": 601,
+      "followersCount": 5548,
+      "friendsCount": 602,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [],
@@ -175,7 +205,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 167853,
+      "followersCount": 167850,
       "friendsCount": 1534,
       "location": "Chicago, IL"
     },
@@ -207,7 +237,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8748,
+      "followersCount": 8747,
       "friendsCount": 482,
       "location": "杭州"
     },
@@ -222,7 +252,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 21565,
+      "followersCount": 21567,
       "friendsCount": 893,
       "location": "San Jose, CA"
     },
@@ -321,7 +351,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63927,
+      "followersCount": 63924,
       "friendsCount": 497,
       "location": ""
     },
@@ -553,7 +583,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8748,
+      "followersCount": 8747,
       "friendsCount": 482,
       "location": "杭州"
     },
@@ -568,7 +598,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 23402,
+      "followersCount": 23395,
       "friendsCount": 4852,
       "location": ""
     },
@@ -806,7 +836,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 63927,
+      "followersCount": 63924,
       "friendsCount": 497,
       "location": ""
     },
@@ -917,7 +947,7 @@
       "name": "MrBeast",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008838029776158720/oDvxIJ1X_normal.jpg",
       "description": "Beast Games Strong Vs Smart Is Out Now!",
-      "followersCount": 33764198,
+      "followersCount": 33764343,
       "friendsCount": 2252,
       "location": "Follow me for a cookie"
     },
@@ -985,7 +1015,7 @@
       "name": "World of Dypians",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2007169149294747648/mjs7ftyZ_normal.png",
       "description": "Shaping the future of AI-Powered Gaming! $WOD is part of the @BNBCHAIN $100M Incentive Program. 👉 Download now on @EpicGames.",
-      "followersCount": 341312,
+      "followersCount": 341338,
       "friendsCount": 470,
       "location": ""
     },
@@ -995,6 +1025,23 @@
     ],
     "tweetUrl": "https://x.com/worldofdypians/status/2011412336821625098",
     "fullText": "Echoing @elonmusk’s powerful words: we have entered the Singularity.\n\nToday, we’re excited to announce that @grok is now integrated into World of Dypians, a full scale MMORPG available on Epic Games, connecting Web2 and Web3 audiences inside one living universe.\n\nThe Singularity https://t.co/pR1ioLRdY1"
+  },
+  {
+    "user": {
+      "screenName": "10minutedrill",
+      "name": "10 Minute Drill",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946819852565426177/iLAjMfCk_normal.jpg",
+      "description": "Your morning 10-minute rundown of the most important stories in news and politics, hosted by veteran political strategist @mattwhitlock. New episodes T/Th.",
+      "followersCount": 5536,
+      "friendsCount": 153,
+      "location": "Washington, DC "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2011244048640593923/vid/avc1/1920x1080/uoH9Ocy_mpfd7YkE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/10minutedrill/status/2011411726252589333",
+    "fullText": "🎙️Special Wednesday Episode: January 14, 2026\n\n-Trump takes affordability fight to the motor city\n-Minnesota files silly lawsuit against ICE\n-Treasury Secretary highlights Ellison quid pro quo audio\n-CA considers wealth confiscation to cover up fraud\n-Climate movement falls apart https://t.co/usmWLQgrfk"
   },
   {
     "user": {
@@ -1070,7 +1117,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad",
-      "followersCount": 23402,
+      "followersCount": 23395,
       "friendsCount": 4852,
       "location": ""
     },
@@ -1292,7 +1339,7 @@
       "name": "Numbers Protocol",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985201814795595776/INe2SD6a_normal.jpg",
       "description": "Open & decentralized network. Ensure provenance for all digital media created by humans & AI.｜Powered by $NUM\nhttps://t.co/UbiUUpbSqc",
-      "followersCount": 159521,
+      "followersCount": 159522,
       "friendsCount": 675,
       "location": "Internet"
     },
