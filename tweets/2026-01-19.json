@@ -1,12 +1,29 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 8843,
+      "friendsCount": 485,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_CW_ObW0AAaAVw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2013275628162728013",
+    "fullText": "智谱刚放出来了他们最新的 GLM-4.7-Flash 30B 开源模型，支持本地部署。现在官网是免费用，但是只有1并发，就是自己体验体验吧。\n\nSWE 跑分中，超过 qwen3-30B。6啊，能跑到接近60分了，只有30B，本地拿来研发测试 coding 或者 agent 是不是爽歪歪了。 https://t.co/yrqfwSXsia"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "Leo Xiong（老熊）",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data · AI\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · Databases · Dev Tools · Indie Dev",
-      "followersCount": 10422,
-      "friendsCount": 2500,
+      "followersCount": 10429,
+      "friendsCount": 2506,
       "location": ""
     },
     "images": [],
@@ -16,11 +33,26 @@
   },
   {
     "user": {
+      "screenName": "AskFocal",
+      "name": "Focal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896713562589949952/3qE4aKuK_normal.jpg",
+      "description": "Hire a team of AI analysts for the price of a subscription. 24/7 market monitoring, narrative detection, and automated diligence.",
+      "followersCount": 637,
+      "friendsCount": 577,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AskFocal/status/2013265165945553037",
+    "fullText": "Focal Coin of the Day: Humanity Protocol ($H)\n\nVolatility meets opportunity as $H stages a breakout while facing a major supply test. Here is the breakdown:\n\nTechnical Breakout: $H rallied 20%+ this week, smashing the $0.1855 resistance on a massive 148% volume spike led by"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -38,7 +70,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -68,7 +100,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -101,7 +133,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62108,
+      "followersCount": 62111,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -152,7 +184,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9108,
+      "followersCount": 9107,
       "friendsCount": 309,
       "location": ""
     },
@@ -216,7 +248,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9108,
+      "followersCount": 9107,
       "friendsCount": 309,
       "location": ""
     },
@@ -233,7 +265,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9108,
+      "followersCount": 9107,
       "friendsCount": 309,
       "location": ""
     },
@@ -285,7 +317,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -300,7 +332,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -351,7 +383,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -438,7 +470,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64029,
+      "followersCount": 64030,
       "friendsCount": 498,
       "location": ""
     },
@@ -491,7 +523,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64029,
+      "followersCount": 64030,
       "friendsCount": 498,
       "location": ""
     },
@@ -506,7 +538,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64029,
+      "followersCount": 64030,
       "friendsCount": 498,
       "location": ""
     },
@@ -606,7 +638,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64029,
+      "followersCount": 64030,
       "friendsCount": 498,
       "location": ""
     },
@@ -687,7 +719,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -735,7 +767,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -767,7 +799,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -852,7 +884,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -884,7 +916,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22777,
+      "followersCount": 22778,
       "friendsCount": 4887,
       "location": ""
     },
@@ -899,7 +931,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8842,
+      "followersCount": 8843,
       "friendsCount": 485,
       "location": "杭州"
     },
