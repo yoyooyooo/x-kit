@@ -1,6 +1,105 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 8840,
+      "friendsCount": 484,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2013258415880204559",
+    "fullText": "Claude Code 200美金有点多了，100又不够用"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49259,
+      "friendsCount": 288,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_CGTQ9WEAARBFC.jpg",
+      "https://pbs.twimg.com/media/G_CGWVhWAAAM3cG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2013256966047776932",
+    "fullText": "有网友吐槽鸿蒙版微信聊天界面没收藏夹，然后艾特了腾讯微信团队......结果是微信没搭理，但华为终端主动过去私信解释了🤣\n\n哈哈哈哈这很腾讯啊 https://t.co/fJAyiNrhhA"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62101,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_CA_jdWEAAz4Uw.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2013255636642099679",
+    "fullText": "看到这种 Vibe Coding 的 PR 会不会直接昏倒？我觉得测试真的是未来 AI coding 的重中之重了。\n\n我现在的测试策略是：\n\n* PR 不能太大，最多 2000 行的改动差不多了（文档除外），太大了可以分开。\n* 使用 Code Rabbit  进行 PR review，Code Rabbit 是我用过的比较香的工具了，我觉得比 Cursor bugbot https://t.co/NWZZef3xAx"
+  },
+  {
+    "user": {
+      "screenName": "MM3yt",
+      "name": "Mystery Master 3 (MM3)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009122396528066560/F91tbLds_normal.jpg",
+      "description": "This is the one and only X account for the YouTube channel Mystery Master 3!  Don't forget to follow here and subscribe there so you don't miss out on the fun!!",
+      "followersCount": 88,
+      "friendsCount": 600,
+      "location": "YouTube Algorithm "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013255431418785792/vid/avc1/1080x1920/gGrasvll868Mwi4M.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MM3yt/status/2013255629645791244",
+    "fullText": "The Round Table's One Rule: Survive https://t.co/5boTdWalkL"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18519,
+      "friendsCount": 1725,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_CDZioXMAAvd17.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2013253524088627373",
+    "fullText": "此间乐，不思蜀 https://t.co/zRs08JpLIO"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9107,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2013252426254647575",
+    "fullText": "GPT 5.2 Codex 特别擅长解决 Claude Opus 4.5 没法解决的问题，搭配用太爽了。"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "Leo Xiong（老熊）",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
@@ -54,7 +153,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9108,
+      "followersCount": 9107,
       "friendsCount": 309,
       "location": ""
     },
@@ -71,7 +170,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9108,
+      "followersCount": 9107,
       "friendsCount": 309,
       "location": ""
     },
@@ -123,8 +222,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -138,7 +237,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8838,
+      "followersCount": 8840,
       "friendsCount": 484,
       "location": "杭州"
     },
@@ -189,8 +288,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -410,7 +509,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18511,
+      "followersCount": 18519,
       "friendsCount": 1725,
       "location": ""
     },
@@ -525,8 +624,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -573,8 +672,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -605,8 +704,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [
@@ -690,7 +789,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8838,
+      "followersCount": 8840,
       "friendsCount": 484,
       "location": "杭州"
     },
@@ -722,8 +821,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -737,7 +836,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 8838,
+      "followersCount": 8840,
       "friendsCount": 484,
       "location": "杭州"
     },
@@ -837,8 +936,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22772,
-      "friendsCount": 4886,
+      "followersCount": 22775,
+      "friendsCount": 4887,
       "location": ""
     },
     "images": [],
@@ -903,7 +1002,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 169181,
+      "followersCount": 169204,
       "friendsCount": 1533,
       "location": "Chicago, IL"
     },
@@ -1133,8 +1232,8 @@
       "name": "Brad Thomas",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1725935981612716032/Xfj-EnKA_normal.jpg",
       "description": "Founder Wide Moat Research, Creator of iREIT®, Author of REITs For Dummies: https://t.co/PkB9GqCeB4",
-      "followersCount": 21046,
-      "friendsCount": 4693,
+      "followersCount": 21047,
+      "friendsCount": 4694,
       "location": "United States"
     },
     "images": [
