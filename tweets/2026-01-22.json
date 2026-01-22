@@ -1,12 +1,59 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21948,
+      "friendsCount": 1047,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_OxGENbwAAxUgl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/2014148218003836954",
+    "fullText": "将 DOM 序列化，完成点击、输入、滚动、截图等操作，Noi 离 Agent 又近了一步！ https://t.co/YmUm3xJEno"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62281,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2014148012671643777",
+    "fullText": "看红星新闻又看到一个程序员猝死的新闻 太惨了\n\nhttps://t.co/l5yj5NXJMI\n\n2025年11月29日，32岁程序员高广辉在周末处理工作时突发意外，经抢救无效离世，死亡原因初步诊断为呼吸心跳骤停。目前，其所在公司已向广州市黄埔区人社局提交工伤认定申请，相关部门已受理该申请，结果尚未公布。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22779,
+      "friendsCount": 4895,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2014140963195859054",
+    "fullText": "周一约了 唐老师 @tangjinzhou  聊了一期播客🎧\n\n从 Antd Vue 五年独立开发、开源盈利 200 万 ，\n到外包项目造血探索 AI 产品 https://t.co/UKF7g1nao1,\n最后，从真实经历出发给新上路的小伙伴们 3 个建议！\n\nhttps://t.co/ag0d3hqMuX"
+  },
+  {
+    "user": {
       "screenName": "donwinslow",
       "name": "Don Winslow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947763656701448192/Wli8elHE_normal.jpg",
       "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\nFind great books by following: @WinslowBookClub",
-      "followersCount": 931117,
-      "friendsCount": 37956,
+      "followersCount": 931130,
+      "friendsCount": 37954,
       "location": "ALL TWEETS are just my opinion"
     },
     "images": [],
@@ -22,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64004,
+      "followersCount": 64005,
       "friendsCount": 499,
       "location": ""
     },
@@ -39,7 +86,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4591201,
+      "followersCount": 4591242,
       "friendsCount": 4,
       "location": ""
     },
@@ -73,7 +120,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 21775,
+      "followersCount": 21779,
       "friendsCount": 895,
       "location": "San Jose, CA"
     },
@@ -88,7 +135,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170259,
+      "followersCount": 170288,
       "friendsCount": 1536,
       "location": "Chicago, IL"
     },
@@ -103,7 +150,7 @@
       "name": "Zipline",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943111676787855360/EmEJnPQc_normal.jpg",
       "description": "Your favorite things delivered faster by air. \n2M+ deliveries & counting.\n\nWant Zipline in your area? Join the waitlist, link in bio.",
-      "followersCount": 32765,
+      "followersCount": 32768,
       "friendsCount": 1509,
       "location": "Worldwide"
     },
@@ -135,7 +182,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64004,
+      "followersCount": 64005,
       "friendsCount": 499,
       "location": ""
     },
@@ -150,7 +197,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170259,
+      "followersCount": 170288,
       "friendsCount": 1536,
       "location": "Chicago, IL"
     },
@@ -164,11 +211,28 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3502,
+      "friendsCount": 1008,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013985258270572545/vid/avc1/1920x1080/ARe1RMuk3ab02_YR.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2014005067494404556",
+    "fullText": "CES used to be about smart devices.\nNow it’s about intelligent systems—and that shift changes everything.\n\nIn this conversation with Sassine Ghazi, CEO of @Synopsys, he explains why AI-driven products—from cars to robots—are exponentially harder to design and verify. Intelligence https://t.co/bfrupHG4oD"
+  },
+  {
+    "user": {
       "screenName": "real_alethia",
       "name": "ALETHIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1992858690030813184/EiOYeYFc_normal.jpg",
       "description": "Building Web3 Infrastructure for Agentic AI\n\nVisit https://t.co/GCdEzebSQy",
-      "followersCount": 74795,
+      "followersCount": 74794,
       "friendsCount": 2549,
       "location": "Global"
     },
@@ -185,8 +249,8 @@
       "name": "Jan Sramek 🇺🇲 🌁 ⛰️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1803253645582147586/Uatv9AnH_normal.jpg",
       "description": "Founder & CEO, @CAForever. Raised $1bn+ to build a new city on 100+ square miles an hour north of SF/SV. For those who believe California's best days are ahead.",
-      "followersCount": 13920,
-      "friendsCount": 465,
+      "followersCount": 13956,
+      "friendsCount": 466,
       "location": "Solano, California"
     },
     "images": [
@@ -204,7 +268,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9008,
+      "followersCount": 9017,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -221,8 +285,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10509,
-      "friendsCount": 2571,
+      "followersCount": 10510,
+      "friendsCount": 2572,
       "location": ""
     },
     "images": [],
@@ -236,7 +300,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9008,
+      "followersCount": 9017,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -251,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -268,8 +332,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10509,
-      "friendsCount": 2571,
+      "followersCount": 10510,
+      "friendsCount": 2572,
       "location": ""
     },
     "images": [],
@@ -318,7 +382,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -333,7 +397,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 21775,
+      "followersCount": 21779,
       "friendsCount": 895,
       "location": "San Jose, CA"
     },
@@ -348,7 +412,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64004,
+      "followersCount": 64005,
       "friendsCount": 499,
       "location": ""
     },
@@ -363,8 +427,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10509,
-      "friendsCount": 2571,
+      "followersCount": 10510,
+      "friendsCount": 2572,
       "location": ""
     },
     "images": [
@@ -380,7 +444,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64004,
+      "followersCount": 64005,
       "friendsCount": 499,
       "location": ""
     },
@@ -395,7 +459,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -412,7 +476,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5807,
+      "followersCount": 5816,
       "friendsCount": 616,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -430,7 +494,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9008,
+      "followersCount": 9017,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -445,7 +509,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -462,7 +526,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -479,7 +543,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -496,7 +560,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -513,7 +577,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -530,7 +594,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -562,7 +626,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9008,
+      "followersCount": 9017,
       "friendsCount": 485,
       "location": "杭州"
     },
@@ -577,7 +641,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49353,
+      "followersCount": 49360,
       "friendsCount": 289,
       "location": "China"
     },
@@ -645,7 +709,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5807,
+      "followersCount": 5816,
       "friendsCount": 616,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -660,7 +724,7 @@
       "name": "Starlink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
       "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
-      "followersCount": 1516709,
+      "followersCount": 1516735,
       "friendsCount": 29,
       "location": ""
     },
@@ -668,6 +732,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/Starlink/status/2013679715501121984",
     "fullText": "Stream. Scroll. Surf.\n\nGet speeds up to 400+ Mbps to connect with friends and family without delays."
+  },
+  {
+    "user": {
+      "screenName": "case_resources",
+      "name": "Case Resources",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970579008833134592/m2qfzPxC_normal.jpg",
+      "description": "Mining focused value investor looking for wide margins of safety, downside protection, and aligned incentives.",
+      "followersCount": 214,
+      "friendsCount": 182,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/case_resources/status/2013640736755892676",
+    "fullText": "America is running out of Nickel. The Eagle Mine, the U.S.' only producing Nickel asset, is scheduled for closure in 2027. If @realDonaldTrump @JDVance  wants to secure the nations supply of a critical metal for national security, there is literally only one company that can"
+  },
+  {
+    "user": {
+      "screenName": "ManusMeta",
+      "name": "MANUS™",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998336635570671616/72YXQwon_normal.jpg",
+      "description": "Building scalable solutions for human interaction data.  Join our team: https://t.co/e1C4jinlvw",
+      "followersCount": 3422,
+      "friendsCount": 253,
+      "location": "Eindhoven, The Netherlands"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013551563558498304/vid/avc1/1920x1080/g44vZcvf_S0R7Fi7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ManusMeta/status/2013551980665307638",
+    "fullText": "Our research shows that cat videos are still more popular than haptic data glove videos. We were baffled by this result too. \n\nSo we decided to combine both. Check it out and feel the purr-fection. https://t.co/34ecu59uHV"
   },
   {
     "user": {
