@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "AcrossProtocol",
+      "name": "Across",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013300935758376960/Q_2CYFRP_normal.jpg",
+      "description": "Bridge everything. Fast. Cheap. Secure.",
+      "followersCount": 121768,
+      "friendsCount": 411,
+      "location": "Crosschain"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014397124058685440/vid/avc1/1920x1080/lQGghP5KZ8WqzYVy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AcrossProtocol/status/2014397716932055422",
+    "fullText": "It's time to explore the Hyperliquid ecosystem.\n\nGet there with Across. https://t.co/bfMqyoT9A0"
+  },
+  {
+    "user": {
+      "screenName": "getnexar",
+      "name": "Nexar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1171014646561681408/bWuoFoLl_normal.jpg",
+      "description": "Turning cars into vision-sensors for a connected, collision-free world.",
+      "followersCount": 2096,
+      "friendsCount": 224,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_SIG_aWgAAxPPY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/getnexar/status/2014384770109616273",
+    "fullText": "Here is an excerpt of what our Chief R&amp;D officer, Luc Vincent, had to say on @ylecun joining our board today:\n\n\"I’ve known and worked with Yann LeCun for more than two decades, across different chapters of our industry. We’ve debated the same question for years: what does it take https://t.co/1cbebJsvgm"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4591631,
+      "followersCount": 4591654,
       "friendsCount": 4,
       "location": ""
     },
@@ -37,7 +71,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9100,
+      "followersCount": 9102,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -86,7 +120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170913,
+      "followersCount": 170920,
       "friendsCount": 1538,
       "location": "Chicago, IL"
     },
@@ -150,7 +184,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -235,7 +269,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -252,7 +286,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22779,
+      "followersCount": 22780,
       "friendsCount": 4896,
       "location": ""
     },
@@ -303,7 +337,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -320,7 +354,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9100,
+      "followersCount": 9102,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -350,7 +384,7 @@
       "name": "Atoms",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1955090997903507456/IUvglzC6_normal.jpg",
       "description": "AI Vibe Business Team That Turns Your Ideas Into Business",
-      "followersCount": 3872,
+      "followersCount": 3873,
       "friendsCount": 150,
       "location": "Palo Alto"
     },
@@ -399,7 +433,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -416,7 +450,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9100,
+      "followersCount": 9102,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -446,7 +480,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22779,
+      "followersCount": 22780,
       "friendsCount": 4896,
       "location": ""
     },
@@ -495,7 +529,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9100,
+      "followersCount": 9102,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -542,7 +576,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9100,
+      "followersCount": 9102,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -557,7 +591,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -589,7 +623,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -606,7 +640,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -638,7 +672,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -670,7 +704,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -704,7 +738,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -736,7 +770,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
@@ -851,7 +885,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170913,
+      "followersCount": 170920,
       "friendsCount": 1538,
       "location": "Chicago, IL"
     },
@@ -1194,7 +1228,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 266183,
+      "followersCount": 266209,
       "friendsCount": 327,
       "location": "New York, USA"
     },
@@ -1339,7 +1373,7 @@
       "name": "DuckDuckGo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995499773562961920/ujQojLCR_normal.jpg",
       "description": "Independent online protection company. Get our mobile & desktop browser with protections built-in, including our search engine that doesn't track you.",
-      "followersCount": 2683185,
+      "followersCount": 2683190,
       "friendsCount": 5,
       "location": ""
     },
@@ -2132,7 +2166,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49372,
+      "followersCount": 49373,
       "friendsCount": 289,
       "location": "China"
     },
