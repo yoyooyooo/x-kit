@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 170854,
+      "friendsCount": 1537,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014022787955040259/vid/avc1/3626x2160/Uaj5dHHwj4treC4a.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2014374786412032181",
+    "fullText": "泼点凉水，只能说视频做的很酷，演示效果很好，就像当初 AI 直出 HTML，然后实时看到效果一样，但是然后呢？\n\n当你要修改的时候，还能那样丝滑吗？否则视频里面为啥要用鼠标\n\n要知道底层模型能力还是 Claude Code + Opus 4.5，它目前的能力上限就是能做出还不错的 HTML。\n\nhttps://t.co/Ttx568eP3h"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 63991,
+      "friendsCount": 499,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_R9hTvXgAA6VH-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2014372950070202489",
+    "fullText": "川普与北约秘书长吕特达成关于北极地区安全协议框架：\n\n将加强北极地区的安全防御能力。主要目的是为了抵御来自俄罗斯或中国的任何潜在威胁\n\n计划在该地区部署美国的导弹+ 采矿权控制（明确旨在将中国利益排除在外）+北约增兵（增强北约在该地区的军事存在）\n \n  协议不涉及格陵兰主权，及领土割让 https://t.co/p2c0kLTLqp"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -52,6 +86,23 @@
   },
   {
     "user": {
+      "screenName": "scispace",
+      "name": "SciSpace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965010978736599040/yMhBXsyJ_normal.jpg",
+      "description": "Making research more accessible by the day | https://t.co/KBTUcfNkZI\n\nListen to Podcast: https://t.co/ag0pphxmgS",
+      "followersCount": 84669,
+      "friendsCount": 6,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014338245119684608/vid/avc1/3840x2160/CCpgS0Ea91eB7O0b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/scispace/status/2014338500527595768",
+    "fullText": "Introducing \"Save to Notebook\" \n\nNow you can save agent outputs directly into SciSpace Notebook — all content and citations automatically transferred. No more copy-pasting, just seamless research workflows.\n\nCollect, refine, and get publish-ready in no time. https://t.co/FuqsRkvP2F"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -73,7 +124,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22782,
+      "followersCount": 22779,
       "friendsCount": 4896,
       "location": ""
     },
@@ -124,7 +175,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9082,
+      "followersCount": 9085,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -154,7 +205,7 @@
       "name": "Atoms",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1955090997903507456/IUvglzC6_normal.jpg",
       "description": "AI Vibe Business Team That Turns Your Ideas Into Business",
-      "followersCount": 3873,
+      "followersCount": 3872,
       "friendsCount": 150,
       "location": "Palo Alto"
     },
@@ -171,7 +222,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18526,
+      "followersCount": 18524,
       "friendsCount": 1731,
       "location": ""
     },
@@ -188,7 +239,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 115193,
+      "followersCount": 115194,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -220,7 +271,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9082,
+      "followersCount": 9085,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -235,7 +286,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18526,
+      "followersCount": 18524,
       "friendsCount": 1731,
       "location": ""
     },
@@ -250,7 +301,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22782,
+      "followersCount": 22779,
       "friendsCount": 4896,
       "location": ""
     },
@@ -267,7 +318,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25891,
+      "followersCount": 25892,
       "friendsCount": 320,
       "location": "Guangdong"
     },
@@ -299,7 +350,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9082,
+      "followersCount": 9085,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -314,7 +365,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154655,
+      "followersCount": 154658,
       "friendsCount": 530,
       "location": "中华人民共和国"
     },
@@ -331,7 +382,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154655,
+      "followersCount": 154658,
       "friendsCount": 530,
       "location": "中华人民共和国"
     },
@@ -346,7 +397,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9082,
+      "followersCount": 9085,
       "friendsCount": 486,
       "location": "杭州"
     },
@@ -427,7 +478,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 25891,
+      "followersCount": 25892,
       "friendsCount": 320,
       "location": "Guangdong"
     },
@@ -655,7 +706,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170849,
+      "followersCount": 170854,
       "friendsCount": 1537,
       "location": "Chicago, IL"
     },
@@ -704,7 +755,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22782,
+      "followersCount": 22779,
       "friendsCount": 4896,
       "location": ""
     },
@@ -719,7 +770,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 5856,
+      "followersCount": 5854,
       "friendsCount": 619,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -753,7 +804,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 170849,
+      "followersCount": 170854,
       "friendsCount": 1537,
       "location": "Chicago, IL"
     },
@@ -2239,7 +2290,7 @@
       "name": "Raise",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780307086653403136/RDIGzgmp_normal.png",
       "description": "$400M+ cashback | $5B+ gift cards sold\nHundreds of brands. Earn on every purchase.",
-      "followersCount": 13781,
+      "followersCount": 13780,
       "friendsCount": 155,
       "location": "iPhone • Android"
     },
