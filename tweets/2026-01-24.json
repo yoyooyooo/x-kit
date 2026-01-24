@@ -1,6 +1,56 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41313,
+      "friendsCount": 757,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2015066049860042894",
+    "fullText": "此时此刻在桑拿房的我，幻想着要是告诉Tim花100w，来换我现在的15分钟体验。\n\n估计这单能成😁"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9306,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2015064131993505973",
+    "fullText": "clawdbot 能干啥，谁能说一下，我看现在好评如潮啊"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49424,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_bx8Y7a8AAOoWe.jpg",
+      "https://pbs.twimg.com/media/G_bx8VFbIAAS8fp.jpg",
+      "https://pbs.twimg.com/media/G_bx8duW8AAAodi.jpg",
+      "https://pbs.twimg.com/media/G_bx8ZNbMAEHWzP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2015063908831420723",
+    "fullText": "朋友在芝热寺给我拍来了野生的\n\n我说我还要搬砖半个月才放假，你等我 https://t.co/HfOHR9t1T2"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
@@ -37,7 +87,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41317,
+      "followersCount": 41313,
       "friendsCount": 757,
       "location": "Hong Kong"
     },
@@ -57,7 +107,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62403,
+      "followersCount": 62404,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -143,7 +193,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155375,
+      "followersCount": 155357,
       "friendsCount": 522,
       "location": "東京 港区"
     },
@@ -162,7 +212,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41317,
+      "followersCount": 41313,
       "friendsCount": 757,
       "location": "Hong Kong"
     },
@@ -362,7 +412,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9300,
+      "followersCount": 9306,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -411,7 +461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 171716,
+      "followersCount": 171731,
       "friendsCount": 1541,
       "location": "Chicago, IL"
     },
@@ -460,7 +510,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9300,
+      "followersCount": 9306,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -490,7 +540,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41317,
+      "followersCount": 41313,
       "friendsCount": 757,
       "location": "Hong Kong"
     },
@@ -656,7 +706,7 @@
       "name": "Descript",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1019643227672961024/VzsNrztT_normal.jpg",
       "description": "If you can edit text, you can make videos, podcasts, and clips. And Descript's AI makes it fast and easy. Try Underlord: https://t.co/e3stAQ7kY0",
-      "followersCount": 30852,
+      "followersCount": 30853,
       "friendsCount": 246,
       "location": ""
     },
@@ -2039,7 +2089,7 @@
       "name": "Novig",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008058573201285120/c_5w47Hi_normal.png",
       "description": "Win Bigger on America’s #1 Sports Prediction Market. Available on iOS, Android, & web! Join our Discord: https://t.co/RNnhyDk35P",
-      "followersCount": 24024,
+      "followersCount": 24022,
       "friendsCount": 5440,
       "location": "New York, NY "
     },
@@ -2284,7 +2334,7 @@
       "name": "OutKick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1595496697060331524/V4rKnJvG_normal.jpg",
       "description": "Sports & Culture, The Right Way 🇺🇸 Subscribe to our newsletters: https://t.co/BtL9zRewif",
-      "followersCount": 361553,
+      "followersCount": 361554,
       "friendsCount": 750,
       "location": "America"
     },
