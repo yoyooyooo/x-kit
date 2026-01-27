@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 172908,
+      "friendsCount": 1543,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pMcDXWUAASFcr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2016008560660934704",
+    "fullText": "Derek Mobley 是一位年过40的非裔工程师，患有焦虑和抑郁症。过去几年里，他通过 Workday 平台（在美国找过工作的都知道这家）申请了100多个岗位，无一例外被拒。更离谱的是，很多拒信是凌晨1:50发来的，距他提交申请不到一小时。\n\n这个点没有HR工作，只能是AI。Mobley 怒而起诉，指控 Workday 的 AI https://t.co/TUafNK4oAE"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22841,
+      "friendsCount": 4925,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016008357010677874",
+    "fullText": "自媒体做久了，你就会发现：\n\n并不是 说的对的人 粉丝多，\n而是话多、说的久的人，\n沉淀了熟人感，变成了影响力。"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154848,
+      "followersCount": 154849,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -20,7 +52,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76761,
+      "followersCount": 76760,
       "friendsCount": 3520,
       "location": ""
     },
@@ -54,8 +86,8 @@
       "name": "Don Winslow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1947763656701448192/Wli8elHE_normal.jpg",
       "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\nFind great books by following: @WinslowBookClub",
-      "followersCount": 933813,
-      "friendsCount": 38088,
+      "followersCount": 933837,
+      "friendsCount": 38087,
       "location": "ALL TWEETS are just my opinion"
     },
     "images": [
@@ -71,7 +103,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18484,
+      "followersCount": 18486,
       "friendsCount": 1739,
       "location": ""
     },
@@ -88,7 +120,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9553,
+      "followersCount": 9556,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -120,7 +152,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9553,
+      "followersCount": 9556,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -334,7 +366,7 @@
       "name": "Uber Eats",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008204211289280512/iWdfZIfT_normal.jpg",
       "description": "Get almost almost anything 🛍️",
-      "followersCount": 421993,
+      "followersCount": 421992,
       "friendsCount": 70,
       "location": ""
     },
@@ -359,6 +391,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/charliepgarcia/status/2015850180734574738",
     "fullText": "$23. I told R360.\n$33. I told MarketWatch.\n$49. I told Substack.\n$71. I told you again.\nSilver hit $117 today. What's next? 👇"
+  },
+  {
+    "user": {
+      "screenName": "solanagaming",
+      "name": "Solana Gaming",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014708355005120512/Djc6zFAe_normal.jpg",
+      "description": "Official Gaming Account for @Solana 🕹️\n\nRedefine how gamers play with speed, scalability, and digital ownership.",
+      "followersCount": 128163,
+      "friendsCount": 3195,
+      "location": "Solana"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015847541993308161/vid/avc1/3840x2160/KsYRDd97YMOS_jXE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/solanagaming/status/2015848076074987684",
+    "fullText": "Distribution is king! \n\n@Octo8gaming is betting on web2 user acquisition combined with big @solana IPs collaborations \n\nIs this the game-changing strategy on web3 for capturing users? https://t.co/MElRKUGocD"
   },
   {
     "user": {
@@ -449,7 +498,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18484,
+      "followersCount": 18486,
       "friendsCount": 1739,
       "location": ""
     },
@@ -515,7 +564,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18484,
+      "followersCount": 18486,
       "friendsCount": 1739,
       "location": ""
     },
@@ -549,7 +598,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10533,
+      "followersCount": 10535,
       "friendsCount": 2599,
       "location": ""
     },
@@ -566,7 +615,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76761,
+      "followersCount": 76760,
       "friendsCount": 3520,
       "location": ""
     },
@@ -581,7 +630,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154848,
+      "followersCount": 154849,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -632,7 +681,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18484,
+      "followersCount": 18486,
       "friendsCount": 1739,
       "location": ""
     },
@@ -649,7 +698,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155531,
+      "followersCount": 155535,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -666,7 +715,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9553,
+      "followersCount": 9556,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -681,7 +730,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154848,
+      "followersCount": 154849,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -780,7 +829,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155531,
+      "followersCount": 155535,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -856,6 +905,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/2015604249737232821",
     "fullText": "都这个时代了，顶着个架构师的 title 一行代码不写(vibe)是不说不过去了。"
+  },
+  {
+    "user": {
+      "screenName": "NextInvestors",
+      "name": "Next Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/889370907797463040/5RdMFKMX_normal.jpg",
+      "description": "We Invest in high growth ASX companies and share our opinions. CAR No.433913, AFSL No. 296877 - How it works: https://t.co/w7QzccWTvs",
+      "followersCount": 5230,
+      "friendsCount": 201,
+      "location": "Australia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NextInvestors/status/2015590824617332833",
+    "fullText": "Silver is at record prices…\n\nThis silver mine in Texas just went public in the USA…\n\nStock code is 🇺🇸 BKBMF.\n\nSo why is Black Bear Minerals our Stock Pick of the Year?\n\nDisc: 1,853,118 BKBMF Shares Held"
   },
   {
     "user": {
@@ -977,6 +1041,23 @@
   },
   {
     "user": {
+      "screenName": "SamthePoet0731",
+      "name": "Sam Aureli",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962171673563541504/nNOanBcp_normal.jpg",
+      "description": "Author of \"On the Edge of Knowing\" now available | Poet rooted in cedarwood, tides, ochre leaves | Finding stillness in a noisy world, one line at a time",
+      "followersCount": 339,
+      "friendsCount": 416,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_g25TWXQAETJw9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SamthePoet0731/status/2015421386576318552",
+    "fullText": "My debut poetry collection, On the Edge of Knowing, is officially launched!  Poems of self, nature, memory, and the edge where certainty meets wonder. Visit my website for details (link in bio). Available at Kelsay Books and Amazon. https://t.co/gPtWAvEttP"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
@@ -998,7 +1079,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 172915,
+      "followersCount": 172908,
       "friendsCount": 1543,
       "location": "Chicago, IL"
     },
