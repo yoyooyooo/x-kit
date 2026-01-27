@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21931,
+      "friendsCount": 1047,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016068016837165059/vid/avc1/1040x720/NdhsrjxinBXlpEcL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/2016068371696296115",
+    "fullText": "给 Noi Terminal 实现了命令缩略图和命令输入编辑（光标任意定位插入，选中删除/编辑）。 https://t.co/6v8aio60xX"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22854,
+      "friendsCount": 4929,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_p8v_pacAA-pBs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016061270928367796",
+    "fullText": "最近在看 立党，发现一件事情，\n\n“全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人”\n\n这个第一人是真的吗，不一定，\n但是架不住他每天喊一遍，\n喊得时间久了，慢慢大家就刻在脑子里了！\n\n所以，喊出来！\n\nCELL 细胞 是 全球首个提出 「BIP 订阅制真人秀」 的！\n\n全球 「BIP https://t.co/eZZIzpOdng"
+  },
+  {
+    "user": {
       "screenName": "waylybaye",
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154870,
+      "followersCount": 154865,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -20,7 +54,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49709,
+      "followersCount": 49699,
       "friendsCount": 289,
       "location": "China"
     },
@@ -35,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 172940,
+      "followersCount": 172954,
       "friendsCount": 1543,
       "location": "Chicago, IL"
     },
@@ -52,8 +86,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22853,
-      "friendsCount": 4927,
+      "followersCount": 22854,
+      "friendsCount": 4929,
       "location": ""
     },
     "images": [],
@@ -67,7 +101,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154870,
+      "followersCount": 154865,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -197,7 +231,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9564,
+      "followersCount": 9565,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -246,7 +280,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9564,
+      "followersCount": 9565,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -261,7 +295,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41602,
+      "followersCount": 41603,
       "friendsCount": 758,
       "location": "Hong Kong"
     },
@@ -278,8 +312,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22853,
-      "friendsCount": 4927,
+      "followersCount": 22854,
+      "friendsCount": 4929,
       "location": ""
     },
     "images": [],
@@ -490,6 +524,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3520,
+      "friendsCount": 1009,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015849248189739009/vid/avc1/1920x1080/eYNf36KcfZ7N1ju8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2015854751674728706",
+    "fullText": "Big models don’t decide AI scale.\nReal-world constraints do.\n\nFlynn Maloy of @Lenovodc explains why memory, latency, security, and energy realities are reshaping where AI can actually run, and why edge inferencing is quickly becoming the difference between pilots and production. https://t.co/S6G4CzgR5d"
+  },
+  {
+    "user": {
       "screenName": "charliepgarcia",
       "name": "Charlie Garcia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1867075866984960000/uKK6Cx7o_normal.jpg",
@@ -592,7 +643,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41602,
+      "followersCount": 41603,
       "friendsCount": 758,
       "location": "Hong Kong"
     },
@@ -609,7 +660,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41602,
+      "followersCount": 41603,
       "friendsCount": 758,
       "location": "Hong Kong"
     },
@@ -654,12 +705,42 @@
   },
   {
     "user": {
+      "screenName": "ax1vc",
+      "name": "AX1",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1663668218366513152/yFCwPZa4_normal.jpg",
+      "description": "🟦 startup ecosystem on @base",
+      "followersCount": 14329,
+      "friendsCount": 85,
+      "location": "grants: 2/100 out (2026)"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ax1vc/status/2015791400520909014",
+    "fullText": "Be your own asset manager\nhow DeFi evolving on Base\n\nAMA X Space - Jan 29, 4 PM GMT\nGuests:\n- Brian (@glider_fi, backed by a16z + Coinbase Ventures)\n- Nick (@clashofcoins, Base Batches 002, held a Base App feature for a month)\n\n“TradFi is smooth UX and zero self-custody. Crypto"
+  },
+  {
+    "user": {
+      "screenName": "RedChip",
+      "name": "RedChip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
+      "description": "The World Leader in Small-Cap Investor Relations.\nRead our Disclosures: https://t.co/A2Fge25eX2",
+      "followersCount": 6182,
+      "friendsCount": 3679,
+      "location": "Orlando, Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RedChip/status/2015775488820551985",
+    "fullText": "🎥 Investors: See Why @ASPIsotopes $ASPI Is Poised to Lead the Global Isotope Market\n\nDemand for enriched isotopes is soaring, powering breakthroughs in healthcare, semiconductors, and next-gen nuclear energy.\n\n$ASPI is meeting this challenge with commercial production of"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22853,
-      "friendsCount": 4927,
+      "followersCount": 22854,
+      "friendsCount": 4929,
       "location": ""
     },
     "images": [],
@@ -675,7 +756,7 @@
       "name": "KleinHE",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1881649248544198656/kKHVSKsP_normal.jpg",
       "description": "22 y/o，founder，cursor 投资人投资\n做了一套 3x Claude Code 的开源的 CLI，即将发布\n英推：https://t.co/wRw05o2xwx",
-      "followersCount": 1038,
+      "followersCount": 1039,
       "friendsCount": 541,
       "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
     },
@@ -709,7 +790,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62458,
+      "followersCount": 62462,
       "friendsCount": 280,
       "location": "Shanghai"
     },
