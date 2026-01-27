@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155627,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016238142081401090",
+    "fullText": "把云端 sandbox 这个事情做完了，我开始有个新想法，为什么不在本地做个跨平台的 vm 专门运行 agents 呢？但是我仔细想了下，这不就是 agents os 吗只不过跑在现有的 os 基础上的虚拟层。"
+  },
+  {
+    "user": {
       "screenName": "rubicondefi",
       "name": "Rubicon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1993124408613842944/xqsJ96QL_normal.jpg",
@@ -22,7 +37,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173055,
+      "followersCount": 173057,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -56,7 +71,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4594961,
+      "followersCount": 4595020,
       "friendsCount": 4,
       "location": ""
     },
@@ -69,11 +84,26 @@
   },
   {
     "user": {
+      "screenName": "CastelloAi",
+      "name": "Castello",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000640226549506049/behEo7rk_normal.jpg",
+      "description": "Finance & Investing Made Simple.",
+      "followersCount": 629,
+      "friendsCount": 260,
+      "location": "San Francisco "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CastelloAi/status/2016193597541175363",
+    "fullText": "Boomers built wealth on cheap assets. Gen Z is told to build character 👍"
+  },
+  {
+    "user": {
       "screenName": "marketwirenews",
       "name": "Market Wire News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1806758575148011521/7uxqERRy_normal.jpg",
       "description": "Real-time stock news & investor tools\nDaily #StockNews at https://t.co/i02lmIzgjP\nDisclaimer: https://t.co/5QRpJ201eB",
-      "followersCount": 60661,
+      "followersCount": 60669,
       "friendsCount": 0,
       "location": "San Jose, CA"
     },
@@ -135,7 +165,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9566,
+      "followersCount": 9564,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -150,7 +180,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18485,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -167,7 +197,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22897,
+      "followersCount": 22898,
       "friendsCount": 4941,
       "location": ""
     },
@@ -199,7 +229,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173055,
+      "followersCount": 173057,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -285,7 +315,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18485,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -302,7 +332,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62479,
+      "followersCount": 62480,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -319,7 +349,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18485,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -351,7 +381,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18485,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -366,7 +396,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49702,
+      "followersCount": 49700,
       "friendsCount": 289,
       "location": "China"
     },
@@ -400,7 +430,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22897,
+      "followersCount": 22898,
       "friendsCount": 4941,
       "location": ""
     },
@@ -417,7 +447,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154930,
+      "followersCount": 154934,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -449,7 +479,7 @@
       "name": "Peptide Partners",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1920150695426048000/RX-dtGF8_normal.jpg",
       "description": "The #1 rated peptide vendor in overall quality by independent analysis \n\nIndepently tested. High purity. Great prices.\n\nhttps://t.co/azLWC8r4qm",
-      "followersCount": 1262,
+      "followersCount": 1264,
       "friendsCount": 322,
       "location": ""
     },
@@ -466,7 +496,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49702,
+      "followersCount": 49700,
       "friendsCount": 289,
       "location": "China"
     },
@@ -481,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173055,
+      "followersCount": 173057,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -498,7 +528,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22897,
+      "followersCount": 22898,
       "friendsCount": 4941,
       "location": ""
     },
@@ -513,7 +543,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154930,
+      "followersCount": 154934,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -872,7 +902,7 @@
       "name": "FC Augsburg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
       "description": "Welcome to the official FC Augsburg Twitter page in English! #FCA // Deutsch: @FCAugsburg",
-      "followersCount": 45722,
+      "followersCount": 45736,
       "friendsCount": 394,
       "location": "Augsburg, Bayern"
     },
@@ -1826,6 +1856,21 @@
   },
   {
     "user": {
+      "screenName": "impact108",
+      "name": "shivram shetty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1598009792865484801/YKq6kgQ-_normal.jpg",
+      "description": "Founder, CEO https://t.co/ukwmZWWrXX  https://t.co/WldcjtIcjt #ImpactSocial \nU-M Ann Arbor  \nExplore | Inspire | Excited to Learn",
+      "followersCount": 198,
+      "friendsCount": 29,
+      "location": "Boston"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/impact108/status/2015552452167098695",
+    "fullText": "Why millions switched: more security and simplicity than WhatsApp and others. A powerful suite of apps that would cost hundreds of millions—free to start. Upgrade to Premium for under 10¢/day to boost resources and support free users. Satisfaction guaranteed."
+  },
+  {
+    "user": {
       "screenName": "MatteoOneself",
       "name": "MATTEO FAVARO 🔥",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1764623019715047424/2gtsJFiY_normal.jpg",
@@ -1864,7 +1909,7 @@
       "name": "Sol-Incinerator",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1529138810088456193/V34VQ3ns_normal.jpg",
       "description": "Solana's most trusted wallet cleanup tool since 2021 🔥\nReclaim SOL by closing your token accounts",
-      "followersCount": 32760,
+      "followersCount": 32762,
       "friendsCount": 444,
       "location": "Solana"
     },
