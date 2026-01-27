@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173054,
+      "friendsCount": 1544,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016209062854041600/vid/avc1/1920x1080/BWioa1N7Dx4tlujY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2016223577112989873",
+    "fullText": "OpenAI 今天发布了 Prism，一个专为科学家设计的 AI 工作区。免费，对所有 ChatGPT 用户开放。\nhttps://t.co/ltBgx7lUGz\n\n简单说：这是一个内置 GPT-5.2 的云端 LaTeX 编辑器。OpenAI 收购了 LaTeX 平台 Crixet，然后把自家最强模型塞了进去。\n\n它能做什么？\n\n-"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155627,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_sObJ6XoAA4-4n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016221244484661318",
+    "fullText": "嘿嘿实现了，在 cf 一键创建沙箱，不依赖任何需要安装的工具（tmux 等）实现流式输入和交互式终端，一键导入 Github 项目，指挥多个 cc 在不同的 sandbox 中工作不同的项目分支，然后创建 PR 合并。每个终端都有对应的 web/api 服务端点，支持 OAuth 方式配置 Claude Code 来使用自己的 pro/max 订阅！ https://t.co/qnq3OLPIdX"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4594845,
+      "followersCount": 4594882,
       "friendsCount": 4,
       "location": ""
     },
@@ -99,7 +133,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18486,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -116,7 +150,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22900,
+      "followersCount": 22894,
       "friendsCount": 4941,
       "location": ""
     },
@@ -129,11 +163,26 @@
   },
   {
     "user": {
+      "screenName": "gizmothegizzer",
+      "name": "Anna | Perena",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004693356908060673/n2R4rZvi_normal.jpg",
+      "description": "Money is the language of human coordination. Stablecoins liberate money.",
+      "followersCount": 11159,
+      "friendsCount": 1967,
+      "location": "Stablecoin land"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gizmothegizzer/status/2016160029397967170",
+    "fullText": "I'm in a CEO gc and 80% of the questions are about bank failures!\n\nUnauthorized ACH pulls, wires that never arrive, random freezes, rejections due to \"risks.\"\n\nBanking is a MASSIVE pain point for business owners.\n\nWhen we got debanked last year, Perena stayed operational because"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173052,
+      "followersCount": 173054,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -199,7 +248,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18486,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -216,7 +265,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62481,
+      "followersCount": 62482,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -233,7 +282,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18486,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -265,7 +314,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18486,
+      "followersCount": 18483,
       "friendsCount": 1742,
       "location": ""
     },
@@ -297,7 +346,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21938,
+      "followersCount": 21937,
       "friendsCount": 1048,
       "location": ""
     },
@@ -314,7 +363,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22900,
+      "followersCount": 22894,
       "friendsCount": 4941,
       "location": ""
     },
@@ -331,7 +380,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154931,
+      "followersCount": 154932,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -395,7 +444,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173052,
+      "followersCount": 173054,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -412,7 +461,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22900,
+      "followersCount": 22894,
       "friendsCount": 4941,
       "location": ""
     },
@@ -427,7 +476,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154931,
+      "followersCount": 154932,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -918,6 +967,21 @@
   },
   {
     "user": {
+      "screenName": "Flutterbye_io",
+      "name": "Flutterbye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006133309647048704/U0N-qMDP_normal.jpg",
+      "description": "Building the on-chain wallet-to-wallet communication layer for Solana.\nProtocol infrastructure, not a messaging app.",
+      "followersCount": 587,
+      "friendsCount": 613,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Flutterbye_io/status/2015853965129265173",
+    "fullText": "Most crypto marketing guesses who to reach.\n\nFlutterbye lets you message specific wallets based on real on-chain behavior.\n\nNot followers.\nNot emails.\nNot demographics.\nActual wallets that already do what you care about.\nIf you could message only the right wallets, would you?\n\n👉"
+  },
+  {
+    "user": {
       "screenName": "get_Ethos",
       "name": "Ethos",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1895552790665314304/SAhXBchP_normal.jpg",
@@ -1048,7 +1112,7 @@
       "name": "Robynn AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1717314975147130880/Ks4BjmMV_normal.jpg",
       "description": "",
-      "followersCount": 11,
+      "followersCount": 12,
       "friendsCount": 6,
       "location": ""
     },
