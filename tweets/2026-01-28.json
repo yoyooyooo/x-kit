@@ -1,11 +1,56 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9563,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2016391112509079831",
+    "fullText": "前段时间我不就说要搞 Mac Mini 回来跑 AI，那时候还没听过 Clawdbot，现在挺好。\n等你们玩完一段时间之后，到时候闲鱼肯定能收到你们这帮 Clawdbot 爱好者的便宜的二手 Mac Mini。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41624,
+      "friendsCount": 758,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2016388707805495760",
+    "fullText": "Kimi的新模型，许多不是做自媒体的朋友都夸Coding能力很好，看来我今天可以体验一下了~"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76782,
+      "friendsCount": 3522,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2016386999461281891",
+    "fullText": "回头再读这篇博客，kimi 今天打回来了不奇怪\nhttps://t.co/wZrY3W2ZKv"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10534,
+      "followersCount": 10537,
       "friendsCount": 2600,
       "location": ""
     },
@@ -54,7 +99,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22960,
+      "followersCount": 22965,
       "friendsCount": 4946,
       "location": ""
     },
@@ -97,6 +142,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/2016316992610042064",
     "fullText": "这个模型感觉要吐槽一下了。$310 的成品模型，里面居然有 50 多个小零件要自己安装！而且有些安装的角度还很刁钻！而且还有顺序要求！我好不容易装上两个刁钻的零件居然还要拆下来返工。 https://t.co/lN5p2iNHSN"
+  },
+  {
+    "user": {
+      "screenName": "NEARProtocol",
+      "name": "NEAR Protocol",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970880320103985152/SAMA6Vh0_normal.jpg",
+      "description": "The blockchain for AI.",
+      "followersCount": 1849260,
+      "friendsCount": 1264,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_tc0OHWQAA9dzk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEARProtocol/status/2016312734170710017",
+    "fullText": "NEARCON 2026: Building an AI Economy Without Compromise\n\nDive into the growing trend of privacy-preserving assets and explore how institutions can turn sensitive data into safe intelligence.\n\nMeet us at the convergence 👇 https://t.co/wtAiwj5LEQ"
   },
   {
     "user": {
@@ -215,7 +277,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155618,
+      "followersCount": 155620,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -264,7 +326,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173165,
+      "followersCount": 173177,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -281,7 +343,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155618,
+      "followersCount": 155620,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -298,7 +360,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4596113,
+      "followersCount": 4596155,
       "friendsCount": 4,
       "location": ""
     },
@@ -379,7 +441,7 @@
       "name": "Fast Company",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1051826427837014017/v2TLU4mf_normal.jpg",
       "description": "Inspiring readers to think beyond traditional boundaries & create the future of business. Subscribe to our daily newsletter: https://t.co/BpH3KmBae9",
-      "followersCount": 1992478,
+      "followersCount": 1992490,
       "friendsCount": 3784,
       "location": "New York, NY"
     },
@@ -460,7 +522,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22960,
+      "followersCount": 22965,
       "friendsCount": 4946,
       "location": ""
     },
@@ -524,7 +586,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173165,
+      "followersCount": 173177,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -656,7 +718,7 @@
       "name": "TCL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972589963372802048/ott0LqNd_normal.jpg",
       "description": "TCL commits itself to providing ultimate service and experience with our premium electronics and smart tech products.",
-      "followersCount": 16281,
+      "followersCount": 16285,
       "friendsCount": 43,
       "location": "Guangdong,China"
     },
@@ -739,7 +801,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154962,
+      "followersCount": 154961,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -1033,5 +1095,22 @@
     ],
     "tweetUrl": "https://x.com/wardenprotocol/status/2015792433003364767",
     "fullText": "The app is evolving into an Agentic Wallet, and we want people to truly get what that means. 👾\n\nNeofinance is always-on, digital, and accessible at your fingertips. Warden aims to be the default interface to that world:\n- One wallet\n- One interface\n- Access to everything https://t.co/GnrXgMt3ZQ"
+  },
+  {
+    "user": {
+      "screenName": "GeostrategyHQ",
+      "name": "Geostrategy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915771985990201344/t3ba_5dV_normal.jpg",
+      "description": "Political consultancy and polling company. Understand the world with actionable insights.\n\nLondon - Washington - Zurich - Podgorica",
+      "followersCount": 74,
+      "friendsCount": 142,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_lcy-rWwAAneIZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeostrategyHQ/status/2015750620011982863",
+    "fullText": "Geostrategy polling shows how Americans judge each party issue by issue. On the economy, Republicans hold a narrow edge, while large shares remain unsure about both parties’ plans. For 37% of voters, the Republicans have a better economic strategy, vs 32% for the Democrats. https://t.co/pFHhOGxcYP"
   }
 ]
