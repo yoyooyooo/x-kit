@@ -1,0 +1,456 @@
+[
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49698,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_tTaYFWsAA-_Or.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2016296981673697560",
+    "fullText": "今年最后一次出差，火车最好的是信号不稳定\n\n团队找不到我就是没事🤣\n\n安安静静看书 https://t.co/MYboM8FU3S"
+  },
+  {
+    "user": {
+      "screenName": "JessWu1995",
+      "name": "Jess Wu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009716905704148992/m-OWt_98_normal.jpg",
+      "description": "Founder @ Reml",
+      "followersCount": 3,
+      "friendsCount": 26,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JessWu1995/status/2016258488780169590",
+    "fullText": "I’ve started a monthly newsletter called The Reml Letter.\nI write from a dual vantage point: years in institutional investing, and now building AI products in Silicon Valley.\nEach month, I’ll explore how emerging technology actually shows up inside professional workflows — beyond"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155622,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016238142081401090",
+    "fullText": "把云端 sandbox 这个事情做完了，我开始有个新想法，为什么不在本地做个跨平台的 vm 专门运行 agents 呢？但是我仔细想了下，这不就是 agents os 吗只不过跑在现有的 os 基础上的虚拟层。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173090,
+      "friendsCount": 1545,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016209062854041600/vid/avc1/1920x1080/BWioa1N7Dx4tlujY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2016223577112989873",
+    "fullText": "OpenAI 今天发布了 Prism，一个专为科学家设计的 AI 工作区。免费，对所有 ChatGPT 用户开放。\nhttps://t.co/ltBgx7lUGz\n\n简单说：这是一个内置 GPT-5.2 的云端 LaTeX 编辑器。OpenAI 收购了 LaTeX 平台 Crixet，然后把自家最强模型塞了进去。\n\n它能做什么？\n\n-"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155622,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_sObJ6XoAA4-4n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016221244484661318",
+    "fullText": "嘿嘿实现了，在 cf 一键创建沙箱，不依赖任何需要安装的工具（tmux 等）实现流式输入和交互式终端，一键导入 Github 项目，指挥多个 cc 在不同的 sandbox 中工作不同的项目分支，然后创建 PR 合并。每个终端都有对应的 web/api 服务端点，支持 OAuth 方式配置 Claude Code 来使用自己的 pro/max 订阅！ https://t.co/qnq3OLPIdX"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4595419,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016207515973980160/vid/avc1/1920x1080/qSf3UTFEArw7oRSn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2016209462621831448",
+    "fullText": "Introducing Prism, a free workspace for scientists to write and collaborate on research, powered by GPT-5.2.\n\nAvailable today to anyone with a ChatGPT personal account: https://t.co/9mTLAbxPdH https://t.co/GJOIipU3hx"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9563,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2016180083560743154",
+    "fullText": "最近自己倒腾做了2个 Agent 产品，最终做出来感觉自己都不太会去用。\n在这过程中，也不亏，首先非常熟悉了 Agent 产品的研发流程和现在新的一些 AI 的 infra 设施，这个跟以前做 SaaS 的基础设施，和开发方式都有比较大的区别。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rmh6VakAAvL0T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016177272726945867",
+    "fullText": "今日好物：床上折叠椅\n\n终于可以半躺着打游戏玩手机了。翻转90度面朝屏幕，拿小手柄玩个游戏或者看个剧，再摆个床上桌，纯在享受 https://t.co/veqZxHRPbn"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22911,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rlRh1bYAAHA6M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016175926091129234",
+    "fullText": "习得一项技能最好的方法，依然是：\n\n亲手去做一遍，然后再讲出来\n\n说到烂大街的费曼式学习法，\n真实践起来没几个人能执行\n\n收藏夹吃灰的再多，不如自己写个 Demo https://t.co/vEwLcLFV3i"
+  },
+  {
+    "user": {
+      "screenName": "gizmothegizzer",
+      "name": "Anna | Perena",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004693356908060673/n2R4rZvi_normal.jpg",
+      "description": "Money is the language of human coordination. Stablecoins liberate money.",
+      "followersCount": 11158,
+      "friendsCount": 1967,
+      "location": "Stablecoin land"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gizmothegizzer/status/2016160029397967170",
+    "fullText": "I'm in a CEO gc and 80% of the questions are about bank failures!\n\nUnauthorized ACH pulls, wires that never arrive, random freezes, rejections due to \"risks.\"\n\nBanking is a MASSIVE pain point for business owners.\n\nWhen we got debanked last year, Perena stayed operational because"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173090,
+      "friendsCount": 1545,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2016153776713863599",
+    "fullText": "https://t.co/cdG2cMDmpg"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016149213751746770",
+    "fullText": "加密货币支付网络公司Mesh在创立5年后，获得了来自Coinbase venture等风投7500万美元的投资令其估值超过10亿美金\n\nMesh将像当年的Plaid一样帮助构建加密货币支付体系，把主流加密货币和消费者支付链接起来，并且将在全球拓展业务\n\n目前Mesh看到了每个月100亿美元的交易量 https://t.co/IuQCDJ7b0t"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rKPyqbAAUA-id.jpg",
+      "https://pbs.twimg.com/media/G_rKPyybAAEEMhU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016146161414086791",
+    "fullText": "【芯片战争】微软发布了自己的第二代芯片Maia200，将减少对英伟达芯片的依赖\n\nMaia200由台积电代工，会首先部署到微软在爱荷华的数据中心，接下来会部署到在凤凰城的数据中心\n\n但目前会不会大规模部署到微软的Azure云平台，还是个未知数\n\n巨头们在算力的争夺上肉眼可见激烈起来 https://t.co/CqOGTjlzC5"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rGyVeboAANTWW.jpg",
+      "https://pbs.twimg.com/media/G_rGyVba0AAn8vR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016142355334889944",
+    "fullText": "【交易的艺术】TACO\n看到一个有趣的数据，对特朗普关税政策相关行动的跟踪和分析\n\n真正被执行的关税目前只有20%\n\n绝大部分还在调查，并为实施，或部分实施，撤回中\n\n就他这报价策略特别适合中国人，每个人都有讨价还价的经历，就算现在自由农贸市场还常常还价呢😝 https://t.co/sWcbb8K9yF"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rGgKnbAAIqsa7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016142136278999055",
+    "fullText": "：海肠呢？\n：我叫海肠 https://t.co/vJz2dB9YpQ"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62473,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rE0kkbAAEtMB7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2016141170787877150",
+    "fullText": "写的差不多了，过几天发布，没有满意的微信支付 SDK，自己写一个并且之后给 TinyShip 用上，纯ESM + Typescript，轻量级依赖，支持 Native/APP/JSAPI/H5（商家转账还没写，之后再支持），支持最新的微信支付公钥模式，并且配备了三个 Demo：极简的 Hono 以及 Next 和 Nuxt https://t.co/UrqYqJ0lBN"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rA4aba0AAw7JC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016135879530869014",
+    "fullText": "买了一只小猫咪🐱侍寝，可爱捏 https://t.co/Gs2ZvNYvmu"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016132571068055607",
+    "fullText": "【技术的青春期】是Anthropic CEO达里奥·阿莫迪在2026年1月提出的一个概念，指代人工智能即将进入快速发展阶段，可能在2027年出现超越人类顶尖智慧的AI系统。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016102149063901540",
+    "fullText": "好哥们胖胖一个月前提了离职，按理说今天是提桶跑路大喜之日，他都到家了昨天又坐几小时动车跑回去上班\n\n我们问他为啥，他说厂里每周四才给办离职..."
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49698,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_qbYV4WMAASpwU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2016094637531005041",
+    "fullText": "我最爱吃的菜，你们喜欢吃不？ https://t.co/x6m6QuqrK8"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21937,
+      "friendsCount": 1048,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016068016837165059/vid/avc1/1040x720/NdhsrjxinBXlpEcL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/2016068371696296115",
+    "fullText": "给 Noi Terminal 实现了命令缩略图和命令输入编辑（光标任意定位插入，选中删除/编辑）。 https://t.co/6v8aio60xX"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22911,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_p8v_pacAA-pBs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016061270928367796",
+    "fullText": "最近在看 立党，发现一件事情，\n\n“全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人”\n\n这个第一人是真的吗，不一定，\n但是架不住他每天喊一遍，\n喊得时间久了，慢慢大家就刻在脑子里了！\n\n所以，喊出来！\n\nCELL 细胞 是 全球首个提出 「BIP 订阅制真人秀」 的！\n\n全球 「BIP https://t.co/eZZIzpOdng"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154929,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2016041909433860406",
+    "fullText": "完全没想到大家对手机上控制 Agent 这件事竟然有这么大的需求。我之前觉得这个需求太小众，自己把想法给毙了。"
+  },
+  {
+    "user": {
+      "screenName": "PeptidePartners",
+      "name": "Peptide Partners",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920150695426048000/RX-dtGF8_normal.jpg",
+      "description": "The #1 rated peptide vendor in overall quality by independent analysis \n\nIndepently tested. High purity. Great prices.\n\nhttps://t.co/azLWC8r4qm",
+      "followersCount": 1268,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pkRzxWoAAl4Qp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeptidePartners/status/2016034050499051983",
+    "fullText": "PT-141: A Serendipitous Discovery in Sexual Health\n\nNow up on the Stack\n\n[link below] https://t.co/dgyRElve7q"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49698,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2016028554086252572",
+    "fullText": "写了20多年代码，内心还是非常喜欢写代码，创造东西特别有成就感\n\n但是这几年作为营销的负责人，每次写代码的时候都会有很大的内疚感，就觉得写代码会让团队变得更差。但是完全不动代码，我心里面也会很烦躁，觉得离创作产品越来越远了。\n\n自从有了 Claude Code"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173090,
+      "friendsCount": 1545,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pMcDXWUAASFcr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2016008560660934704",
+    "fullText": "Derek Mobley 是一位年过40的非裔工程师，患有焦虑和抑郁症。过去几年里，他通过 Workday 平台（在美国找过工作的都知道这家）申请了100多个岗位，无一例外被拒。更离谱的是，很多拒信是凌晨1:50发来的，距他提交申请不到一小时。\n\n这个点没有HR工作，只能是AI。Mobley 怒而起诉，指控 Workday 的 AI https://t.co/TUafNK4oAE"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22911,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016008357010677874",
+    "fullText": "自媒体做久了，你就会发现：\n\n并不是 说的对的人 粉丝多，\n而是话多、说的久的人，\n沉淀了熟人感，变成了影响力。"
+  },
+  {
+    "user": {
+      "screenName": "Flutterbye_io",
+      "name": "Flutterbye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006133309647048704/U0N-qMDP_normal.jpg",
+      "description": "Building the on-chain wallet-to-wallet communication layer for Solana.\nProtocol infrastructure, not a messaging app.",
+      "followersCount": 586,
+      "friendsCount": 491,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Flutterbye_io/status/2015853965129265173",
+    "fullText": "Most crypto marketing guesses who to reach.\n\nFlutterbye lets you message specific wallets based on real on-chain behavior.\n\nNot followers.\nNot emails.\nNot demographics.\nActual wallets that already do what you care about.\nIf you could message only the right wallets, would you?\n\n👉"
+  }
+]
