@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6964,
+      "friendsCount": 744,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_tlOjUakAAMstt.jpg",
+      "https://pbs.twimg.com/media/G_tlOjSacAApIVY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2016316992610042064",
+    "fullText": "这个模型感觉要吐槽一下了。$310 的成品模型，里面居然有 50 多个小零件要自己安装！而且有些安装的角度还很刁钻！而且还有顺序要求！我好不容易装上两个刁钻的零件居然还要拆下来返工。 https://t.co/lN5p2iNHSN"
+  },
+  {
+    "user": {
+      "screenName": "seemahamid",
+      "name": "Seema Hamid",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949566859059298304/H9jQiPt-_normal.jpg",
+      "description": "",
+      "followersCount": 202,
+      "friendsCount": 568,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/seemahamid/status/2016312201196531936",
+    "fullText": "power-hungry people continuously optimize for control.\n\nthe human story only works if we cap their leverage - socially, politically, institutionally - and keep accountability non-negotiable.\n\nwe have to build systems that make “animal farm” outcomes impossible.\n\nthat’s the daily"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49700,
+      "followersCount": 49704,
       "friendsCount": 289,
       "location": "China"
     },
@@ -15,6 +48,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2016296981673697560",
     "fullText": "今年最后一次出差，火车最好的是信号不稳定\n\n团队找不到我就是没事🤣\n\n安安静静看书 https://t.co/MYboM8FU3S"
+  },
+  {
+    "user": {
+      "screenName": "007_Swezey_117",
+      "name": "Swezey",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991590861138796544/6UAZTCRu_normal.jpg",
+      "description": "👨‍💻 SWE | Dog Dad | Husband",
+      "followersCount": 353,
+      "friendsCount": 849,
+      "location": "ATX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/007_Swezey_117/status/2016296508270751844",
+    "fullText": "The US political system isn't just \"broken\"—it’s essentially a high school cafeteria governed by adolescent social dynamics. My theory, the \"High School Model,\" argues that our dysfunction is a sociological trap driven by popularity contests, zero-sum competition, and tribal"
   },
   {
     "user": {
@@ -86,7 +134,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173091,
+      "followersCount": 173100,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -120,7 +168,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4595524,
+      "followersCount": 4595608,
       "friendsCount": 4,
       "location": ""
     },
@@ -148,6 +196,23 @@
   },
   {
     "user": {
+      "screenName": "temple_ny",
+      "name": "Temple",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953945030143410176/mtixh3kv_normal.jpg",
+      "description": "A privacy focused technical stack to trade capital markets. Powered by @CantonNetwork",
+      "followersCount": 9941,
+      "friendsCount": 27,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ruKuXXAAAPxyj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/temple_ny/status/2016186381370798235",
+    "fullText": "Temple is now the top performing platform on @CantonNetwork.   Data provided by @KaikoData. https://t.co/tdykxb8BMf"
+  },
+  {
+    "user": {
       "screenName": "TheAroraReport",
       "name": "Nigam Arora",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1539346309936726018/4ir4pXyC_normal.jpg",
@@ -167,7 +232,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9562,
+      "followersCount": 9563,
       "friendsCount": 487,
       "location": "杭州"
     },
@@ -182,7 +247,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18483,
+      "followersCount": 18481,
       "friendsCount": 1742,
       "location": ""
     },
@@ -199,7 +264,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22918,
+      "followersCount": 22920,
       "friendsCount": 4944,
       "location": ""
     },
@@ -212,12 +277,27 @@
   },
   {
     "user": {
+      "screenName": "CitronResearch",
+      "name": "Citron Research",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402292015845363714/fnNgwSxh_normal.png",
+      "description": "Citron Research | Since 2001, delivering bold market analysis & investment insights. Led by Andrew Left, empowering informed financial decisions worldwide.",
+      "followersCount": 370720,
+      "friendsCount": 522,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CitronResearch/status/2016174746149286079",
+    "fullText": "$S SentinelOne is time to pound the table.\nClawdbot is the tell- Autonomous Agents, the conversation has just begun, and $S has the lead in protecting the house\nThe market is still arguing about chatbots.\nThe real shift is Autonomous Agents  and Clawdbot shows exactly where"
+  },
+  {
+    "user": {
       "screenName": "gizmothegizzer",
       "name": "Anna | Perena",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004693356908060673/n2R4rZvi_normal.jpg",
       "description": "Money is the language of human coordination. Stablecoins liberate money.",
-      "followersCount": 11158,
-      "friendsCount": 1967,
+      "followersCount": 11159,
+      "friendsCount": 1968,
       "location": "Stablecoin land"
     },
     "images": [],
@@ -231,7 +311,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173091,
+      "followersCount": 173100,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -297,7 +377,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18483,
+      "followersCount": 18481,
       "friendsCount": 1742,
       "location": ""
     },
@@ -331,7 +411,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18483,
+      "followersCount": 18481,
       "friendsCount": 1742,
       "location": ""
     },
@@ -363,7 +443,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18483,
+      "followersCount": 18481,
       "friendsCount": 1742,
       "location": ""
     },
@@ -378,7 +458,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49700,
+      "followersCount": 49704,
       "friendsCount": 289,
       "location": "China"
     },
@@ -412,7 +492,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 22918,
+      "followersCount": 22920,
       "friendsCount": 4944,
       "location": ""
     },
@@ -429,7 +509,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 154935,
+      "followersCount": 154947,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -461,7 +541,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49700,
+      "followersCount": 49704,
       "friendsCount": 289,
       "location": "China"
     },
@@ -508,7 +588,7 @@
       "name": "FC Augsburg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
       "description": "Welcome to the official FC Augsburg Twitter page in English! #FCA // Deutsch: @FCAugsburg",
-      "followersCount": 45741,
+      "followersCount": 45737,
       "friendsCount": 394,
       "location": "Augsburg, Bayern"
     },
