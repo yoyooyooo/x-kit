@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "CoinMetro",
+      "name": "Coinmetro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1658774746434007044/wLyXK-mv_normal.jpg",
+      "description": "⋐ Advancing Access for All | $XCM ⨳\n\nThis profile is not directed at UK consumers. Content is informational only and not a financial promotion.",
+      "followersCount": 22658,
+      "friendsCount": 52,
+      "location": "Tallinn, Estonia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CoinMetro/status/2016934430955520178",
+    "fullText": "Special AMA: Coinmetro x UnboundScience https://t.co/gPVWRdGcWo"
+  },
+  {
+    "user": {
       "screenName": "transcrypts_",
       "name": "TransCrypts",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1470478494954102784/o4UBu8hZ_normal.jpg",
@@ -22,7 +37,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64045,
+      "followersCount": 64043,
       "friendsCount": 500,
       "location": ""
     },
@@ -37,7 +52,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18462,
       "friendsCount": 1742,
       "location": ""
     },
@@ -60,6 +75,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/2016906699135996379",
     "fullText": "使用 rclone bisync 两步搭建云盘：1）服务端用 rclone serve sftp 放到 systemd/supervisor 托管起来做 sftp 服务；2）客户端 rclone bisync 这个 sftp 服务，放到 windows 或 linux 定时任务每五分钟运行一次，当然首次需要 --resync，好了，你的个人云盘可以用了；bisync 比 mount 模式靠谱多了；"
+  },
+  {
+    "user": {
+      "screenName": "ApexFusion",
+      "name": "Apex Fusion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1767243038835744768/Hs-ZbD4h_normal.jpg",
+      "description": "A Fusion of the UTxO And EVM Worlds\n\nhttps://t.co/fOdY5fOeuM",
+      "followersCount": 76834,
+      "friendsCount": 62,
+      "location": "Apex Fusion ecosystem"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_16pQDWUAAQMvx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ApexFusion/status/2016904704710598845",
+    "fullText": "“If Tachys succeeds, @Cardano becomes the hub for achieving massive levels of scalability, capable of processing all the world’s needs for financial settlement, for example.\nBuilders will be able to spin up new Cardano-based partner chains with much higher throughput and faster https://t.co/hmdEtcoBHg"
   },
   {
     "user": {
@@ -116,7 +148,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173638,
+      "followersCount": 173636,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -126,6 +158,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2016896752251502873",
     "fullText": "推荐阅读：《万字解析 Manus 的 PMF 和 AI Agent 赛道竞争的稳态约束》\n作者： “约尔 Yor”\n\n作者问了一个问题：AI应用的数据都在暴涨，但怎么判断用户是真在用，还是只是在尝鲜围观？ https://t.co/rkFtJixwIV"
+  },
+  {
+    "user": {
+      "screenName": "AITradingCoach",
+      "name": "AI Trading Coach",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1964068149843685377/DlNthrwr_normal.jpg",
+      "description": "Your AI Trading Coach is NOW LIVE. Free trial, no credit card needed at https://t.co/CS9ULBDiWJ . Developed by the team at https://t.co/w598R4ydSH",
+      "followersCount": 622,
+      "friendsCount": 542,
+      "location": "FREE TRIAL at"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_10MsFX0AAaimu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AITradingCoach/status/2016896455877763106",
+    "fullText": "AI Trading Coach question of the day for Thursday 1/29: \n\n\"I seem to be consistent most of the time in my trading, but on occasion I will take a large loss (emotional tilt). Any advice?\"\n\n🔗Link in profile bio https://t.co/NjiRw1clj2"
   },
   {
     "user": {
@@ -150,7 +199,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10536,
+      "followersCount": 10535,
       "friendsCount": 2607,
       "location": ""
     },
@@ -167,7 +216,7 @@
       "name": "YRM Prop",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995932220859555840/VwmkHx71_normal.jpg",
       "description": "YRM Prop offers up to $450K in sim trading capital, 90/10 splits & no hidden rules. Built for traders who treat it like a profession, not a game.",
-      "followersCount": 4036,
+      "followersCount": 4037,
       "friendsCount": 34,
       "location": "New York"
     },
@@ -184,7 +233,7 @@
       "name": "Uncertain Systems (e/acc)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1973344878835744768/N_HKsicN_normal.jpg",
       "description": "Intelligence. $OMEGA Quest: BaWyD9P8ctkZ6if2umqj7htV91YuuouzUrMFsJh9BAGS",
-      "followersCount": 4516,
+      "followersCount": 4515,
       "friendsCount": 3599,
       "location": "Numenor"
     },
@@ -199,7 +248,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76778,
+      "followersCount": 76776,
       "friendsCount": 3523,
       "location": ""
     },
@@ -231,7 +280,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18462,
       "friendsCount": 1742,
       "location": ""
     },
@@ -263,7 +312,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62514,
+      "followersCount": 62515,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -295,7 +344,7 @@
       "name": "GraniteShares ETFs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1975028403293032448/FLcaq_ac_normal.jpg",
       "description": "GraniteShares is an independent ETF issuer that offers high conviction ETFs for high conviction investors.\nImportant Info: https://t.co/dJ2p1cOxZe",
-      "followersCount": 13033,
+      "followersCount": 13034,
       "friendsCount": 2538,
       "location": "Manhattan, NY"
     },
@@ -329,7 +378,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10536,
+      "followersCount": 10535,
       "friendsCount": 2607,
       "location": ""
     },
@@ -480,7 +529,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10536,
+      "followersCount": 10535,
       "friendsCount": 2607,
       "location": ""
     },
@@ -565,7 +614,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155907,
+      "followersCount": 155909,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -585,7 +634,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155010,
+      "followersCount": 155011,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -600,7 +649,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155907,
+      "followersCount": 155909,
       "friendsCount": 525,
       "location": "東京 港区"
     },
@@ -618,7 +667,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64045,
+      "followersCount": 64043,
       "friendsCount": 500,
       "location": ""
     },
@@ -638,7 +687,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10536,
+      "followersCount": 10535,
       "friendsCount": 2607,
       "location": ""
     },
@@ -655,7 +704,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173638,
+      "followersCount": 173636,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -706,7 +755,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62514,
+      "followersCount": 62515,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -1468,6 +1517,21 @@
   },
   {
     "user": {
+      "screenName": "TheRealMagofoco",
+      "name": "Magofoco",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989129615252557824/GDm5jb9N_normal.jpg",
+      "description": "If Tyler Durden had no hair and a mission\n                                  \nTech | Entrepreneurship | Ἰθάκη",
+      "followersCount": 86,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheRealMagofoco/status/2016561376198525111",
+    "fullText": "Prank idea\n&gt; study CS for 5 years\n&gt; take on student debt\n&gt; grind LeetCode\n&gt; work 60–80h/week\n&gt; build internal tools\n&gt; replace you with an LLM trained on your own code"
+  },
+  {
+    "user": {
       "screenName": "BrianCrypto05",
       "name": "Brian Crypto",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1962918091509170176/DxjEyZ4V_normal.jpg",
@@ -1495,6 +1559,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/IncreaseMyT/status/2016545330913738953",
     "fullText": "🚨Our Tirzepatide + Oxytocin program is the most impressive fat loss approach our medical director has seen in 35 years of clinical practice.\n\nMen &amp; women on our protocol aren't just losing fat—they're gaining muscle while dropping fat. The secret? Our unique micro-dosing"
+  },
+  {
+    "user": {
+      "screenName": "AmneziaVPN",
+      "name": "AmneziaVPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1859646549795500032/C6_9tR1t_normal.jpg",
+      "description": "Start with Privacy. Enjoy your Internet Freedom.\nWe are open source.\n\nJoin Amnezia Premium:\nhttps://t.co/F9fuuHOWKt",
+      "followersCount": 644,
+      "friendsCount": 55,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmneziaVPN/status/2016544516744909154",
+    "fullText": "Today, January 28, is Privacy Day, and we want to remind you to take a moment for your privacy and take care of your digital hygiene.\n\n✔️ Check your passwords for data breaches, enable two-factor authentication, clean up your devices, and remove unnecessary apps and browser"
   },
   {
     "user": {
@@ -1710,6 +1789,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2016519282193211534",
     "fullText": "阿富汗教育部长宣布永久性禁止女性上学，虽然这个禁令在2026年出来，但是2021年的美军撤军行动就已经预示了这一天\n\n我翻到了写于2021年8月15日的这条朋友圈 https://t.co/0YJHjAyiM5"
+  },
+  {
+    "user": {
+      "screenName": "dnx",
+      "name": "DNX.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882594655541264384/dOC74rYg_normal.jpg",
+      "description": "Domain Market Intelligence.",
+      "followersCount": 1959,
+      "friendsCount": 376,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016517518639157248/vid/avc1/1368x672/cfep7tCSl7dvERH4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dnx/status/2016518035171942419",
+    "fullText": "🥇 Search like a pro with the new DNX table view. https://t.co/roWXNWpvWt"
   },
   {
     "user": {
