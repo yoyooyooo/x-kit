@@ -1,6 +1,41 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41619,
+      "friendsCount": 759,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_5pebvbEAAPoxR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2017165792551604256",
+    "fullText": "哈哈哈论营销，还得是我们的大模型公司！ https://t.co/ra4S5iELfF"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49749,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_5oLUhaIAAQECs.jpg",
+      "https://pbs.twimg.com/media/G_5oNC-boAA5gRH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2017164451800317989",
+    "fullText": "所有部署 OpenClaw （Clawdbot、Moltbot）的用户都可以看过来。\n\n我们工程师为了方便所有人（不光是懒猫微服用户）更方便的用上 OpenClaw，开发了一套模型配置工具，内置十几种 AI 提供商的模版，大家选好自己的 AI 供应商后再复制到自己的配置文件里，填上 Key 就能用，非常方便。 https://t.co/vvxsgmkxtm"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -56,7 +91,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62514,
+      "followersCount": 62515,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -139,7 +174,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26195,
+      "followersCount": 26197,
       "friendsCount": 321,
       "location": "Guangdong"
     },
@@ -201,7 +236,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18465,
+      "followersCount": 18464,
       "friendsCount": 1742,
       "location": ""
     },
@@ -216,7 +251,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18465,
+      "followersCount": 18464,
       "friendsCount": 1742,
       "location": ""
     },
@@ -248,7 +283,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18465,
+      "followersCount": 18464,
       "friendsCount": 1742,
       "location": ""
     },
@@ -461,7 +496,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18465,
+      "followersCount": 18464,
       "friendsCount": 1742,
       "location": ""
     },
@@ -476,7 +511,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155957,
+      "followersCount": 155958,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -491,7 +526,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191550,
+      "followersCount": 191549,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -510,7 +545,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 191550,
+      "followersCount": 191549,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -527,7 +562,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173805,
+      "followersCount": 173816,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -574,7 +609,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 115548,
+      "followersCount": 115549,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -791,7 +826,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4599901,
+      "followersCount": 4599917,
       "friendsCount": 4,
       "location": ""
     },
@@ -906,7 +941,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 388634,
+      "followersCount": 388623,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -1659,7 +1694,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 155957,
+      "followersCount": 155958,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -1814,7 +1849,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173805,
+      "followersCount": 173816,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -1918,6 +1953,38 @@
     "videos": [],
     "tweetUrl": "https://x.com/AmneziaVPN/status/2016544516744909154",
     "fullText": "Today, January 28, is Privacy Day, and we want to remind you to take a moment for your privacy and take care of your digital hygiene.\n\n✔️ Check your passwords for data breaches, enable two-factor authentication, clean up your devices, and remove unnecessary apps and browser"
+  },
+  {
+    "user": {
+      "screenName": "CAsimulation10",
+      "name": "California Intelligence Agency",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974996903705432064/CC1GK5G__normal.jpg",
+      "description": "Husband. Father. Collector.",
+      "followersCount": 529,
+      "friendsCount": 770,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CAsimulation10/status/2016534230163996739",
+    "fullText": "Seeking a founding engineer in NorCal strong in code, comfortable modding vans, and understands the data gravity problem.\nI built an extraction engine that pulls entities, relationships, key moments, and verifiable evidence quotes from audio.\nNext: Video &gt; Edge deployment &gt; Fully"
+  },
+  {
+    "user": {
+      "screenName": "SolanaInstitute",
+      "name": "Solana Policy Institute",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907055858132893696/76h1ODGW_normal.jpg",
+      "description": "A non-partisan, non-profit focused on educating policymakers on how decentralized networks like Solana are the future infrastructure of the digital economy.",
+      "followersCount": 6307,
+      "friendsCount": 71,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016523197114376192/vid/avc1/1280x720/_SlqZacXFw5d77f4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SolanaInstitute/status/2016524880192172437",
+    "fullText": "1/ Over the past year, Solana Policy Institute has been working in Washington on behalf of the @Solana ecosystem.\n\nIf you’re new to what we do or how we think about policy, this is for you⬇️ https://t.co/9ouHmZgRyF"
   },
   {
     "user": {
