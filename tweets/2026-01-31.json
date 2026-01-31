@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18465,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAAAht-bEAMO772.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2017613228852056562",
+    "fullText": "吃小鱼 https://t.co/HM8KDwkhct"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9129,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2017611492498280562",
+    "fullText": "订阅 ChatGPT 的套餐，然后在 OpenClaw 用 Codex 授权登录使用，对我来说是最合适的套餐。Gemini 的  API 太贵， 有一次性的 $300 + 每月 $10 的额度，但用一会就 rate limit 了。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156046,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G__8Kn8bEAQZaLK.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2017609648749318474",
+    "fullText": "给 codeben 支持了专属沙箱功能 shared-cpu-2x@2GB，访问飞快，能持久化运行，准备给 ben 加一个火力全开的付费功能，全部模型都使用 opus4.5，让 ben 指挥多个 opus4.5 同步工作在不同的 git 分支上，然后我就放手不管了，让他们自己去探索要写什么产品。 https://t.co/oW6AvwrAkN"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -22,7 +71,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156041,
+      "followersCount": 156046,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -37,8 +86,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10538,
-      "friendsCount": 2612,
+      "followersCount": 10537,
+      "friendsCount": 2613,
       "location": ""
     },
     "images": [
@@ -88,7 +137,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -105,7 +154,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -137,7 +186,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -152,7 +201,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49803,
+      "followersCount": 49804,
       "friendsCount": 290,
       "location": "China"
     },
@@ -169,7 +218,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174586,
+      "followersCount": 174612,
       "friendsCount": 1547,
       "location": "Chicago, IL"
     },
@@ -186,7 +235,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49803,
+      "followersCount": 49804,
       "friendsCount": 290,
       "location": "China"
     },
@@ -203,7 +252,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49803,
+      "followersCount": 49804,
       "friendsCount": 290,
       "location": "China"
     },
@@ -220,7 +269,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156041,
+      "followersCount": 156046,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -235,7 +284,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49803,
+      "followersCount": 49804,
       "friendsCount": 290,
       "location": "China"
     },
@@ -252,7 +301,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49803,
+      "followersCount": 49804,
       "friendsCount": 290,
       "location": "China"
     },
@@ -269,7 +318,7 @@
       "name": "UAPedia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998866359170850816/dpB34moY_normal.jpg",
       "description": "UAPedia is the world’s first expert-curated, AI-assisted encyclopedia dedicated to Unidentified Anomalous Phenomena.\n\nRegister for UAPCon  https://t.co/jHHcHFO5db",
-      "followersCount": 228,
+      "followersCount": 229,
       "friendsCount": 424,
       "location": ""
     },
@@ -284,7 +333,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174586,
+      "followersCount": 174612,
       "friendsCount": 1547,
       "location": "Chicago, IL"
     },
@@ -331,7 +380,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23108,
+      "followersCount": 23107,
       "friendsCount": 5001,
       "location": ""
     },
@@ -348,7 +397,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -363,7 +412,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62542,
+      "followersCount": 62544,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -397,7 +446,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -495,8 +544,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10538,
-      "friendsCount": 2612,
+      "followersCount": 10537,
+      "friendsCount": 2613,
       "location": ""
     },
     "images": [
@@ -529,7 +578,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23108,
+      "followersCount": 23107,
       "friendsCount": 5001,
       "location": ""
     },
@@ -695,7 +744,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64068,
+      "followersCount": 64069,
       "friendsCount": 500,
       "location": ""
     },
@@ -710,7 +759,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64068,
+      "followersCount": 64069,
       "friendsCount": 500,
       "location": ""
     },
@@ -742,7 +791,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64068,
+      "followersCount": 64069,
       "friendsCount": 500,
       "location": ""
     },
@@ -889,7 +938,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174586,
+      "followersCount": 174612,
       "friendsCount": 1547,
       "location": "Chicago, IL"
     },
@@ -940,7 +989,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64068,
+      "followersCount": 64069,
       "friendsCount": 500,
       "location": ""
     },
@@ -1004,8 +1053,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10538,
-      "friendsCount": 2612,
+      "followersCount": 10537,
+      "friendsCount": 2613,
       "location": ""
     },
     "images": [
@@ -1021,7 +1070,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9629,
+      "followersCount": 9630,
       "friendsCount": 493,
       "location": "杭州"
     },
@@ -1544,7 +1593,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174586,
+      "followersCount": 174612,
       "friendsCount": 1547,
       "location": "Chicago, IL"
     },
@@ -1699,6 +1748,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/superformxyz/status/2016929343499620390",
     "fullText": "SuperUSDC on Ethereum is live with a target 10% APY.\n\nDeposit once and let your stables work onchain, without managing strategies yourself."
+  },
+  {
+    "user": {
+      "screenName": "superformxyz",
+      "name": "Superform",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937588443166416896/4S5X6QSi_normal.png",
+      "description": "The user-owned neobank. Save, swap, send, and earn the best returns in a single tap. 🐖",
+      "followersCount": 120893,
+      "friendsCount": 7,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/superformxyz/status/2016929136661713334",
+    "fullText": "Yield exists everywhere. $UP doesn’t. Deposit USDC into SuperVaults to earn yield and receive $UP for participating in the Superform system early"
   },
   {
     "user": {
