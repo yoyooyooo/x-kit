@@ -1,6 +1,102 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 174385,
+      "friendsCount": 1545,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2017502150708875443",
+    "fullText": "https://t.co/yrJ4tO1XXD"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18468,
+      "friendsCount": 1741,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_-Z5GIbQAAG4AQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2017500373582549492",
+    "fullText": "年味渐浓 https://t.co/RfzODoSp2N"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 5921,
+      "friendsCount": 628,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2017500130627490187",
+    "fullText": "问问那些让机器人、AI 帮自己整理推文内容推给自己，来帮助自己防沉迷的朋友，真的能忍住不来刷时间线吗？"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 23105,
+      "friendsCount": 4975,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2017378862368493571/vid/avc1/1920x1080/fZn3InY_5HnzdCxC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2017500115485811058",
+    "fullText": "woc，批改试卷我能理解，\n但是直接打印批改我是没想到\n\n（是因为有硬件 toG 预算更高吗\n https://t.co/WxGhALqJb4"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9623,
+      "friendsCount": 491,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2017497797298376738",
+    "fullText": "clawdbot 感觉挺有趣，可能还会进一步发酵，不过还是多静下心来看看更多真正有用的东西好了"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62531,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_-VijtbEAEF7r-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2017495789443199126",
+    "fullText": "这个网站很棒：https://t.co/j8DPsdsxvM\n\n针对大模型的独立性能监控追踪器，现在有 Opus 4.5 和 Codex gpt-5.2 的监控，查看这些模型在真实编码任务上的表现是否出现退化，也就是我们常说的大模型有没有降智。\n\n每天自动跑基准测试，尽量模拟普通用户实际使用的体验。\n\n结果发现Opus 4.5 在过去的 30 https://t.co/uMvaYpO7L2"
+  },
+  {
+    "user": {
       "screenName": "Parviz_Research",
       "name": "Parviz Mammadov | Market Research",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016750637518831616/7K7nAG0Z_normal.jpg",
@@ -54,7 +150,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18467,
+      "followersCount": 18468,
       "friendsCount": 1741,
       "location": ""
     },
@@ -103,7 +199,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62532,
+      "followersCount": 62531,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -154,8 +250,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23102,
-      "friendsCount": 4974,
+      "followersCount": 23105,
+      "friendsCount": 4975,
       "location": ""
     },
     "images": [],
@@ -235,7 +331,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64051,
+      "followersCount": 64053,
       "friendsCount": 500,
       "location": ""
     },
@@ -250,7 +346,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64051,
+      "followersCount": 64053,
       "friendsCount": 500,
       "location": ""
     },
@@ -265,7 +361,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64051,
+      "followersCount": 64053,
       "friendsCount": 500,
       "location": ""
     },
@@ -395,7 +491,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174376,
+      "followersCount": 174385,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -412,7 +508,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41622,
+      "followersCount": 41623,
       "friendsCount": 759,
       "location": "Hong Kong"
     },
@@ -429,7 +525,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64051,
+      "followersCount": 64053,
       "friendsCount": 500,
       "location": ""
     },
@@ -444,7 +540,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18467,
+      "followersCount": 18468,
       "friendsCount": 1741,
       "location": ""
     },
@@ -542,7 +638,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62532,
+      "followersCount": 62531,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -559,7 +655,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6958,
+      "followersCount": 6957,
       "friendsCount": 744,
       "location": "San Jose, CA"
     },
@@ -606,7 +702,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6958,
+      "followersCount": 6957,
       "friendsCount": 744,
       "location": "San Jose, CA"
     },
@@ -640,7 +736,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26210,
+      "followersCount": 26211,
       "friendsCount": 321,
       "location": "Guangdong"
     },
@@ -657,7 +753,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49795,
+      "followersCount": 49796,
       "friendsCount": 290,
       "location": "China"
     },
@@ -674,7 +770,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41622,
+      "followersCount": 41623,
       "friendsCount": 759,
       "location": "Hong Kong"
     },
@@ -691,7 +787,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49795,
+      "followersCount": 49796,
       "friendsCount": 290,
       "location": "China"
     },
@@ -709,7 +805,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49795,
+      "followersCount": 49796,
       "friendsCount": 290,
       "location": "China"
     },
@@ -726,7 +822,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49795,
+      "followersCount": 49796,
       "friendsCount": 290,
       "location": "China"
     },
@@ -760,7 +856,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62532,
+      "followersCount": 62531,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -884,6 +980,21 @@
   },
   {
     "user": {
+      "screenName": "_benjaminhughes",
+      "name": "Benjamin Hughes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1476971339491729411/yEaDtLDG_normal.jpg",
+      "description": "Optimist | Founder @RubiconDeFi",
+      "followersCount": 708,
+      "friendsCount": 1,
+      "location": "DeFi"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/_benjaminhughes/status/2017112406468575358",
+    "fullText": "The Claude Code hype is understated. This technology is incredible. It's an army of software engineers at your fingertips."
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -971,7 +1082,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49795,
+      "followersCount": 49796,
       "friendsCount": 290,
       "location": "China"
     },
@@ -988,7 +1099,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174376,
+      "followersCount": 174385,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -1220,7 +1331,7 @@
       "name": "駒居康樹｜Levela代表取締役",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968620875311349760/pwe7zj8A_normal.jpg",
       "description": "株式会社Levela代表｜生徒数3000名以上｜平均49投稿で万垢達成｜所属インフルエンサー180名超え｜日本こども支援協会CSO | BREAKING DOWN メインスポンサー | REAL VALUE プラチナスポンサー",
-      "followersCount": 12245,
+      "followersCount": 12249,
       "friendsCount": 355,
       "location": "Shibuya,Tokyo"
     },
@@ -1334,6 +1445,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/ClubWPTGold/status/2016795953630515416",
+    "fullText": "Our Anniversary event is live 🎉\nTournament and ring game rewards for everyone.\nJan 29 to Feb 1."
+  },
+  {
+    "user": {
+      "screenName": "ClubWPTGold",
+      "name": "ClubWPT Gold",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838341833555931136/f3evrDL7_normal.jpg",
+      "description": "Sweepstakes available in over 40 🇺🇸 States & Canada . VOID WHERE PROHIBITED ♠️ ❤️ Free to play ♦️♣️",
+      "followersCount": 17773,
+      "friendsCount": 102,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClubWPTGold/status/2016795953416552697",
     "fullText": "Our Anniversary event is live 🎉\nTournament and ring game rewards for everyone.\nJan 29 to Feb 1."
   }
 ]
