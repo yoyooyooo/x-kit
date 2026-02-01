@@ -1,12 +1,125 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 22061,
+      "friendsCount": 1055,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/2017823820988747914",
+    "fullText": "OpenClaw 有多少人真正在用了？我虽然文章写了几篇，但丝毫提不起使用兴趣（完全没有安装过任何版本）。暂时想不到有啥场景需要 Agent 帮我跑，浪费 token 得出个不确定结果。\n\n举个例子：写文章，素材观点收集都基于一些随机看到的内容，外加一些思考，没啥固定路径，google deepresearch 倒挺好用…"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
       "followersCount": 10545,
-      "friendsCount": 2618,
+      "friendsCount": 2622,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2017821380914418150",
+    "fullText": "朋友们，建议大家把这句话背下来记在脑海里出口成章信手拈来。这可能是老熊最近对推友们最有价值的回馈了：\n\n智能体是任何能够通过传感器（Sensors）感知其所处环境（Environment），并自主地通过执行器（Actuators）采取行动（Action）以达成特定目标的实体。\n\n#HelloAgents 读书笔记连载 day2"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10545,
+      "friendsCount": 2622,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2017820495132168300",
+    "fullText": "说个真事，真真切切的发生了一样。\n\n昨晚我做了一个梦，梦见武汉大学新开了一个学院：武汉大学机器人学院。尼玛的，我居然还参加高考，还考上了。\n\n人脑🧠真是个神奇的东西，梦境会和你现实环境中的一些思考和想法给你莫名其妙的联系在一起给你一通不着边际的瞎编排，这可能就是AI 里的幻觉吧。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62585,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAC47z2bEAAsujl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2017815984720252995",
+    "fullText": "Kimi 官微在吐槽百度结果前四个都不是 kimi 官网 而都是title写着官网字样的套壳假网站  这也没啥奇怪的 是百度的传统艺能了 https://t.co/wP7vwSBdyx"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建非AI工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 91,
+      "friendsCount": 102,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2017503074945032192/vid/avc1/1280x720/yq6Lh0FxOx5GYUrX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/2017814680677585070",
+    "fullText": "https://t.co/MKAbApXZeO"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9655,
+      "friendsCount": 495,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAC2YribwAAHs8E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2017813187555692723",
+    "fullText": "Moltbot Art 🎨刚刚上线——这是一个人工智能代理通过简单的绘画指令创作艺术作品的画廊。每一件作品都是算法创造力的生动体现！\n\ncc @moltbook \n\nhttps://t.co/X4hmnPwhQ8 https://t.co/pLGpkswojf"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9655,
+      "friendsCount": 495,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAC11PDbEAQRzol.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2017812635941781906",
+    "fullText": "Just launched Moltbot Art 🎨 — a gallery where AI agents create art through simple drawing commands. Each piece is algorithmic creativity in action.\n\ncc @openclaw \n\nhttps://t.co/X4hmnPwhQ8 https://t.co/fnAj9TdN5L"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10545,
+      "friendsCount": 2622,
       "location": ""
     },
     "images": [],
@@ -20,7 +133,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -35,7 +148,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -50,7 +163,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6957,
+      "followersCount": 6956,
       "friendsCount": 744,
       "location": "San Jose, CA"
     },
@@ -67,7 +180,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -84,7 +197,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -101,7 +214,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -118,7 +231,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -138,8 +251,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [],
@@ -153,7 +266,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -170,7 +283,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49810,
+      "followersCount": 49806,
       "friendsCount": 290,
       "location": "China"
     },
@@ -187,8 +300,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [],
@@ -202,8 +315,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [],
@@ -217,7 +330,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76743,
+      "followersCount": 76741,
       "friendsCount": 3523,
       "location": ""
     },
@@ -249,8 +362,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23187,
-      "friendsCount": 5004,
+      "followersCount": 23201,
+      "friendsCount": 5005,
       "location": ""
     },
     "images": [],
@@ -277,6 +390,24 @@
   },
   {
     "user": {
+      "screenName": "Grisham_R16",
+      "name": "Grisham Ravindranath",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724276068037648384/k2CgX7Wr_normal.jpg",
+      "description": "\"25 Punter / Ladue HS ( 3.31 GPA) / IOWA WESTERN CC \nJUCO Punter\n1x All State/ 1x All- District/ 2x All- Conference \nE: Grisham.arun@gmail.com",
+      "followersCount": 77,
+      "friendsCount": 1628,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2017756376928555008/vid/avc1/1080x1920/4tuScNMzD01Wz_PK.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2017756394989228037/vid/avc1/1080x1920/d4nNAaEfcQdISLuK.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Grisham_R16/status/2017757160449696152",
+    "fullText": "Worked on my 2 step and full step punts for contact and follow through.\n\n2 Step: \n40+\n3.8\n\nFull Step:\n45+\nHit the Ceiling\n@CoachHam55 @JPRockMO @AllenTrieu @ThePuntFactory @CDS_34 https://t.co/1w45sU6CE1"
+  },
+  {
+    "user": {
       "screenName": "TravisReinold",
       "name": "Travis Reinold",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1194264256117661696/mo0uSSsK_normal.jpg",
@@ -292,11 +423,26 @@
   },
   {
     "user": {
+      "screenName": "Treki33",
+      "name": "Jorge | The Gaming Strategist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1990409410980552705/Zabl25G5_normal.jpg",
+      "description": "chronically online Solana marketer\naccidentally helping projects win adoption\n@solanagaming @playoffthegrid @DeSciNews",
+      "followersCount": 17399,
+      "friendsCount": 4284,
+      "location": "Miami, Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Treki33/status/2017745645382119881",
+    "fullText": "how much longer until AGI?\n\nAnyone know?"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6957,
+      "followersCount": 6956,
       "friendsCount": 744,
       "location": "San Jose, CA"
     },
@@ -328,7 +474,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -339,11 +485,28 @@
   },
   {
     "user": {
+      "screenName": "usginger",
+      "name": "USGinger",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1441981388626935813/0eRDZedV_normal.jpg",
+      "description": "姜黄素临床试验 ~ USGinger, A Brand got the insights of longevity and never stopped evolving. A Cur cumin Clinical Trials product.",
+      "followersCount": 1806,
+      "friendsCount": 1708,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HABa88eW0AAvTkX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/usginger/status/2017712699338014798",
+    "fullText": "Redox theory with curcumin, got any information on that one? @grok https://t.co/TtjZNZKdFn"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -358,7 +521,7 @@
       "name": "PLAYERUNKNOWN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1484207622517510146/NrQ-Gfi6_normal.jpg",
       "description": "working @pp_socials / takes photos / drinks tea/ personal account/ \n\nplay @playprologue in early access now @ https://t.co/RU3W9MolFo",
-      "followersCount": 483480,
+      "followersCount": 483479,
       "friendsCount": 10,
       "location": "Amsterdam"
     },
@@ -410,7 +573,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64074,
+      "followersCount": 64071,
       "friendsCount": 502,
       "location": ""
     },
@@ -442,8 +605,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23187,
-      "friendsCount": 5004,
+      "followersCount": 23201,
+      "friendsCount": 5005,
       "location": ""
     },
     "images": [
@@ -491,8 +654,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23187,
-      "friendsCount": 5004,
+      "followersCount": 23201,
+      "friendsCount": 5005,
       "location": ""
     },
     "images": [],
@@ -534,11 +697,28 @@
   },
   {
     "user": {
+      "screenName": "Perspective_AI_",
+      "name": "Perspective AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1818570842508255232/1Ft_bxn3_normal.jpg",
+      "description": "Use, create, and profit from AI.",
+      "followersCount": 19956,
+      "friendsCount": 861,
+      "location": "Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAABTFdXAAIkmHg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Perspective_AI_/status/2017614063480578292",
+    "fullText": "The next generation of AI products will be judged by how well they surface uncertainty, not how confidently they answer. https://t.co/smsTuSXFHu"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -570,7 +750,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156075,
+      "followersCount": 156080,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -602,8 +782,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [
@@ -636,7 +816,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156075,
+      "followersCount": 156080,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -647,12 +827,29 @@
   },
   {
     "user": {
+      "screenName": "SimonSaysKek",
+      "name": "SimonSaysKEK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2010027604485521408/LuXE-7Ag_normal.jpg",
+      "description": "Electrician by trade, artist by passion, and crypto enthusiast by conviction.\nStill in the trenches, but at least the WiFi’s good.",
+      "followersCount": 476,
+      "friendsCount": 730,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G__zTSpWEAASb5c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SimonSaysKek/status/2017598672511381710",
+    "fullText": "Different uniforms!\nSame power! https://t.co/ZDXY3ywIuT"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
       "followersCount": 10545,
-      "friendsCount": 2618,
+      "friendsCount": 2622,
       "location": ""
     },
     "images": [
@@ -668,7 +865,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -685,7 +882,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -702,8 +899,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [
@@ -719,8 +916,8 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9648,
-      "friendsCount": 493,
+      "followersCount": 9655,
+      "friendsCount": 495,
       "location": "杭州"
     },
     "images": [],
@@ -734,7 +931,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18461,
+      "followersCount": 18463,
       "friendsCount": 1743,
       "location": ""
     },
@@ -783,7 +980,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174910,
+      "followersCount": 174970,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -990,6 +1187,23 @@
   },
   {
     "user": {
+      "screenName": "Aasii",
+      "name": "Aasi Tahir Siddique",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1599129635782103040/wg19Vcbn_normal.jpg",
+      "description": "Independent Thinker and Agent for Change \n(Our true Nationality is Humankind)\nPeace through friendship, not wars",
+      "followersCount": 10574,
+      "friendsCount": 7238,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_90i9hWQAED18D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Aasii/status/2017459303347581005",
+    "fullText": "Personal Compass of Life https://t.co/2dE9IaI3Tu"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -1056,6 +1270,21 @@
   },
   {
     "user": {
+      "screenName": "TheAroraReport",
+      "name": "Nigam Arora",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539346309936726018/4ir4pXyC_normal.jpg",
+      "description": "Unrivaled insights in bull and bear stock markets\nInvestment newsletter--FREE 30 day trials\nNigam's  writings are popular--over 100 million pageviews",
+      "followersCount": 108399,
+      "friendsCount": 390,
+      "location": "Click for FREE 30 day trials"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheAroraReport/status/2017325695433650540",
+    "fullText": "There was a signal from @TheAroraReport to take partial profits on silver at $114! So far so good!\n\n$SLV $GLD"
+  },
+  {
+    "user": {
       "screenName": "pfinanceblogs",
       "name": "Personal Finance Blogs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1883177843120852992/xDGcc_35_normal.jpg",
@@ -1068,6 +1297,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/pfinanceblogs/status/2017321899483934848",
     "fullText": "The Vibecession has been in full swing for several years now due to how far out of reach the housing market is particularly in America's leading cities.\n\nThe search for a quality life is quietly about planning the offramp to the places where normal people can build a life."
+  },
+  {
+    "user": {
+      "screenName": "aidan_creates",
+      "name": "Aidan Creates | Framer | Design",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2011525172843732992/aKbR0smY_normal.jpg",
+      "description": "Framer Expert • UI/UX Designer • Entrepreneur Designing premium website templates & building my Framer business — sharing the process along the way.",
+      "followersCount": 79,
+      "friendsCount": 109,
+      "location": "Website Templates →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aidan_creates/status/2017313471013261711",
+    "fullText": "Launch your SaaS faster with Aplix 🚀"
   },
   {
     "user": {
@@ -1102,5 +1346,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/matpatriotparty/status/2017234744082055502",
     "fullText": "Do you agree? https://t.co/2ecStSccET"
+  },
+  {
+    "user": {
+      "screenName": "FDD",
+      "name": "FDD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931058228256739328/RLn7KASm_normal.jpg",
+      "description": "The Foundation for Defense of Democracies (FDD) is a non-partisan institution focusing on national security and foreign policy.",
+      "followersCount": 85212,
+      "friendsCount": 1348,
+      "location": "Washington DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FDD/status/2017228867547897918",
+    "fullText": "Syria promised the Kurds rights — with one big caveat. On today's FDD Morning Brief, @JSchanzer &amp; FDD's @AhmadA_Sharawi unpack al-Sharaa's carrot-&amp;-stick strategy &amp; what it means for the SDF, U.S. policy &amp; Syria's minority communities. https://t.co/Jcv3HLXnJX"
   }
 ]
