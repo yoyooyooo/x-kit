@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18464,
+      "friendsCount": 1743,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HADqHVma4AAWUwP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2017870052402598092",
+    "fullText": "我蹭吃蹭喝来了，今天是漂亮盒饭！ https://t.co/9s0YeSBdUP"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10546,
+      "friendsCount": 2621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HADo3o0awAEjaui.jpg",
+      "https://pbs.twimg.com/media/HADo3ribEAIeksk.jpg",
+      "https://pbs.twimg.com/media/HADo6HTbEAM5HE-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2017868754802381186",
+    "fullText": "出来暴走二万步─=≡Σ((( つ•̀ω•́)つ\n\n才发现，这是徒步佬、跑步佬、骑行佬得天堂。\n\n每天下班来暴走二万步，会不会有延年益寿的效果？🤔 https://t.co/8xUc97Kxwh"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175049,
+      "followersCount": 175058,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -37,7 +73,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22063,
+      "followersCount": 22064,
       "friendsCount": 1055,
       "location": ""
     },
@@ -82,7 +118,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62585,
+      "followersCount": 62591,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -116,7 +152,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -133,7 +169,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -212,7 +248,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -229,7 +265,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -246,7 +282,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -263,7 +299,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -283,7 +319,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -298,7 +334,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -315,7 +351,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49807,
+      "followersCount": 49805,
       "friendsCount": 290,
       "location": "China"
     },
@@ -332,7 +368,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -347,7 +383,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -362,7 +398,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76745,
+      "followersCount": 76750,
       "friendsCount": 3523,
       "location": ""
     },
@@ -394,8 +430,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23219,
-      "friendsCount": 5007,
+      "followersCount": 23222,
+      "friendsCount": 5010,
       "location": ""
     },
     "images": [],
@@ -587,7 +623,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22063,
+      "followersCount": 22064,
       "friendsCount": 1055,
       "location": ""
     },
@@ -605,7 +641,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64072,
+      "followersCount": 64073,
       "friendsCount": 502,
       "location": ""
     },
@@ -637,8 +673,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23219,
-      "friendsCount": 5007,
+      "followersCount": 23222,
+      "friendsCount": 5010,
       "location": ""
     },
     "images": [
@@ -669,7 +705,7 @@
       "name": "domm",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009644425740537856/IPM1p_iG_normal.jpg",
       "description": "Founder @stickiers. I Buy, Sell & Short Stickers. Prev: @fast",
-      "followersCount": 30661,
+      "followersCount": 30662,
       "friendsCount": 789,
       "location": "🇦🇺 in 🇺🇸"
     },
@@ -686,8 +722,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23219,
-      "friendsCount": 5007,
+      "followersCount": 23222,
+      "friendsCount": 5010,
       "location": ""
     },
     "images": [],
@@ -782,7 +818,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9131,
+      "followersCount": 9130,
       "friendsCount": 309,
       "location": ""
     },
@@ -797,7 +833,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156108,
+      "followersCount": 156111,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -829,7 +865,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9656,
+      "followersCount": 9657,
       "friendsCount": 495,
       "location": "杭州"
     },
@@ -863,7 +899,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156108,
+      "followersCount": 156111,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -1027,7 +1063,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175049,
+      "followersCount": 175058,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -1283,6 +1319,23 @@
   },
   {
     "user": {
+      "screenName": "ripster47",
+      "name": "Ripster",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941616471932608512/O96P7rSV_normal.jpg",
+      "description": "Trading & Investing Education \nInventor : Ripster Cloud System  \nFounder: Tenet Trade Group\nhttps://t.co/0qpaN2fM0W\nDisclaimer: https://t.co/PswSgYvYP6",
+      "followersCount": 453002,
+      "friendsCount": 387,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2017411180638212096/vid/avc1/1920x1080/C2VocNcIos9I7Gxj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ripster47/status/2017412671398932675",
+    "fullText": "🚨Timestamped Recap of One of Most Historic Days in the market\nLearn Today\n \n-&gt; Finding Life Changing Opportunities $SNDK $STX \n-&gt; Recap of Silver Historic Trades $SLV $AGQ\n-&gt; How to Trade Lotto Options Homeruns\n-&gt; Finding Breakouts before the move $TSLA\n-&gt; Losers Trade $PLTR https://t.co/AMJleERDav"
+  },
+  {
+    "user": {
       "screenName": "SaintGeorgein",
       "name": "Saint George Insurance Brokerage Inc.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611184591611596800/afW9MkFX_normal.jpg",
@@ -1321,7 +1374,7 @@
       "name": "David Ko",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1861526927481196544/wTU6zWqc_normal.jpg",
       "description": "co-founder @SocialSight",
-      "followersCount": 849,
+      "followersCount": 848,
       "friendsCount": 102,
       "location": ""
     },
@@ -1474,6 +1527,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/artemis/status/2017282939076415843",
     "fullText": "For the first time, @LexSokolin and Artemis put Fintech and Crypto KPIs on the same page.\n\n- @aave ($22B) has more loans outstanding than ALL BNPL ($21B).\n- @HyperliquidX ($2.6T) does &gt;50% of Robinhood’s trading volume ($4.6T).\n- @Polymarket ($25B) does ~50% of DraftKings ($52B) https://t.co/iwcPu8MNPH"
+  },
+  {
+    "user": {
+      "screenName": "AIOZNetwork",
+      "name": "AIOZ Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1656122682122072070/wCn6wn-c_normal.jpg",
+      "description": "DePIN Powering Web3\n\n● AI Compute Infrastructure \n● Decentralized S3 Object Storage\n● IPFS Pinning Service \n● p2p Media Streaming",
+      "followersCount": 105596,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_67dccXYAAWDcV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AIOZNetwork/status/2017257293058826461",
+    "fullText": "dTelecom has integrated AIOZ Storage to take end-to-end Web3 media to the next level:\n\ndecentralized storage + global delivery + real-time communication.\n\n@dtelecom powers production-grade RTC rails, including FROGY, dMeetApp, and API/SDK tools.\n\nNow it leverages AIOZ Network's https://t.co/BZZe7akiBe"
   },
   {
     "user": {
