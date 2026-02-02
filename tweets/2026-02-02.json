@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10551,
+      "friendsCount": 2625,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAKcByfagAA4rEa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2018350798108041476",
+    "fullText": "#HelloAgents 读书笔记连载 day3\n人工智能其实已经发展了大几十年了。在这漫长的历史中，有过高潮，有过低谷，甚至有很长的沉寂期。\n\n直到2020年以来的大模型时代和2023年以来的智能体时代，人工智能真正爆发成为全人类生产力重塑的“第二大脑”，开始谱写硅基生命的新纪元。 https://t.co/fIMb52Go9E"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41611,
+      "followersCount": 41617,
       "friendsCount": 761,
       "location": "Hong Kong"
     },
@@ -52,7 +69,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23455,
+      "followersCount": 23466,
       "friendsCount": 5042,
       "location": ""
     },
@@ -116,7 +133,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49815,
+      "followersCount": 49812,
       "friendsCount": 290,
       "location": "China"
     },
@@ -165,7 +182,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156239,
+      "followersCount": 156238,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -202,7 +219,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62648,
+      "followersCount": 62655,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -236,7 +253,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156239,
+      "followersCount": 156238,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -254,7 +271,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23455,
+      "followersCount": 23466,
       "friendsCount": 5042,
       "location": ""
     },
@@ -269,7 +286,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175458,
+      "followersCount": 175476,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -286,7 +303,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49815,
+      "followersCount": 49812,
       "friendsCount": 290,
       "location": "China"
     },
@@ -303,7 +320,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9753,
+      "followersCount": 9758,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -320,7 +337,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49815,
+      "followersCount": 49812,
       "friendsCount": 290,
       "location": "China"
     },
@@ -337,7 +354,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9753,
+      "followersCount": 9758,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -354,7 +371,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23455,
+      "followersCount": 23466,
       "friendsCount": 5042,
       "location": ""
     },
@@ -369,7 +386,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10550,
+      "followersCount": 10551,
       "friendsCount": 2625,
       "location": ""
     },
@@ -386,7 +403,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175458,
+      "followersCount": 175476,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -416,7 +433,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9753,
+      "followersCount": 9758,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -448,7 +465,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9753,
+      "followersCount": 9758,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -480,7 +497,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9753,
+      "followersCount": 9758,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -495,7 +512,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6962,
+      "followersCount": 6963,
       "friendsCount": 745,
       "location": "San Jose, CA"
     },
@@ -529,7 +546,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49815,
+      "followersCount": 49812,
       "friendsCount": 290,
       "location": "China"
     },
@@ -564,7 +581,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23455,
+      "followersCount": 23466,
       "friendsCount": 5042,
       "location": ""
     },
@@ -596,7 +613,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62648,
+      "followersCount": 62655,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -645,7 +662,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175458,
+      "followersCount": 175476,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -736,6 +753,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/HesamQaydi/status/2018093042817794239",
     "fullText": "Mr. President, you told unarmed Iranians to go to the streets—to keep protesting, to take over institutions—saying help was on the way.\nThey showed up. They resisted. In many places, they held ground.\nBut the help never came.\nThey were brutally slaughtered by the Ayatollah—the https://t.co/w7JCPzN9cE"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "SUPER BOWL LX IS LOCKED IN. #SBLX",
+      "followersCount": 35903354,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018064846529441792/vid/avc1/1280x720/wDBMzP7AiSyblOM5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2018089476699124131",
+    "fullText": ".@JJettas2 makes one handed catches in dodgeball too 😏 https://t.co/umcTqmtVoy"
   },
   {
     "user": {
@@ -1031,7 +1065,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76739,
+      "followersCount": 76741,
       "friendsCount": 3526,
       "location": ""
     },
