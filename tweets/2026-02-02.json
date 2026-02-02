@@ -1,11 +1,44 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156215,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAJDBqKa4AAmgvi.jpg",
+      "https://pbs.twimg.com/media/HAJDBqKb0AAaTPH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2018249286191022557",
+    "fullText": "Codeben 上线了 Codeben X 模式（9.99USD/月）在 X 模式下，ben 几乎能帮你做任何事，检索网页生成精美的报告，这是简单任务，创建复杂的上万行代码项目，不用担心，它也能从头到位自己完成。Codeben X 介绍了一种全新的云端 agent 模式，Skill Agent，人类要做的仅有等待。\n\n除此之外，X 模式还提供： https://t.co/qb8ixZgTPz"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 23417,
+      "friendsCount": 5039,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2018248043758547015",
+    "fullText": "为什么有些内容一夜爆红，有些石沉大海?\n\n答案藏在水面之下👇\n\n表面上看，爆款是“追热点”“蹭流量” 但真相是——\n\n所有刷屏的内容，都在暗流里找到了答案。\n\n什么是暗流？ 就是藏在每个人心底的那句话：\n“卧槽，说的就是我啊！”\n\n- 你的焦虑不是你一个人的\n- 你的痛点早就是大众的共鸣点\n- 爆款内容 ="
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175361,
+      "followersCount": 175363,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -22,7 +55,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49823,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -39,7 +72,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -56,7 +89,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49823,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -73,7 +106,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -90,8 +123,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23419,
-      "friendsCount": 5038,
+      "followersCount": 23417,
+      "friendsCount": 5039,
       "location": ""
     },
     "images": [],
@@ -122,7 +155,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175361,
+      "followersCount": 175363,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -133,11 +166,26 @@
   },
   {
     "user": {
+      "screenName": "WorldGovSummit",
+      "name": "World Governments Summit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1099581065142956032/hj7L8BUN_normal.png",
+      "description": "The world’s most important meeting for global leaders. \nInspiring and enabling the next generation of governments.",
+      "followersCount": 197881,
+      "friendsCount": 147,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WorldGovSummit/status/2018187790887084255",
+    "fullText": "Join the conversation around science, blockchain, genetics, and more during today's forums featuring global experts across various disciplines, addressing major global challenges impacting daily lives.\n\nJoin the conversation.\nDubai, United Arab Emirates https://t.co/oSx63DQw0o"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -169,7 +217,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -201,7 +249,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -216,7 +264,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6961,
+      "followersCount": 6962,
       "friendsCount": 745,
       "location": "San Jose, CA"
     },
@@ -233,7 +281,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18450,
+      "followersCount": 18451,
       "friendsCount": 1744,
       "location": ""
     },
@@ -250,7 +298,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49823,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -285,8 +333,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23419,
-      "friendsCount": 5038,
+      "followersCount": 23417,
+      "friendsCount": 5039,
       "location": ""
     },
     "images": [],
@@ -349,7 +397,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175361,
+      "followersCount": 175363,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -381,7 +429,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18450,
+      "followersCount": 18451,
       "friendsCount": 1744,
       "location": ""
     },
@@ -396,7 +444,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6961,
+      "followersCount": 6962,
       "friendsCount": 745,
       "location": "San Jose, CA"
     },
@@ -413,8 +461,8 @@
       "name": "Steve Cortes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
       "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
-      "followersCount": 524317,
-      "friendsCount": 808,
+      "followersCount": 524374,
+      "friendsCount": 809,
       "location": "Tennessee"
     },
     "images": [],
@@ -603,7 +651,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64092,
+      "followersCount": 64095,
       "friendsCount": 502,
       "location": ""
     },
@@ -652,7 +700,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -716,7 +764,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9707,
+      "followersCount": 9712,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -748,7 +796,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18450,
+      "followersCount": 18451,
       "friendsCount": 1744,
       "location": ""
     },
@@ -849,6 +897,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/WeBeGood/status/2017932233223618850",
     "fullText": "\"Theory of Everything\" the Holy Grail of Physics is here in Atom 2.1 ToE. Anybody can take a course in this new Model of the Universe by chatting with an AI that is aligned to understand Atom 2.1, it takes Space Time and Light as know to Maxwell and derives the entire Universe,"
+  },
+  {
+    "user": {
+      "screenName": "XinjiangTales",
+      "name": "What' s Xinjiang like",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861313813142032384/I3S8c48E_normal.jpg",
+      "description": "This is Xinjiang, a land full of vitality and dynamism. Follow me to learn about the real Xinjiang. If I don't follow back promptly, please leave a comment",
+      "followersCount": 11199,
+      "friendsCount": 8558,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2017917751227281409/pu/vid/avc1/608x1080/9v1596vbnLRqXzsp.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/XinjiangTales/status/2017928159828799960",
+    "fullText": "This is a heartwarming incident in Korla City, Xinjiang, China. While delivering a parcel, courier Li Peng heard his customer speaking weakly over the phone. He immediately rushed to the customer’s home, and after repeated knocking, found the homeowner lying on the ground https://t.co/QlA5h4Ek55"
   },
   {
     "user": {
@@ -1257,7 +1322,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 10435,
+      "followersCount": 10473,
       "friendsCount": 1341,
       "location": "New York, USA"
     },
