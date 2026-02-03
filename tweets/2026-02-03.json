@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 175783,
+      "friendsCount": 1548,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2018551826115702966",
+    "fullText": "https://t.co/RwbURjcOXI"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10547,
+      "friendsCount": 2624,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HANVXdra0AAqHDi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2018551612667797926",
+    "fullText": "最近“强军”组合再次同框出席重要会议，两人的同框距离上次整整八年。\n这八年他们都经历了起起伏伏，一个从宿迁走出的少年，一个从仙桃走出的少年，都因高考改变了命运。\n\n普通人想要改变命运，高考只是必要条件，关键还得是看运气。读书读得好的实在太多了。😂 https://t.co/hkJ9jXrr04"
+  },
+  {
+    "user": {
       "screenName": "NFL",
       "name": "NFL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -37,7 +69,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -54,7 +86,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23546,
+      "followersCount": 23549,
       "friendsCount": 5042,
       "location": ""
     },
@@ -71,7 +103,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -106,7 +138,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -121,7 +153,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -138,7 +170,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -149,11 +181,26 @@
   },
   {
     "user": {
+      "screenName": "LEON_0xx0",
+      "name": "Leon.M",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940589546858512384/74iIKwKI_normal.jpg",
+      "description": "Founder & CEO @YouWareAI\nI code every day, so you shouldn't have to.",
+      "followersCount": 1492,
+      "friendsCount": 438,
+      "location": "SF/SZ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LEON_0xx0/status/2018512852764537022",
+    "fullText": "It's wild watching non-technical founders outpace agencies. No meetings. No revision rounds. No waiting. Just building"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -170,7 +217,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -187,7 +234,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -221,7 +268,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -238,7 +285,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23546,
+      "followersCount": 23549,
       "friendsCount": 5042,
       "location": ""
     },
@@ -255,7 +302,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -272,7 +319,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -321,7 +368,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4604928,
+      "followersCount": 4605014,
       "friendsCount": 4,
       "location": ""
     },
@@ -338,7 +385,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -432,6 +479,26 @@
   },
   {
     "user": {
+      "screenName": "isalah21",
+      "name": "Salah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1752260503450046464/-TUynpV3_normal.jpg",
+      "description": "Bitcoin and AI Mobility",
+      "followersCount": 4737,
+      "friendsCount": 778,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HALdhYOWMAIw5-S.jpg",
+      "https://pbs.twimg.com/media/HALdhYHXgAA-0Gs.jpg",
+      "https://pbs.twimg.com/media/HALdhY8WgAAII9M.jpg",
+      "https://pbs.twimg.com/media/HALdhX7XsAADNkz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/isalah21/status/2018419155062686200",
+    "fullText": "When Bitcoin is down, I typically get the same question: “Is this a good time to buy?” Here’s how I think about it. There’s a Chinese proverb: “The best time to plant a tree was 20 years ago. The second best time is today.” That’s basically my framework. I don’t really “trade” https://t.co/WSEnPbxLf3"
+  },
+  {
+    "user": {
       "screenName": "sallar_io",
       "name": "SALLAR $ALL | Solana Chain's DePIN 🐍",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1895673133236908032/8ZUy9W7f_normal.jpg",
@@ -470,7 +537,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26229,
+      "followersCount": 26228,
       "friendsCount": 322,
       "location": "Guangdong"
     },
@@ -483,11 +550,26 @@
   },
   {
     "user": {
+      "screenName": "QuasarMarkets",
+      "name": "Quasar Markets",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929955020394356736/K4AgNici_normal.jpg",
+      "description": "All Markets. One Edge. Award-winning AI. Real-time intelligence. Live daily 8:30 AM ET. W/ @qmBigBeat & @CryptoHondo. salve ad futurum. 👉https://t.co/uWZwqXlgVp",
+      "followersCount": 158877,
+      "friendsCount": 1863,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QuasarMarkets/status/2018400618239692987",
+    "fullText": "QM Live with Bloomberg Commodity Strategist @mikemcglone11 https://t.co/X7qurxKFQr"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -536,7 +618,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4604928,
+      "followersCount": 4605014,
       "friendsCount": 4,
       "location": ""
     },
@@ -551,7 +633,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6961,
+      "followersCount": 6959,
       "friendsCount": 745,
       "location": "San Jose, CA"
     },
@@ -581,6 +663,40 @@
   },
   {
     "user": {
+      "screenName": "transcrypts_",
+      "name": "TransCrypts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1470478494954102784/o4UBu8hZ_normal.jpg",
+      "description": "Own Your Data",
+      "followersCount": 1632,
+      "friendsCount": 60,
+      "location": "San Francisco "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018368075440222215/vid/avc1/1080x1920/JIJ_k4Bmk5xIGwx4.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/transcrypts_/status/2018370226145095712",
+    "fullText": "TransCrypts puts technology to good use https://t.co/oNui8lXVHd"
+  },
+  {
+    "user": {
+      "screenName": "LayerZero_Core",
+      "name": "LayerZero",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1779646801605242880/FrFssPAQ_normal.jpg",
+      "description": "Better Money Technology // @LayerZero_Fndn ㅤ",
+      "followersCount": 717649,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018368907288158208/vid/avc1/1280x720/at1xBF-ka-Qiunv_.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/LayerZero_Core/status/2018368965798666722",
+    "fullText": "What if the inevitable future was finally here?\n\n2.10.26 https://t.co/sfY02L2G07"
+  },
+  {
+    "user": {
       "screenName": "solanagaming",
       "name": "Solana Gaming",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2014708355005120512/Djc6zFAe_normal.jpg",
@@ -602,7 +718,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -617,7 +733,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -637,7 +753,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -652,7 +768,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9796,
+      "followersCount": 9802,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -733,7 +849,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -748,7 +864,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23546,
+      "followersCount": 23549,
       "friendsCount": 5042,
       "location": ""
     },
@@ -765,7 +881,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -775,6 +891,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2018334143223070833",
     "fullText": "亚马逊正在讨论要投资500亿美金给Open AI https://t.co/WeH4mGhXpA"
+  },
+  {
+    "user": {
+      "screenName": "godsganggo",
+      "name": "God's Gang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941826410013679616/FWSbFKhT_normal.jpg",
+      "description": "A spiritual Action, Adventure, Comedy.\n\nPromoting Kindness, Compassion, Unity and LOVE!",
+      "followersCount": 5874,
+      "friendsCount": 715,
+      "location": "Milky way "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAKPcVGXcAAPqaH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/godsganggo/status/2018333752917672083",
+    "fullText": "We feel ready for a Podcast to tell the world that we can coexist - wdyt? https://t.co/rDe3IyZmYa"
   },
   {
     "user": {
@@ -797,7 +930,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49818,
+      "followersCount": 49819,
       "friendsCount": 290,
       "location": "China"
     },
@@ -829,7 +962,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -849,8 +982,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1744,
+      "followersCount": 18452,
+      "friendsCount": 1745,
       "location": ""
     },
     "images": [
@@ -866,7 +999,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62646,
+      "followersCount": 62648,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -883,8 +1016,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1744,
+      "followersCount": 18452,
+      "friendsCount": 1745,
       "location": ""
     },
     "images": [
@@ -900,7 +1033,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156259,
+      "followersCount": 156264,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -1018,7 +1151,7 @@
       "name": "Kem",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948400376824184832/vTKqd5gb_normal.jpg",
       "description": "The Global Money App — Backed by Tether — For Anyone",
-      "followersCount": 5480,
+      "followersCount": 5481,
       "friendsCount": 166,
       "location": ""
     },
@@ -1178,7 +1311,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 10746,
+      "followersCount": 10749,
       "friendsCount": 1340,
       "location": "New York, USA"
     },
@@ -1227,7 +1360,7 @@
       "name": "Shards of Memories - Wishlist Now On Steam!",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950429385514704896/GqrnZZK8_normal.jpg",
       "description": "A hand-drawn 2D Metroidvania where you collect forgotten memories. Steam: https://t.co/UTep7MbqO2",
-      "followersCount": 530,
+      "followersCount": 534,
       "friendsCount": 827,
       "location": "Frankfurt on the Main, Germany"
     },
