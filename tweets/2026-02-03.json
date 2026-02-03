@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 155137,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2018602916312211462",
+    "fullText": "现在是干掉飞书、Slack 的最佳时机，我要新建文件夹了！"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 155137,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAN_ufQaAAEbVTL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2018597527470367053",
+    "fullText": "我有几个朋友，收入很高，但从不会为虚拟商品（App、会员、游戏）付费，除了一个产品：述职 PPT 模板，用来升职答辩，几百几百的买模板。大家有时间完全可以做一个 AI 述职 PPT，又强又痛的需求（虽然很低频）。 https://t.co/XLGdrQSIfB"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49820,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018597037693173760/vid/avc1/1280x720/7KkwqSzJoPChZMyt.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2018597133742739705",
+    "fullText": "论人究竟可以无聊到什么地步🤣 https://t.co/XxkCMWFmoU"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -70,7 +119,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175900,
+      "followersCount": 175928,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -85,7 +134,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10545,
+      "followersCount": 10547,
       "friendsCount": 2624,
       "location": ""
     },
@@ -102,7 +151,7 @@
       "name": "World Governments Summit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1099581065142956032/hj7L8BUN_normal.png",
       "description": "The world’s most important meeting for global leaders. \nInspiring and enabling the next generation of governments.",
-      "followersCount": 199432,
+      "followersCount": 199530,
       "friendsCount": 147,
       "location": ""
     },
@@ -149,7 +198,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156265,
+      "followersCount": 156268,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -198,7 +247,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156265,
+      "followersCount": 156268,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -233,7 +282,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -312,7 +361,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -346,7 +395,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41610,
+      "followersCount": 41611,
       "friendsCount": 761,
       "location": "Hong Kong"
     },
@@ -363,7 +412,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -397,7 +446,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -414,7 +463,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156265,
+      "followersCount": 156268,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -448,7 +497,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76741,
+      "followersCount": 76738,
       "friendsCount": 3526,
       "location": ""
     },
@@ -463,7 +512,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4605304,
+      "followersCount": 4605379,
       "friendsCount": 4,
       "location": ""
     },
@@ -480,7 +529,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64104,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -623,6 +672,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3586,
+      "friendsCount": 1008,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018425122646843393/vid/avc1/1080x1920/9PMAmDXuefZcu88p.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2018436766584184865",
+    "fullText": "Happy people build better products. And flow beats frenzy every time.\n\nOn Ep. 39 of The Main Scoop, guest Brent Foster joins @Broadcom 's @GregLotko  and @danielnewmanUV  to break down why learning agility starts with developer experience—and why simplicity is a competitive https://t.co/CLIvT0Fvx6"
+  },
+  {
+    "user": {
       "screenName": "TopHatStudiosEN",
       "name": "Top Hat Studios, Inc.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/968231327840571394/kl1dbuX4_normal.jpg",
@@ -715,7 +781,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26230,
+      "followersCount": 26229,
       "friendsCount": 322,
       "location": "Guangdong"
     },
@@ -747,7 +813,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64104,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -796,7 +862,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4605304,
+      "followersCount": 4605379,
       "friendsCount": 4,
       "location": ""
     },
@@ -828,7 +894,7 @@
       "name": "T1 Energy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892175160234409985/uHhME0Vm_normal.jpg",
       "description": "T1 Energy (NYSE: TE) is building an integrated U.S. supply chain for advanced solar and battery manufacturing. $TE",
-      "followersCount": 11878,
+      "followersCount": 11891,
       "friendsCount": 492,
       "location": "Austin, Texas"
     },
@@ -913,7 +979,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -928,7 +994,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156265,
+      "followersCount": 156268,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -948,7 +1014,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -963,7 +1029,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9809,
+      "followersCount": 9810,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -978,7 +1044,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10545,
+      "followersCount": 10547,
       "friendsCount": 2624,
       "location": ""
     },
@@ -995,7 +1061,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41610,
+      "followersCount": 41611,
       "friendsCount": 761,
       "location": "Hong Kong"
     },
@@ -1027,7 +1093,7 @@
       "name": "Derive.xyz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828234675325976576/UVYEVWhP_normal.jpg",
       "description": "Derive (prev. Lyra) | The Leading Decentralized Options Platform on BTC & ETH. \n\nDeep liquidity. Seamless onboarding. Lowest fees. \nInstitutional-grade custody.",
-      "followersCount": 103963,
+      "followersCount": 103966,
       "friendsCount": 29,
       "location": "Onchain"
     },
@@ -1044,7 +1110,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64104,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -1076,7 +1142,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64104,
+      "followersCount": 64109,
       "friendsCount": 503,
       "location": ""
     },
@@ -1395,7 +1461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175900,
+      "followersCount": 175928,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -1489,7 +1555,7 @@
       "name": "Lucas A. Ferrara",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/910980790162423809/3AvhHe2Q_normal.jpg",
       "description": "Founding partner of Newman Ferrara, Lucas has been a Super Lawyer® every year since 2007, repeatedly achieving \"Top 100\" recognition",
-      "followersCount": 3072,
+      "followersCount": 3071,
       "friendsCount": 275,
       "location": "New York, New York"
     },
@@ -1572,7 +1638,7 @@
       "name": "Truflation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862816205393784832/mk2Ph3Rl_normal.jpg",
       "description": "Independent macroeconomic signals provider & indexer | Aggregating 35M+ data points from 70+ providers daily",
-      "followersCount": 139060,
+      "followersCount": 139068,
       "friendsCount": 1421,
       "location": ""
     },
