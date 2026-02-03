@@ -1,11 +1,93 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156258,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2018529796905709624",
+    "fullText": "两三年前 OpenAI 是 pioneer，现在发新产品都是一种 follower 的姿态，以前老话说三十年河东，三十年河西，我看现在是三十天河东，三十天河西。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49820,
+      "followersCount": 49822,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018528734379393024/vid/avc1/1080x1920/bhsPNbcz2Lg8dFGz.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2018528814230536489",
+    "fullText": "充电器的职责不是好好的稳定的给设备充电吗？还得负责用户的情绪价值了？🥲 https://t.co/RUDEKa8OLT"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 23548,
+      "friendsCount": 5042,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAM_YecX0AAkhFw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2018527326544499027",
+    "fullText": "最近 媳妇儿 被一亲戚借钱，借完总念叨，\n\n结果前几天又被一同学借钱，说贷款快违约了，\n救急，媳妇儿没忍心就又借了，\n\n然后开始对借钱这个事 PTSD了...\n\n原来丈母娘总借钱给人，我说 是 XX镇无息信用社，\n没成想，现在媳妇儿现在 继承了 这份事业 哈哈哈\n\n哎，都是善良的人啊 https://t.co/6ipFji782m"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156258,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAM9jdQaYAAVBBF.jpg",
+      "https://pbs.twimg.com/media/HAM9ruEbQAAmGRf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2018525506094895551",
+    "fullText": "做 agent 产品最有趣的一点是小惊喜，原本我只是在测试 codeben 的 agent matrix 是不是正常工作，没想到其中一个 agent 为了做测试写了个小游戏，我打开竟然能正常玩，大家可以自己玩玩看https://t.co/scPAvferY1 源代码它给推送到了我的 Github https://t.co/cV9ULcpTRP https://t.co/KSYLZuggja"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9795,
+      "friendsCount": 496,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2018521271567630456",
+    "fullText": "主流的一些推特账号：v0、videcode、boltnew 都在说关注明天后天，big thing is coming…"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49822,
       "friendsCount": 290,
       "location": "China"
     },
@@ -22,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49820,
+      "followersCount": 49822,
       "friendsCount": 290,
       "location": "China"
     },
@@ -37,7 +119,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49820,
+      "followersCount": 49822,
       "friendsCount": 290,
       "location": "China"
     },
@@ -54,7 +136,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -71,7 +153,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49820,
+      "followersCount": 49822,
       "friendsCount": 290,
       "location": "China"
     },
@@ -88,7 +170,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41615,
+      "followersCount": 41616,
       "friendsCount": 761,
       "location": "Hong Kong"
     },
@@ -105,7 +187,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -122,8 +204,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23542,
-      "friendsCount": 5041,
+      "followersCount": 23548,
+      "friendsCount": 5042,
       "location": ""
     },
     "images": [
@@ -139,7 +221,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -156,7 +238,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156245,
+      "followersCount": 156258,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -190,7 +272,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76744,
+      "followersCount": 76743,
       "friendsCount": 3526,
       "location": ""
     },
@@ -205,7 +287,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4604861,
+      "followersCount": 4604863,
       "friendsCount": 4,
       "location": ""
     },
@@ -222,7 +304,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64106,
       "friendsCount": 503,
       "location": ""
     },
@@ -230,6 +312,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2018475052308828272",
     "fullText": "内部备忘录显示Elon Musk的SpaceX和xAI联合股估值1.25万亿美元，其中spaceX估值1万亿，xAI估值2500亿 https://t.co/Gn4hMhjZSR"
+  },
+  {
+    "user": {
+      "screenName": "zolihonig",
+      "name": "Zoli ⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600825135430246400/kyNxCYpe_normal.jpg",
+      "description": "🚀 I help executives build their personal brand using our viral short form video system. 📲 Schedule a call with me here 👇🏼",
+      "followersCount": 1935,
+      "friendsCount": 1071,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zolihonig/status/2018469662065861108",
+    "fullText": "My Optimus robot gently awakens me from slumber after a full charge, thanks to the Tesla solar tiles and home battery.\n\nMy @Tesla Cybercab is summoned telepathicaly thanks to my @neurallink implant, to take me to my flight. We take the @boringcompany tunnel. \n\nI check what’s new"
   },
   {
     "user": {
@@ -356,7 +453,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64106,
       "friendsCount": 503,
       "location": ""
     },
@@ -405,7 +502,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4604861,
+      "followersCount": 4604863,
       "friendsCount": 4,
       "location": ""
     },
@@ -471,7 +568,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -486,7 +583,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156245,
+      "followersCount": 156258,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -506,7 +603,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -521,7 +618,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9794,
+      "followersCount": 9795,
       "friendsCount": 496,
       "location": "杭州"
     },
@@ -536,8 +633,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10552,
-      "friendsCount": 2625,
+      "followersCount": 10547,
+      "friendsCount": 2624,
       "location": ""
     },
     "images": [
@@ -553,7 +650,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41615,
+      "followersCount": 41616,
       "friendsCount": 761,
       "location": "Hong Kong"
     },
@@ -587,7 +684,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64106,
       "friendsCount": 503,
       "location": ""
     },
@@ -602,8 +699,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23542,
-      "friendsCount": 5041,
+      "followersCount": 23548,
+      "friendsCount": 5042,
       "location": ""
     },
     "images": [
@@ -619,7 +716,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64105,
+      "followersCount": 64106,
       "friendsCount": 503,
       "location": ""
     },
@@ -651,7 +748,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49820,
+      "followersCount": 49822,
       "friendsCount": 290,
       "location": "China"
     },
@@ -666,7 +763,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156245,
+      "followersCount": 156258,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -703,7 +800,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62657,
+      "followersCount": 62647,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -737,7 +834,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156245,
+      "followersCount": 156258,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -755,8 +852,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23542,
-      "friendsCount": 5041,
+      "followersCount": 23548,
+      "friendsCount": 5042,
       "location": ""
     },
     "images": [],
@@ -770,7 +867,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175700,
+      "followersCount": 175732,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -855,7 +952,7 @@
       "name": "Kem",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948400376824184832/vTKqd5gb_normal.jpg",
       "description": "The Global Money App — Backed by Tether — For Anyone",
-      "followersCount": 5491,
+      "followersCount": 5480,
       "friendsCount": 166,
       "location": ""
     },
@@ -1015,7 +1112,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 10732,
+      "followersCount": 10735,
       "friendsCount": 1341,
       "location": "New York, USA"
     },
@@ -1025,6 +1122,23 @@
     ],
     "tweetUrl": "https://x.com/VictorRenajlj/status/2018149031763947728",
     "fullText": "Vanguard - the “mega-fund” people \"joke\" own everything - just doubled down on NextNRG, Inc. (NASDAQ: $NXXT)\n\nFor the quarter ended Dec. 31, 2025, The Vanguard Group, Inc. disclosed 2,203,563 shares in its latest 13F-HR, filed Jan. 29, 2026. That’s up from 1,049,265 shares https://t.co/YBQyXBrI0P"
+  },
+  {
+    "user": {
+      "screenName": "RykerRohaley",
+      "name": "Ryker Rohaley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1970268382118453249/llKI7rlx_normal.jpg",
+      "description": "2028 QB I 3.75 GPA I 6'1\" Sheldon High 6A  Natl Scholar Athlete 2024-25 | ryker@peak-football https://t.co/ay9SVzYm7o | NCAA #2307949532 FAITH-FAMILY-BALL",
+      "followersCount": 740,
+      "friendsCount": 1194,
+      "location": "Eugene, OR"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018105319008976896/vid/avc1/3840x2160/89qXI_6-LgbLKeLG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RykerRohaley/status/2018106042006323661",
+    "fullText": "Sunday morning routes on air tradition with @Dakota15short @SheldonIrishfb @lanecountyelite @martell_t11 @CoachChrisRo @coach_vogs12 @CoachJCraft @FBCoachRitchie @kraekelso https://t.co/bzY7wI8QOi"
   },
   {
     "user": {
@@ -1047,7 +1161,7 @@
       "name": "Shards of Memories - Wishlist Now On Steam!",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950429385514704896/GqrnZZK8_normal.jpg",
       "description": "A hand-drawn 2D Metroidvania where you collect forgotten memories. Steam: https://t.co/UTep7MbqO2",
-      "followersCount": 529,
+      "followersCount": 530,
       "friendsCount": 827,
       "location": "Frankfurt on the Main, Germany"
     },
@@ -1077,11 +1191,26 @@
   },
   {
     "user": {
+      "screenName": "SkilledByChoice",
+      "name": "SkilledByChoice",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2008807059085475840/ns9WTaeU_normal.jpg",
+      "description": "SkilledByChoice: Basketball expertise offering individualized mentorship, video breakdowns & advice for players. Elite camps focused on skills, mindset, mental",
+      "followersCount": 178,
+      "friendsCount": 1010,
+      "location": "United States of America"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SkilledByChoice/status/2017976450633056578",
+    "fullText": "WE FOLLOW BACK:\n\nLove basketball beyond the highlights?\n\nDeep play breakdowns, hoops culture, iconic player stories — plus real talk on mindset, pressure, and mental health in the game.\n\nIf BALL IS LIFE follow US for daily insights &amp; open discussions.\n\nLet’s talk ball &amp; build"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76744,
+      "followersCount": 76743,
       "friendsCount": 3526,
       "location": ""
     },
