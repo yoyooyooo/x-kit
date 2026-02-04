@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156255,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2018871004853072129",
+    "fullText": "早上起来发现 codeben 访问不了，cf 9 小时构建的包静态资源 500，可能是偶发性问题，重新构建之后已恢复。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 176216,
+      "friendsCount": 1548,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2018863908153385290",
+    "fullText": "https://t.co/TgcdE5OKSw"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -48,11 +78,43 @@
   },
   {
     "user": {
+      "screenName": "PelicanAI_",
+      "name": "Pelican",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976838546049597441/wnwuAdgU_normal.jpg",
+      "description": "AI assistant/coach for traders. We post cool stats. Educational only, Not financial advice",
+      "followersCount": 77,
+      "friendsCount": 38,
+      "location": "Chicago"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018776672216948736/vid/avc1/1920x1080/1LODcT21wU1tMH91.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PelicanAI_/status/2018777476344807709",
+    "fullText": "Pelican is officially open.\n\nTraders ask questions every day like:\nWhy did this move?\nWhat usually happens after this event?\nDoes this pattern actually work?\nPelican answers with data, not opinions.\n10+ years of market history. Real context. Real evidence.\nHappy trading. https://t.co/6RFZIf8tbs"
+  },
+  {
+    "user": {
+      "screenName": "darian314",
+      "name": "Darian Shirazi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974669886296346624/-_XC1OYT_normal.jpg",
+      "description": "managing partner @GradientVC",
+      "followersCount": 24859,
+      "friendsCount": 464,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/darian314/status/2018761004675690691",
+    "fullText": "AI agents have a massive bottleneck: The \"Airplane Mode\" problem.\n\nThey are incredibly powerful but isolated from real-time data. To solve this, @Gradient is leading the $10M Seed for @Linkup_platform.\n\nHere’s why this is the missing piece of the agentic web: 🧵"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41629,
+      "followersCount": 41627,
       "friendsCount": 762,
       "location": "Hong Kong"
     },
@@ -86,7 +148,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64102,
+      "followersCount": 64105,
       "friendsCount": 506,
       "location": ""
     },
@@ -120,7 +182,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64102,
+      "followersCount": 64105,
       "friendsCount": 506,
       "location": ""
     },
@@ -135,7 +197,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176201,
+      "followersCount": 176216,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -216,7 +278,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64102,
+      "followersCount": 64105,
       "friendsCount": 506,
       "location": ""
     },
@@ -248,7 +310,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156256,
+      "followersCount": 156255,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -265,7 +327,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156256,
+      "followersCount": 156255,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -280,7 +342,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9829,
+      "followersCount": 9834,
       "friendsCount": 499,
       "location": "杭州"
     },
@@ -295,7 +357,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156256,
+      "followersCount": 156255,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -312,8 +374,8 @@
       "name": "Cygnal Polling & Analytics",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1184933255243554821/16EvSOhe_normal.jpg",
       "description": "Polling firm. Pioneer of multi-mode research. Creating intelligence for action by understanding opinions, hearts, and minds.",
-      "followersCount": 4000,
-      "friendsCount": 1705,
+      "followersCount": 4003,
+      "friendsCount": 1707,
       "location": "Arlington, VA"
     },
     "images": [],
@@ -427,7 +489,7 @@
       "name": "SciSpace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965010978736599040/yMhBXsyJ_normal.jpg",
       "description": "Making research more accessible by the day | https://t.co/KBTUcfNkZI\n\nListen to Podcast: https://t.co/ag0pphxmgS",
-      "followersCount": 84718,
+      "followersCount": 84714,
       "friendsCount": 6,
       "location": "San Francisco"
     },
@@ -444,7 +506,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76759,
+      "followersCount": 76758,
       "friendsCount": 3527,
       "location": ""
     },
@@ -461,7 +523,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10670,
+      "followersCount": 10686,
       "friendsCount": 2629,
       "location": ""
     },
@@ -478,8 +540,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23586,
-      "friendsCount": 5051,
+      "followersCount": 23588,
+      "friendsCount": 5053,
       "location": ""
     },
     "images": [
@@ -510,7 +572,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9829,
+      "followersCount": 9834,
       "friendsCount": 499,
       "location": "杭州"
     },
@@ -542,7 +604,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155179,
+      "followersCount": 155183,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -572,7 +634,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10670,
+      "followersCount": 10686,
       "friendsCount": 2629,
       "location": ""
     },
@@ -587,7 +649,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49814,
+      "followersCount": 49818,
       "friendsCount": 289,
       "location": "China"
     },
@@ -623,8 +685,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23586,
-      "friendsCount": 5051,
+      "followersCount": 23588,
+      "friendsCount": 5053,
       "location": ""
     },
     "images": [],
@@ -638,7 +700,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49814,
+      "followersCount": 49818,
       "friendsCount": 289,
       "location": "China"
     },
@@ -655,7 +717,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49814,
+      "followersCount": 49818,
       "friendsCount": 289,
       "location": "China"
     },
@@ -672,7 +734,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155179,
+      "followersCount": 155183,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -687,7 +749,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155179,
+      "followersCount": 155183,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -704,7 +766,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49814,
+      "followersCount": 49818,
       "friendsCount": 289,
       "location": "China"
     },
@@ -721,7 +783,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9829,
+      "followersCount": 9834,
       "friendsCount": 499,
       "location": "杭州"
     },
@@ -768,7 +830,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176201,
+      "followersCount": 176216,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -783,7 +845,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10670,
+      "followersCount": 10686,
       "friendsCount": 2629,
       "location": ""
     },
@@ -944,6 +1006,23 @@
   },
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6961,
+      "friendsCount": 745,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAK68SPaQAACyJf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2018381132132401444",
+    "fullText": "超时空要塞。就是不知道 1:3000 的飞机怎么能得到。 https://t.co/yAYMGnMNdh"
+  },
+  {
+    "user": {
       "screenName": "RedChip",
       "name": "RedChip",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
@@ -1048,7 +1127,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176201,
+      "followersCount": 176216,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -1056,5 +1135,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2018187857643417623",
     "fullText": "https://t.co/domnMNqS3L"
+  },
+  {
+    "user": {
+      "screenName": "PokePings_",
+      "name": "Pokemon TCG Deals, Alerts & Tracker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2018023115087814656/Xj1jWRhY_normal.jpg",
+      "description": "Your best growing source for Pokémon TCG deals, restocks & news! ⭐ Join our Discord for instant drop alerts & learn how to score cards at MSRP! 🔥\n\nJoin us ⬇️",
+      "followersCount": 2254,
+      "friendsCount": 138,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAHpoDrWYAAiSxG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PokePings_/status/2018155511540068689",
+    "fullText": "Charizard UPC Giveaway \n\n To enter: Follow @PokePings_ , like and repost\n\nWe're giving away another UPC on Reddit and 2 more in our Discord, link will be in bio if youd like to join the others \n\nWinner selected February 15th. US only, 18+. Not affiliated with X.  \n\nWinner will be https://t.co/bS1UEkqBaj"
   }
 ]
