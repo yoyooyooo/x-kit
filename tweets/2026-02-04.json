@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156283,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAUWKljaIAE6tZ7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2019045147917660375",
+    "fullText": "Codeben X 的 Skill Agent 目前已支持 1200 余个预装 Skill，大幅缩减完成任务所需的时间，提高了完成任务的质量，对需要进行预定的任务，Skill Agent 现在会调用 Resend 发送对应语言的预定邮件来帮助用户进行预定，如果用户使用 kimeeru 邮箱，餐厅的回复会自动被 agent https://t.co/vH8qdtLkwc"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 155236,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2019040928712003859",
+    "fullText": "最近迷上了家庭绿电系统：光伏+电池储能，离网发电，能实现用电自由。感觉太酷了。虽然算经济账并不合适：十几万的入门造价（隆基、华为），够十几年的电费了。但是真的想拥有一个自己发电，电器免费用电，车免费充电的家……"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9849,
+      "friendsCount": 501,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAUS9v4bMAEZhJt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2019040877625356345",
+    "fullText": "sonnet 5，倒计时还有4个半小时了 https://t.co/gNxX5IYQXb"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18454,
       "friendsCount": 1752,
       "location": ""
     },
@@ -22,7 +71,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26237,
+      "followersCount": 26236,
       "friendsCount": 321,
       "location": "Guangdong"
     },
@@ -56,7 +105,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18454,
       "friendsCount": 1752,
       "location": ""
     },
@@ -73,7 +122,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18454,
       "friendsCount": 1752,
       "location": ""
     },
@@ -88,7 +137,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18454,
       "friendsCount": 1752,
       "location": ""
     },
@@ -103,7 +152,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62678,
+      "followersCount": 62682,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -120,7 +169,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155230,
+      "followersCount": 155236,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -135,7 +184,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64223,
+      "followersCount": 64230,
       "friendsCount": 506,
       "location": ""
     },
@@ -152,7 +201,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9848,
+      "followersCount": 9849,
       "friendsCount": 501,
       "location": "杭州"
     },
@@ -167,7 +216,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23596,
+      "followersCount": 23595,
       "friendsCount": 5056,
       "location": ""
     },
@@ -184,7 +233,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9848,
+      "followersCount": 9849,
       "friendsCount": 501,
       "location": "杭州"
     },
@@ -244,7 +293,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49743,
+      "followersCount": 49742,
       "friendsCount": 289,
       "location": "China"
     },
@@ -278,7 +327,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23596,
+      "followersCount": 23595,
       "friendsCount": 5056,
       "location": ""
     },
@@ -293,7 +342,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155230,
+      "followersCount": 155236,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -310,7 +359,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9848,
+      "followersCount": 9849,
       "friendsCount": 501,
       "location": "杭州"
     },
@@ -325,7 +374,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49743,
+      "followersCount": 49742,
       "friendsCount": 289,
       "location": "China"
     },
@@ -357,7 +406,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156275,
+      "followersCount": 156283,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -389,7 +438,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176386,
+      "followersCount": 176392,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -766,7 +815,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64223,
+      "followersCount": 64230,
       "friendsCount": 506,
       "location": ""
     },
@@ -783,7 +832,7 @@
       "name": "Anything",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1953219821501595650/I_gBVKvV_normal.png",
       "description": "what if the future was already here?",
-      "followersCount": 32806,
+      "followersCount": 32810,
       "friendsCount": 8,
       "location": "SF"
     },
@@ -1678,7 +1727,7 @@
       "name": "Dr. Xi Zeng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1686183926027706368/WrJV7p2T_normal.jpg",
       "description": "Vision is the most intuitive OS. Founder of @Chance_vision / Top 10 Designer @Forbes / PhD @UniBarcelona / Past: Senior Director at @OnePlus, @OPPO & ByteDance",
-      "followersCount": 236,
+      "followersCount": 237,
       "friendsCount": 227,
       "location": "San Francisco"
     },
