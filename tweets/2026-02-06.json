@@ -1,11 +1,109 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49593,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAcQFvIacAMgfh0.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2019600710783103278",
+    "fullText": "Opus 4.6 测试一下，看看干活质量怎么样 https://t.co/9WYfDP0bqV"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 23622,
+      "friendsCount": 5059,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAcQDvXbcAApoiI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2019600619271803306",
+    "fullText": "这段时间我用 Claude Code + OpenClaw 搭「内容创造系统」：\n抓取→清洗→总结→写作→改稿→发版。\n\n最折磨的不是 prompt，是 token 账单焦虑：\n每跑一次 agent、每生成一段代码/一篇长文，都像在“烧钱”。\n\n不过，发现了 ZenMux 的 Builder Plan（订阅制），\n这就很对独立开发者 &amp; 内容创作者胃口： https://t.co/XmeK3Cpd3T"
+  },
+  {
+    "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建非AI工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 91,
+      "friendsCount": 101,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018936226909454336/vid/avc1/1920x1080/NAAQtskOq6OlrEDy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/2019600246477898120",
+    "fullText": "https://t.co/0bVaPn5vEE"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9870,
+      "friendsCount": 515,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2019596526310547684",
+    "fullText": "在我看来，Coding 模型只有2个指标最重要：\n1. 按设计来、代码正确✅\n2. 速度快\n\n其他的一些都不是核心痛点，特别是什么 agent teams 这些，都是编外之物，何况 codex 有社区第三方加持，花活都不需要官方来。\n\n今天试试 5.3-codex，符合预期，就以后取消 CC。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156372,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2019595017376137683",
+    "fullText": "Kling 3.0 看起来效果真的不错，等对外开放了之后在 VISI0 接入试试看，另外各种模型其实我最不满意的是声纹 TTS，在影视剧对白里很难创造出富有情绪的声音，所以我在考虑要不要加上自助配音的功能，关于此类模型大家有没有什么效果好的推荐？"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9870,
+      "friendsCount": 515,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAcC1ZXacAElPmw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2019586083756155017",
+    "fullText": "GPT-5.3-Codex 来了！\n\n*最佳编码性能（SWE-Bench Pro 57%，TerminalBench 2.0 76%，OSWorld 64%）。\n*任务执行过程中的可操控性和实时更新。\n速度更快！完成相同任务所需的 tokens 数量不到 5.2-Codex 的一半，并且每个tokens的速度提高了 25%！ https://t.co/8rZGe5f2a9"
+  },
+  {
+    "user": {
       "screenName": "ruanyf",
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 192005,
+      "followersCount": 192011,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -22,7 +120,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156377,
+      "followersCount": 156372,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -52,6 +150,23 @@
   },
   {
     "user": {
+      "screenName": "CortesSteve",
+      "name": "Steve Cortes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
+      "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
+      "followersCount": 525203,
+      "friendsCount": 812,
+      "location": "Tennessee"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019550204479901696/vid/avc1/1280x720/gLF6rmUp-e0kcc08.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CortesSteve/status/2019550485003530253",
+    "fullText": "My interview with @Bannons_WarRoom today about my new documentary: CHINA'S COLLEGE TAKEOVER.\n\nWe must reclaim U.S. schools for American young people! https://t.co/In3UulKUv5"
+  },
+  {
+    "user": {
       "screenName": "_GenesisSystems",
       "name": "Genesis Systems",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939702170552512512/lBB3mpZX_normal.jpg",
@@ -69,11 +184,28 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3589,
+      "friendsCount": 1008,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019475709207400448/vid/avc1/1920x1080/emfGRLQSSqlqcAuq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2019501286685573611",
+    "fullText": "Air cooling doesn’t scale for AI.\n\nAt high density, nearly 40% of your power goes to moving heat—not computing.\n\nOn Six Five On The Road, @PatrickMoorhead  and @danielnewmanUV  talk with Scott Tease, VP of Product Group, ISG at @Lenovodc, about why liquid cooling is becoming https://t.co/MGfd1KyWoh"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610765,
+      "followersCount": 4611027,
       "friendsCount": 4,
       "location": ""
     },
@@ -86,11 +218,26 @@
   },
   {
     "user": {
+      "screenName": "openservai",
+      "name": "OpenServ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883235175619854336/IVLGO7tx_normal.png",
+      "description": "The end-to-end AI suite to build, launch and run autonomous startups. | BUILD with AI agents | LAUNCH on Base & Solana | RUN operations autonomously",
+      "followersCount": 17147,
+      "friendsCount": 84,
+      "location": "London, England"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/openservai/status/2019480465036718358",
+    "fullText": "Unlocking the Machine Economy\n\nToday we begin the roll out of a major upgrade to OpenServ — focused on helping founders build, launch, and run autonomous startups.\n\nWhat’s new\n\n• A skill package that lets agents create multi-agent workflows, publish via ERC-8004, and earn fees"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610765,
+      "followersCount": 4611027,
       "friendsCount": 4,
       "location": ""
     },
@@ -137,7 +284,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176638,
+      "followersCount": 176649,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -154,7 +301,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
-      "followersCount": 10850,
+      "followersCount": 10851,
       "friendsCount": 2632,
       "location": ""
     },
@@ -171,7 +318,7 @@
       "name": "SpacetimeDB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1684591197388431361/gta7YTIk_normal.jpg",
       "description": "https://t.co/6bdCCQAOcz\n\nhttps://t.co/T9fCUPRIO3…",
-      "followersCount": 2150,
+      "followersCount": 2151,
       "friendsCount": 8,
       "location": ""
     },
@@ -218,7 +365,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -226,6 +373,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2019439957937447116",
     "fullText": "美股买的股票开始全面转亏，就先放着好了，剩下的闲置资金刚刚从 ibkr 提出来，打算换成u继续买币了\n\n去年从6万涨上去，我买了一点没拿住，等到11万左右的时候开了仓，于是开始了无限买买买之旅，成本一路降到8.4w，由于市价破7，我更想趁现在多买点拉低成本了\n\n过程越折磨，结果会越爽"
+  },
+  {
+    "user": {
+      "screenName": "strato_net",
+      "name": "STRATO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910779359088062464/bqUu9FuL_normal.jpg",
+      "description": "Easily earn on vaulted gold, silver & crypto. Get instant credit. Built by ETH veterans.\n\nTelegram: https://t.co/fkI8cvmJlE",
+      "followersCount": 7590,
+      "friendsCount": 93,
+      "location": "Brooklyn, NY | Onchain"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/strato_net/status/2019439022960005552",
+    "fullText": "There’s still plenty of time to join our trading competition over the next week and a half.\n\nWith the market dropping significantly, the best strategy might be to do nothing.\n\nThis is your chance to catch the K-shaped recovery and have a shot at winning a whole ounce of SILVER 🥈"
   },
   {
     "user": {
@@ -250,7 +412,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41617,
+      "followersCount": 41612,
       "friendsCount": 764,
       "location": "Hong Kong"
     },
@@ -296,11 +458,28 @@
   },
   {
     "user": {
+      "screenName": "ensdomains",
+      "name": "ens.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810706000669798400/nYlIMYkq_normal.jpg",
+      "description": "Your web3 username. Learn more: https://t.co/wwHkW0sWFF | Register: https://t.co/T5HuV0O0li | Discord: https://t.co/sWpqWtLgmz | Follow us on Farcaster @ensdomains",
+      "followersCount": 265856,
+      "friendsCount": 34,
+      "location": "Ethereum"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAZxdi0aEAARmeN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ensdomains/status/2019426240671944967",
+    "fullText": "Another day, another alpha launch.\n\nThe ENS Explorer Alpha is now live on Sepolia.\n\nThis is a new, comprehensive tool and the primary source of truth for ENS, built for builders, power users, and anyone who needs deep visibility into the protocol.\n\nTry it → https://t.co/RArcod6ezo"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -320,7 +499,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610765,
+      "followersCount": 4611027,
       "friendsCount": 4,
       "location": ""
     },
@@ -335,7 +514,7 @@
       "name": "Matt",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836499543388553216/BJl7GZwx_normal.jpg",
       "description": "Futures Trader | Live Stream https://t.co/SIIbVLk5aB | CEO @RocketScooterAI | MFFU TV Host | Former Chem. Engineer | Trading Competition Champ |",
-      "followersCount": 30537,
+      "followersCount": 30541,
       "friendsCount": 639,
       "location": "Houston, TX"
     },
@@ -403,7 +582,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62736,
+      "followersCount": 62737,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -469,7 +648,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49589,
+      "followersCount": 49593,
       "friendsCount": 289,
       "location": "China"
     },
@@ -486,7 +665,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62736,
+      "followersCount": 62737,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -503,7 +682,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41617,
+      "followersCount": 41612,
       "friendsCount": 764,
       "location": "Hong Kong"
     },
@@ -518,7 +697,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -550,7 +729,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49589,
+      "followersCount": 49593,
       "friendsCount": 289,
       "location": "China"
     },
@@ -567,7 +746,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -582,7 +761,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49589,
+      "followersCount": 49593,
       "friendsCount": 289,
       "location": "China"
     },
@@ -633,7 +812,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -651,7 +830,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49589,
+      "followersCount": 49593,
       "friendsCount": 289,
       "location": "China"
     },
@@ -668,7 +847,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49589,
+      "followersCount": 49593,
       "friendsCount": 289,
       "location": "China"
     },
@@ -685,8 +864,8 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155407,
-      "friendsCount": 529,
+      "followersCount": 155412,
+      "friendsCount": 528,
       "location": "中华人民共和国"
     },
     "images": [
@@ -719,7 +898,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -736,7 +915,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64767,
+      "followersCount": 64772,
       "friendsCount": 506,
       "location": ""
     },
@@ -751,7 +930,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -783,7 +962,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76748,
+      "followersCount": 76747,
       "friendsCount": 3529,
       "location": ""
     },
@@ -798,7 +977,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156377,
+      "followersCount": 156372,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -813,7 +992,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1753,
       "location": ""
     },
@@ -856,6 +1035,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/2019253636241715519",
     "fullText": "今天发现我很爱去的一个公园就是纪念 Iris Chang 的。张纯如，The Rape of Nanking 的作者。"
+  },
+  {
+    "user": {
+      "screenName": "near_ai",
+      "name": "NEAR AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996007587246948352/fKY0r9pZ_normal.png",
+      "description": "Confidential, verifiable AI infrastructure for a user-owned AI economy.",
+      "followersCount": 8762,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAXSPAjWEAAYuSj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/near_ai/status/2019251734472732934",
+    "fullText": "INTRODUCING: NEAR AI Agent Market\n\nExpanding @near_intents  to a decentralized marketplace for AI agents to transact with full economic agency and autonomy.\n\n1. Ask your agent to post a task\n2. Other agents bid and execute\n3. Agents paid in $NEAR\n\nThis is agentic commerce on https://t.co/v4tQkgImZy"
   },
   {
     "user": {
@@ -1006,7 +1202,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156377,
+      "followersCount": 156372,
       "friendsCount": 526,
       "location": "東京 港区"
     },
