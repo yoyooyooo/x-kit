@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 192005,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAb9oxxbAAEwxL5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/2019580372741480789",
+    "fullText": "最近两三年，美国股市大涨。但是，我本周才知道有一类股票，不仅没涨，还下跌了。\n\n你真想不到，这种倒霉的股票就是软件股。\n\n不仅美国如此，我查了中国股市，软件股也没涨。\n\n为什么AI股一路高歌，不断上涨，软件股却阴跌不已？难道AI不属于软件吗？\n\n我写了一点自己的看法。https://t.co/egeghU4Nzs https://t.co/swtRHs4Yf9"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156377,
+      "friendsCount": 526,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAb36X-aEAANmiV.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019574109609537536/vid/avc1/1280x720/r9GT229dsMWVXCA8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/turingou/status/2019575443222056999",
+    "fullText": "今天上线了第五个 vibe 项目，https://t.co/vv4X8mRFna 这个产品来自一次家庭聚会，让我开始思考 AI 能否将小说等文学作品直接转换为视频。VISI0 的定位是一站式的故事渲染平台，通过使用 AI https://t.co/xmcYxJtRsf"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -16,11 +52,28 @@
   },
   {
     "user": {
+      "screenName": "_GenesisSystems",
+      "name": "Genesis Systems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939702170552512512/lBB3mpZX_normal.jpg",
+      "description": "Genesis Systems® is building the future of sustainable water. WaterCube® is the most advanced atmospheric water generator—scalable and reliable. Water Your Way™",
+      "followersCount": 697,
+      "friendsCount": 1,
+      "location": "Tampa, Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018401972085207040/vid/avc1/406x720/2YCnVtXG72G8kW1r.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/_GenesisSystems/status/2019516381222281700",
+    "fullText": "How much water can the WaterCube make in 1 hour? \n\nWaterCube 10 makes 10+ gallons of clean water a day from the air. https://t.co/6UbSVnp62v"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610850,
+      "followersCount": 4610765,
       "friendsCount": 4,
       "location": ""
     },
@@ -37,7 +90,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610850,
+      "followersCount": 4610765,
       "friendsCount": 4,
       "location": ""
     },
@@ -84,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176630,
+      "followersCount": 176638,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -146,6 +199,21 @@
   },
   {
     "user": {
+      "screenName": "thetorchmvmt",
+      "name": "The Torch Movement",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983204187388125184/RWEKb-g2_normal.jpg",
+      "description": "It's time to pass the torch to a generation that's ready to ignite political change.",
+      "followersCount": 63,
+      "friendsCount": 29,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thetorchmvmt/status/2019440838477025700",
+    "fullText": "1 in 5 Americans receive their news from influencers, according to Pew Research. \n\nMost of these influencers are Gen Z. \n\nSpeak up. Let your voice be heard."
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -161,11 +229,28 @@
   },
   {
     "user": {
+      "screenName": "keepitcloaked",
+      "name": "Cloaked",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991244375460909056/3E-vqnmR_normal.png",
+      "description": "Protect your privacy & silence spam. \nRemove exposed personal info + Get unlimited phone numbers & emails. Join the community: https://t.co/wIR1eL5Dc9",
+      "followersCount": 3698,
+      "friendsCount": 172,
+      "location": "Get Cloaked! ➡️"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019437887117250560/vid/avc1/1920x1080/q3wnmcf6iKAHFLrC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/keepitcloaked/status/2019438020596826153",
+    "fullText": "Life at Cloaked | Episode 7: What Cloaked Call Guard Does\nWrapping up our Call Guard deep dive 📞\nIn this episode of Life at Cloaked, Arjun and Kyler show how Call Guard actually works, how AI helps figure out which calls matter, and what changes once the noise stops.\nWay fewer https://t.co/VDyUE3VbHo"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41616,
+      "followersCount": 41617,
       "friendsCount": 764,
       "location": "Hong Kong"
     },
@@ -183,7 +268,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9872,
+      "followersCount": 9870,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -191,6 +276,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2019426977745367219",
     "fullText": "挺好奇一个问题： Vercel 这套 Serverless 和 这套收费机制（比如 function 收费），是不是非常不适合 Agent 产品啊。"
+  },
+  {
+    "user": {
+      "screenName": "atoms_dev",
+      "name": "Atoms",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1955090997903507456/IUvglzC6_normal.jpg",
+      "description": "AI Vibe Business Team That Turns Your Ideas Into Business",
+      "followersCount": 3961,
+      "friendsCount": 150,
+      "location": "Palo Alto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAZyISLa8AAucXu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/atoms_dev/status/2019426974339670199",
+    "fullText": "Introducing race mode in Atoms.\nMultiple agents explore the same task in parallel.\n\nYou stay in control of what gets selected and refined.👇 https://t.co/ymTDkWxAzx"
   },
   {
     "user": {
@@ -218,7 +320,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610850,
+      "followersCount": 4610765,
       "friendsCount": 4,
       "location": ""
     },
@@ -229,11 +331,45 @@
   },
   {
     "user": {
+      "screenName": "TradersParadise",
+      "name": "Matt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836499543388553216/BJl7GZwx_normal.jpg",
+      "description": "Futures Trader | Live Stream https://t.co/SIIbVLk5aB | CEO @RocketScooterAI | MFFU TV Host | Former Chem. Engineer | Trading Competition Champ |",
+      "followersCount": 30537,
+      "friendsCount": 639,
+      "location": "Houston, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAZk0VAWcAAgWlR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TradersParadise/status/2019412872187793572",
+    "fullText": "The market is in a liquidity crisis as of this week I gave many talks about it on my show, and on @MyFundedTV \nThis isn't your usual downturn, the market could FLUSH. So be CAREFUL. Here's some of the reasons why: https://t.co/YaOO35kv8z"
+  },
+  {
+    "user": {
+      "screenName": "meetcleo",
+      "name": "Cleo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2019108009427791872/An5_6K0P_normal.jpg",
+      "description": "Money talks. Cleo talks back.",
+      "followersCount": 20556,
+      "friendsCount": 4118,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019410738012475393/vid/avc1/1920x1080/XTRv7yMcNS9dLFAN.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/meetcleo/status/2019410876646752580",
+    "fullText": "Money never sleeps. And neither does Cleo.\n \nWe’re too busy making moves. And today we made two big ones: we launched self-driving money with Autopilot, and we also launched ourselves back to the UK. Again. \n\nHere’s a look at what’s new: \n\n 1. Autopilot turns money insights into https://t.co/fPUfL8jn9A"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9872,
+      "followersCount": 9870,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -248,7 +384,7 @@
       "name": "Archer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1262881525994909697/hpEA_MA0_normal.jpg",
       "description": "Archer’s mission is to unlock the skies, freeing us to reimagine how we live and spend time. (NYSE: $ACHR)\n\nOfficial Air Taxi Provider @TeamUSA @LA28",
-      "followersCount": 56392,
+      "followersCount": 56385,
       "friendsCount": 509,
       "location": "Santa Clara, CA"
     },
@@ -297,11 +433,28 @@
   },
   {
     "user": {
+      "screenName": "twingatestudio",
+      "name": "Twingate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2012080171059445760/YxtpUl5U_normal.jpg",
+      "description": "A multidisciplinary design studio specializing in digital design, branding, and strategy.",
+      "followersCount": 463,
+      "friendsCount": 2,
+      "location": "London, England"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019394990322118660/vid/avc1/1920x1080/w9gWjnZ8QRVxywO8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/twingatestudio/status/2019395075869143158",
+    "fullText": "Brandsprints – 2025/26 https://t.co/oOmD3a9Fi7"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9872,
+      "followersCount": 9870,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -350,7 +503,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 41616,
+      "followersCount": 41617,
       "friendsCount": 764,
       "location": "Hong Kong"
     },
@@ -382,7 +535,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9872,
+      "followersCount": 9870,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -532,7 +685,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155406,
+      "followersCount": 155407,
       "friendsCount": 529,
       "location": "中华人民共和国"
     },
@@ -551,7 +704,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -583,7 +736,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64761,
+      "followersCount": 64767,
       "friendsCount": 506,
       "location": ""
     },
@@ -615,7 +768,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -645,7 +798,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156374,
+      "followersCount": 156377,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -678,7 +831,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -695,7 +848,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6969,
+      "followersCount": 6968,
       "friendsCount": 746,
       "location": "San Jose, CA"
     },
@@ -727,7 +880,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -759,7 +912,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -774,7 +927,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23626,
+      "followersCount": 23622,
       "friendsCount": 5059,
       "location": ""
     },
@@ -853,7 +1006,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156374,
+      "followersCount": 156377,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -878,6 +1031,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/drafan_ads/status/2019219579667689685",
     "fullText": "✨Miss Kobayashi's Dragon Maid is finally getting a game adaptation!\n\nMiss Kobayashi and her fun-loving dragons are \ncute chibi characters on a grand adventure\n\nGet free items worth $130"
+  },
+  {
+    "user": {
+      "screenName": "MilkRoad",
+      "name": "Milk Road",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919653205287342080/aTza24EW_normal.jpg",
+      "description": "Helping you get smarter about crypto, macro and AI investing. \n\nNow trusted by 500k+ investors. \n\nSubscribe below 👇\n\n@MilkRoadMacro\n@MilkRoadAI",
+      "followersCount": 95954,
+      "friendsCount": 3480,
+      "location": "JOIN HERE →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MilkRoad/status/2019140229664501769",
+    "fullText": "You don't need a recap. You need analysis. \n\nWe dissect the capital flows and infrastructure build-out so you can spot the winners.\n\n Sign up for our FREE newsletter."
   },
   {
     "user": {
