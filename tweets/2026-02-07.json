@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9988,
+      "friendsCount": 515,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020030692349071622",
+    "fullText": "同时把相同的关于 OpenClaw 和 Codex 之间用法的细节问题（非常考验查询、推断）给了 GPT-5.3-Codex 和 Claude-Opus-4.6 去调研回答。\n1. 整体回答的响应速度：接近，差不多。\n2. 准确性：GPT-5.3-Codex 完爆。\n\n为什么2这么说。因为 Claude-Opus-4.6 的回答就会说这也行、那也行，一贯的 Claude"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
@@ -25,7 +40,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177187,
+      "followersCount": 177181,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -40,7 +55,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9987,
+      "followersCount": 9988,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -55,7 +70,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
@@ -72,7 +87,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
@@ -89,7 +104,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
@@ -106,7 +121,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155486,
+      "followersCount": 155485,
       "friendsCount": 528,
       "location": "中华人民共和国"
     },
@@ -123,7 +138,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9987,
+      "followersCount": 9988,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -138,7 +153,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155486,
+      "followersCount": 155485,
       "friendsCount": 528,
       "location": "中华人民共和国"
     },
@@ -153,7 +168,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177187,
+      "followersCount": 177181,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -185,7 +200,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
@@ -202,7 +217,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76733,
+      "followersCount": 76734,
       "friendsCount": 3529,
       "location": ""
     },
@@ -217,7 +232,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76733,
+      "followersCount": 76734,
       "friendsCount": 3529,
       "location": ""
     },
@@ -252,7 +267,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
@@ -284,7 +299,7 @@
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
       "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDf7dZ",
-      "followersCount": 1093532,
+      "followersCount": 1093647,
       "friendsCount": 5572,
       "location": ""
     },
@@ -301,7 +316,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64784,
+      "followersCount": 64789,
       "friendsCount": 507,
       "location": ""
     },
@@ -316,7 +331,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64784,
+      "followersCount": 64789,
       "friendsCount": 507,
       "location": ""
     },
@@ -327,6 +342,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2019932843938627896",
     "fullText": "【书和电影】\n这是我今年最期待在大荧幕上看到的电影\n\n我知道X还是有很多大神的，有没有相关人等，給北美院线安排一下，上映此片呢？ 感谢🙏感谢🙏 https://t.co/0rl3QvZHD5"
+  },
+  {
+    "user": {
+      "screenName": "HarrisXdata",
+      "name": "HarrisX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1815476548348047360/mMVI83UD_normal.jpg",
+      "description": "TODAY’S WORLD, IN NUMBERS. In-depth data and strategy on Politics, Society, Business, Philanthropy, A.I., Technology, Connectivity, Autos, New Consumers & more.",
+      "followersCount": 3787,
+      "friendsCount": 1029,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAg2W5aXcAEwd3S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HarrisXdata/status/2019924249272627232",
+    "fullText": "🏈More Super Bowl Polling\n\n𝗔𝗺𝗲𝗿𝗶𝗰𝗮𝗻𝘀 𝗪𝗮𝗻𝘁 𝗠𝘂𝘀𝗶𝗰, 𝗕𝘂𝘁 𝗘𝘅𝗽𝗲𝗰𝘁 𝗕𝗮𝗱 𝗕𝘂𝗻𝗻𝘆 𝘁𝗼 𝗦𝗲𝗻𝗱 𝗮 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝗮𝗹 𝗠𝗲𝘀𝘀𝗮𝗴𝗲\n• 71% of Americans say Bad Bunny should focus on music during the Super Bowl halftime show\n• 53%, however, expect he will https://t.co/Hy42DM5rfI"
   },
   {
     "user": {
@@ -351,7 +383,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177187,
+      "followersCount": 177181,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -366,7 +398,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177187,
+      "followersCount": 177181,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -381,7 +413,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22531,
+      "followersCount": 22535,
       "friendsCount": 899,
       "location": "San Jose, CA"
     },
@@ -396,7 +428,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22531,
+      "followersCount": 22535,
       "friendsCount": 899,
       "location": "San Jose, CA"
     },
@@ -513,7 +545,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64784,
+      "followersCount": 64789,
       "friendsCount": 507,
       "location": ""
     },
@@ -530,7 +562,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156449,
+      "followersCount": 156454,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -547,7 +579,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9987,
+      "followersCount": 9988,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -562,7 +594,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18450,
       "friendsCount": 1755,
       "location": ""
     },
@@ -579,7 +611,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4614011,
+      "followersCount": 4614042,
       "friendsCount": 4,
       "location": ""
     },
@@ -596,7 +628,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9987,
+      "followersCount": 9988,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -611,7 +643,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156449,
+      "followersCount": 156454,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -643,7 +675,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 9987,
+      "followersCount": 9988,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -694,7 +726,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18452,
+      "followersCount": 18450,
       "friendsCount": 1755,
       "location": ""
     },
@@ -838,7 +870,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10859,
+      "followersCount": 10860,
       "friendsCount": 2633,
       "location": ""
     },
@@ -1030,7 +1062,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177187,
+      "followersCount": 177181,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -1081,7 +1113,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49562,
+      "followersCount": 49560,
       "friendsCount": 289,
       "location": "China"
     },
