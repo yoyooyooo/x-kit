@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10008,
+      "friendsCount": 515,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020310147818828140",
+    "fullText": "Nice！Claude Code 进一步推出如何让你更快的消耗 Tokens 的解决方案：Fast 模式。\n简单来说，你需要开这个 Fast 模式，6倍的价格烧 Tokens，速度能快多少，好像文档没明说。\n总而言之：充值使你更快花钱\n\nhttps://t.co/iYKxPMGhHw"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 41593,
+      "friendsCount": 768,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2020308958414794755/vid/avc1/1920x1080/L3u9BC7yI8uoOvg0.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/2020309532208238798",
+    "fullText": "Seedance 2.0 真的太强了！这是视频的Nano Banana时刻。\n\n这是我用30min做好的动画。我终于改变了我最想改变的一场战斗。粗眉毛，他赢了！ https://t.co/K4xWzLoVGN"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,9 +54,9 @@
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
-      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibili & Youtuber Creator · Build & Iterate",
-      "followersCount": 41591,
-      "friendsCount": 767,
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 41593,
+      "friendsCount": 768,
       "location": "Hong Kong"
     },
     "images": [],
@@ -55,7 +87,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177352,
+      "followersCount": 177361,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -70,8 +102,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1757,
+      "followersCount": 18457,
+      "friendsCount": 1756,
       "location": ""
     },
     "images": [
@@ -87,8 +119,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1757,
+      "followersCount": 18457,
+      "friendsCount": 1756,
       "location": ""
     },
     "images": [],
@@ -117,7 +149,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -164,8 +196,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1757,
+      "followersCount": 18457,
+      "friendsCount": 1756,
       "location": ""
     },
     "images": [
@@ -181,7 +213,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -201,7 +233,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -218,7 +250,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -248,7 +280,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -265,7 +297,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -280,7 +312,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62744,
+      "followersCount": 62752,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -295,7 +327,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -312,7 +344,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6004,
+      "followersCount": 6005,
       "friendsCount": 629,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -329,7 +361,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62744,
+      "followersCount": 62752,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -346,7 +378,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6004,
+      "followersCount": 6005,
       "friendsCount": 629,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -363,7 +395,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156459,
+      "followersCount": 156462,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -378,8 +410,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10882,
-      "friendsCount": 2638,
+      "followersCount": 10887,
+      "friendsCount": 2639,
       "location": ""
     },
     "images": [],
@@ -393,7 +425,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156459,
+      "followersCount": 156462,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -408,7 +440,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -422,9 +454,9 @@
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
-      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibili & Youtuber Creator · Build & Iterate",
-      "followersCount": 41591,
-      "friendsCount": 767,
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 41593,
+      "friendsCount": 768,
       "location": "Hong Kong"
     },
     "images": [],
@@ -440,8 +472,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18451,
-      "friendsCount": 1757,
+      "followersCount": 18457,
+      "friendsCount": 1756,
       "location": ""
     },
     "images": [
@@ -458,8 +490,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10882,
-      "friendsCount": 2638,
+      "followersCount": 10887,
+      "friendsCount": 2639,
       "location": ""
     },
     "images": [
@@ -475,7 +507,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156459,
+      "followersCount": 156462,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -505,7 +537,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62744,
+      "followersCount": 62752,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -522,7 +554,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -542,7 +574,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26277,
+      "followersCount": 26282,
       "friendsCount": 322,
       "location": "Guangdong"
     },
@@ -557,7 +589,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -590,7 +622,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10007,
+      "followersCount": 10008,
       "friendsCount": 515,
       "location": "杭州"
     },
@@ -605,7 +637,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177352,
+      "followersCount": 177361,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -635,7 +667,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
@@ -720,7 +752,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177352,
+      "followersCount": 177361,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -728,6 +760,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2019918867812757556",
     "fullText": "我觉得 AI 编程的发展有些像现在的编译器，普通人不需要关心它的实现，只要用高级语言描述清楚自己想要的，编译器会帮助把编程语言编译成机器代码；以后人类用自然语言，AI 翻译成编程语言，人类不需要关心其中的细节，只要验收结果就好。 https://t.co/2zCyImZjFV"
+  },
+  {
+    "user": {
+      "screenName": "sportspayus23",
+      "name": "SportsPayUs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938679018665947136/Qx_QUVxT_normal.jpg",
+      "description": "Sports Pay Us is the free sports newsletter sent on Tuesdays & Saturdays built for fans who want smarter plays & sharper insight on the games you love.",
+      "followersCount": 228,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAgMuZ5XoAEjBwt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sportspayus23/status/2019878909450547259",
+    "fullText": "We hit 70% of the biggest games.\n62% all season.\nMost lose.\nWe don’t. https://t.co/WTINbHhN7R"
   },
   {
     "user": {
@@ -780,6 +829,21 @@
   },
   {
     "user": {
+      "screenName": "DonBestOdds",
+      "name": "DonBest",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947386065934749696/G4kgUQrb_normal.jpg",
+      "description": "The most trusted name in sports betting intelligence. We provide the real-time odds, line movement alerts & the data the pros use to find their edge. 21+",
+      "followersCount": 211,
+      "friendsCount": 83,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DonBestOdds/status/2019747397430345856",
+    "fullText": "Smarter bets, real-time edge. 100+ sportsbooks compared instantly. Start now. 21+"
+  },
+  {
+    "user": {
       "screenName": "HobbyGenki",
       "name": "Hobby-Genki",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209741736374755329/kb_RexZv_normal.jpg",
@@ -801,7 +865,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49591,
+      "followersCount": 49592,
       "friendsCount": 289,
       "location": "China"
     },
