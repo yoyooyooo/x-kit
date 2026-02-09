@@ -1,11 +1,135 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 177627,
+      "friendsCount": 1550,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2020691830380155311",
+    "fullText": "https://t.co/vFcSxGYg26"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "SUPER BOWL SUNDAY. #SBLX",
+      "followersCount": 35945239,
+      "friendsCount": 2803,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2020688840760188928/vid/avc1/1280x720/Hma0BP5MOl1XhiIC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2020689068770906549",
+    "fullText": "Super Bowl Leo. https://t.co/46bznzizGD"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9139,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HArs04IbkAAMM69.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2020688144123953481",
+    "fullText": "不知道为什么我的 Claude Code 的模型变成了 Sonnet 4.5 了 😂 https://t.co/gdMuChDH1R"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10103,
+      "friendsCount": 517,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020688099890925691",
+    "fullText": "我慢慢发现，当你意识到 AI 的未来感的时候，你感受到了内心深处的洞察，你会很想告诉别人你发现了什么。\n\n而现实是除了推特，很难找到一个地方可以分享你的这种想法，并获得共鸣。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49621,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2020682352444477651",
+    "fullText": "Plan模式对于大型软件项目还是必须的，因为AI也有偷懒的倾向\n\n它在后期会为了修复你局部的问题，找一个最省力的方式把你原来写好的代码改的面目全非\n\n所以，越到项目后期越要通过 Plan 模式来review AI的思路，避免它捡了芝麻丢了西瓜🤣"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18457,
+      "friendsCount": 1759,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2020682339614163403",
+    "fullText": "macOS26 升级，意料之中的出了点网络问题，捣鼓十分钟解决，预计下一个问题会在跑代码的时候出现..."
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10103,
+      "friendsCount": 517,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020681159680946259",
+    "fullText": "我觉得按照现在 AI Coding 的发展趋势，我应该是做一款控制大家只能一天 vibe X 小时的 App 了，戒掉 vibe 上瘾。"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10103,
+      "friendsCount": 517,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020679137053302841",
+    "fullText": "我现在跟 Openclaw 的沟通好像是单向的，我说一句他回一句，如果我让他去搞个活5分钟，他不会5分钟干完以后给我回话，必须我到时候主动去问他，才发现他已经干完了。\n我是接到 discord 上的，这个咋解决？"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76737,
+      "followersCount": 76733,
       "friendsCount": 3530,
       "location": ""
     },
@@ -48,11 +172,28 @@
   },
   {
     "user": {
+      "screenName": "kraftmacncheese",
+      "name": "Kraft Mac & Cheese",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888806600678285312/WJ1QJwJf_normal.png",
+      "description": "Why's everyone trying to leave their comfort zone when mac & cheese is there?",
+      "followersCount": 34671,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HArVcafWkAAiLVI.mp4"
+    ],
+    "tweetUrl": "https://x.com/kraftmacncheese/status/2020662087924511223",
+    "fullText": "better than witchy movie trailers. we’re wicked good, and not just in the boston sense... @wickedmovie https://t.co/t9Eh8Ti1z2"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64770,
+      "followersCount": 64772,
       "friendsCount": 509,
       "location": ""
     },
@@ -103,7 +244,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177615,
+      "followersCount": 177627,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -118,7 +259,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23662,
+      "followersCount": 23663,
       "friendsCount": 5067,
       "location": ""
     },
@@ -133,7 +274,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4616016,
+      "followersCount": 4616146,
       "friendsCount": 4,
       "location": ""
     },
@@ -165,7 +306,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6005,
+      "followersCount": 6004,
       "friendsCount": 629,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -261,7 +402,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177615,
+      "followersCount": 177627,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -293,7 +434,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64770,
+      "followersCount": 64772,
       "friendsCount": 509,
       "location": ""
     },
@@ -310,7 +451,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64770,
+      "followersCount": 64772,
       "friendsCount": 509,
       "location": ""
     },
@@ -457,7 +598,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62782,
+      "followersCount": 62781,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -474,7 +615,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10093,
+      "followersCount": 10103,
       "friendsCount": 517,
       "location": "杭州"
     },
@@ -489,7 +630,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10093,
+      "followersCount": 10103,
       "friendsCount": 517,
       "location": "杭州"
     },
@@ -521,7 +662,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62782,
+      "followersCount": 62781,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -557,7 +698,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23662,
+      "followersCount": 23663,
       "friendsCount": 5067,
       "location": ""
     },
@@ -574,7 +715,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "CEO, Bootloader AI\n我也绝非等闲之辈！🥹",
-      "followersCount": 7769,
+      "followersCount": 7770,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -688,7 +829,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62782,
+      "followersCount": 62781,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -705,7 +846,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23662,
+      "followersCount": 23663,
       "friendsCount": 5067,
       "location": ""
     },
@@ -737,7 +878,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76737,
+      "followersCount": 76733,
       "friendsCount": 3530,
       "location": ""
     },
@@ -769,7 +910,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23662,
+      "followersCount": 23663,
       "friendsCount": 5067,
       "location": ""
     },
@@ -837,7 +978,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10093,
+      "followersCount": 10103,
       "friendsCount": 517,
       "location": "杭州"
     },
