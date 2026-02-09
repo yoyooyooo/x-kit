@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 156674,
+      "friendsCount": 527,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAtglL3akAAfopn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2020815528500080773",
+    "fullText": "今天写的这个 key 管理工具太完美了，实现了 git repo &lt;-&gt; 1Password &lt;-&gt; GitHub/Cloudflare secrets store 的三方同步，我再也不需要为各种 dev/prod 环境配置几种不同的 keys，最后检查一下马上开源！ https://t.co/MAS4Blu5YI"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18452,
+      "friendsCount": 1759,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAtfpyNbgAAGeoX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2020814204580540501",
+    "fullText": "今天终于是玩上openclaw🦞了，感觉我落伍了 https://t.co/mJDhOToSXo"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49615,
+      "followersCount": 49614,
       "friendsCount": 289,
       "location": "China"
     },
@@ -22,7 +56,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49615,
+      "followersCount": 49614,
       "friendsCount": 289,
       "location": "China"
     },
@@ -39,7 +73,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18455,
+      "followersCount": 18452,
       "friendsCount": 1759,
       "location": ""
     },
@@ -74,7 +108,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49615,
+      "followersCount": 49614,
       "friendsCount": 289,
       "location": "China"
     },
@@ -91,7 +125,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18455,
+      "followersCount": 18452,
       "friendsCount": 1759,
       "location": ""
     },
@@ -106,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18455,
+      "followersCount": 18452,
       "friendsCount": 1759,
       "location": ""
     },
@@ -136,7 +170,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -153,7 +187,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -183,7 +217,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -260,7 +294,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -290,7 +324,7 @@
       "name": "Matt Whitman⚡",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1862555149039747072/fzLBIWOJ_normal.jpg",
       "description": "I make The Ten Minute Bible Hour on YouTube, The Ten Minute Bible Hour daily podcast, Ironwood Rhino and No Dumb Questions.\nhttps://t.co/QDRAmTmZOZ\nthetmbh@gmail.com",
-      "followersCount": 35732,
+      "followersCount": 35729,
       "friendsCount": 339,
       "location": "The Ten Minute Bible Hour"
     },
@@ -305,7 +339,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -337,7 +371,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18455,
+      "followersCount": 18452,
       "friendsCount": 1759,
       "location": ""
     },
@@ -354,7 +388,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -386,7 +420,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -401,7 +435,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156670,
+      "followersCount": 156674,
       "friendsCount": 527,
       "location": "東京 港区"
     },
@@ -416,7 +450,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -450,7 +484,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -497,7 +531,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177764,
+      "followersCount": 177769,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -546,7 +580,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -561,7 +595,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49615,
+      "followersCount": 49614,
       "friendsCount": 289,
       "location": "China"
     },
@@ -591,7 +625,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -623,7 +657,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10134,
+      "followersCount": 10139,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -638,7 +672,7 @@
       "name": "peepsbrand",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611031570806087682/iqbJobI9_normal.jpg",
       "description": "The second biggest Sunday ever. 2.8.26",
-      "followersCount": 22907,
+      "followersCount": 22908,
       "friendsCount": 160,
       "location": ""
     },
@@ -719,7 +753,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64785,
+      "followersCount": 64788,
       "friendsCount": 509,
       "location": ""
     },
@@ -770,7 +804,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177764,
+      "followersCount": 177769,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -800,7 +834,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4616496,
+      "followersCount": 4616477,
       "friendsCount": 4,
       "location": ""
     },
@@ -879,7 +913,7 @@
       "name": "State Farm",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666866688938082323/SGdI_eNA_normal.jpg",
       "description": "Welcome to the neighborhood 🤝",
-      "followersCount": 119573,
+      "followersCount": 119576,
       "friendsCount": 4,
       "location": "Bloomington, Illinois"
     },
@@ -894,7 +928,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49615,
+      "followersCount": 49614,
       "friendsCount": 289,
       "location": "China"
     },
@@ -1120,8 +1154,8 @@
       "name": "Shards of Memories - Wishlist Now On Steam!",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950429385514704896/GqrnZZK8_normal.jpg",
       "description": "A hand-drawn 2D Metroidvania about forgotten memories.\nSteam: https://t.co/hT87HmkdUG\nPre-Kickstarter: https://t.co/7UpV4duTVc",
-      "followersCount": 638,
-      "friendsCount": 840,
+      "followersCount": 641,
+      "friendsCount": 841,
       "location": "Frankfurt on the Main, Germany"
     },
     "images": [],
