@@ -1,6 +1,68 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 41636,
+      "friendsCount": 770,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2020763563208675328/vid/avc1/3840x2160/9HpqGEklq3FZJwWj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/2020764616197038129",
+    "fullText": "I “Fixed” My Favorite Anime！\nSeedance 2.0 Is INSANE #seedance2 https://t.co/dPYNN7kwrh"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10123,
+      "friendsCount": 518,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2020761898854273278",
+    "fullText": "现在别说啥模型智不智能了，just show me your openclaw。\n\n一旦上了 openclaw，什么模型吹得再好，任务搞不定，一下子就暴露出来了。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26306,
+      "friendsCount": 322,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2020760445725151715",
+    "fullText": "复姓有那么多种，为啥我只听过身边人有欧阳这个姓，而且好几个，但其他复姓身边从来没出现过？"
+  },
+  {
+    "user": {
+      "screenName": "MattWhitmanTMBH",
+      "name": "Matt Whitman⚡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862555149039747072/fzLBIWOJ_normal.jpg",
+      "description": "I make The Ten Minute Bible Hour on YouTube, The Ten Minute Bible Hour daily podcast, Ironwood Rhino and No Dumb Questions.\nhttps://t.co/QDRAmTmZOZ\nthetmbh@gmail.com",
+      "followersCount": 35731,
+      "friendsCount": 339,
+      "location": "The Ten Minute Bible Hour"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MattWhitmanTMBH/status/2020758458111336763",
+    "fullText": "Want to start something brand new today that could make a huge difference in your life?\nA ton of friends from around the Internet and I are going to start working through the book of John together (from the Bible) a little bit every weekday. It's an audio-only podcast, ten-ish"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
@@ -69,7 +131,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10922,
+      "followersCount": 10923,
       "friendsCount": 2644,
       "location": ""
     },
@@ -86,7 +148,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -101,7 +163,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 156615,
+      "followersCount": 156620,
       "friendsCount": 526,
       "location": "東京 港区"
     },
@@ -133,7 +195,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 41633,
+      "followersCount": 41636,
       "friendsCount": 770,
       "location": "Hong Kong"
     },
@@ -197,7 +259,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177706,
+      "followersCount": 177717,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -246,7 +308,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -291,7 +353,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -323,7 +385,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -338,7 +400,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76734,
+      "followersCount": 76735,
       "friendsCount": 3530,
       "location": ""
     },
@@ -453,7 +515,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177706,
+      "followersCount": 177717,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -483,7 +545,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4616290,
+      "followersCount": 4616315,
       "friendsCount": 4,
       "location": ""
     },
@@ -547,7 +609,7 @@
       "name": "State Farm",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1666866688938082323/SGdI_eNA_normal.jpg",
       "description": "Welcome to the neighborhood 🤝",
-      "followersCount": 119572,
+      "followersCount": 119573,
       "friendsCount": 4,
       "location": "Bloomington, Illinois"
     },
@@ -626,7 +688,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 177706,
+      "followersCount": 177717,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -788,7 +850,7 @@
       "name": "Shards of Memories - Wishlist Now On Steam!",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950429385514704896/GqrnZZK8_normal.jpg",
       "description": "A hand-drawn 2D Metroidvania about forgotten memories.\nSteam: https://t.co/hT87HmkdUG\nPre-Kickstarter: https://t.co/7UpV4duTVc",
-      "followersCount": 628,
+      "followersCount": 634,
       "friendsCount": 840,
       "location": "Frankfurt on the Main, Germany"
     },
@@ -873,7 +935,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62784,
+      "followersCount": 62781,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -890,7 +952,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -905,7 +967,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10119,
+      "followersCount": 10123,
       "friendsCount": 518,
       "location": "杭州"
     },
@@ -937,7 +999,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62784,
+      "followersCount": 62781,
       "friendsCount": 280,
       "location": "Shanghai"
     },
