@@ -1,6 +1,83 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6006,
+      "friendsCount": 629,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2021462067358859679",
+    "fullText": "刚刚 iPhone 充电时和 MacBook 碰了一下，瞬间副屏黑了、手机黑了、外面客厅正在看小志的外甥叫了，一看电闸竟然跳闸了。\n\n哎。\n\n电恢复了，小志能看了，我的手机开不开了。\n\n哎。\n\n一会拿着纸币出门吧。"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6973,
+      "friendsCount": 745,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2021458865871782103",
+    "fullText": "今天晚上决定来个大跃进，从新 build 的 kernel 启动。遇到了 Nvidia driver 错误，shim 签证错误。用了 vibe 纠错：直接把错误信息交给 GPT，把 GPT 的 solution 运行。完全不理解！然后运行成功了！\n\n要是没有 AI，在这个 Nvidia + 安全启动的复杂年代，我学 Linux kernel 的计划就要夭折了。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18447,
+      "friendsCount": 1761,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2021458356184154585",
+    "fullText": "看似讲的是理，本质还是情绪"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18447,
+      "friendsCount": 1761,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2021457747485863978",
+    "fullText": "前年有段时间吧，特别喜欢微信群聊，主要是闲的。我线下说不出话但是线上可以是话唠，加了好多好多群，简直是大家的小太阳，后来突不想聊了，全部收进了折叠群聊里好好过自己的日子，今天翻了翻，发现我不说话的群很快就没人聊天了"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49616,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2021456401110007809/vid/avc1/1320x2246/r3J8wc-IpypEbW2R.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2021456775988511059",
+    "fullText": "iPhone粉丝买法拉利必冲！\n\n这是你能见过最具苹果风格的法拉利🤣\n\n因为它的设计师是Jony Ive，设计了多款苹果经典产品的人。 https://t.co/dW3lrlxFai"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -15,6 +92,21 @@
     ],
     "tweetUrl": "https://x.com/manateelazycat/status/2021450531940729246",
     "fullText": "江西的灵山，都不用走路了，直接索道+电梯上山\n\n适合膝盖不好的老年人🤣 https://t.co/OQzFaDvhUi"
+  },
+  {
+    "user": {
+      "screenName": "superformxyz",
+      "name": "Superform",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937588443166416896/4S5X6QSi_normal.png",
+      "description": "The user-owned neobank, powered by $UP. Save, swap, send, and earn the best returns in a single tap. 🐖",
+      "followersCount": 121997,
+      "friendsCount": 7,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/superformxyz/status/2021450247004975131",
+    "fullText": "Holding ETH alone isn’t a strategy. SuperWETH puts ETH to work through $UP-enabled SuperVaults. Stake once, earn yield, and receive $UP for helping secure and grow the Superform system. This is how ownership begins."
   },
   {
     "user": {
@@ -37,7 +129,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -67,7 +159,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155632,
+      "followersCount": 155634,
       "friendsCount": 527,
       "location": "中华人民共和国"
     },
@@ -99,7 +191,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 155632,
+      "followersCount": 155634,
       "friendsCount": 527,
       "location": "中华人民共和国"
     },
@@ -180,7 +272,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -212,7 +304,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 178734,
+      "followersCount": 178742,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -372,7 +464,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 178734,
+      "followersCount": 178742,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -389,7 +481,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4618766,
+      "followersCount": 4618812,
       "friendsCount": 4,
       "location": ""
     },
@@ -438,7 +530,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 178734,
+      "followersCount": 178742,
       "friendsCount": 1550,
       "location": "Chicago, IL"
     },
@@ -504,8 +596,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10942,
-      "friendsCount": 2648,
+      "followersCount": 10943,
+      "friendsCount": 2649,
       "location": ""
     },
     "images": [],
@@ -536,7 +628,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -583,7 +675,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -632,7 +724,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -664,8 +756,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10942,
-      "friendsCount": 2648,
+      "followersCount": 10943,
+      "friendsCount": 2649,
       "location": ""
     },
     "images": [
@@ -696,7 +788,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62816,
+      "followersCount": 62817,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -713,7 +805,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -731,7 +823,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -746,7 +838,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -761,7 +853,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
@@ -776,8 +868,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10942,
-      "friendsCount": 2648,
+      "followersCount": 10943,
+      "friendsCount": 2649,
       "location": ""
     },
     "images": [
@@ -812,7 +904,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "冬季是经不起等待的季节，我的面又坨了",
-      "followersCount": 18448,
+      "followersCount": 18447,
       "friendsCount": 1761,
       "location": ""
     },
