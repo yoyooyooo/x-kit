@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 179048,
+      "friendsCount": 1553,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2021786678671683901",
+    "fullText": "https://t.co/2rPmxLbBHw"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -50,7 +65,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -80,7 +95,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49613,
+      "followersCount": 49610,
       "friendsCount": 289,
       "location": "China"
     },
@@ -95,7 +110,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 41955,
+      "followersCount": 41970,
       "friendsCount": 780,
       "location": "Hong Kong"
     },
@@ -144,7 +159,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 41955,
+      "followersCount": 41970,
       "friendsCount": 780,
       "location": "Hong Kong"
     },
@@ -174,8 +189,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 179026,
-      "friendsCount": 1552,
+      "followersCount": 179048,
+      "friendsCount": 1553,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -206,6 +221,23 @@
       "name": "Good Luck, Have Fun, Don't Die",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009264445244219392/5h-4kPIB_normal.jpg",
       "description": "#GoodLuckHaveFunDontDie, from director Gore Verbinski and starring Sam Rockwell. THIS FRIDAY only in theaters. 93% Fresh on RT 🍅.",
+      "followersCount": 1715,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2020883051618942976/vid/avc1/1080x1920/Otgm4pzRXX5N9jfx.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/GLHFDDmovie/status/2021684809920368856",
+    "fullText": "They’re ready to save your future. Are you?\n\nCheck out the new poster from Jim “TAZ” Evans, then get your tickets to GOOD LUCK HAVE FUN DON'T DIE. Only in theaters this Friday (Early Access Premium Format screenings start tomorrow). https://t.co/YNXEU82k0J"
+  },
+  {
+    "user": {
+      "screenName": "GLHFDDmovie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009264445244219392/5h-4kPIB_normal.jpg",
+      "description": "#GoodLuckHaveFunDontDie, from director Gore Verbinski and starring Sam Rockwell. THIS FRIDAY only in theaters. 93% Fresh on RT 🍅.",
       "followersCount": 1711,
       "friendsCount": 1,
       "location": ""
@@ -223,7 +255,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64920,
+      "followersCount": 64926,
       "friendsCount": 517,
       "location": ""
     },
@@ -272,7 +304,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26308,
+      "followersCount": 26309,
       "friendsCount": 322,
       "location": "Guangdong"
     },
@@ -304,7 +336,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -319,7 +351,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49613,
+      "followersCount": 49610,
       "friendsCount": 289,
       "location": "China"
     },
@@ -336,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64920,
+      "followersCount": 64926,
       "friendsCount": 517,
       "location": ""
     },
@@ -353,7 +385,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10944,
+      "followersCount": 10935,
       "friendsCount": 2649,
       "location": ""
     },
@@ -400,7 +432,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -415,7 +447,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -430,7 +462,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -479,7 +511,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 41955,
+      "followersCount": 41970,
       "friendsCount": 780,
       "location": "Hong Kong"
     },
@@ -494,7 +526,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -509,7 +541,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10215,
+      "followersCount": 10216,
       "friendsCount": 520,
       "location": "杭州"
     },
@@ -638,7 +670,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 64920,
+      "followersCount": 64926,
       "friendsCount": 517,
       "location": ""
     },
@@ -668,7 +700,7 @@
       "name": "Hamnet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976301550692859906/pnfKlBSG_normal.jpg",
       "description": "HAMNET from Academy Award winner Chloé Zhao. Starring Jessie Buckley and Paul Mescal. Now playing in theaters and available to watch at home.",
-      "followersCount": 2719,
+      "followersCount": 2725,
       "friendsCount": 1,
       "location": ""
     },
@@ -676,6 +708,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/hamnetmovie/status/2021368705331102204",
     "fullText": "The performance of a generation. Nominated for 8 Academy Awards, including Best Actress and Best Picture of the Year. HAMNET is in theaters now."
+  },
+  {
+    "user": {
+      "screenName": "eightsleep",
+      "name": "Eight Sleep",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1786444182929723393/O0d1qLcF_normal.jpg",
+      "description": "Designed for deep sleep, personalized to you.",
+      "followersCount": 61922,
+      "friendsCount": 535,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2021243465384759296/vid/avc1/1280x720/KNq0t9wZ24rTsdNt.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/eightsleep/status/2021243573945958545",
+    "fullText": "Lights out 🚀 We’ve got some BIG news. \n\n@eightsleep joins forces with the @AstonMartinF1 team\n\nThe strongest partnerships happen when two teams are on the same trajectory and believe in the same thing: that the gains everyone else overlooks are the ones that decide it all.\n\nOn https://t.co/m2DgalM9EK"
   },
   {
     "user": {
@@ -693,5 +742,37 @@
     ],
     "tweetUrl": "https://x.com/optiqdata/status/2021238306206273962",
     "fullText": "Introducing Civiq by Optiq Data.\n\nThe first AI powered campaign intelligence platform built for campaigns, public affairs teams, and business advocacy groups operating at scale in California. https://t.co/iI9EAGMAUN"
+  },
+  {
+    "user": {
+      "screenName": "mysteriumvpn",
+      "name": "Mysterium VPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1858456907129798656/PSoCjsiY_normal.jpg",
+      "description": "Mysterium VPN is the ultimate next-gen fast VPN solution that provides exclusive access to the world's biggest residential IP network for anonymous surfing",
+      "followersCount": 1359,
+      "friendsCount": 48,
+      "location": "The internet🚀"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mysteriumvpn/status/2021213058941714455",
+    "fullText": "Geography-based locks. Identity verification requirements. 🪪 Turns out, online freedom isn't so free for everyone."
+  },
+  {
+    "user": {
+      "screenName": "FundedTradingP",
+      "name": "Funded Trading Plus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2020799942634110977/41LYwkg0_normal.jpg",
+      "description": "🏆#1 Most Trusted Prop Trading Firm Since 2021\n1-Step, 2-Step, & Instant Funding | Over $19.5 million in payouts | Traders in 180+ Countries",
+      "followersCount": 31726,
+      "friendsCount": 0,
+      "location": "United Kingdom"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2021207054820802560/vid/avc1/1920x1080/mq6sGTZ5L0xFh5ru.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FundedTradingP/status/2021210223873061091",
+    "fullText": "The launch of FT+ 2.0 is a celebration of the changes we've made to improve your experience, guided by your feedback.\n\n• New two-step challenge starting from $89.1\n• $10,000 account size added to the popular one-step challenge.2\n• All challenges are now swap-free at no extra https://t.co/XNkSzkgmXj"
   }
 ]
