@@ -1,6 +1,55 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 22127,
+      "friendsCount": 1057,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022534315515744256/vid/avc1/1098x720/p6yEIdkqumdaRr3D.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/2022534427742699773",
+    "fullText": "Noi 配置 CLI 化 https://t.co/DqndouLYpa"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 181733,
+      "friendsCount": 1552,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022463232506744832/vid/avc1/3840x2160/BQSkOqZWIXsWLSYV.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2022530471725277683",
+    "fullText": "先科普一下这个梗图的格式。https://t.co/TJBRWQOuvs\n\n它叫 Anakin and Padmé 梗，出自《星球大战前传2》里阿纳金和帕德梅在草地上野餐的场景，是个经典的四格对话模板：\n第一格，阿纳金说一件事（通常暗藏玄机）。\n第二格，帕德梅笑着做了一个善意的假设（“你是为了XX好，对吧？”）。"
+  },
+  {
+    "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
+      "description": "CEO, Bootloader AI\n我也绝非等闲之辈！🥹",
+      "followersCount": 7775,
+      "friendsCount": 180,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/2022529221143519273",
+    "fullText": "有次我和一个投资人，一个创业者聊天，他们说了几个很厉害的产品，我听都没听过，当时感觉非常羞愧，回来一看，麻了个逼，全是中文媒体吹出来的。\n\n所以那些低质信息，不光是小白看，很多大佬也爱看，污染整个行业。"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
@@ -39,7 +88,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -54,7 +103,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -65,11 +114,28 @@
   },
   {
     "user": {
+      "screenName": "FPDExplorer",
+      "name": "First-Person Data Explorer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927231890219495424/pC5hVh5c_normal.jpg",
+      "description": "🪐Explore data through immersive, interactive 3D environments⭐",
+      "followersCount": 77,
+      "friendsCount": 179,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022490754711760896/vid/avc1/1920x1080/et2fhu3D-ou4w7KT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FPDExplorer/status/2022490809648714230",
+    "fullText": "The Neural⛲️ is coming soon to First-Person Data Explorer! https://t.co/XMVPCOqLOQ"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181730,
+      "followersCount": 181733,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -84,7 +150,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181730,
+      "followersCount": 181733,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -99,7 +165,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4623409,
+      "followersCount": 4623493,
       "friendsCount": 4,
       "location": ""
     },
@@ -129,7 +195,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42090,
+      "followersCount": 42094,
       "friendsCount": 792,
       "location": "Hong Kong"
     },
@@ -157,11 +223,28 @@
   },
   {
     "user": {
+      "screenName": "ErikHildinger",
+      "name": "Erik Hildinger, Author and Translator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1564619369514209290/KIImc48-_normal.png",
+      "description": "Author and translator specializing in historical topics and, now, cozy mysteries.  Why not buy my novels?  More info at  https://t.co/0e1ggj8hTF",
+      "followersCount": 200,
+      "friendsCount": 330,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBDgZTWb0AADhFg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ErikHildinger/status/2022363513704853970",
+    "fullText": "Out now from Catchall Books!\n\nQuirinius: An Elegy on the Loss of Roman Britain\n\nThe Roman Empire in the west has fallen, and Britain remains an outpost of Roman culture assailed by barbarians. Flavius Quirinius Claudianus accepts the mantle of Count of the Britains, determined to https://t.co/otjEhmiFwB"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -176,7 +259,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -191,7 +274,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -206,7 +289,7 @@
       "name": "Analogue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
       "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
-      "followersCount": 108866,
+      "followersCount": 108882,
       "friendsCount": 250,
       "location": "usa"
     },
@@ -238,7 +321,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -253,7 +336,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49636,
+      "followersCount": 49638,
       "friendsCount": 290,
       "location": "China"
     },
@@ -283,7 +366,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49636,
+      "followersCount": 49638,
       "friendsCount": 290,
       "location": "China"
     },
@@ -300,7 +383,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49636,
+      "followersCount": 49638,
       "friendsCount": 290,
       "location": "China"
     },
@@ -317,7 +400,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65011,
+      "followersCount": 65009,
       "friendsCount": 517,
       "location": ""
     },
@@ -334,7 +417,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65011,
+      "followersCount": 65009,
       "friendsCount": 517,
       "location": ""
     },
@@ -349,7 +432,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18553,
+      "followersCount": 18561,
       "friendsCount": 1771,
       "location": ""
     },
@@ -364,7 +447,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -379,7 +462,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62887,
+      "followersCount": 62888,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -396,7 +479,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49636,
+      "followersCount": 49638,
       "friendsCount": 290,
       "location": "China"
     },
@@ -431,7 +514,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10292,
+      "followersCount": 10294,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -439,6 +522,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2022249470772085118",
     "fullText": "https://t.co/QRaUEIf0ua"
+  },
+  {
+    "user": {
+      "screenName": "rayswheels_",
+      "name": "rayswheels_official",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1859512235552538627/kv0nZMj__normal.jpg",
+      "description": "The Official RAYS X Account #rayswheels",
+      "followersCount": 5319,
+      "friendsCount": 56,
+      "location": "Osaka-fu, Japan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rayswheels_/status/2022249398085013991",
+    "fullText": "30 years since its debut.\nPursuing the ideal of lightweight performance and high rigidity, TE37 has earned its name on both street and circuit.\nThe 30th Anniversary model blends homage to the original with the latest technology, connecting history and the future."
   },
   {
     "user": {
@@ -667,7 +765,7 @@
       "name": "Mayor Matt Mahan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016262630206529536/XFT1SiMq_normal.jpg",
       "description": "Mayor of San José. Running for Governor to get California back to basics. Better half: @silviascandar",
-      "followersCount": 20163,
+      "followersCount": 20175,
       "friendsCount": 1551,
       "location": "San Jose, CA"
     },
@@ -683,7 +781,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1624015757083553799/-CviBNxc_normal.jpg",
       "description": "Geopolitics around the Taiwan Strait.\n\ninquiries@dominotheory.com",
       "followersCount": 1279,
-      "friendsCount": 1964,
+      "friendsCount": 1965,
       "location": "Taipei, Taiwan"
     },
     "images": [],
