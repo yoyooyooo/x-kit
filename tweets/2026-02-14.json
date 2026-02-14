@@ -1,11 +1,59 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9147,
+      "friendsCount": 309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2022597096793415981",
+    "fullText": "Opus 4.6 驱动 OpenClaw 应该会很爽，API 太贵，又不敢用订阅登录用。GPT 5.3 Codex 感觉不太行，Agent 犯错太多会浪费很多时间。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 181787,
+      "friendsCount": 1552,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBGyrggWMAAzJQ8.jpg",
+      "https://pbs.twimg.com/media/HBGy2nFXwAAmCL1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2022594392406540622",
+    "fullText": "豆包是我日常用得最多的国产模型，迭代最快最稳。豆包 App 的 C 端日活过亿，火山引擎的模型即服务在国内份额第一，日均 Token 调用量和 OpenAI、Google 是同一档的。能撑起这个体量，模型得过硬。\n\n豆包大模型 2.0 https://t.co/p6DME0DUL4"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 42099,
+      "friendsCount": 792,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2022593965686743221",
+    "fullText": "今天和ChatGPT聊了5个小时，对于目前我面对产品开发+增长，个人自媒体以及知识付费同步在做，遇到的困扰和矛盾。\n\n算是聊透了，知道下一步怎么去做减法，同时又保持数据增长。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49648,
+      "followersCount": 49644,
       "friendsCount": 290,
       "location": "China"
     },
@@ -22,7 +70,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10958,
+      "followersCount": 10959,
       "friendsCount": 2646,
       "location": ""
     },
@@ -52,7 +100,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -84,7 +132,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62890,
+      "followersCount": 62892,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -101,7 +149,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -116,7 +164,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -133,7 +181,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49648,
+      "followersCount": 49644,
       "friendsCount": 290,
       "location": "China"
     },
@@ -148,7 +196,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10958,
+      "followersCount": 10959,
       "friendsCount": 2646,
       "location": ""
     },
@@ -182,7 +230,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181784,
+      "followersCount": 181787,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -248,7 +296,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -263,7 +311,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -312,7 +360,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181784,
+      "followersCount": 181787,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -323,11 +371,26 @@
   },
   {
     "user": {
+      "screenName": "TedForIllinois",
+      "name": "Ted For Illinois",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965833307163176960/FUJlDMgC_normal.jpg",
+      "description": "Fighting to lower prices, cut crushing taxes, create jobs, fix schools & restore safe communities. IL can’t afford four more years of excuses and failure.",
+      "followersCount": 5822,
+      "friendsCount": 120,
+      "location": "Illinois"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TedForIllinois/status/2022443964675285274",
+    "fullText": "Illinois vs. Indiana this weekend. But why are our counties talking about leaving? Families are overtaxed and ignored. Ted Dabrowski will fix Illinois—not flee it—through lower taxes and local control. Let’s keep Illinois counties in Illinois. Vote Ted Dabrowski on March 17."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181784,
+      "followersCount": 181787,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -342,7 +405,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4623919,
+      "followersCount": 4623933,
       "friendsCount": 4,
       "location": ""
     },
@@ -372,7 +435,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42100,
+      "followersCount": 42099,
       "friendsCount": 792,
       "location": "Hong Kong"
     },
@@ -421,7 +484,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -436,7 +499,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -451,7 +514,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -532,7 +595,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -547,7 +610,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49648,
+      "followersCount": 49644,
       "friendsCount": 290,
       "location": "China"
     },
@@ -577,7 +640,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49648,
+      "followersCount": 49644,
       "friendsCount": 290,
       "location": "China"
     },
@@ -594,7 +657,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49648,
+      "followersCount": 49644,
       "friendsCount": 290,
       "location": "China"
     },
@@ -658,7 +721,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10316,
+      "followersCount": 10315,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -673,7 +736,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62890,
+      "followersCount": 62892,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -922,6 +985,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/superformxyz/status/2022076156519080012",
     "fullText": "Holding ETH alone isn’t a strategy. SuperWETH puts ETH to work through $UP-enabled SuperVaults. Stake once, earn yield, and receive $UP for helping secure and grow the Superform system. This is how ownership begins."
+  },
+  {
+    "user": {
+      "screenName": "superformxyz",
+      "name": "Superform",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937588443166416896/4S5X6QSi_normal.png",
+      "description": "The user-owned neobank, powered by $UP. Save, swap, send, and earn the best returns in a single tap. 🐖",
+      "followersCount": 122658,
+      "friendsCount": 7,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/superformxyz/status/2022076038021525594",
+    "fullText": "Earn more on BTC, ETH and USDC with Superform's $UP Only SuperVaults and own Ethereum's neobank."
   },
   {
     "user": {
