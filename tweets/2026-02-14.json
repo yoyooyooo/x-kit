@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
+      "description": "CEO, Bootloader AI\n我也绝非等闲之辈！🥹",
+      "followersCount": 7775,
+      "friendsCount": 180,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBFr0ZNakAAXKSb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/2022516265575997801",
+    "fullText": "在团队里找一个华人，放在c位猛吹，让大家high起来，这招真的屡用不爽。\n\n从公开一手材料来看，姚顺宇没在两篇论文的作者名单里面，而且官方点名了突出贡献者（Luong、Mirrokni、Feng、Woodruff），Yao也没在里面，但是Yao在官方致谢支持贡献者里面。所以合理推测，Yao对项目有实质贡献但并不核心。 https://t.co/wSgR85pwhF"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6969,
+      "friendsCount": 745,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBFnUnbakAEuh4e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2022511314372038840",
+    "fullText": "今天山上雾很大。 https://t.co/0ocirNvIpN"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -20,7 +54,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -35,7 +69,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181711,
+      "followersCount": 181730,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -50,7 +84,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181711,
+      "followersCount": 181730,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -65,7 +99,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4623292,
+      "followersCount": 4623409,
       "friendsCount": 4,
       "location": ""
     },
@@ -95,7 +129,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42092,
+      "followersCount": 42090,
       "friendsCount": 792,
       "location": "Hong Kong"
     },
@@ -110,7 +144,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26319,
+      "followersCount": 26320,
       "friendsCount": 323,
       "location": "Guangdong"
     },
@@ -127,7 +161,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -142,7 +176,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -157,7 +191,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -172,7 +206,7 @@
       "name": "Analogue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
       "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
-      "followersCount": 108848,
+      "followersCount": 108866,
       "friendsCount": 250,
       "location": "usa"
     },
@@ -189,7 +223,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9150,
+      "followersCount": 9148,
       "friendsCount": 309,
       "location": ""
     },
@@ -204,7 +238,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -219,7 +253,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49632,
+      "followersCount": 49636,
       "friendsCount": 290,
       "location": "China"
     },
@@ -249,7 +283,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49632,
+      "followersCount": 49636,
       "friendsCount": 290,
       "location": "China"
     },
@@ -266,7 +300,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49632,
+      "followersCount": 49636,
       "friendsCount": 290,
       "location": "China"
     },
@@ -315,7 +349,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18545,
+      "followersCount": 18553,
       "friendsCount": 1771,
       "location": ""
     },
@@ -330,7 +364,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -345,7 +379,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62886,
+      "followersCount": 62887,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -362,7 +396,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49632,
+      "followersCount": 49636,
       "friendsCount": 290,
       "location": "China"
     },
@@ -380,7 +414,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9150,
+      "followersCount": 9148,
       "friendsCount": 309,
       "location": ""
     },
@@ -397,7 +431,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10283,
+      "followersCount": 10292,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -412,7 +446,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6970,
+      "followersCount": 6969,
       "friendsCount": 745,
       "location": "San Jose, CA"
     },
@@ -429,7 +463,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18545,
+      "followersCount": 18553,
       "friendsCount": 1771,
       "location": ""
     },
@@ -547,6 +581,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2022145643020755455",
     "fullText": "好讨厌帮别人带东西\n\n现在邮寄那么发达，10块钱等三天就寄到了\n\n朋友不愿意，说让我帮他带回去就好，说的很随意的样子\n\n他可能觉得邮寄我要花钱，不想麻烦\n\n但实际上我认为自己很贵，费那老劲千里迢迢背回去，还不如掏10块钱邮寄\n\n他表示不理解\n\n我决定顺从，千里送鹅毛，礼轻情意重"
+  },
+  {
+    "user": {
+      "screenName": "NASCAR",
+      "name": "NASCAR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022147688729653253/c2il_DWz_normal.jpg",
+      "description": "Can we getta hell yeah?",
+      "followersCount": 3444209,
+      "friendsCount": 371,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022143207287705600/vid/avc1/720x720/H1vWgXvEoyGihAUQ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NASCAR/status/2022143245279494265",
+    "fullText": "It's @chaseelliott at the line! \n\nHe wins Duel 2 at @DAYTONA. https://t.co/FtAshkItgg"
   },
   {
     "user": {
