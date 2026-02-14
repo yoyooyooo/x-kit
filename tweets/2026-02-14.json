@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6969,
+      "friendsCount": 745,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2022573104040747469",
+    "fullText": "这里居然有 SDF 全集。\nhttps://t.co/ZfBS8V8dI8"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10309,
+      "friendsCount": 521,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022569883494682628/vid/avc1/1280x720/3-nZJH7Zyflw14fj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fkysly/status/2022570405723279364",
+    "fullText": "可以让你的 OpenClaw 在 mac mini m4 上装一下 https://t.co/nAzgwbVMBt 这个，qwen3-tts 本地小模型 Mac 量化版，如果是其他机器，应该也有对应的可以跑。\n\n然后，你让它用 Serena 的温柔正常语速讲一段小故事。\n\n你就可以得到这个视频里的语音效果。我之前没咋研究过本地语音模型，我感觉挺不错的。 https://t.co/MLhXjH0hum"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18568,
+      "followersCount": 18569,
       "friendsCount": 1771,
       "location": ""
     },
@@ -37,7 +69,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -52,7 +84,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -69,7 +101,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49643,
+      "followersCount": 49645,
       "friendsCount": 290,
       "location": "China"
     },
@@ -101,7 +133,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22125,
+      "followersCount": 22124,
       "friendsCount": 1057,
       "location": ""
     },
@@ -118,7 +150,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181769,
+      "followersCount": 181775,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -184,7 +216,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -199,7 +231,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -248,7 +280,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181769,
+      "followersCount": 181775,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -263,7 +295,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 181769,
+      "followersCount": 181775,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -278,7 +310,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4623724,
+      "followersCount": 4623797,
       "friendsCount": 4,
       "location": ""
     },
@@ -357,7 +389,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -372,7 +404,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -387,7 +419,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -436,7 +468,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9148,
+      "followersCount": 9147,
       "friendsCount": 309,
       "location": ""
     },
@@ -468,7 +500,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -483,7 +515,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49643,
+      "followersCount": 49645,
       "friendsCount": 290,
       "location": "China"
     },
@@ -513,7 +545,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49643,
+      "followersCount": 49645,
       "friendsCount": 290,
       "location": "China"
     },
@@ -530,7 +562,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49643,
+      "followersCount": 49645,
       "friendsCount": 290,
       "location": "China"
     },
@@ -579,7 +611,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18568,
+      "followersCount": 18569,
       "friendsCount": 1771,
       "location": ""
     },
@@ -594,7 +626,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10305,
+      "followersCount": 10309,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -626,7 +658,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49643,
+      "followersCount": 49645,
       "friendsCount": 290,
       "location": "China"
     },
@@ -644,7 +676,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9148,
+      "followersCount": 9147,
       "friendsCount": 309,
       "location": ""
     },
