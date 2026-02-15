@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "ruanyf",
+      "name": "ruanyf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+      "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+      "followersCount": 192471,
+      "friendsCount": 374,
+      "location": "Shanghai, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBMmJxSaQAEheJb.jpg",
+      "https://pbs.twimg.com/media/HBMmKYUaYAAfXQz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ruanyf/status/2023002718932217940",
+    "fullText": "SWE-rebench 是全新的测试基准，选择最近一个月 GitHub 的真实 PR 任务，让大模型去跑。\n\n因为测试任务是变动的，没法提前准备，所以排名相对真实。\n\n最新榜单的前10名全是美国模型，国产模型的得分跟 Opus 4.5 相当，不过优点是便宜，最低价格仅为榜首模型的3%。\nhttps://t.co/G79vQF3VSu https://t.co/m5fy9f5Gvd"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49655,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -22,7 +40,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 192477,
+      "followersCount": 192471,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -86,7 +104,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182281,
+      "followersCount": 182300,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -101,7 +119,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -118,7 +136,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76723,
+      "followersCount": 76724,
       "friendsCount": 3533,
       "location": ""
     },
@@ -133,7 +151,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -150,7 +168,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49655,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -182,7 +200,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65008,
+      "followersCount": 65009,
       "friendsCount": 518,
       "location": ""
     },
@@ -199,7 +217,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 116335,
+      "followersCount": 116348,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -259,7 +277,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49655,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -274,7 +292,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -289,7 +307,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10382,
+      "followersCount": 10380,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -306,7 +324,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -340,7 +358,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182281,
+      "followersCount": 182300,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -355,7 +373,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -385,7 +403,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65008,
+      "followersCount": 65009,
       "friendsCount": 518,
       "location": ""
     },
@@ -400,7 +418,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -479,7 +497,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65008,
+      "followersCount": 65009,
       "friendsCount": 518,
       "location": ""
     },
@@ -494,7 +512,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65008,
+      "followersCount": 65009,
       "friendsCount": 518,
       "location": ""
     },
@@ -509,7 +527,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65008,
+      "followersCount": 65009,
       "friendsCount": 518,
       "location": ""
     },
@@ -524,7 +542,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49655,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -541,7 +559,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9145,
+      "followersCount": 9146,
       "friendsCount": 309,
       "location": ""
     },
@@ -556,7 +574,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9145,
+      "followersCount": 9146,
       "friendsCount": 309,
       "location": ""
     },
@@ -571,7 +589,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182281,
+      "followersCount": 182300,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -604,7 +622,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49655,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -651,7 +669,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10382,
+      "followersCount": 10380,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -668,7 +686,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18599,
+      "followersCount": 18602,
       "friendsCount": 1239,
       "location": ""
     },
@@ -700,7 +718,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10382,
+      "followersCount": 10380,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -715,7 +733,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10382,
+      "followersCount": 10380,
       "friendsCount": 521,
       "location": "杭州"
     },
@@ -922,7 +940,7 @@
       "name": "Hamnet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976301550692859906/pnfKlBSG_normal.jpg",
       "description": "HAMNET from Academy Award winner Chloé Zhao. Starring Jessie Buckley and Paul Mescal. Now playing in theaters and available to watch at home.",
-      "followersCount": 2783,
+      "followersCount": 2791,
       "friendsCount": 1,
       "location": ""
     },
@@ -999,7 +1017,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182281,
+      "followersCount": 182300,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
