@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 63912,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2028727891773829221",
+    "fullText": "发现 Claude Code 还是和 Claude 的模型配合的最完美，换成其他模型，效果都不尽如人意，甚至有点降智，昨天想使用 Minimax2.5 处理一个看似很简单的 CSS 的问题，来来回回整好几次都失败了。换成 OpenCode 同样的模型一次就解决了，不知道大家有没有类似的感觉？"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "",
-      "followersCount": 18601,
+      "followersCount": 18602,
       "friendsCount": 1228,
       "location": ""
     },
@@ -37,7 +52,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 189185,
+      "followersCount": 189193,
       "friendsCount": 1559,
       "location": "Chicago, IL"
     },
@@ -99,7 +114,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -116,7 +131,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 193592,
+      "followersCount": 193602,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -133,7 +148,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -150,7 +165,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -167,7 +182,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 189185,
+      "followersCount": 189193,
       "friendsCount": 1559,
       "location": "Chicago, IL"
     },
@@ -182,7 +197,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46644,
+      "followersCount": 46645,
       "friendsCount": 824,
       "location": "Hong Kong"
     },
@@ -197,7 +212,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -214,7 +229,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -248,7 +263,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -265,7 +280,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -280,7 +295,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -297,7 +312,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -314,7 +329,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76645,
+      "followersCount": 76644,
       "friendsCount": 3540,
       "location": ""
     },
@@ -329,7 +344,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50328,
+      "followersCount": 50331,
       "friendsCount": 290,
       "location": "China"
     },
@@ -393,7 +408,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 189185,
+      "followersCount": 189193,
       "friendsCount": 1559,
       "location": "Chicago, IL"
     },
@@ -401,6 +416,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2028599757820613086",
     "fullText": "https://t.co/vbg1HDKYcy"
+  },
+  {
+    "user": {
+      "screenName": "LouBasenese",
+      "name": "Lou Basenese",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935529991145451520/jLz7bIaQ_normal.jpg",
+      "description": "@FoxBusiness Contributor | EVP of Market Strategy $PROP | Founder of https://t.co/tb6ZmSoo5A | Investor | $LOU \"mission coin\" not memecoin",
+      "followersCount": 8923,
+      "friendsCount": 1240,
+      "location": "NYC & FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LouBasenese/status/2028592371861176685",
+    "fullText": "NVDA Delivers. Now What? Rotation, Risk &amp; Reality https://t.co/ZMjAskCaZg"
   },
   {
     "user": {
@@ -581,7 +611,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "",
-      "followersCount": 18601,
+      "followersCount": 18602,
       "friendsCount": 1228,
       "location": ""
     },
@@ -643,7 +673,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23968,
+      "followersCount": 23969,
       "friendsCount": 5091,
       "location": ""
     },
@@ -709,7 +739,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -742,7 +772,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -757,7 +787,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11636,
+      "followersCount": 11637,
       "friendsCount": 526,
       "location": "杭州"
     },
@@ -1316,6 +1346,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/meridiabooks/status/2028191137153143229",
     "fullText": "Available now: THE BLACKBIRD by Thomas Ray &amp; Jonathan &amp; Josh Baker https://t.co/bXIgWseqIf"
+  },
+  {
+    "user": {
+      "screenName": "brilliantlabsAR",
+      "name": "Brilliant Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942294853049581568/FdlcFPNv_normal.png",
+      "description": "Open source eyewear for the AI era",
+      "followersCount": 12055,
+      "friendsCount": 498,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2028187888257781760/vid/avc1/1080x1920/Wv5rFc9p9ltUlOTE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/brilliantlabsAR/status/2028189749169832306",
+    "fullText": "Halo × OpenClaw: Moltron the agent, now running outside the terminal. https://t.co/nv01Y5rgZu"
   },
   {
     "user": {
