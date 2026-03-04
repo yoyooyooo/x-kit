@@ -1,11 +1,94 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11652,
+      "friendsCount": 528,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2029016731373707673",
+    "fullText": "OpenAI 的 GPT-5.3 Instant 发布了，这是一个聊天模型。通俗点来说，重点改进了说教、黑话，减少废话。这应该是大家目前对 GPT 5 最大的痛点之一，看来官方已经在快速改进了。目前主要是改进了英语，非英语里面也说了在跟进。\n\n如果能改善这个，对于 Codex 来说也是个利好，期待 GPT-5.4-Codex"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50349,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCiBD6EawAI3MbF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2029013733209719290",
+    "fullText": "相比前晚 iPhone17e 和 iPad air 这种不痛不痒的更新。昨晚 mac 系列的更新显然更对很多人的胃口。不论是换了 M5 芯片的 Macbook Air，还是换了 M5 Pro/M5 Max 的 Macbook Pro ，虽然也都属于换芯不换药，但能成为很多人的“生产力工具”。\n\n尤其是在当前 AI https://t.co/PKmG5a7ILo"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11652,
+      "friendsCount": 528,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCh_-5MboAEh3k9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2029012359017381969",
+    "fullText": "Qwen 3.5-small 系列开源版本这次在海外名声大噪，连马斯克都忍不住站出来表扬。\n\n但是一天都没过，核心负责人就在推特上宣布离职，有种绝唱的味道。\n\n外行领导内行的事情再次上演。 https://t.co/fRebNcCprE"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50349,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCh9wTLawAEL4zT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2029010188423008544",
+    "fullText": "红魔这个品牌居然还活着，不容易.....而且产品设计还挺酷的啊🤔感觉很多人都不知道红魔这个品牌脱胎于谁，以及谁是幕后老板了🤣 https://t.co/gDYyLYL2Zc"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11652,
+      "friendsCount": 528,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCh7tQ-bYAAbQAR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2029007659903643670",
+    "fullText": "这么快，5.4 就要来来了！不知道有没有大的变化 https://t.co/lKobJ3CLp1"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65937,
+      "followersCount": 65943,
       "friendsCount": 539,
       "location": ""
     },
@@ -37,14 +120,29 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76638,
-      "friendsCount": 3543,
+      "followersCount": 76633,
+      "friendsCount": 3544,
       "location": ""
     },
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/2028977462454174143",
     "fullText": "傻逼阿里巴巴。"
+  },
+  {
+    "user": {
+      "screenName": "LauraBuickGMC",
+      "name": "Laura Buick-GMC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863706573542948865/ecu98lcB_normal.jpg",
+      "description": "Buy your vehicle online and we'll ship it to your driveway. Come see why we are #1 Volume Buick GMC Dealer In The Nation! https://t.co/7iCmY9js6D",
+      "followersCount": 427,
+      "friendsCount": 127,
+      "location": "Collinsville, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LauraBuickGMC/status/2028951777089839144",
+    "fullText": "Buy Your Truck Online and We'll Ship it Right to Your Driveway!\n\nSave BIG at Laura, the Number One Volume Buick-GMC Dealer in America!"
   },
   {
     "user": {
@@ -69,7 +167,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4659333,
+      "followersCount": 4659537,
       "friendsCount": 4,
       "location": ""
     },
@@ -84,7 +182,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22845,
+      "followersCount": 22865,
       "friendsCount": 904,
       "location": "San Jose, CA"
     },
@@ -101,7 +199,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65937,
+      "followersCount": 65943,
       "friendsCount": 539,
       "location": ""
     },
@@ -118,7 +216,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4659333,
+      "followersCount": 4659537,
       "friendsCount": 4,
       "location": ""
     },
@@ -165,7 +263,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65937,
+      "followersCount": 65943,
       "friendsCount": 539,
       "location": ""
     },
@@ -197,7 +295,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65937,
+      "followersCount": 65943,
       "friendsCount": 539,
       "location": ""
     },
@@ -230,7 +328,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 11652,
-      "friendsCount": 527,
+      "friendsCount": 528,
       "location": "杭州"
     },
     "images": [],
@@ -244,7 +342,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65937,
+      "followersCount": 65943,
       "friendsCount": 539,
       "location": ""
     },
@@ -260,7 +358,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 11652,
-      "friendsCount": 527,
+      "friendsCount": 528,
       "location": "杭州"
     },
     "images": [
@@ -276,7 +374,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63943,
+      "followersCount": 63941,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -338,8 +436,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76638,
-      "friendsCount": 3543,
+      "followersCount": 76633,
+      "friendsCount": 3544,
       "location": ""
     },
     "images": [],
@@ -353,8 +451,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76638,
-      "friendsCount": 3543,
+      "followersCount": 76633,
+      "friendsCount": 3544,
       "location": ""
     },
     "images": [],
