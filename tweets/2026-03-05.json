@@ -1,12 +1,31 @@
 [
   {
     "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 156186,
+      "friendsCount": 531,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCnplFba0AAM1JY.png",
+      "https://pbs.twimg.com/media/HCnpmFDawAA2GXF.jpg",
+      "https://pbs.twimg.com/media/HCnpmuIawAAIass.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2029410320146678075",
+    "fullText": "刚更新的 macOS 26.3.1 似乎增强了安全限制（或者改动了公证服务），Claude Code、Codex 都被干掉了。要在系统设置里面手动允许一下。 https://t.co/WHST2llUC7"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23976,
-      "friendsCount": 5094,
+      "followersCount": 23973,
+      "friendsCount": 5095,
       "location": ""
     },
     "images": [],
@@ -20,7 +39,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50459,
+      "followersCount": 50461,
       "friendsCount": 290,
       "location": "China"
     },
@@ -38,7 +57,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50459,
+      "followersCount": 50461,
       "friendsCount": 290,
       "location": "China"
     },
@@ -87,7 +106,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11692,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -119,7 +138,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50459,
+      "followersCount": 50461,
       "friendsCount": 290,
       "location": "China"
     },
@@ -151,7 +170,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50459,
+      "followersCount": 50461,
       "friendsCount": 290,
       "location": "China"
     },
@@ -168,8 +187,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23976,
-      "friendsCount": 5094,
+      "followersCount": 23973,
+      "friendsCount": 5095,
       "location": ""
     },
     "images": [],
@@ -183,7 +202,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11692,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -198,7 +217,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66025,
+      "followersCount": 66026,
       "friendsCount": 540,
       "location": ""
     },
@@ -213,7 +232,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190188,
+      "followersCount": 190201,
       "friendsCount": 1568,
       "location": "Chicago, IL"
     },
@@ -228,7 +247,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50459,
+      "followersCount": 50461,
       "friendsCount": 290,
       "location": "China"
     },
@@ -245,7 +264,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46656,
+      "followersCount": 46657,
       "friendsCount": 831,
       "location": "Hong Kong"
     },
@@ -258,11 +277,29 @@
   },
   {
     "user": {
+      "screenName": "MartyTeran915",
+      "name": "Martha Velez-Teran",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855791755167502336/-28AuMzZ_normal.jpg",
+      "description": "EPISD\nAdministrator \nAustin High School                           \n\nProud daughter of immigrants  🇺🇸 ❤ 🇲🇽                        \nAir Force mom ⭐",
+      "followersCount": 1011,
+      "friendsCount": 1568,
+      "location": "El Paso, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCmXKymawAARO5d.jpg",
+      "https://pbs.twimg.com/media/HCmXKyZa0AAMYvJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MartyTeran915/status/2029319348045718006",
+    "fullText": "English teachers launched the All In Learning resources during advisory today! Students were actively engaged as they worked on strengthening their reading, writing, and critical thinking skills—one session at a time.@maribelruiz2015 @SarahVenegasEdD @allinlearning https://t.co/g7omZlngaM"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66025,
+      "followersCount": 66026,
       "friendsCount": 540,
       "location": ""
     },
@@ -305,6 +342,23 @@
   },
   {
     "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1239791,
+      "friendsCount": 31,
+      "location": "Menlo Park, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2029263005486026752/vid/avc1/1080x1350/8F30dbcorQMQQFBM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/2029273383691510053",
+    "fullText": "Pack your bags, it's time to get on board. The future of Robinhood will be unveiled tonight at 7:30 PM ET/4:30 PM PT. Only on X, YouTube and in-app. https://t.co/AfZaEjkxOm"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -322,11 +376,28 @@
   },
   {
     "user": {
+      "screenName": "LTXStudio",
+      "name": "LTX Studio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981343464068382720/2S5RQyKp_normal.png",
+      "description": "All-in-one creative suite for AI video production, from concept to final 4K render. Built for creative teams, filmmakers & marketers.",
+      "followersCount": 29757,
+      "friendsCount": 44,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2029231521492811776/vid/avc1/1280x720/arZQqx8XkrkbVpTL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/LTXStudio/status/2029231622546182292",
+    "fullText": "Introducing Dubbing and Captions in LTX Studio.\n\nNow available for enterprise teams who need to scale video output and localize content quickly.\n\n1/3 https://t.co/dhVMatL1wX"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11692,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -356,7 +427,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66025,
+      "followersCount": 66026,
       "friendsCount": 540,
       "location": ""
     },
@@ -388,7 +459,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66025,
+      "followersCount": 66026,
       "friendsCount": 540,
       "location": ""
     },
@@ -405,7 +476,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11692,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -422,7 +493,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66025,
+      "followersCount": 66026,
       "friendsCount": 540,
       "location": ""
     },
@@ -790,7 +861,7 @@
       "name": "PLAYERUNKNOWN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1484207622517510146/NrQ-Gfi6_normal.jpg",
       "description": "working @pp_socials / takes photos / drinks tea/ personal account/ \n\nplay @playprologue in early access now @ https://t.co/RU3W9MolFo",
-      "followersCount": 482592,
+      "followersCount": 482588,
       "friendsCount": 10,
       "location": "Amsterdam"
     },
@@ -832,6 +903,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fontawesome/status/2028875612656406694",
     "fullText": "Yay! We can finally share the news 🎉\n\nDid you hear? @eleven_ty is becoming Build Awesome.\nAnd yes. We're featuring a Kickstarter video with the Awesome-verse cast you know and love.\n\n→ Same open-source core.\n→ Optional Pro tools.\n→ Much bigger future.\n\nSame ingredients. More"
+  },
+  {
+    "user": {
+      "screenName": "SentoraHQ",
+      "name": "Sentora",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919729602844377088/F3cAkDKD_normal.jpg",
+      "description": "The Institutional DeFi Layer",
+      "followersCount": 68783,
+      "friendsCount": 1829,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2028798720993611776/vid/avc1/1080x1920/2IxQqdgmvN-HmTwe.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SentoraHQ/status/2028799161013789065",
+    "fullText": "Tokenized stocks could be transformational for a few key reasons. Sentora CEO @admff492 highlighted one of the biggest at @TheTieIO in Denver last month. https://t.co/qV706S9ZaO"
   },
   {
     "user": {
