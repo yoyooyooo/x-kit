@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6121,
+      "friendsCount": 641,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2029470423789051938",
+    "fullText": "突然有一个想法，闭源的商业产品是不是可以通过龙虾在不泄漏代码的前提下把修改权交付给用户？\n\n拿我的 Mac App 举例，App 在不同的电脑上会遇到不同的问题，有时候有用户会来问我能不能帮我修改，但是由于代码隐私问题，我没有办法交给他们，用我自己的设备上又无法复现问题。\n\n如果在Mac"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190255,
+      "followersCount": 190279,
       "friendsCount": 1568,
       "location": "Chicago, IL"
     },
@@ -35,7 +50,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -50,7 +65,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -67,7 +82,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -84,7 +99,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11691,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -116,7 +131,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -133,7 +148,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -148,7 +163,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156195,
+      "followersCount": 156199,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -167,7 +182,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23978,
+      "followersCount": 23980,
       "friendsCount": 5095,
       "location": ""
     },
@@ -182,7 +197,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50463,
+      "followersCount": 50460,
       "friendsCount": 290,
       "location": "China"
     },
@@ -200,7 +215,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50463,
+      "followersCount": 50460,
       "friendsCount": 290,
       "location": "China"
     },
@@ -249,7 +264,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11691,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -281,7 +296,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50463,
+      "followersCount": 50460,
       "friendsCount": 290,
       "location": "China"
     },
@@ -313,7 +328,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50463,
+      "followersCount": 50460,
       "friendsCount": 290,
       "location": "China"
     },
@@ -330,7 +345,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23978,
+      "followersCount": 23980,
       "friendsCount": 5095,
       "location": ""
     },
@@ -345,7 +360,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11690,
+      "followersCount": 11691,
       "friendsCount": 531,
       "location": "杭州"
     },
@@ -360,7 +375,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -375,7 +390,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190255,
+      "followersCount": 190279,
       "friendsCount": 1568,
       "location": "Chicago, IL"
     },
@@ -390,7 +405,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50463,
+      "followersCount": 50460,
       "friendsCount": 290,
       "location": "China"
     },
@@ -407,7 +422,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46673,
+      "followersCount": 46672,
       "friendsCount": 831,
       "location": "Hong Kong"
     },
@@ -442,7 +457,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66089,
+      "followersCount": 66102,
       "friendsCount": 540,
       "location": ""
     },
@@ -1096,6 +1111,40 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "The latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
+      "followersCount": 252493,
+      "friendsCount": 5034,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCgeUCBWMAA1t0V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CPAC/status/2028904966253941142",
+    "fullText": "Confirmed: Todd Blanche for CPAC USA 2026, March 25-28, in Grapevine, Texas. https://t.co/4YLY2qAc3r"
+  },
+  {
+    "user": {
+      "screenName": "TradeZella",
+      "name": "TradeZella 🦄",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1457961291566436356/X_5FP53Y_normal.jpg",
+      "description": "#1 tracking tool that lets you track your trading performance, journal your trades and Backtest. Trade Tracker - Journal - Backtest - Replay - Analytics.",
+      "followersCount": 56821,
+      "friendsCount": 0,
+      "location": "Start today 👇"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCgWD2YawAcBYPi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TradeZella/status/2028895892091150798",
+    "fullText": "You don't become a profitable trader and then start acting like one.\n\nYou start acting like one first. Then the results follow.\n\nIdentity before outcome. Mindset before strategy.\n\nComment \"MINDSET\" and I'll DM you the free trading psychology guide 👇 https://t.co/t9LsRJUvZT"
+  },
+  {
+    "user": {
       "screenName": "libertynation",
       "name": "Liberty Nation",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1988639422980431872/X4zfTFZK_normal.jpg",
@@ -1140,6 +1189,36 @@
     "videos": [],
     "tweetUrl": "https://x.com/fontawesome/status/2028875612656406694",
     "fullText": "Yay! We can finally share the news 🎉\n\nDid you hear? @eleven_ty is becoming Build Awesome.\nAnd yes. We're featuring a Kickstarter video with the Awesome-verse cast you know and love.\n\n→ Same open-source core.\n→ Optional Pro tools.\n→ Much bigger future.\n\nSame ingredients. More"
+  },
+  {
+    "user": {
+      "screenName": "ACC_National",
+      "name": "American Conservation Coalition",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869814322655887361/Ttgmnb64_normal.jpg",
+      "description": "Building the conservative environmental movement 🇺🇸 Protecting our natural heritage 🏞️ Unleashing American energy ⚡️",
+      "followersCount": 52397,
+      "friendsCount": 1928,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ACC_National/status/2028852068039991351",
+    "fullText": "https://t.co/lZhhFLpT31"
+  },
+  {
+    "user": {
+      "screenName": "JohnCParish",
+      "name": "John Parish",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759944739325886465/ffm4elpQ_normal.jpg",
+      "description": "Protestant liberal characterized by individualism and dissent from authority, originally the Catholic Church. Christ is King",
+      "followersCount": 2145,
+      "friendsCount": 4142,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JohnCParish/status/2028807572774412687",
+    "fullText": "The data center phenomena is brought to you by the World Economic Forum, whose goal is that you will own nothing and be happy. These speculative top down investments by hyperscalers like Microsoft, Google, and Meta, who have partnership agreements with WEF, are designed to take"
   },
   {
     "user": {
