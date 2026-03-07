@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76603,
+      "friendsCount": 3545,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2030171245778739443",
+    "fullText": "今天各国城市举办的龙虾大会，比马拉松还多。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 160207,
+      "friendsCount": 515,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2030168849086341219",
+    "fullText": "今天花了两个小时整体 review 了一遍最近一周收藏的所有已经上线的 agent metrix 产品，其实大家的做法都大同小异，面对的也是相似的工程化问题：快速并发沙箱池、LLM 路由、tool use 能力系统（大部分现在和 chatben 一样采用 skill agent 的思路做）、并行任务系统（其实也是沙箱基础设施）、MCP"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 160207,
+      "friendsCount": 515,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCyXK7Fb0AAKVR_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2030164326682874046",
+    "fullText": "https://t.co/VLN2End0F3 这网站真是设计太漂亮了！ https://t.co/eFG6aBd7zx"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190887,
+      "followersCount": 190890,
       "friendsCount": 1570,
       "location": "Chicago, IL"
     },
@@ -39,7 +86,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26473,
+      "followersCount": 26474,
       "friendsCount": 334,
       "location": "Guangdong"
     },
@@ -86,7 +133,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50578,
+      "followersCount": 50582,
       "friendsCount": 292,
       "location": "China"
     },
@@ -118,8 +165,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11167,
-      "friendsCount": 2700,
+      "followersCount": 11172,
+      "friendsCount": 2701,
       "location": ""
     },
     "images": [],
@@ -133,8 +180,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11167,
-      "friendsCount": 2700,
+      "followersCount": 11172,
+      "friendsCount": 2701,
       "location": ""
     },
     "images": [
@@ -167,8 +214,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11167,
-      "friendsCount": 2700,
+      "followersCount": 11172,
+      "friendsCount": 2701,
       "location": ""
     },
     "images": [],
@@ -178,11 +225,28 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3631,
+      "friendsCount": 1008,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2030091485178384384/vid/avc1/1080x1920/czcGe1EW01MFHG9r.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2030091758802268373",
+    "fullText": "AI is reshaping telecom networks in two directions: AI for the network and networks for AI.\n\nAt MWC Barcelona, Cristina Rodriguez, VP &amp; GM Network and Edge and Kevork Kechichian, EVP &amp; GM Data Center Group at @intel explain how operators are using AI to optimize radio https://t.co/uXZur9hNuP"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76608,
+      "followersCount": 76603,
       "friendsCount": 3545,
       "location": ""
     },
@@ -212,7 +276,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190887,
+      "followersCount": 190890,
       "friendsCount": 1570,
       "location": "Chicago, IL"
     },
@@ -225,11 +289,30 @@
   },
   {
     "user": {
+      "screenName": "SERVPRO",
+      "name": "SERVPRO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454198020455735296/q5kOCNgk_normal.jpg",
+      "description": "Cleaning. Restoration. Construction. 1-800-SERVPRO.",
+      "followersCount": 6253,
+      "friendsCount": 69,
+      "location": "USA and Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCwySOvWkAAJV_Y.jpg",
+      "https://pbs.twimg.com/media/HCwyTc8WoAAyaNM.jpg",
+      "https://pbs.twimg.com/media/HCwyUrKXYAE_COW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SERVPRO/status/2030052883735928929",
+    "fullText": "SERVPRO is proud to support the women competing in the 2026 ACC Women's Basketball Tournament in Duluth, Georgia, this week. As the Official Cleanup &amp; Restoration Sponsor of the ACC, we’re cheering on every play and are there to cleanup the court in between! 🏀 https://t.co/gjSkCeO81o"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190887,
+      "followersCount": 190890,
       "friendsCount": 1570,
       "location": "Chicago, IL"
     },
@@ -246,7 +329,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7002,
+      "followersCount": 7000,
       "friendsCount": 752,
       "location": "San Jose, CA"
     },
@@ -276,7 +359,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4669449,
+      "followersCount": 4669517,
       "friendsCount": 4,
       "location": ""
     },
@@ -306,8 +389,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23999,
-      "friendsCount": 5098,
+      "followersCount": 24001,
+      "friendsCount": 5100,
       "location": ""
     },
     "images": [
@@ -323,7 +406,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190887,
+      "followersCount": 190890,
       "friendsCount": 1570,
       "location": "Chicago, IL"
     },
@@ -387,7 +470,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50578,
+      "followersCount": 50582,
       "friendsCount": 292,
       "location": "China"
     },
@@ -402,7 +485,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7002,
+      "followersCount": 7000,
       "friendsCount": 752,
       "location": "San Jose, CA"
     },
@@ -434,7 +517,7 @@
       "name": "BitStarz.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1614958672970481666/nelVl3dk_normal.jpg",
       "description": "🎰 The ultimate online casino for crypto lovers 💰\n🏆 Award winning #Bitcoin casino 🏅\n🎁 5 BTC welcome bonus + 180 free spins 🎁\n👇 Get involved today!",
-      "followersCount": 22933,
+      "followersCount": 22935,
       "friendsCount": 86,
       "location": ""
     },
@@ -451,7 +534,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66620,
+      "followersCount": 66624,
       "friendsCount": 541,
       "location": ""
     },
@@ -486,7 +569,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66620,
+      "followersCount": 66624,
       "friendsCount": 541,
       "location": ""
     },
@@ -518,7 +601,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66620,
+      "followersCount": 66624,
       "friendsCount": 541,
       "location": ""
     },
@@ -566,7 +649,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64068,
+      "followersCount": 64062,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -583,7 +666,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50578,
+      "followersCount": 50582,
       "friendsCount": 292,
       "location": "China"
     },
@@ -662,7 +745,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64068,
+      "followersCount": 64062,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1055,7 +1138,7 @@
       "name": "unicorn.studio",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922679431966883840/LNLjvNTG_normal.jpg",
       "description": "No-code WebGL design tool. Create mind-blowing interactive motion for your sites in minutes. Created by @soulegit.",
-      "followersCount": 19726,
+      "followersCount": 19725,
       "friendsCount": 113,
       "location": ""
     },
