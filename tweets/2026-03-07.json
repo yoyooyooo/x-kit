@@ -1,12 +1,27 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11867,
+      "friendsCount": 531,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2030131221985202356",
+    "fullText": "准备给我自己也搞一个 Sub2API 这一类的服务，这样我就可以开通一堆订阅账号，然后给我自己分配一个 api-key，就可以用了。不然，万一被封号，或者是号限流了需要重新登录，现在设备和终端那么多，更换太麻烦了。\n\n先试试看 sub2api 好不好用。"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11150,
-      "friendsCount": 2685,
+      "followersCount": 11152,
+      "friendsCount": 2687,
       "location": ""
     },
     "images": [],
@@ -20,8 +35,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11150,
-      "friendsCount": 2685,
+      "followersCount": 11152,
+      "friendsCount": 2687,
       "location": ""
     },
     "images": [
@@ -54,8 +69,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11150,
-      "friendsCount": 2685,
+      "followersCount": 11152,
+      "friendsCount": 2687,
       "location": ""
     },
     "images": [],
@@ -69,7 +84,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76609,
+      "followersCount": 76605,
       "friendsCount": 3545,
       "location": ""
     },
@@ -99,7 +114,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190856,
+      "followersCount": 190855,
       "friendsCount": 1569,
       "location": "Chicago, IL"
     },
@@ -116,7 +131,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190856,
+      "followersCount": 190855,
       "friendsCount": 1569,
       "location": "Chicago, IL"
     },
@@ -163,7 +178,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4669383,
+      "followersCount": 4669451,
       "friendsCount": 4,
       "location": ""
     },
@@ -193,7 +208,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23998,
+      "followersCount": 23997,
       "friendsCount": 5098,
       "location": ""
     },
@@ -210,7 +225,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190856,
+      "followersCount": 190855,
       "friendsCount": 1569,
       "location": "Chicago, IL"
     },
@@ -274,7 +289,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50573,
+      "followersCount": 50574,
       "friendsCount": 292,
       "location": "China"
     },
@@ -300,11 +315,28 @@
   },
   {
     "user": {
+      "screenName": "bitstarz",
+      "name": "BitStarz.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1614958672970481666/nelVl3dk_normal.jpg",
+      "description": "🎰 The ultimate online casino for crypto lovers 💰\n🏆 Award winning #Bitcoin casino 🏅\n🎁 5 BTC welcome bonus + 180 free spins 🎁\n👇 Get involved today!",
+      "followersCount": 22935,
+      "friendsCount": 86,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2029929009908178944/vid/avc1/1080x1080/HyF3HzsIMKAtfhrJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/bitstarz/status/2029929083941875800",
+    "fullText": "It just hits different. https://t.co/2hWlyDmBWX"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66629,
+      "followersCount": 66628,
       "friendsCount": 541,
       "location": ""
     },
@@ -339,7 +371,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66629,
+      "followersCount": 66628,
       "friendsCount": 541,
       "location": ""
     },
@@ -356,7 +388,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66629,
+      "followersCount": 66628,
       "friendsCount": 541,
       "location": ""
     },
@@ -404,7 +436,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64065,
+      "followersCount": 64063,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -421,7 +453,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50573,
+      "followersCount": 50574,
       "friendsCount": 292,
       "location": "China"
     },
@@ -500,7 +532,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64065,
+      "followersCount": 64063,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -515,7 +547,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50573,
+      "followersCount": 50574,
       "friendsCount": 292,
       "location": "China"
     },
@@ -530,8 +562,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11150,
-      "friendsCount": 2685,
+      "followersCount": 11152,
+      "friendsCount": 2687,
       "location": ""
     },
     "images": [
@@ -563,6 +595,23 @@
   },
   {
     "user": {
+      "screenName": "Sigma_Browser",
+      "name": "Sigma Browser",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013948812314738688/XjmbHzWV_normal.jpg",
+      "description": "Super-private AI browser with the local LLM - Eclipse. No tracking, no cloud, no data sharing \n\nhttps://t.co/YSxiWcPR4l\n\nFounder: @skinbagwbones",
+      "followersCount": 10128,
+      "friendsCount": 50,
+      "location": "California, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCt58m7W4AA0eyZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Sigma_Browser/status/2029850187481395504",
+    "fullText": "A big update is coming to Sigma next week\n\nOver the past months, we’ve been carefully refining the design to find the right balance - a browser experience that feels natural, comfortable, and intuitive for every user\n\nWith a new logo, a new website, and a redesigned browser for https://t.co/Bd6yQnte2u"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -584,7 +633,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 190856,
+      "followersCount": 190855,
       "friendsCount": 1569,
       "location": "Chicago, IL"
     },
@@ -810,7 +859,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50573,
+      "followersCount": 50574,
       "friendsCount": 292,
       "location": "China"
     },
