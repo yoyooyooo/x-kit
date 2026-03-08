@@ -1,11 +1,60 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一部分写给自己",
+      "followersCount": 18576,
+      "friendsCount": 1212,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HC5vI9jaEAAI4rF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2030682692589879599",
+    "fullText": "84块钱能买到 400g 的纯肉三文鱼中段，算个账比外卖48块钱处理前的 200g 要便宜不少。唯一担心配送三天才到会不会坏，以前买过速冻丸子，送到冰袋都化了 https://t.co/sg8pwgrw0N"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 24353,
+      "friendsCount": 5102,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HC5qi7Sa0AALiKD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2030677632506044858",
+    "fullText": "听说 三方 API 不能发推了，是真的吗？\n\n这是来自 Typefully 的测试。 https://t.co/mngWvTQ6xb"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 7002,
+      "friendsCount": 753,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2030677395100127533",
+    "fullText": "和 Codex/Claude 相比，Cursor 的交互模式并无本质的劣势。Cursor 被嫌弃是因为 accidental factor，比如最强的 model 没有集成进来，键盘快捷键缺一些。\n\n如果很有用的工具因为 accidental factors 受到如 Cursor 现在遭遇的这种境况，只能说明该领域本身处在狂野西部状态。不适合个人做深度投资。"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66783,
+      "followersCount": 66766,
       "friendsCount": 544,
       "location": ""
     },
@@ -22,7 +71,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26481,
+      "followersCount": 26482,
       "friendsCount": 334,
       "location": "Guangdong"
     },
@@ -39,7 +88,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -54,7 +103,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11328,
+      "followersCount": 11330,
       "friendsCount": 2725,
       "location": ""
     },
@@ -71,7 +120,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64120,
+      "followersCount": 64093,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -86,8 +135,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [
@@ -103,7 +152,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64120,
+      "followersCount": 64093,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -118,8 +167,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [
@@ -135,7 +184,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -150,7 +199,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -165,8 +214,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [],
@@ -180,8 +229,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [
@@ -197,8 +246,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [
@@ -214,7 +263,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22133,
+      "followersCount": 22121,
       "friendsCount": 1064,
       "location": ""
     },
@@ -229,7 +278,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -246,7 +295,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -263,7 +312,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66783,
+      "followersCount": 66766,
       "friendsCount": 544,
       "location": ""
     },
@@ -280,7 +329,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -297,7 +346,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66783,
+      "followersCount": 66766,
       "friendsCount": 544,
       "location": ""
     },
@@ -314,7 +363,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11328,
+      "followersCount": 11330,
       "friendsCount": 2725,
       "location": ""
     },
@@ -329,7 +378,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24359,
+      "followersCount": 24353,
       "friendsCount": 5102,
       "location": ""
     },
@@ -344,7 +393,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66783,
+      "followersCount": 66766,
       "friendsCount": 544,
       "location": ""
     },
@@ -364,7 +413,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -413,8 +462,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一部分写给自己",
-      "followersCount": 18577,
-      "friendsCount": 1211,
+      "followersCount": 18576,
+      "friendsCount": 1212,
       "location": ""
     },
     "images": [],
@@ -443,7 +492,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 160626,
+      "followersCount": 160591,
       "friendsCount": 515,
       "location": "東京 港区"
     },
@@ -510,7 +559,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11328,
+      "followersCount": 11330,
       "friendsCount": 2725,
       "location": ""
     },
@@ -544,7 +593,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12147,
+      "followersCount": 12150,
       "friendsCount": 532,
       "location": "杭州"
     },
