@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12038,
+      "friendsCount": 532,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HC3Y8-EaYAAdAXa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2030518029424136367",
+    "fullText": "实测 rtk (Rust Token Killer)，这是一个给 Claude Code 省 token 的 CLI 工具。我让 Claude Code 在一个中型 Next.js 项目上跑了对比：\n* grep 的压缩率99%，直接从 527KB 干到 102 字节。\n* ls 和 git status 压缩也很不错，去掉了权限、日期、提示语等信息。\n\nhttps://t.co/OPh8xZQgh7 https://t.co/hqSNV85XUj"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66755,
+      "followersCount": 66756,
       "friendsCount": 544,
       "location": ""
     },
@@ -22,7 +39,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11286,
+      "followersCount": 11288,
       "friendsCount": 2716,
       "location": ""
     },
@@ -37,7 +54,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24285,
+      "followersCount": 24289,
       "friendsCount": 5101,
       "location": ""
     },
@@ -52,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66755,
+      "followersCount": 66756,
       "friendsCount": 544,
       "location": ""
     },
@@ -72,7 +89,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12031,
+      "followersCount": 12038,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -106,8 +123,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76598,
-      "friendsCount": 3545,
+      "followersCount": 76601,
+      "friendsCount": 3546,
       "location": ""
     },
     "images": [],
@@ -151,7 +168,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 160514,
+      "followersCount": 160517,
       "friendsCount": 515,
       "location": "東京 港区"
     },
@@ -218,7 +235,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11286,
+      "followersCount": 11288,
       "friendsCount": 2716,
       "location": ""
     },
@@ -252,7 +269,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12031,
+      "followersCount": 12038,
       "friendsCount": 532,
       "location": "杭州"
     },
@@ -329,7 +346,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 24368,
+      "followersCount": 24377,
       "friendsCount": 905,
       "location": "San Jose, CA"
     },
@@ -376,7 +393,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66755,
+      "followersCount": 66756,
       "friendsCount": 544,
       "location": ""
     },
@@ -393,7 +410,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66755,
+      "followersCount": 66756,
       "friendsCount": 544,
       "location": ""
     },
@@ -427,7 +444,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11286,
+      "followersCount": 11288,
       "friendsCount": 2716,
       "location": ""
     },
@@ -476,7 +493,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11286,
+      "followersCount": 11288,
       "friendsCount": 2716,
       "location": ""
     },
@@ -493,7 +510,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24285,
+      "followersCount": 24289,
       "friendsCount": 5101,
       "location": ""
     },
@@ -540,7 +557,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24285,
+      "followersCount": 24289,
       "friendsCount": 5101,
       "location": ""
     },
@@ -557,7 +574,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46866,
+      "followersCount": 46869,
       "friendsCount": 839,
       "location": "Hong Kong"
     },
@@ -890,7 +907,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26476,
+      "followersCount": 26477,
       "friendsCount": 334,
       "location": "Guangdong"
     },
@@ -949,6 +966,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/thejointco/status/2029956487338992109",
     "fullText": "$BSPK https://t.co/oyZK57ytdy"
+  },
+  {
+    "user": {
+      "screenName": "MultiversX",
+      "name": "Multiversᕽ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953134940301774848/UbIBbfXn_normal.jpg",
+      "description": "#MultiversX is a distributed blockchain network for next-gen applications. Decentralized via 3000+ nodes, scalable through sharding, fast, secure & green.",
+      "followersCount": 1000654,
+      "friendsCount": 467,
+      "location": "Distributed Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2029942652628856832/vid/avc1/1280x720/NI7fIwhuycUk5v25.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/MultiversX/status/2029942709772063217",
+    "fullText": "150,000+ lines of code. 10,000+ engineering hours. 20 months of development.\n\nIt's time to battle test Supernova.\n\nBattle of Nodes begins on March 11. https://t.co/ZXTz91AZfQ"
   },
   {
     "user": {
