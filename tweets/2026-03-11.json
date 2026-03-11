@@ -50,11 +50,28 @@
   },
   {
     "user": {
+      "screenName": "FishAudio",
+      "name": "Fish Audio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980519876134395904/MAdCCgB5_normal.jpg",
+      "description": "Expressive TTS | Click link to claim credits 👇",
+      "followersCount": 8965,
+      "friendsCount": 7,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031409929475809280/vid/avc1/1920x1080/4z_nXap6upx113o8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FishAudio/status/2031411140820152560",
+    "fullText": "Today we launch Fish Audio S2, a new generation of expressive TTS with absurdly controllable emotion.\n\n- open-source\n- sub 150ms latency\n- multi-speaker in one pass\n\nReal freedom of speech starts now 👇 https://t.co/nIXumES4QX"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12337,
+      "followersCount": 12340,
       "friendsCount": 533,
       "location": "杭州"
     },
@@ -69,7 +86,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11409,
+      "followersCount": 11413,
       "friendsCount": 2745,
       "location": ""
     },
@@ -155,7 +172,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25180,
+      "followersCount": 25185,
       "friendsCount": 906,
       "location": "San Jose, CA"
     },
@@ -189,7 +206,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161135,
+      "followersCount": 161158,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -234,7 +251,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12337,
+      "followersCount": 12340,
       "friendsCount": 533,
       "location": "杭州"
     },
@@ -268,7 +285,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12337,
+      "followersCount": 12340,
       "friendsCount": 533,
       "location": "杭州"
     },
@@ -300,7 +317,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47080,
+      "followersCount": 47083,
       "friendsCount": 843,
       "location": "Hong Kong"
     },
