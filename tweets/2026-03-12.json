@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 196131,
+      "friendsCount": 1585,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2032121339667234817/vid/avc1/1920x1080/J4Ga_sOfK1tRV5ZG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2032189698433482771",
+    "fullText": "Claude 现在能直接在对话里画图表了https://t.co/H5PL7qzkFw\n\nClaude 新增可视化功能：用户在聊天过程中，Claude 可以直接生成交互式图表和示意图，无需跳转到其他工具，也不用写代码导出。\n\n这项功能目前以 Beta 形式上线，所有套餐均可使用，包括免费用户。\n\n此前 Claude 的 Artifacts"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66857,
+      "followersCount": 66860,
       "friendsCount": 550,
       "location": ""
     },
@@ -15,6 +32,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2032185625743671387",
     "fullText": "特朗普又一次喊话鲍威尔，要求降息，并再次称鲍威尔“太迟”\n\n司法部要搞鲍威尔，油价现在被战争搞成这样，而且老鲍5月份就离任主席之位，怎么可能理川普 https://t.co/gPLleD3b5w"
+  },
+  {
+    "user": {
+      "screenName": "netflix",
+      "name": "Netflix",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996301804053868544/Xrwvbe1q_normal.jpg",
+      "description": "omw to the grand line 🏴‍☠️",
+      "followersCount": 26334124,
+      "friendsCount": 2241,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031776875635212289/vid/avc1/1280x720/YIR2Nyue82qa92mi.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/netflix/status/2032139587301118055",
+    "fullText": "❤️ this for a reminder to Tune In on March 25th\n\nYou heard 'em - MLB Opening Night is LIVE on @Netflix on March 25th when the New York Yankees take on the San Francisco Giants! Tune In on March 25th - 5PM PT | 8PM ET https://t.co/ELRqV9lILq"
   },
   {
     "user": {
@@ -71,8 +105,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24470,
-      "friendsCount": 5109,
+      "followersCount": 24471,
+      "friendsCount": 5110,
       "location": ""
     },
     "images": [],
@@ -86,7 +120,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161319,
+      "followersCount": 161321,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -148,8 +182,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24470,
-      "friendsCount": 5109,
+      "followersCount": 24471,
+      "friendsCount": 5110,
       "location": ""
     },
     "images": [
@@ -180,7 +214,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66857,
+      "followersCount": 66860,
       "friendsCount": 550,
       "location": ""
     },
@@ -212,7 +246,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161319,
+      "followersCount": 161321,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -227,7 +261,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76449,
+      "followersCount": 76450,
       "friendsCount": 3541,
       "location": ""
     },
@@ -245,7 +279,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161319,
+      "followersCount": 161321,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -295,7 +329,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
@@ -312,7 +346,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
@@ -329,7 +363,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
@@ -361,7 +395,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
@@ -408,7 +442,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
@@ -442,8 +476,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24470,
-      "friendsCount": 5109,
+      "followersCount": 24471,
+      "friendsCount": 5110,
       "location": ""
     },
     "images": [
@@ -622,7 +656,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50795,
+      "followersCount": 50797,
       "friendsCount": 294,
       "location": "China"
     },
