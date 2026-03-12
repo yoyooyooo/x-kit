@@ -1,6 +1,87 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12338,
+      "friendsCount": 535,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDLO-iSbkAAkA1V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2031913964679151871",
+    "fullText": "Perplexity CTO 透露在公司内部已经减少使用 MCP，转向 Skills + CLI。\nYC CEO 也表示 CLI 相对于 MCP 来说大幅度降低 Tokens 的使用。\nOpenClaw 龙虾🦞创始人表示：抛弃 MCP 这个事情好像在哪儿见过。 https://t.co/YlpdMbGIBE"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12338,
+      "friendsCount": 535,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2031911807414387148",
+    "fullText": "Cloudflare 可能确实有点左右手互搏，一方面各种技术手段支持 Agents 高效方便的访问网站，减少 Tokens 消耗等等；另外一方面，又通过给网站加安全措施防止机器人访问网站，验证真人。\n\n所以到底是希望 Agents 访问网站，还是不希望 Agents 访问网站。\n\n最后不会变成每个人希望自己的 Agents"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 64181,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2031911273781399959",
+    "fullText": "感觉 Codex 已经是性价比最高的了，20美元每月，可以多端，有桌面应用，有 cli，有cloud agents，手机通过 ChatGPT 也能访问云端任务，有 code review，模型上来说 GPT-5.3-Codex / 5.4 也很能打，长任务效果也不错。介绍一个朋友用免费版，发现日常轻度使用也有不少额度。\n\n最近几天已经没有用 Claude"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50691,
+      "friendsCount": 294,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031910181068816386/vid/avc1/1080x2068/D9JRm4TgM6s2cdhk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2031910254624325723",
+    "fullText": "牛马完全体零号机🤣\n\n汽车的出现代替了人骑马，这东西的出现变成了马骑人🤡 https://t.co/NWYAqTxwLq"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50691,
+      "friendsCount": 294,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDLI4VPbMAA14Xo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2031907592868618262",
+    "fullText": "怎么连国家超算互联网都开始涉足 OpenClaw 了🤡还十分豪气的表示注册一人送 1000万 Tokens，后续是 0.1 元每百万 Token......总感觉有点不太真实🤣 https://t.co/nSwGHqs5aO"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,7 +103,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24421,
+      "followersCount": 24422,
       "friendsCount": 5105,
       "location": ""
     },
@@ -56,7 +137,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 195949,
+      "followersCount": 195963,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -105,8 +186,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66842,
-      "friendsCount": 549,
+      "followersCount": 66859,
+      "friendsCount": 550,
       "location": ""
     },
     "images": [
@@ -132,6 +213,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Polymarket/status/2031786787194929170",
     "fullText": "BREAKING: Marco Rubio closes in on Gavin Newsom for the 2028 Presidential Election. https://t.co/IQjfkHtPOB"
+  },
+  {
+    "user": {
+      "screenName": "PicksWars",
+      "name": "PicksWars",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002478655948091392/t61LxMjs_normal.jpg",
+      "description": "Compete in Skill-Based Sports Pick Tournaments\nFree $100 prize event happening now.\nNo betting , all strategy.\n👇 Join the action",
+      "followersCount": 15,
+      "friendsCount": 64,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031782759761379328/vid/avc1/1080x1920/eMCSfD9ebfoupEyM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PicksWars/status/2031783870790611159",
+    "fullText": "Think you are better than the average sports bettor?  Prove it on PicksWars. \n Free sports betting tournaments. \nReal cash prizes. Real competition.\n Join today. https://t.co/IwKsh8yKNl"
   },
   {
     "user": {
@@ -188,7 +286,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 195949,
+      "followersCount": 195963,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -205,7 +303,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 195949,
+      "followersCount": 195963,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -222,7 +320,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12340,
+      "followersCount": 12338,
       "friendsCount": 535,
       "location": "杭州"
     },
@@ -237,7 +335,7 @@
       "name": "Reflex Robotics",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2026036744164884482/QE5knWZK_normal.jpg",
       "description": "Low Cost Humanoids - Built for Industry",
-      "followersCount": 4867,
+      "followersCount": 4872,
       "friendsCount": 1,
       "location": ""
     },
@@ -303,7 +401,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12340,
+      "followersCount": 12338,
       "friendsCount": 535,
       "location": "杭州"
     },
@@ -318,7 +416,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6990,
+      "followersCount": 6989,
       "friendsCount": 755,
       "location": "San Jose, CA"
     },
@@ -333,7 +431,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 119926,
+      "followersCount": 119932,
       "friendsCount": 254,
       "location": "Singapore"
     },
@@ -363,7 +461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 195949,
+      "followersCount": 195963,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -373,6 +471,23 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/2031744195325571327",
     "fullText": "小扎在收购 AI 公司 https://t.co/2sey7Kw7l8"
+  },
+  {
+    "user": {
+      "screenName": "MyFundedFutures",
+      "name": "MyFundedFutures",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780566063178215424/vrNqi-N8_normal.png",
+      "description": "Futures prop trading, done right.\nSimple evaluations. Flexible rules. Fast payouts.\nGet funded → trade your edge.\nhttps://t.co/bxoV97AN0j",
+      "followersCount": 80579,
+      "friendsCount": 112,
+      "location": "Dallas, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDIx_DEbsAAKqdi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MyFundedFutures/status/2031741734519226780",
+    "fullText": "Some things in prop trading sound too good to be true. \nDaily payouts. Pass in 2 trading days. Clear rules. \n\nInstead of asking you to believe it, we’d rather let you try it. RAPID Plan $97 (normally $157) \n\nCode RAPID97 \nEligible for new AND existing traders for up to two uses. https://t.co/5HGqRaYGtu"
   },
   {
     "user": {
@@ -412,8 +527,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66842,
-      "friendsCount": 549,
+      "followersCount": 66859,
+      "friendsCount": 550,
       "location": ""
     },
     "images": [
@@ -429,8 +544,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66842,
-      "friendsCount": 549,
+      "followersCount": 66859,
+      "friendsCount": 550,
       "location": ""
     },
     "images": [],
@@ -464,7 +579,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64179,
+      "followersCount": 64181,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -481,8 +596,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66842,
-      "friendsCount": 549,
+      "followersCount": 66859,
+      "friendsCount": 550,
       "location": ""
     },
     "images": [
@@ -513,7 +628,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64179,
+      "followersCount": 64181,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -548,7 +663,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76503,
+      "followersCount": 76501,
       "friendsCount": 3546,
       "location": ""
     },
@@ -845,7 +960,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24421,
+      "followersCount": 24422,
       "friendsCount": 5105,
       "location": ""
     },
@@ -890,6 +1005,23 @@
   },
   {
     "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3620,
+      "friendsCount": 1008,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031452366348648448/vid/avc1/1920x1080/3LZUW93-bQXvzxgb.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2031452531130593774",
+    "fullText": "Are we witnessing the end of the app economy?\n\nOn The Flip from Ep. 295 of The Six Five Pod, @PatrickMoorhead  and @danielnewmanUV  debate what happens when anyone can vibe-code an app in minutes.\n\nWill tools like Perplexity Computer make apps irrelevant? Or is the app economy https://t.co/sPXFy4VkAJ"
+  },
+  {
+    "user": {
       "screenName": "meet_cora",
       "name": "cora.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2031150606388441089/UgMqbDrv_normal.jpg",
@@ -904,6 +1036,21 @@
     ],
     "tweetUrl": "https://x.com/meet_cora/status/2031392331405079040",
     "fullText": "It's time to break-up with the old way of running post-sales. \n\n@meet_cora - the first proactive AI agents for customer success.\n\nWinning the deal is just Day 0. Cora is the AI for everything that comes next. https://t.co/WmfzD3KUP1"
+  },
+  {
+    "user": {
+      "screenName": "SurrealDB",
+      "name": "SurrealDB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1704887206488272896/o1vHxqbY_normal.jpg",
+      "description": "The ultimate multi-model database\n🌐 https://t.co/mlo6fmM2qO\n⭐️ https://t.co/RRdQmJRrLL\n🎥 https://t.co/hfk64V11hv\n💬 https://t.co/4Fjjp2npVG",
+      "followersCount": 9199,
+      "friendsCount": 576,
+      "location": "London, England"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SurrealDB/status/2031375735198187737",
+    "fullText": "Curious how to keep an agent’s output correct as data changes, memory grows, and systems scale? Join SurrealDB Co-founder and CEO, Tobie Morgan Hitchcock, and guest speakers from Pydantic and CocoIndex at our San Francisco meetup to learn how."
   },
   {
     "user": {
