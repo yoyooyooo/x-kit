@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一部分写给自己",
+      "followersCount": 18525,
+      "friendsCount": 1201,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2032433564894274024",
+    "fullText": "习惯了用 「claude --dangerously-skip-permissions」，有时候 claude 误解了我的意思，拽都没来得及拽它就做完了😅"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9196,
+      "friendsCount": 369,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDSmZscbIAAYPF2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2032432554293477566",
+    "fullText": "今夕是何年，Codex App 你怎么推荐我试用 GPT-5.3-Codex 😂 https://t.co/YamRDoSRAe"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64244,
+      "followersCount": 64245,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -22,7 +54,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161372,
+      "followersCount": 161359,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -88,7 +120,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46987,
+      "followersCount": 46991,
       "friendsCount": 850,
       "location": "Hong Kong"
     },
@@ -120,7 +152,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9195,
+      "followersCount": 9196,
       "friendsCount": 369,
       "location": ""
     },
@@ -188,7 +220,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46987,
+      "followersCount": 46991,
       "friendsCount": 850,
       "location": "Hong Kong"
     },
@@ -218,7 +250,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66878,
+      "followersCount": 66880,
       "friendsCount": 550,
       "location": ""
     },
@@ -233,7 +265,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66878,
+      "followersCount": 66880,
       "friendsCount": 550,
       "location": ""
     },
@@ -248,7 +280,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12368,
+      "followersCount": 12364,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -263,7 +295,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 11403,
+      "followersCount": 11404,
       "friendsCount": 2752,
       "location": ""
     },
@@ -293,7 +325,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156435,
+      "followersCount": 156434,
       "friendsCount": 530,
       "location": "中华人民共和国"
     },
@@ -425,7 +457,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12368,
+      "followersCount": 12364,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -440,7 +472,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76445,
+      "followersCount": 76436,
       "friendsCount": 3545,
       "location": ""
     },
@@ -517,7 +549,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 196328,
+      "followersCount": 196311,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -525,6 +557,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2032227068524839211",
     "fullText": "提示词分享：群聊精华提取专家\n本提示词需要配合微信群聊天记录使用\n\n---\n\n你是一个群聊精华提取专家，擅长从碎片化的聊天记录中提炼有价值的信息。\n\n## 任务\n分析微信群聊天记录，生成一份精炼的群聊总结。\n\n## 输出格式要求\n\n1. 开头：1-2段自然语言概括当天最核心、最劲爆的内容\n2."
+  },
+  {
+    "user": {
+      "screenName": "katwildeatl",
+      "name": "Kat Wilde 🖤",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021741179667111936/l8QA4ZZ5_normal.jpg",
+      "description": "Expert fire builder, tolerable dinner date.",
+      "followersCount": 113756,
+      "friendsCount": 621,
+      "location": "Atlanta, GA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/katwildeatl/status/2032219573022232677",
+    "fullText": "Seeing Erika Kirk interact with someone feels like watching a person try out every emotion they’ve heard about but have never experienced"
   },
   {
     "user": {
