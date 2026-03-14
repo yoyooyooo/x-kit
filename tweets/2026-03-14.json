@@ -11,6 +11,71 @@
     },
     "images": [],
     "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2032843837778141272",
+    "fullText": "用 Claude 修了个 bug。中间需要我对 code 的修改提供很多意见。好处是我不用根据模糊的 clue 寻找 function，也不用 figure out 在 header search path 里加什么。\n\n整体没有比手写省太多时间，但之后大脑是放松状态，而非高强度使用短期记忆后的疲惫状态。我希望这是 agent 能给软件业带来的益处。"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 66897,
+      "friendsCount": 551,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDYaosnaUAANapx.jpg",
+      "https://pbs.twimg.com/media/HDYaosnaMAUAMy2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2032841587143868597",
+    "fullText": "所以，解决伊朗关闭霍尔木兹海峡的影响的方式是让中日韩美英等国派遣舰队？+美国对海岸的轰炸？\n\n总统先生您到底想说什么？ https://t.co/vyrrR3IvPT"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26717,
+      "friendsCount": 336,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2032836163929850305",
+    "fullText": "行业核心资产不同，管理风格也不同：银行的核心资产是钱，人不重要，因此招聘时严卡学历、背景与相貌，制度和等级也更为森严；互联网的核心资产是人，所以招聘更看重真本事，有钱就扩招，管理也相对扁平和人性化；而如今，互联网的核心资产已变成显卡和 idc，想筹钱买显卡就裁员，管理也将越来越严格。"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6124,
+      "friendsCount": 646,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDYVE8QbgAEknec.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2032835469403410881",
+    "fullText": "盲盒刚抽的小冰 晚安💤 https://t.co/cRKh8sSLnh"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 7002,
+      "friendsCount": 756,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/2032830845120295091",
     "fullText": "平行宇宙中在汇编阶段就发展出了 LLM。高级语言 parsing 如何用 spec-only 来实现？大概用 agent 写下推自动机然后谁也不去看代码。\n\n现实是因为下推机太复杂，先发明了 LALR 的增强自动机。还太难懂，又发明了 LL'(k) 等。还太难，大家说干脆我们尽量设计 LL(1) 语法就够用。我觉得我们的宇宙更好。"
   },
@@ -20,7 +85,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26714,
+      "followersCount": 26717,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -37,7 +102,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50823,
+      "followersCount": 50821,
       "friendsCount": 295,
       "location": "China"
     },
@@ -52,8 +117,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [],
@@ -67,7 +132,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161439,
+      "followersCount": 161451,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -82,7 +147,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64293,
+      "followersCount": 64297,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -118,8 +183,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [
@@ -135,7 +200,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50823,
+      "followersCount": 50821,
       "friendsCount": 295,
       "location": "China"
     },
@@ -154,8 +219,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [],
@@ -169,7 +234,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64293,
+      "followersCount": 64297,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -201,7 +266,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64293,
+      "followersCount": 64297,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -231,8 +296,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [
@@ -248,8 +313,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [],
@@ -263,8 +328,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11427,
-      "friendsCount": 2762,
+      "followersCount": 11428,
+      "friendsCount": 2763,
       "location": ""
     },
     "images": [],
@@ -278,7 +343,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25405,
+      "followersCount": 25406,
       "friendsCount": 912,
       "location": "San Jose, CA"
     },
@@ -295,7 +360,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12470,
+      "followersCount": 12481,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -333,7 +398,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24543,
+      "followersCount": 24542,
       "friendsCount": 5117,
       "location": ""
     },
@@ -366,7 +431,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50823,
+      "followersCount": 50821,
       "friendsCount": 295,
       "location": "China"
     },
@@ -447,7 +512,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25405,
+      "followersCount": 25406,
       "friendsCount": 912,
       "location": "San Jose, CA"
     },
@@ -462,7 +527,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12470,
+      "followersCount": 12481,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -479,7 +544,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66898,
+      "followersCount": 66897,
       "friendsCount": 551,
       "location": ""
     },
@@ -494,7 +559,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66898,
+      "followersCount": 66897,
       "friendsCount": 551,
       "location": ""
     },
@@ -527,7 +592,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 196655,
+      "followersCount": 196677,
       "friendsCount": 1584,
       "location": "Chicago, IL"
     },
