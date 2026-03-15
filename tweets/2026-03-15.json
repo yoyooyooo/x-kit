@@ -1,12 +1,159 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12540,
+      "friendsCount": 536,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2033038148733907138",
+    "fullText": "这两天使用 Opus 1M 上下文真的是爽，终于不用一会儿就上下文压缩，尽管 1M 上下文可能到后面变“笨”（LLM 机制所限），目前还没体会到不好的地方。"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 25414,
+      "friendsCount": 914,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDbM6jPaYAALoM0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/2033037590128132568",
+    "fullText": "你们都是配几台显示器干活？ https://t.co/OFfxonrYaA"
+  },
+  {
+    "user": {
+      "screenName": "EverydayZukini",
+      "name": "ST",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1969098318077968385/-KBMp2qN_normal.jpg",
+      "description": "truth seeker, lover of the people, collective thinker non conformist, patent holder, debater, seeker of the divine",
+      "followersCount": 11735,
+      "friendsCount": 1166,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EverydayZukini/status/2033034715897409764",
+    "fullText": "HOAs are the bane of mankind, don’t worry, I’m about to take a very active role in their politics"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6128,
+      "friendsCount": 646,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2033031441085517824/vid/avc1/788x720/cIbICzKonyLxoReY.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/2033031492222505178",
+    "fullText": "视频静止的时候自动增加轻微的呼吸效果，让视频不要太干。\n\n调整呼吸强度，不要过度抢夺注意力。\n\n@ScreenSageApp https://t.co/D3vY8J9ECw"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50825,
+      "friendsCount": 295,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2032730423286181892/vid/avc1/1080x1920/Zlu1AW5b4k_QF6ap.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033030290080485698",
+    "fullText": "好家伙，这么炫啊，奇异博士是找你进的货吧🤣\n\n查了下还挺便宜，感谢小朋友会非常喜欢\nhttps://t.co/erUSvjqUyQ"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50825,
+      "friendsCount": 295,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDbEvy0a0AAkgKv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033029551744495924",
+    "fullText": "马斯克放话要造晶圆超级工厂，还把这条消息置顶了🤣\n\n干得成吗？虽然是世界首富🤔\n\n这么简单台积电也不会稳如泰山了，只不过当初他吹的牛确实一个一个实现了。 https://t.co/hhhrB5UOCw"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50825,
+      "friendsCount": 295,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDbDlK8aMAIJzfi.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033027790791127198",
+    "fullText": "AI 大模型爆发的时代，市场估值也是瞬息万变🤣不论是 Kimi、智谱还是 MiniMax,估值/市值都飙涨。\n\n当然，还得是模型实力过硬和碰到了个人 Agent 风口，比如 OpenClaw 哈哈 https://t.co/ccSeAE49PP"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50825,
+      "friendsCount": 295,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033024019675623606",
+    "fullText": "大冰其实在向老百姓传播王阳明的心学，真的是功德一件\n\nPS：推特很多喷子动不动就针对这些善人，说别人是老登。恰恰证明喷子啥也不干，别人做点啥就喷，不做也喷，鄙视喷子"
+  },
+  {
+    "user": {
+      "screenName": "JaydenDuarte3",
+      "name": "Jayden Duarte",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900585255603761157/TQ6_DvE8_normal.jpg",
+      "description": "NCCA# 2303825041 Alisal High • C/O ‘26 • ATH🏈🏀• DB/QB/RB/WR• GPA 4.0 • IG @jaydenjduarte  |2024 All County Defense, Utility | 2024 All League First Team O, RB",
+      "followersCount": 258,
+      "friendsCount": 532,
+      "location": "Salinas, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDa9_SubwAATQyW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JaydenDuarte3/status/2033021183155908956",
+    "fullText": "After a great phone call with @CoachSegre I’m extremely blessed to have received an offer to play at Lewis n Clark. Go Pioneers!!@LCPiosFB @AthleticsAlisal @coachbelliott @Alisal_football @CoachEstrada831 https://t.co/Ys2HlHg371"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [],
@@ -20,7 +167,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12536,
+      "followersCount": 12540,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -37,8 +184,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [],
@@ -52,7 +199,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26718,
+      "followersCount": 26728,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -84,8 +231,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [],
@@ -99,7 +246,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6127,
+      "followersCount": 6128,
       "friendsCount": 646,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -116,8 +263,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [
@@ -165,7 +312,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25413,
+      "followersCount": 25414,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -217,7 +364,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -234,7 +381,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -251,7 +398,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -268,8 +415,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [
@@ -285,7 +432,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -302,7 +449,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -334,7 +481,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66893,
+      "followersCount": 66894,
       "friendsCount": 552,
       "location": ""
     },
@@ -352,7 +499,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26718,
+      "followersCount": 26728,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -367,7 +514,7 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6127,
+      "followersCount": 6128,
       "friendsCount": 646,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
@@ -399,7 +546,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26718,
+      "followersCount": 26728,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -416,7 +563,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -431,8 +578,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [],
@@ -461,7 +608,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64331,
+      "followersCount": 64334,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -497,8 +644,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11469,
-      "friendsCount": 2773,
+      "followersCount": 11484,
+      "friendsCount": 2780,
       "location": ""
     },
     "images": [
@@ -514,7 +661,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50827,
+      "followersCount": 50825,
       "friendsCount": 295,
       "location": "China"
     },
@@ -657,7 +804,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25413,
+      "followersCount": 25414,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -674,7 +821,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12536,
+      "followersCount": 12540,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -743,7 +890,7 @@
       "name": "They Will Kill You",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2031765281081856001/XWJ-LQLp_normal.png",
       "description": "Get tickets now for #TheyWillKillYouMovie, only in theaters March 27.",
-      "followersCount": 974,
+      "followersCount": 993,
       "friendsCount": 2,
       "location": ""
     },
