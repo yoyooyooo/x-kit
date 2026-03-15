@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 25416,
+      "friendsCount": 914,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/2033070514403684787",
+    "fullText": "💡 护眼小贴士\n\n你的显示器放对高度了吗？\n\n很多人习惯把屏幕中央对准视线，其实这会让眼睛和脖子长期处于轻微紧绷的状态。\n\n正确做法是：屏幕顶部与视线齐平，或略低一点点。\n\n这样屏幕中央自然落在视线偏下的位置，恰好符合眼睛放松时的自然角度，长时间工作下来颈椎和眼睛都会轻松很多。"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
+      "followersCount": 11503,
+      "friendsCount": 2786,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDblt1OaMAEpP2s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2033066338982441286",
+    "fullText": "宝马销售主播拉踩小米汽车，在直播中称，“180天的速成鸡可以吃，但是180天造的车我是不敢开。”，还发表了其它贬低小米品牌和米粉的言论。比如：称小米是杂粮品牌等。 https://t.co/ZfIntVsDdd"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12544,
+      "followersCount": 12545,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -20,7 +52,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7003,
+      "followersCount": 7004,
       "friendsCount": 756,
       "location": "San Jose, CA"
     },
@@ -52,7 +84,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7003,
+      "followersCount": 7004,
       "friendsCount": 756,
       "location": "San Jose, CA"
     },
@@ -101,7 +133,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12544,
+      "followersCount": 12545,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -116,7 +148,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25415,
+      "followersCount": 25416,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -248,7 +280,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11502,
+      "followersCount": 11503,
       "friendsCount": 2786,
       "location": ""
     },
@@ -263,7 +295,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12544,
+      "followersCount": 12545,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -280,7 +312,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11502,
+      "followersCount": 11503,
       "friendsCount": 2786,
       "location": ""
     },
@@ -295,7 +327,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26738,
+      "followersCount": 26739,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -327,7 +359,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11502,
+      "followersCount": 11503,
       "friendsCount": 2786,
       "location": ""
     },
@@ -359,7 +391,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11502,
+      "followersCount": 11503,
       "friendsCount": 2786,
       "location": ""
     },
@@ -408,7 +440,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25415,
+      "followersCount": 25416,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -423,7 +455,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 161476,
+      "followersCount": 161477,
       "friendsCount": 518,
       "location": "東京 港区"
     },
@@ -511,7 +543,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11502,
+      "followersCount": 11503,
       "friendsCount": 2786,
       "location": ""
     },
@@ -562,7 +594,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7003,
+      "followersCount": 7004,
       "friendsCount": 756,
       "location": "San Jose, CA"
     },
@@ -577,7 +609,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 66896,
+      "followersCount": 66897,
       "friendsCount": 552,
       "location": ""
     },
@@ -595,7 +627,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26738,
+      "followersCount": 26739,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -627,7 +659,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7003,
+      "followersCount": 7004,
       "friendsCount": 756,
       "location": "San Jose, CA"
     },
@@ -900,7 +932,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25415,
+      "followersCount": 25416,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
