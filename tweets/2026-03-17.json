@@ -1,12 +1,61 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 64440,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDnq4gAasAA85GT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2033915086189039737",
+    "fullText": "一个简单的样式 bug 让 opus4.6 和 codex5.3 轮番上阵，搞了十几轮回话还是没发解决，最后还是我一点点比对类名发现问题，因为重构，将共享的 React 组件移动到了外层位置，导致没有被 tailwind.css 的 source 扫描到，一些类名没有生效。\n这是一个月来，第一次感觉到自己还有存在的价值，一些 bug https://t.co/LufUMWEKdh"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18517,
+      "friendsCount": 1208,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2033911861494825454",
+    "fullText": "为 什 么 又 不 理 我，这次真的受不了了，拉进免打扰里避免自己再次犯贱🙃"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24575,
-      "friendsCount": 5127,
+      "followersCount": 24576,
+      "friendsCount": 5128,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2033817372541521920/vid/avc1/1080x1350/T-HGBOChYhjEi5Je.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2033911542400627155",
+    "fullText": "哈哈哈，怎么没人 Vibe 出 这个\nhttps://t.co/tMv32HSYMx"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 24576,
+      "friendsCount": 5128,
       "location": ""
     },
     "images": [
@@ -22,7 +71,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64443,
+      "followersCount": 64440,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -37,8 +86,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47199,
-      "friendsCount": 863,
+      "followersCount": 47215,
+      "friendsCount": 864,
       "location": "Hong Kong"
     },
     "images": [
@@ -54,7 +103,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18516,
+      "followersCount": 18517,
       "friendsCount": 1208,
       "location": ""
     },
@@ -71,7 +120,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18516,
+      "followersCount": 18517,
       "friendsCount": 1208,
       "location": ""
     },
@@ -88,7 +137,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76496,
+      "followersCount": 76497,
       "friendsCount": 3556,
       "location": ""
     },
@@ -103,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -120,7 +169,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -136,7 +185,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
       "followersCount": 11707,
-      "friendsCount": 2841,
+      "friendsCount": 2842,
       "location": ""
     },
     "images": [],
@@ -150,7 +199,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18516,
+      "followersCount": 18517,
       "friendsCount": 1208,
       "location": ""
     },
@@ -165,7 +214,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -229,7 +278,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -246,8 +295,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24575,
-      "friendsCount": 5127,
+      "followersCount": 24576,
+      "friendsCount": 5128,
       "location": ""
     },
     "images": [],
@@ -261,7 +310,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 162022,
+      "followersCount": 162025,
       "friendsCount": 519,
       "location": "東京 港区"
     },
@@ -276,7 +325,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 162022,
+      "followersCount": 162025,
       "friendsCount": 519,
       "location": "東京 港区"
     },
@@ -291,7 +340,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -308,7 +357,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -325,7 +374,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197362,
+      "followersCount": 197370,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -358,7 +407,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
       "followersCount": 11707,
-      "friendsCount": 2841,
+      "friendsCount": 2842,
       "location": ""
     },
     "images": [],
@@ -372,7 +421,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64443,
+      "followersCount": 64440,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -387,7 +436,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50859,
+      "followersCount": 50865,
       "friendsCount": 296,
       "location": "China"
     },
@@ -404,7 +453,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197362,
+      "followersCount": 197370,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -437,7 +486,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
       "followersCount": 11707,
-      "friendsCount": 2841,
+      "friendsCount": 2842,
       "location": ""
     },
     "images": [],
@@ -451,8 +500,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47199,
-      "friendsCount": 863,
+      "followersCount": 47215,
+      "friendsCount": 864,
       "location": "Hong Kong"
     },
     "images": [],
@@ -467,7 +516,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
       "followersCount": 11707,
-      "friendsCount": 2841,
+      "friendsCount": 2842,
       "location": ""
     },
     "images": [],
@@ -1395,7 +1444,7 @@
       "name": "ABC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1707804664606109696/ZVl4okB__normal.jpg",
       "description": "practicing my oscars speech in the bathroom mirror because you never know. #Oscars",
-      "followersCount": 681090,
+      "followersCount": 681091,
       "friendsCount": 612,
       "location": "United States"
     },
