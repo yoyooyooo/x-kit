@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50828,
+      "friendsCount": 296,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2033803041804324869/vid/avc1/720x1280/g7L8zIRIhOT5-hct.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033803680076730737",
+    "fullText": "现在移动硬盘盒卷得方向挺正确啊🤣\n\n拓展坞都给搞齐全了\n\n这样不仅能给手机用，Macbook、mac mini 也能用。\n\n当然，最好用的还是直接配台懒猫微服😎无缝内网穿透，还不用吸附在手机上像累赘。 https://t.co/EjJJ4hTCj8"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
+      "followersCount": 11695,
+      "friendsCount": 2839,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2033801798826533275",
+    "fullText": "资源的 代际杠杆\n\n寒门子弟在拼命刷题时，权贵子弟在学习资源整合。你理解的起跑线差异，本质是信息差、社会关系网和容错率的断层。\n\n老熊对容错率深有体会啊，简单说就是输不起。"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 64431,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2033801559700869182",
+    "fullText": "今天学到的一个知识点：React Native 或者是 Electron based 软件可以使用 Cloudflare R2 + D1 做 OTA 自动更新。R2 负责存储静态文件，D1 负责存储版本元数据，还可以搭配 Cloudflare Workers 做更新检查的 API 端点。几乎免费而且速度还不错。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50828,
+      "friendsCount": 296,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2033801091725594628/vid/avc1/1080x1920/HseoVIVgMHjpJA1b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2033801401219092499",
+    "fullText": "有没有懂的大佬解释一下什么是CPO？🤔 https://t.co/xjUgDNh2iJ"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197272,
+      "followersCount": 197275,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -37,8 +101,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11692,
-      "friendsCount": 2836,
+      "followersCount": 11695,
+      "friendsCount": 2839,
       "location": ""
     },
     "images": [],
@@ -52,7 +116,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47044,
+      "followersCount": 47068,
       "friendsCount": 863,
       "location": "Hong Kong"
     },
@@ -67,8 +131,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11692,
-      "friendsCount": 2836,
+      "followersCount": 11695,
+      "friendsCount": 2839,
       "location": ""
     },
     "images": [],
@@ -82,7 +146,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26873,
+      "followersCount": 26874,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -112,7 +176,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24566,
+      "followersCount": 24568,
       "friendsCount": 5126,
       "location": ""
     },
@@ -161,7 +225,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24566,
+      "followersCount": 24568,
       "friendsCount": 5126,
       "location": ""
     },
@@ -176,7 +240,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24566,
+      "followersCount": 24568,
       "friendsCount": 5126,
       "location": ""
     },
@@ -242,7 +306,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24566,
+      "followersCount": 24568,
       "friendsCount": 5126,
       "location": ""
     },
@@ -257,8 +321,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11692,
-      "friendsCount": 2836,
+      "followersCount": 11695,
+      "friendsCount": 2839,
       "location": ""
     },
     "images": [],
@@ -317,7 +381,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67012,
+      "followersCount": 67013,
       "friendsCount": 554,
       "location": ""
     },
@@ -351,7 +415,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67012,
+      "followersCount": 67013,
       "friendsCount": 554,
       "location": ""
     },
@@ -385,7 +449,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25512,
+      "followersCount": 25514,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -402,7 +466,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67012,
+      "followersCount": 67013,
       "friendsCount": 554,
       "location": ""
     },
@@ -432,7 +496,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25512,
+      "followersCount": 25514,
       "friendsCount": 914,
       "location": "San Jose, CA"
     },
@@ -447,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197272,
+      "followersCount": 197275,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -492,6 +556,21 @@
     ],
     "tweetUrl": "https://x.com/Roommates__Show/status/2033602038764900631",
     "fullText": "Josh was clowning on Jose for his interview with Taylor Rooks in high school 😭 @DrinkBODYARMOR https://t.co/2iA9OY8AVS"
+  },
+  {
+    "user": {
+      "screenName": "USDA_APHIS",
+      "name": "USDA Animal and Plant Health Inspection Service",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774805904585883648/kwSv9e5x_normal.jpg",
+      "description": "USDA's Animal and Plant Health Inspection Service (APHIS) protects American agriculture by helping ensure the health of animals and plants.",
+      "followersCount": 35561,
+      "friendsCount": 867,
+      "location": "United States of America"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USDA_APHIS/status/2033600276695752742",
+    "fullText": "African swine fever spreads fast. There haven’t been any cases in the U.S. yet, but a single infection could wipe out America’s pig population. Prevention is the only cure."
   },
   {
     "user": {
@@ -853,7 +932,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12617,
+      "followersCount": 12620,
       "friendsCount": 538,
       "location": "杭州"
     },
