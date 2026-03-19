@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 7008,
+      "friendsCount": 755,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2034729805808312663",
+    "fullText": "如果你自己或者别人做了一个 PoC，可以运行起来证明技术思路，代码结构不符合你对长期维护和产品设计。你会不会 selectively 的往 main branch 上合并。其实我发现，先合并再 refactor 永远比所谓 selective 更容易。唯一要注意的是合并前最好加一些 flag 指导最后的 clean up。"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
@@ -52,7 +67,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -99,7 +114,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12800,
+      "followersCount": 12801,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -129,7 +144,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67118,
+      "followersCount": 67121,
       "friendsCount": 555,
       "location": ""
     },
@@ -146,7 +161,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67118,
+      "followersCount": 67121,
       "friendsCount": 555,
       "location": ""
     },
@@ -163,7 +178,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64512,
+      "followersCount": 64513,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -178,7 +193,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67118,
+      "followersCount": 67121,
       "friendsCount": 555,
       "location": ""
     },
@@ -212,7 +227,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64512,
+      "followersCount": 64513,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -227,7 +242,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12800,
+      "followersCount": 12801,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -276,7 +291,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -311,7 +326,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -326,7 +341,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -373,7 +388,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -435,7 +450,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 164056,
+      "followersCount": 164064,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -520,7 +535,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156804,
+      "followersCount": 156806,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -552,7 +567,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18514,
+      "followersCount": 18513,
       "friendsCount": 1208,
       "location": ""
     },
@@ -968,7 +983,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67118,
+      "followersCount": 67121,
       "friendsCount": 555,
       "location": ""
     },
@@ -1083,7 +1098,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 198530,
+      "followersCount": 198537,
       "friendsCount": 1586,
       "location": "Chicago, IL"
     },
@@ -1151,7 +1166,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 198530,
+      "followersCount": 198537,
       "friendsCount": 1586,
       "location": "Chicago, IL"
     },
