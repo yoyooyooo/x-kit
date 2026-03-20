@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 164918,
+      "friendsCount": 521,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2034948586430194033",
+    "fullText": "起床了！昨天密集上线了非常多东西，和大家同步下昨天晚上 mails 上线的几个版本 v1.3.0 → v1.5.1：\n\n1. 邮件附件收发打通：\n收到的邮件如果带附件，现在可以直接查看和下载了。CLI 用 `--save` 一键保存到本地，收件箱列表也会标注哪些邮件有附件。\n\n2. 邮件搜索更智能：\n用 db9"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50868,
+      "friendsCount": 296,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD2VkUiboAQi8YA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2034947386293068106",
+    "fullText": "Nothing Phone 这个品牌的手机还挺有特色的。\n\n听说是一加手机的联合创始人出来做的新品牌，而且不在国内卷，有点类似一加品牌刚诞生的时候在极客圈获得的好口碑。思路不错啊 https://t.co/SAoilDxBZk"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12805,
+      "friendsCount": 534,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2034946582001721706",
+    "fullText": "YC CEO 搞的这个 /office-hours skills 不错，模拟 YC 的创始人，可以帮你验证产品想法。\n\n之前我自己还搞过一个，当时把 YC 理念封装成一个 skills，让 cc 来考验我。\n\nhttps://t.co/6F1Os3fz98"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -73,7 +120,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18478,
+      "followersCount": 18479,
       "friendsCount": 1208,
       "location": ""
     },
@@ -122,7 +169,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47402,
+      "followersCount": 47398,
       "friendsCount": 866,
       "location": "Hong Kong"
     },
@@ -169,7 +216,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12804,
+      "followersCount": 12805,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -184,7 +231,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67138,
+      "followersCount": 67137,
       "friendsCount": 556,
       "location": ""
     },
@@ -199,7 +246,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47402,
+      "followersCount": 47398,
       "friendsCount": 866,
       "location": "Hong Kong"
     },
@@ -249,7 +296,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76510,
+      "followersCount": 76511,
       "friendsCount": 3557,
       "location": ""
     },
@@ -282,7 +329,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24594,
+      "followersCount": 24592,
       "friendsCount": 5132,
       "location": ""
     },
@@ -299,7 +346,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18478,
+      "followersCount": 18479,
       "friendsCount": 1208,
       "location": ""
     },
@@ -329,7 +376,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18478,
+      "followersCount": 18479,
       "friendsCount": 1208,
       "location": ""
     },
@@ -344,7 +391,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18478,
+      "followersCount": 18479,
       "friendsCount": 1208,
       "location": ""
     },
@@ -393,7 +440,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 196598,
+      "followersCount": 196620,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -476,7 +523,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12804,
+      "followersCount": 12805,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -493,7 +540,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12804,
+      "followersCount": 12805,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -525,7 +572,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 24594,
+      "followersCount": 24592,
       "friendsCount": 5132,
       "location": ""
     },
@@ -1264,7 +1311,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 199326,
+      "followersCount": 199344,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -1313,7 +1360,7 @@
       "name": "BuzzFeed Celeb",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1471656522648219650/dvLb8IXW_normal.jpg",
       "description": "Celebrity the BuzzFeed way. In Gosling We Trust.\nNo thirst tweet is safe from us.",
-      "followersCount": 170121,
+      "followersCount": 170127,
       "friendsCount": 109,
       "location": ""
     },
