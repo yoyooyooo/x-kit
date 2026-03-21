@@ -1,11 +1,122 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18500,
+      "friendsCount": 1209,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2035178649998201103",
+    "fullText": "这几天要出去玩，打算从操旧业拍点素材剪vlog记录，发现自己不是抗拒做短视频，而是我没有这个能力，所以本能的避开\n\n手机举起来就是拍横屏，蹲在角落一个人对着手机先叭叭十分钟，可我都还没去呢，怎么把这么多素材压成五分钟？做不到啊我不敢想\n\n还是长视频吧，什么都拍，什么都要，我不取舍"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165391,
+      "followersCount": 165398,
+      "friendsCount": 521,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD4c3anaUAAJCzD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2035176064788615310",
+    "fullText": "https://t.co/X6TJYfFVAg 重大更新上线！一晚 128 个代码提交。按功能分：\n\n- DJ / 音乐系统\n从零搭建了完整的 DJ 功能！支持 vibe 混音，多人协作使用 cc/codex 或者其他 llm cli 使用混合器创作音乐。实现真正的 vibing while coding\n\n- 多人协作\n支持最多 2 https://t.co/dgdNRbdsWQ"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 24639,
+      "friendsCount": 5151,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2035122202828480512/vid/avc1/2560x1440/WhOEYUapnv6cyxBC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2035175990016561497",
+    "fullText": "Claude Code 支持云上定时任务了，\n还好😅 我给 ZSpace 支持了 CC 套壳\n https://t.co/Dfqtv1fX3Y"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26914,
+      "friendsCount": 337,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2035174012322816462",
+    "fullText": "我抢了一周腾讯云和 glm 的 coding plan，每天早上十点正准时开抢，就是抢不到，十多秒就没了，好几天操作到一半就失败了，不知道有没有平替？"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 24639,
+      "friendsCount": 5151,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2035080310099255296/vid/avc1/1920x1080/vvJQYgQ9mm5Q4ENp.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2035172899670159858",
+    "fullText": "这个工具太 TM 实用了！\n\nBrowser Use CLI 2.0 正在把浏览器自动化这件事，往“更工程化、更可控”的方向拉。\n\n https://t.co/TqB2icTzcb"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 165398,
+      "friendsCount": 521,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2035172790811373719",
+    "fullText": "人类是 agent 的观察者，神祇是人类的观察者。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26914,
+      "friendsCount": 337,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2035168552060428439",
+    "fullText": "或许真的不需要前端了：现在要查一个数据之所以还需要去网站上点点点，是因为 ai 还没有普及，等到它足够普及了，我为什么还要去你网站上点点点呢？我的 ai 助手就直接能访问 api 了，我直接问他多快捷，要去用那个难用的网站干嘛？"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 165398,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -20,7 +131,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165391,
+      "followersCount": 165398,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -35,7 +146,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165391,
+      "followersCount": 165398,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -50,7 +161,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64521,
+      "followersCount": 64522,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -84,7 +195,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 199822,
+      "followersCount": 199836,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -117,7 +228,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7005,
+      "followersCount": 7006,
       "friendsCount": 756,
       "location": "San Jose, CA"
     },
@@ -151,7 +262,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -166,7 +277,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -181,8 +292,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11874,
-      "friendsCount": 2882,
+      "followersCount": 11878,
+      "friendsCount": 2887,
       "location": ""
     },
     "images": [
@@ -198,7 +309,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -216,7 +327,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 199822,
+      "followersCount": 199836,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -231,7 +342,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -261,7 +372,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64521,
+      "followersCount": 64522,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -293,7 +404,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -308,7 +419,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18498,
+      "followersCount": 18500,
       "friendsCount": 1209,
       "location": ""
     },
@@ -355,7 +466,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 64521,
+      "followersCount": 64522,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -372,8 +483,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11874,
-      "friendsCount": 2882,
+      "followersCount": 11878,
+      "friendsCount": 2887,
       "location": ""
     },
     "images": [
@@ -389,8 +500,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 人间百态",
-      "followersCount": 11874,
-      "friendsCount": 2882,
+      "followersCount": 11878,
+      "friendsCount": 2887,
       "location": ""
     },
     "images": [
@@ -406,7 +517,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12834,
+      "followersCount": 12836,
       "friendsCount": 534,
       "location": "杭州"
     },
@@ -421,7 +532,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165391,
+      "followersCount": 165398,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -453,7 +564,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12834,
+      "followersCount": 12836,
       "friendsCount": 534,
       "location": "杭州"
     },
