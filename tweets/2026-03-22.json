@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12964,
+      "friendsCount": 536,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2035652866455769313",
+    "fullText": "目前我的2个新号机器上登录过，用过，openclaw也用了，坚持没放到sub2api 上。很长时间了，一切正常目前。基本可得结论：sub2api 有很大问题"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 12964,
+      "friendsCount": 536,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2035647654554898432/vid/avc1/1920x1080/4Dvjl31DMik8IPIA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fkysly/status/2035648062895579538",
+    "fullText": "别说了，兄弟们，继续跟小姐姐学 AI Agent 知识吧。\n《Advanced patterns for dynamic agents》 https://t.co/JlKV4cDDdY"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -56,7 +88,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 200267,
+      "followersCount": 200295,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -103,7 +135,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12962,
+      "followersCount": 12964,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -118,8 +150,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 11981,
-      "friendsCount": 2925,
+      "followersCount": 11986,
+      "friendsCount": 2928,
       "location": ""
     },
     "images": [
@@ -135,7 +167,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 200267,
+      "followersCount": 200295,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -224,7 +256,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12962,
+      "followersCount": 12964,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -275,7 +307,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12962,
+      "followersCount": 12964,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -363,7 +395,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22102,
+      "followersCount": 22103,
       "friendsCount": 1066,
       "location": ""
     },
@@ -374,6 +406,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/lencx_/status/2035529868969156727",
     "fullText": "Noi 现在可以智能过滤噪音，抓取 HTML 解析为 Markdown。 https://t.co/LdPcmy1MQG"
+  },
+  {
+    "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035575705279369216/hVARRRTY_normal.jpg",
+      "description": "SUNDAY on NBC & Peacock and NBA TV:\n🏀 5:00pm/et: @trailblazers/@nuggets\n🏀 8:00pm/et: @Timberwolves/@celtics",
+      "followersCount": 46260258,
+      "friendsCount": 2037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2035528379043053568/vid/avc1/1920x1080/WtSvvlxoc0I9-eVU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/2035529257632350353",
+    "fullText": "LaMelo sinks his 7th three from DEEP 🎯\n\nHe finished with 29 PTS as the Hornets improve to 11-3 in their last 14 games! https://t.co/Ge3aihYv6c"
   },
   {
     "user": {
@@ -445,8 +494,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 11981,
-      "friendsCount": 2925,
+      "followersCount": 11986,
+      "friendsCount": 2928,
       "location": ""
     },
     "images": [
@@ -479,7 +528,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67198,
       "friendsCount": 557,
       "location": ""
     },
@@ -494,7 +543,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12962,
+      "followersCount": 12964,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -605,7 +654,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 12962,
+      "followersCount": 12964,
       "friendsCount": 536,
       "location": "杭州"
     },
@@ -620,8 +669,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 11981,
-      "friendsCount": 2925,
+      "followersCount": 11986,
+      "friendsCount": 2928,
       "location": ""
     },
     "images": [
@@ -1239,6 +1288,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/2035206906155790554",
     "fullText": "卧槽！别再一个人从零用 AI 写游戏了，这项目直接给你一整个“AI工作室”\n\n48个智能体 + 37套工作流，把一段 Claude Code 会话，变成完整游戏开发团队\n\n不只是写代码——\n👉 有导演把控方向\n👉 有程序/美术/叙事/QA分工\n👉 有评审、规范、流程全套机制 https://t.co/LsLoyy2VjG"
+  },
+  {
+    "user": {
+      "screenName": "CBSSportsCBB",
+      "name": "CBS Sports College Basketball 🏀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1635342418672222208/L9QS7mT5_normal.jpg",
+      "description": "CBS’ home for college hoops + the NCAA tourney. You love ball? So do we. Our writers: @MattNorlander @GaryParrishCBS @davidwcobb @cameronsalerno1 @Isaac__Trotte",
+      "followersCount": 168464,
+      "friendsCount": 129,
+      "location": "Bracket Street and Buckets Ave"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2035123824207765504/vid/avc1/1920x1080/hb9GrO7e0-qhuXNK.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/CBSSportsCBB/status/2035123879165739131",
+    "fullText": "The officials appeared to  call a travel on Tennessee in the closing moments, but Rick Barnes called a timeout beforehand. \n\nSubstitutions entered the game for the closing moments right after. https://t.co/64kB91gIpD"
   },
   {
     "user": {
