@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27437,
+      "friendsCount": 340,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2051353318447108548",
+    "fullText": "现在我用文档驱动方式搭配少量测试验证，让 coding agent 做项目，具体会先讨论对齐 prd.md，然后再讨论对齐 spec.md，小项目问题不大，但中型项目的话感觉缺乏中间阶段让我分阶段验收，可控性差，有必要再弄一个 plan.md 来拆分跟踪计划吗？保证每一个 task"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 51906,
+      "friendsCount": 898,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2051349923527028805",
+    "fullText": "今年的主线感觉还是得多赚点钱，然后下半年满仓买 Anthropic 和 OpenAI 的股票。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -20,7 +50,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
@@ -37,7 +67,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
@@ -253,7 +283,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27435,
+      "followersCount": 27437,
       "friendsCount": 340,
       "location": "Guangdong"
     },
@@ -270,7 +300,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65926,
+      "followersCount": 65928,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -287,7 +317,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
@@ -401,7 +431,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
@@ -464,7 +494,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
@@ -481,7 +511,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 215772,
+      "followersCount": 215770,
       "friendsCount": 1624,
       "location": "Chicago, IL"
     },
@@ -579,7 +609,7 @@
       "name": "Star Wars",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2041959940777242624/TQnPe3LT_normal.jpg",
       "description": "The official home of Star Wars. Star Wars returns to theaters May 22 with The Mandalorian and Grogu.",
-      "followersCount": 6331883,
+      "followersCount": 6332027,
       "friendsCount": 344,
       "location": ""
     },
@@ -594,7 +624,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 215772,
+      "followersCount": 215770,
       "friendsCount": 1624,
       "location": "Chicago, IL"
     },
@@ -688,8 +718,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51907,
-      "friendsCount": 897,
+      "followersCount": 51906,
+      "friendsCount": 898,
       "location": "Hong Kong"
     },
     "images": [
@@ -837,7 +867,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12785,
+      "followersCount": 12786,
       "friendsCount": 3080,
       "location": ""
     },
