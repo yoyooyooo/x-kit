@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 215918,
+      "friendsCount": 1625,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHl8cPbWMAQGBun.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2051808036763664442",
+    "fullText": "最近用微信读书听书，现在 AI 语音的音色是真好，但是多音字识别不准，很多字音都读错了，听着就很出戏！\n\n之前是在喜马拉雅听真人版本，感觉就特别好，后来进度太慢就去听书，但效果就差好多。\n\n按理说以现在大模型的水平能正确识别多音字的，希望能改善好。 https://t.co/V3e2In56wW"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
+      "friendsCount": 584,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHl6KhOasAETlgT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2051806454873743499",
+    "fullText": "【Anthropic发布新Agent，目标金融业，开始与金融巨头合资建立利益共同体，推广Agent服务，扩大用户基础；传统金融数据公司吓尿】\n\n今天，传统金融数据软件公司股价大跌：FactSet 股价一度下跌8.1%，晨星公司跌幅超过3%；汤森路透股价一度下跌5.1%；标普全球和穆迪的股价也遭遇了大幅抛售..... https://t.co/WKFMVOLSNL"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -52,7 +86,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4816883,
+      "followersCount": 4816949,
       "friendsCount": 4,
       "location": ""
     },
@@ -69,7 +103,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -118,7 +152,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -150,7 +184,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 215916,
+      "followersCount": 215918,
       "friendsCount": 1625,
       "location": "Chicago, IL"
     },
@@ -180,7 +214,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1242803,
+      "followersCount": 1242810,
       "friendsCount": 32,
       "location": "Menlo Park, CA"
     },
@@ -218,6 +252,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/RobinhoodApp/status/2051687370584363159",
     "fullText": "Trade crypto, stocks, options &amp; futures—all in one app."
+  },
+  {
+    "user": {
+      "screenName": "FieldsFreedom24",
+      "name": "Fields of Freedom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1654145147687383040/4t7o1Vuf_normal.jpg",
+      "description": "Fields of Freedom Alliance represents the millions of hardworking family farmers and rural workers who feed & fuel America through agriculture & bioprocessing.",
+      "followersCount": 361,
+      "friendsCount": 443,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FieldsFreedom24/status/2051677723479736413",
+    "fullText": "President Trump supports year-round E15 to lower gas prices, strengthen American energy independence, and support U.S. farmers. Congress has the power to act—and it’s time they do."
   },
   {
     "user": {
@@ -287,7 +336,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65943,
+      "followersCount": 65945,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -387,7 +436,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 52023,
+      "followersCount": 52025,
       "friendsCount": 899,
       "location": "Hong Kong"
     },
@@ -424,7 +473,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -441,7 +490,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -458,7 +507,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65943,
+      "followersCount": 65945,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -475,7 +524,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -509,7 +558,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -528,7 +577,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 199296,
+      "followersCount": 199295,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -536,6 +585,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ruanyf/status/2051490028631822632",
     "fullText": "今天才知道，门罗币的挖矿与比特币完全不同，它的设计思路是，尽量让所有人都能参与挖矿，防止那些拥有矿机的人占优势。\n\n它的挖矿程序会模拟一个通用 CPU，使得矿机的专用 CPU 失效，也就是说它的挖矿只适合家用电脑的普通 CPU。https://t.co/wllLrVJnHl"
+  },
+  {
+    "user": {
+      "screenName": "ConComCen",
+      "name": "Construction Command Center",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2041498394225745920/OSOfVGIr_normal.jpg",
+      "description": "AI+Blockchain+Robotics Construction Software Company.",
+      "followersCount": 5,
+      "friendsCount": 62,
+      "location": "Santa Monica, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ConComCen/status/2051481371919491353",
+    "fullText": "Construction costs up 8%+ from tariffs. GCs flying blind on margins. CCCforGC fixes that."
   },
   {
     "user": {
@@ -673,7 +737,7 @@
       "name": "Mortal Kombat Movie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051334887647621120/qFoKdITP_normal.png",
       "description": "Mortal Kombat II - only in theaters and IMAX this Friday. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
-      "followersCount": 89454,
+      "followersCount": 89455,
       "friendsCount": 19,
       "location": ""
     },
@@ -733,7 +797,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -767,7 +831,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68651,
+      "followersCount": 68652,
       "friendsCount": 584,
       "location": ""
     },
@@ -827,7 +891,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 52023,
+      "followersCount": 52025,
       "friendsCount": 899,
       "location": "Hong Kong"
     },
