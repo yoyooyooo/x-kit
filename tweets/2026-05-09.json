@@ -1,11 +1,114 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27172,
+      "friendsCount": 5340,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HH2KxPGWQAUPLKX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2052949600206491828",
+    "fullText": "万推，Codex 不能直接安装 ，\n来自 clawhub / github 的 Skill 吗？\n\n必须要自己创建吗？！ https://t.co/f1VJa9PbG6"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 216960,
+      "followersCount": 216984,
+      "friendsCount": 1635,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HH2JphkXIAAo_qZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2052948362668732781",
+    "fullText": "GPT Image 2 Prompt：水墨风格 Slides/PPT \n\n可以把下面的提示词模板发给 Agent，让 Agent 帮你生成每一页 Slides 的画图 Prompt，Codex 这样有画图能力的直接出图。\n\n--- 提示词模板 ---\n\nTitle: [在此输入幻灯片标题]\n\nKey Points:\n- [要点 1：简洁的描述]\n- [要点 2：核心数据或事实]\n- [要点 https://t.co/xMWAQVsAto"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27172,
+      "friendsCount": 5340,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052931012401987584/vid/avc1/2800x2160/Ys-cMLJOTReOHG5_.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2052945031669928222",
+    "fullText": "卧槽！突然感觉我好蠢， \n我居然看不懂，为什么会这样？ \n\n我高一之前一直数学成绩班里 Top10， \n后来偶然一次科学小展会一个橡皮筋拓扑， \n为什么会那样，我理解不了。\n\n然后，好像自那以后我就对数学没兴趣了...\nhttps://t.co/PNouvFsGbA"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 216984,
+      "friendsCount": 1635,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HH2EicFXwAMAJTm.jpg",
+      "https://pbs.twimg.com/media/HH2Ej43WUAY9FHi.jpg",
+      "https://pbs.twimg.com/media/HH2ElG8WAAUqewN.jpg",
+      "https://pbs.twimg.com/media/HH2EmkuXkAMMohF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2052942818570543550",
+    "fullText": "GPT Image 2 Prompt：中文科技新闻爆款封面生成器\n\n--- Prompt ---\n\n你是一名顶级中文科技媒体视觉设计师。\n\n你的任务是：\n\n根据用户输入的一整篇文章内容，自动提取核心新闻、关键数字、核心产品、行业情绪和信息层级，并生成一张高冲击力的中文科技新闻文章封面图。\n\n图片比例：16:9 横版。\n\n--- https://t.co/7IBEFzvVbr"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 14030,
+      "friendsCount": 555,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2052938704277434698",
+    "fullText": "Claude Code 团队现在开始推崇 HTML 代替 Markdown 来汇报 AI 工作进展和结果，原因是 MD 限制太多，HTML 可以更丰富展现。\n这个咋说呢，我几个月前就已经这么搞了，特别是在复杂结果、需要汇报、总结的情况下，网页的排版和可交互性太清晰了。方法也很简单，就让 CC"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 52128,
+      "friendsCount": 900,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052936476548292608/vid/avc1/1080x1440/l3C-a39ZnqHHBLRZ.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/2052936767423262925",
+    "fullText": "Wow，GPT Image2  + Seedance做这种门店循环宣传片，真的太猛了。\n\n以前这种商场大屏、门店电视、展会 booth 的广告视频，基本都得找广告公司，一条几千甚至上万。现在用 AI，成本直接打下来，而且生成速度快得离谱。\n\n餐饮、美业、潮牌、酒店、健身房、商场大屏……都可以试试 MkAnime 的 GPT Image2 https://t.co/ue6DYF9V7g"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 216984,
       "friendsCount": 1635,
       "location": "Chicago, IL"
     },
@@ -22,7 +125,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 175457,
+      "followersCount": 175489,
       "friendsCount": 536,
       "location": "東京 港区"
     },
@@ -40,7 +143,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 216960,
+      "followersCount": 216984,
       "friendsCount": 1635,
       "location": "Chicago, IL"
     },
@@ -55,7 +158,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27173,
+      "followersCount": 27172,
       "friendsCount": 5340,
       "location": ""
     },
@@ -70,7 +173,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -87,7 +190,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4830178,
+      "followersCount": 4830414,
       "friendsCount": 4,
       "location": ""
     },
@@ -117,7 +220,7 @@
       "name": "Mortal Kombat Movie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052513886910255109/ZVKDGrWC_normal.png",
       "description": "Mortal Kombat II - now playing only in theaters and IMAX. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
-      "followersCount": 89774,
+      "followersCount": 89780,
       "friendsCount": 19,
       "location": ""
     },
@@ -149,7 +252,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4830178,
+      "followersCount": 4830414,
       "friendsCount": 4,
       "location": ""
     },
@@ -166,7 +269,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -213,7 +316,7 @@
       "name": "Tradeify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1679523503815491584/1060IvXq_normal.jpg",
       "description": "Up to $750K in funding • Lightning Fast Funding • Elite Support • Rapid Payouts - $200M+ paid out ⚡️ Subscribe to Tradeify TV: https://t.co/aNDeCHRuzA",
-      "followersCount": 54114,
+      "followersCount": 54184,
       "friendsCount": 11,
       "location": "Miami, FL"
     },
@@ -228,7 +331,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -243,7 +346,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -273,7 +376,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14031,
+      "followersCount": 14030,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -288,7 +391,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10849,
+      "followersCount": 10850,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -320,7 +423,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -337,7 +440,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 66048,
+      "followersCount": 66053,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -403,7 +506,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -438,7 +541,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -453,7 +556,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -468,7 +571,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -562,7 +665,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -866,7 +969,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68906,
+      "followersCount": 68917,
       "friendsCount": 585,
       "location": ""
     },
@@ -898,7 +1001,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 13086,
+      "followersCount": 13104,
       "friendsCount": 1444,
       "location": "New York, USA"
     },
