@@ -1,11 +1,76 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 216960,
+      "friendsCount": 1635,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HH18TD4WkAUH3RG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2052933700996804827",
+    "fullText": "任天堂今天宣布全线涨价，Switch 2、老款 Switch、Nintendo Switch Online 会员全部上调。\n\n日本市场首当其冲，5 月 25 日起生效。Switch 2 日文版从 49,980 日元涨到 59,980 日元，涨了一万日元，涨幅 20%。老款 Switch 的涨幅更夸张，基础款从 32,978 日元直接跳到 43,980 日元，涨了一万一。Switch https://t.co/noVEfGE1gq"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 175457,
+      "friendsCount": 536,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052867959790649344/vid/avc1/860x1864/OiS7cg79KDXzy1xc.mp4?tag=27",
+      "https://video.twimg.com/amplify_video/2052867869185347584/vid/avc1/860x1864/XhOAZsIch5H8QGL9.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/turingou/status/2052933573406245252",
+    "fullText": "给 https://t.co/7Q70NRVnkt 上线了新版本官网，也是我最近一直想做的设计，通过 codex/cc 分析项目代码，给出可能的场景后调用 GPT-image-2 创建分镜，再用 seedance2 做成交互式视频，向用户展示可能的产品应用场景。这个做细致一些，甚至还可以做成 netflix 黑镜 Bandersnatch https://t.co/LUU9G91jZT"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 216960,
+      "friendsCount": 1635,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2052929093461528903",
+    "fullText": "https://t.co/d1MmKpPABz"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27173,
+      "friendsCount": 5340,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2052920389689332042",
+    "fullText": "https://t.co/QCdYSmq7q1"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -22,7 +87,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4830015,
+      "followersCount": 4830178,
       "friendsCount": 4,
       "location": ""
     },
@@ -52,7 +117,7 @@
       "name": "Mortal Kombat Movie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052513886910255109/ZVKDGrWC_normal.png",
       "description": "Mortal Kombat II - now playing only in theaters and IMAX. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
-      "followersCount": 89755,
+      "followersCount": 89774,
       "friendsCount": 19,
       "location": ""
     },
@@ -84,7 +149,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4830015,
+      "followersCount": 4830178,
       "friendsCount": 4,
       "location": ""
     },
@@ -101,7 +166,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -133,6 +198,21 @@
       "name": "Tradeify",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1679523503815491584/1060IvXq_normal.jpg",
       "description": "Up to $750K in funding • Lightning Fast Funding • Elite Support • Rapid Payouts - $200M+ paid out ⚡️ Subscribe to Tradeify TV: https://t.co/aNDeCHRuzA",
+      "followersCount": 54151,
+      "friendsCount": 11,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tradeify/status/2052791678453338222",
+    "fullText": "$1M in Prizes. $0 to Enter. Zero Experience Needed."
+  },
+  {
+    "user": {
+      "screenName": "Tradeify",
+      "name": "Tradeify",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1679523503815491584/1060IvXq_normal.jpg",
+      "description": "Up to $750K in funding • Lightning Fast Funding • Elite Support • Rapid Payouts - $200M+ paid out ⚡️ Subscribe to Tradeify TV: https://t.co/aNDeCHRuzA",
       "followersCount": 54114,
       "friendsCount": 11,
       "location": "Miami, FL"
@@ -148,7 +228,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -163,7 +243,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -193,7 +273,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14032,
+      "followersCount": 14031,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -223,7 +303,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -240,7 +320,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -257,7 +337,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 66046,
+      "followersCount": 66048,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -323,7 +403,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -338,7 +418,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -358,7 +438,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -373,7 +453,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -388,7 +468,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -452,7 +532,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -482,7 +562,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -499,7 +579,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -516,7 +596,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27589,
+      "followersCount": 27590,
       "friendsCount": 342,
       "location": "Guangdong"
     },
@@ -533,7 +613,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -550,7 +630,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -567,7 +647,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27589,
+      "followersCount": 27590,
       "friendsCount": 342,
       "location": "Guangdong"
     },
@@ -584,7 +664,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -601,7 +681,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -618,7 +698,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -635,7 +715,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -652,7 +732,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53010,
+      "followersCount": 53008,
       "friendsCount": 318,
       "location": "China"
     },
@@ -786,7 +866,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68897,
+      "followersCount": 68906,
       "friendsCount": 585,
       "location": ""
     },
@@ -811,5 +891,22 @@
     ],
     "tweetUrl": "https://x.com/NBA/status/2052543612404060187",
     "fullText": "Jenkins bounces it to Duren for the slam 💥\n\nDetroit leads by 11 at the break in Game 2! https://t.co/xjKlHLsQVQ"
+  },
+  {
+    "user": {
+      "screenName": "VictorRenajlj",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
+      "followersCount": 13086,
+      "friendsCount": 1444,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052384366563602438/vid/avc1/720x1280/2RThS1qDSe0Cg-06.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/VictorRenajlj/status/2052384750543716828",
+    "fullText": "BREAKING: $NRED just added Gregory Fedun to its advisory board ! \n\nThis may be one of the company’s most important strategic moves yet.\n\nFedun brings 30+ years in mining, natural resources, capital markets and global project development across North America, South America, Africa https://t.co/xXvqPQ6uym"
   }
 ]
