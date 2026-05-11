@@ -1,12 +1,46 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 217631,
+      "friendsCount": 1634,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIEOQjHXwAAmvnC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2053940091970580736",
+    "fullText": "Codex 的野心，MCP 和 Skill 的下一步\n\n这段时间我在密集使用 Codex App、Cursor 等 Agent 应用，有件事越来越觉得有意思。\n\n去年大家争的是谁家模型更强，今年争的好像变成了谁家窗口右侧更好用。\n\nCodex、Claude 桌面版、Cursor 3.0、TRAE SOLO，这几家最顶尖的 https://t.co/Tzu5dUY6Ms"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4840430,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2053933700275167232/vid/avc1/1302x846/gNyby3rlmdLE884B.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2053939702110269822",
+    "fullText": "Introducing Daybreak: frontier AI for cyber defenders.\n\nDaybreak brings together the most capable OpenAI models, Codex, and our security partners to accelerate cyber defense and continuously secure software.\n\nA step toward a future where security teams can move at the speed https://t.co/AGfXhmJb5E"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7001,
-      "friendsCount": 761,
+      "followersCount": 7000,
+      "friendsCount": 760,
       "location": "San Jose, CA"
     },
     "images": [],
@@ -20,7 +54,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14046,
+      "followersCount": 14047,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -50,7 +84,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68975,
+      "followersCount": 68973,
       "friendsCount": 587,
       "location": ""
     },
@@ -67,7 +101,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68975,
+      "followersCount": 68973,
       "friendsCount": 587,
       "location": ""
     },
@@ -116,7 +150,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 66177,
+      "followersCount": 66175,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -133,7 +167,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4840584,
+      "followersCount": 4840430,
       "friendsCount": 4,
       "location": ""
     },
@@ -259,7 +293,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76176,
+      "followersCount": 76177,
       "friendsCount": 3580,
       "location": ""
     },
@@ -389,7 +423,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14046,
+      "followersCount": 14047,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -436,7 +470,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68975,
+      "followersCount": 68973,
       "friendsCount": 587,
       "location": ""
     },
@@ -470,7 +504,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68975,
+      "followersCount": 68973,
       "friendsCount": 587,
       "location": ""
     },
@@ -504,7 +538,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14046,
+      "followersCount": 14047,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -536,7 +570,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14046,
+      "followersCount": 14047,
       "friendsCount": 555,
       "location": "杭州"
     },
