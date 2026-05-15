@@ -1,0 +1,600 @@
+[
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27592,
+      "friendsCount": 344,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2055073213802320097",
+    "fullText": "KCP 更新 2.0.0：增加可插拔的拥塞控制系统，允许您通过安装回调函数替换内置算法，而无需修改 KCP 代码，你可以自己实现 reno, cubic, vegas, bbr 等流控算法，并灵活调参，然后安装进去。玩法是你不用像 TCP 那么保守，比如 cubic / bbr 你可以让它们更快增长，更快恢复。"
+  },
+  {
+    "user": {
+      "screenName": "AvenorFam",
+      "name": "AvenorFam",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048440426546561024/9D4lrK0u_normal.jpg",
+      "description": "Clean systems, clear thinking, and simple execution.\nBuilt around control, focus, and ideas that actually work.",
+      "followersCount": 16627,
+      "friendsCount": 6,
+      "location": "Miami"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AvenorFam/status/2055037935376904551",
+    "fullText": "Avenor — the most powerful AI agent you’ll ever use, installed in one click. \n\nFrom planning your day and handling everyday tasks to generating photos and videos, it does it all in one place."
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4855103,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2055015698280411136/vid/avc1/2160x2160/7HZezPVzDzyCXsCX.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2055016850849993072",
+    "fullText": "You've been asking for this one...\n\nNow in preview: Codex in the ChatGPT mobile app.\n\nStart new work, review outputs, steer execution, and approve next steps, all from the ChatGPT mobile app. Codex will keep running on your laptop, Mac mini, or devbox. https://t.co/9i2Jckjt9z"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HITXOsQacAA3kB_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2055004213789499397",
+    "fullText": "2017年的第一夫人在中国出访\n\n那个，这次第一夫人为什么没有陪同出席？\n\n懂的来说说？ https://t.co/E6mi0V54d7"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054996187909071163",
+    "fullText": "这两天，有一个直播非常火，是机器人兄弟三人Bob，Frank和Gary在流水线工作的视频\n\nAI不仅要替代高智能的白领，如果AGI出现，机器人出来，那现在被AI替代比较低的蓝领岗位都保不住了\nhttps://t.co/XI3cRKO7Ji"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HITOXAEaUAAQWOJ.jpg",
+      "https://pbs.twimg.com/media/HITOW_5aMAEk6Ba.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054994666718921198",
+    "fullText": "昨天参加习近平为特朗普在天安门东广场举行的欢迎仪式的中美政商两界代表（我翻译成了中文）\n\n来源：纽约时报 @nytimes https://t.co/qxOmQZ6tZS"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIS8dw3bQAA0qm0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054974681527230846",
+    "fullText": "大家，我其实是一个严肃的财经博主啊 https://t.co/nFt0E0Szcw"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054864163579572224/vid/avc1/1920x1080/471qPUQmS7P1CfD-.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054972452770619556",
+    "fullText": "与雷军合影，微表情出卖了马斯克的内心\n\n友商见面分外眼红，但还是不忘要用表情包\n\n（问题：你和人微信聊天，什么时候会用表情包？比如😝😂😅😇🤪😚🙂😱😓🫣🤫😪🫪😴） https://t.co/mcJAK4RF1u"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIS1Z29asAASRkh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054966860077302130",
+    "fullText": "这周在重写LightOS的WebShell功能， 主要是Tmux激进的Diff算法，会让Codex和Claude Code这些程序在渲染时出现字符重叠，遗漏和隐藏等bug，特别影响生产力\n\n最最最关键的是，tmux开发者还不修这些bug\n\n与其争辩，不如实干，今天下午分析了一下现有开源终端项目的优缺点：\n\n1. https://t.co/hehWnO2ujK"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISxyvobgAY-pKC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054962820794777787",
+    "fullText": "请放大图片，看最左边这位女士，也就是特朗普的二儿媳妇-劳拉.特朗普的胳膊\n\n平常力量训练很到位啊！\n\n她曾是Fox电视台的新闻主持人\n\n在2024年大选期间，她受到特朗普的指派，出任美国共和党全国委员会（RNC）联合主席，负责共和党的竞选筹款与选举策略，并在年底胜选后卸任 https://t.co/0skwfl8lbv"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054951200143921152/vid/avc1/1280x720/MgzrgckD19vw3iYw.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054961106297442789",
+    "fullText": "【铁人三项不过尔尔】\n在北京度过漫长而成功的一天后，特朗普已经走出国宴厅，回酒店过夜了\n\n整天都在谈判，并且计划在今晚晚些时候（美国时间）继续推进\n\n他将在大约北京时间11:30再次会见习近平，参加茶话会和午餐，然后登上空军一号返回美国\n https://t.co/Ruo1y8lSNG"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054936905104359425/vid/avc1/1280x720/COBZ2G6mJ0fj4c5u.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054952483143991742",
+    "fullText": "特朗普接受Fox新闻频道采访，有关伊朗🇮🇷问题👇\n\n特朗普：“我们讨论过这件事。 呃。 我的意思是，当你说“支持”时，他们并不是在和我们开战什么的。 他说他不会提供军事装备。 那是一个大声明。 但与此同时，他说他们在那里买了很多石油，他们想继续这样做” https://t.co/5ikSK6axYD"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054944968226058240/vid/avc1/720x1280/MNjOm7u5FAYH8m-k.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054946897274732944",
+    "fullText": "看看Bloomberg抓拍的晚宴上大佬们 https://t.co/uZIMjrmWwf"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISi4jAbYAAlbnu.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054906490142461952/vid/avc1/1600x900/LEpWTHMQ_81UbMjn.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054946427206533200",
+    "fullText": "马斯克带着儿子X在中国\n\n小X穿着唐装走在巨大的厅堂\n\n小X是马斯克与加拿大电音女歌手格莱姆斯的长子（两人育有三个孩子）\n\n马斯克获得了X的监护权，并认为x最像他，喜欢火箭，是他最喜欢随身携带的孩子😝 https://t.co/9JibAAnkqR https://t.co/Wbiry86pX3"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27417,
+      "friendsCount": 5372,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISif8bWwAAynZR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2054946202764857820",
+    "fullText": "OpenAI 在搞什么 @ChatGPTapp \n跑半个小时，跑出来一个文件名？？？ https://t.co/dzbbNICEgy"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISXdI_bcAAGQi_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054933861658935641",
+    "fullText": "东方财富整理的这张美国工商界代表图特别好！\n\n让大家来认认脸👇👇 https://t.co/KNdsHroLGg"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27417,
+      "friendsCount": 5372,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISWqXWWcAA9VVt.jpg",
+      "https://pbs.twimg.com/media/HISWqXTW0AAxny0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2054933001704804777",
+    "fullText": "这么快吗，就上架了？！ https://t.co/4a5cDV3nyU"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69458,
+      "friendsCount": 592,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2054931853438836974",
+    "fullText": "在李强会见的美国工商界代表中，有纽交所负责人\n\n不知会不会讨论中美资本/股票市场相关事宜，比如监管框架及放开融资？\n\n李强会见的美国工商界代表包括："
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12906,
+      "friendsCount": 3096,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HISOqAObAAAMVLG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2054924832907968869",
+    "fullText": "#VibeCoding 每日实战报告\n\n自从编程离不开 Coding Agent 之后，我觉得我的装备有点跟不上时代了。这屏幕压根不够我摆弄，急需一块大屏，马上6.18购物季到了，有没有女菩萨赞助一个大屏幕🖥！ https://t.co/MhivLmWa76"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76171,
+      "friendsCount": 3582,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2054923381175390225",
+    "fullText": "#selected\nhttps://t.co/u0hBu2lAWf"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 66200,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054901204363460608/vid/avc1/1848x1080/VT8KxwsZed2TNFMZ.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/2054901426418221434",
+    "fullText": "最近沉迷于做各种复古有趣的开源小玩意儿\n\n 昨天很喜欢 v0 的 dither 风格 avatar，我就开始做一个类似但是更复杂的小东西，Planet Avatar，半调点阵和复古 SVG 感觉的星球图标，输入任意 seed，就能稳定生成一颗复古像素质感的星球头像。\n\n支持 Vanilla JS、React、Vue，输出自包含 https://t.co/iyG7ALVNsi"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18418,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIR3dO-aMAA3q2-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2054898684090110344",
+    "fullText": "栓菜牛又面🍝 https://t.co/yxhLsgWibl"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18418,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2054882321174802845",
+    "fullText": "https://t.co/0185Ke16ih"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6380,
+      "friendsCount": 679,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054866147892404224/vid/avc1/720x1280/cNDIsVxTEqnrzg5-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/2054866209410342964",
+    "fullText": "给大家分享一个能提升刷推效率的小插件 X Premiumer：\n\n1. 直接在时间线翻译英文\n不用点进推文，直接点击就能看懂，避免频繁切换打断思路。\n\n2. 一次翻译接下来的 10 条\n连续英文推文一次性翻译，刷内容更顺畅，减少重复操作。\n\n3. 个人主页信息同步显示 https://t.co/HbTxX4hie8"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18418,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIRXfXSagAAnANs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2054864135624732673",
+    "fullText": "当 AI 学会靠截图来视觉识别自己做的改动后，\n它开始自己夸自己做的“UI 不错”... https://t.co/jPFofRYczd"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054851268162822144/vid/avc1/1080x1920/Mhr7vA80LLLfN4S2.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054851524581589354",
+    "fullText": "适配鸿蒙有这么难？\n\n腾讯副总裁说微信投入了800人来适配鸿蒙，占到了总的开发人员的半数🥲 https://t.co/VvYT9h28Nf"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIRG9D1bYAAWT2C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054845941522522422",
+    "fullText": "今天晚上大疆 DJI 就要在法国戛纳发布 OSMO Pocket4P 这款产品了\n\n有在等的人吗？\n\n除了影石的类似产品会在近期发布，vivo 的据说会是年底。 https://t.co/Ev0EDxFi6v"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 66200,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2054843346070503693",
+    "fullText": "handoff 最近用的越来越多了，https://t.co/EvoBIUNgQw\n是目前我最高频使用的 skill 了，发现 Codex 上下文一长，反应速度明显下降的非常厉害，都不是界面卡顿，而是返回的速度，当然本身 GPT 模型本身上下文和其他相比比较小，所以对于长任务，到差不多 70% - 80% 我都会用 handoff"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054841174763163915",
+    "fullText": "突然想到，我们成天在说 GPT-5.5、Codex、GPT-Image-2、Claude Opus 4.7，已经很少提到 Gemini 或者 Nano banana 了\n\nGoogle 又掉队了？\n\n是从大规模封反代用 OpenClaw 号时候开始的吗？🤔"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIQ_nxZbgAIbuCY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054837351931920893",
+    "fullText": "让 AI 参与自迭代后，效率有点惊人啊\n\n这 GPT-5.5 才诞生多久，GPT-5.6 就快发布了？ https://t.co/Z6k79FPAQ7"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054656506214449152/vid/avc1/720x1280/PgbXBIjJvWg0S4Ni.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054835916448079913",
+    "fullText": "“毒液”蓝牙音箱？😍 \n\n这听歌的时候视觉享受感觉会很爽啊\n\n来一首重金属摇滚会不会把它震碎🤣\nhttps://t.co/Xn70qJt8ok"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIQ3AKCawAAGAT6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054828014899531866",
+    "fullText": "谁能懂我前脚刚看到传言说姚顺雨要从腾讯离职\n\n下一秒就看到腾讯辟谣的消息的心情啊🤡\n\n这辟谣速度彰显了腾讯坚定做 AI 的决心？ https://t.co/Wbu7swQ7tK"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054555689318768641/vid/avc1/720x1280/xeQPCPiazykgewNy.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054827120405393688",
+    "fullText": "Zippo 的这个打火机有点东西啊，居然还带耳机与显示\n\n跨界想法真不错，我能不能植入个 Claude Code 进去🤣\n\n搜了下价格居然还挺便宜。\nhttps://t.co/YU8JMbzBLC"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 158870,
+      "friendsCount": 532,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2054790142670553244",
+    "fullText": "感觉现在 X 上很多都是 AI 回复的，特点是会照顾到你原文的所有点，好像在认真阅读并认真回复。这一点太不像真人了，人往往只看到其中一两句，甚至是关键词，就触发了。以我多年上推的经验来说，真人不可能这么 nice。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIQRFN0aAAA6e-n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054786265560801562",
+    "fullText": "你们猜猜马斯克在拍什么，什么时候会晒到推特上🤣\n\n隔壁库克内心：你世界首富又怎么样，还不是用的我家 iPhone https://t.co/9j2I1r1vnU"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53020,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIPi3hwbwAArAGB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2054735593092083750",
+    "fullText": "急了，急了，Anthropic 急了🤣\n\nClaude Code 周限额将增加 50%\n\n想吸引用户？\n\n现在尝到封号大家用脚投票去用 GPT-5.5 的恶果啦？\n\n当然估计跟租用马斯克 SpaceX 的算力中心也有一定关系。 https://t.co/gU1BgBepZg"
+  }
+]
