@@ -1,12 +1,89 @@
 [
   {
     "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
+      "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
+      "followersCount": 10913,
+      "friendsCount": 179,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/2055107158753329203",
+    "fullText": "以后尽量不写这么长的文章了，虽然有ai帮助但还是太累了。\nhttps://t.co/XYmY5otTdc\n\n同时还在写两篇论文，emnlp投稿日期马上到了，有一篇小论文，能中个findings也可以满意了。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27417,
+      "friendsCount": 5372,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2055103637332873545",
+    "fullText": "https://t.co/hhBPUENdIY"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53018,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIUxI1xaAAAWQnW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2055102873000972429",
+    "fullText": "苹果借着 618 活动赤裸裸的玩起了阳谋啊\n\n你们 Android 旗舰机不是因为内存和硬盘价格上涨而被迫调高终端售价么\n\n那我就借着供应链优势降价精准打击🥲\n\niPhone 17 Pro 最高直降 1000 元，还能叠加 12 期免息\n\n此消彼涨，这一波怕是会圈住不少用户。 https://t.co/MNLH3dBhJp"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53018,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2055100059642216680",
+    "fullText": "你们昨天有谁在京东上买到 NIVDIA H100 吗？\n\n据说昨晚京东短暂上架过一阵子，然后就下架了\n\n跟谈判进程相关？🤔"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218394,
+      "friendsCount": 1634,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2055097242755706984",
+    "fullText": "https://t.co/1pTdwS0LT5"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
       "followersCount": 6380,
-      "friendsCount": 679,
+      "friendsCount": 680,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -37,7 +114,7 @@
       "name": "AvenorFam",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048440426546561024/9D4lrK0u_normal.jpg",
       "description": "Clean systems, clear thinking, and simple execution.\nBuilt around control, focus, and ideas that actually work.",
-      "followersCount": 16627,
+      "followersCount": 16511,
       "friendsCount": 6,
       "location": "Miami"
     },
@@ -48,11 +125,26 @@
   },
   {
     "user": {
+      "screenName": "ElevenLabsDevs",
+      "name": "ElevenLabs Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2049890778286018561/GWfKyAev_normal.jpg",
+      "description": "Deploy natural, human-sounding agents with the @ElevenLabs AI audio platform. For status updates, see https://t.co/rFTNGwiTnv.",
+      "followersCount": 12114,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ElevenLabsDevs/status/2055024303091880227",
+    "fullText": "Introducing ElevenLabs Devs, a new YouTube channel for AI engineers.\n\nExpect deep dives, demos, and clear explanations of key concepts across Text to Speech, Speech to Text, ElevenAgents, and broader AI systems.\n\nSubscribe: https://t.co/bZzvbzMc5F"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4855386,
+      "followersCount": 4855655,
       "friendsCount": 4,
       "location": ""
     },
@@ -65,11 +157,26 @@
   },
   {
     "user": {
+      "screenName": "didaifireme",
+      "name": "Did AI Fire Me?",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2054994653964079104/zaSf7mL0_normal.jpg",
+      "description": "were you laid off? find out if ai decided",
+      "followersCount": 0,
+      "friendsCount": 1,
+      "location": "California"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/didaifireme/status/2055015155382042940",
+    "fullText": "make your former employer answer. free."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -86,7 +193,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -101,7 +208,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -119,7 +226,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -136,7 +243,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -153,7 +260,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 53020,
+      "followersCount": 53018,
       "friendsCount": 321,
       "location": "China"
     },
@@ -170,7 +277,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -187,7 +294,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -204,7 +311,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -221,7 +328,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -238,7 +345,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -270,11 +377,26 @@
   },
   {
     "user": {
+      "screenName": "gittower",
+      "name": "Tower",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1787870630387355649/7dXnyU49_normal.jpg",
+      "description": "The best Git client for Mac & Windows. Download free trial. For support please contact us at https://t.co/QA7UvIR1ZK or support at git-tower dot com",
+      "followersCount": 11323,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gittower/status/2054944892825063803",
+    "fullText": "Tower 16 for Mac is here — and it introduces AI Commits! \n\nNow you can generate commit messages and descriptions with AI, right from within Tower.\n\nHere's everything you need to know"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -309,7 +431,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69490,
+      "followersCount": 69510,
       "friendsCount": 592,
       "location": ""
     },
@@ -341,7 +463,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76171,
+      "followersCount": 76161,
       "friendsCount": 3581,
       "location": ""
     },
@@ -356,7 +478,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 66200,
+      "followersCount": 66202,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -373,7 +495,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18417,
+      "followersCount": 18415,
       "friendsCount": 1229,
       "location": ""
     },
@@ -390,7 +512,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18417,
+      "followersCount": 18415,
       "friendsCount": 1229,
       "location": ""
     },
@@ -406,7 +528,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
       "followersCount": 6380,
-      "friendsCount": 679,
+      "friendsCount": 680,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [],
@@ -422,7 +544,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18417,
+      "followersCount": 18415,
       "friendsCount": 1229,
       "location": ""
     },
