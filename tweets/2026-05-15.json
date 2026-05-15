@@ -1,6 +1,93 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 27418,
+      "friendsCount": 5372,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2055128071678889984/vid/avc1/1290x2796/e6Pl7tMQNGt_z5bV.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2055130889177170123",
+    "fullText": "卧槽！看得我脊背发凉！\n\n不是说 B 站都是为爱发电吗？！\n20w粉丝不到，收入 100w+？？\nhttps://t.co/rqOmeYaDcs"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 69525,
+      "friendsCount": 594,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2055130496867398088",
+    "fullText": "https://t.co/qH58g9Q631"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53018,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIVJkgWasAAXfG8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2055129931294912914",
+    "fullText": "不知道还有多少人记得前阵子 Anthropic 对订阅用户禁用 OpenClaw 的强硬态度？\n\n现在他们悄悄服软了。\n\n在 Claude Support 界面，Anthropic 现在更新了使用条款。自2026年6月15日起，订阅用户也将有专属的 agent 额度。\n\n换句话说，这个额度就是给订阅用户使用 OpenClaw 或者是 Hermes agent 使用的。 https://t.co/yvmYTji4Pg"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 14095,
+      "friendsCount": 557,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIVEro9boAA_8iF.jpg",
+      "https://pbs.twimg.com/media/HIVEro_aYAAwcGj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2055124331504812168",
+    "fullText": "Grok CLI Beta 版本终于发布了，目前仅对 SuperGrok Heavy 订阅用户开放\n\nhttps://t.co/OZ2jFTJA8q https://t.co/JIQ4btGJTc"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53018,
+      "friendsCount": 321,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIU5HGKaIAAMceC.jpg",
+      "https://pbs.twimg.com/media/HIU5IFsaoAAmwpI.jpg",
+      "https://pbs.twimg.com/media/HIU5JL_bgAAVfAC.jpg",
+      "https://pbs.twimg.com/media/HIU5LmGagAE9x7P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2055111767744012605",
+    "fullText": "OpenAI 终于在 ChatGPT 手机端开放 Codex 控制入口了。现在开发者们能够在完成绑定后，通过手机端控制桌面端的 Codex 完成编码任务。\n\n整个绑定流程做得很详细，跟着提示一步步操作即可完成。实测多端同步速度还可以。\n\n只不过目前只支持 mac 端的 Codex。Windows 用户还得再等等啦。\n\n但相比懒猫微服 https://t.co/HDFHLhSwKK"
+  },
+  {
+    "user": {
       "screenName": "nateleex",
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
@@ -20,7 +107,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27417,
+      "followersCount": 27418,
       "friendsCount": 5372,
       "location": ""
     },
@@ -67,7 +154,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 218394,
+      "followersCount": 218415,
       "friendsCount": 1634,
       "location": "Chicago, IL"
     },
@@ -99,7 +186,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27592,
+      "followersCount": 27594,
       "friendsCount": 344,
       "location": "Guangdong"
     },
@@ -125,6 +212,21 @@
   },
   {
     "user": {
+      "screenName": "talktofriday",
+      "name": "Friday, Invent your future",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035418649440493568/WkSe7_KD_normal.jpg",
+      "description": "On path to $1 million ARR",
+      "followersCount": 267,
+      "friendsCount": 2244,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/talktofriday/status/2055031978320363956",
+    "fullText": "Did you try Friday?  Just talk to your software, with Friday you can Invent Your Future\n\nFriday turns the way you describe what you need into a working live app — ask, refine, ship.  Sales pipeline? Social publishing? Just Friday it"
+  },
+  {
+    "user": {
       "screenName": "ElevenLabsDevs",
       "name": "ElevenLabs Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2049890778286018561/GWfKyAev_normal.jpg",
@@ -144,7 +246,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4855655,
+      "followersCount": 4855919,
       "friendsCount": 4,
       "location": ""
     },
@@ -176,8 +278,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -193,8 +295,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -208,8 +310,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -226,8 +328,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -243,8 +345,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -277,8 +379,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -294,8 +396,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -311,8 +413,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -328,8 +430,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -345,8 +447,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -364,7 +466,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27417,
+      "followersCount": 27418,
       "friendsCount": 5372,
       "location": ""
     },
@@ -396,8 +498,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [
@@ -413,7 +515,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27417,
+      "followersCount": 27418,
       "friendsCount": 5372,
       "location": ""
     },
@@ -431,8 +533,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69510,
-      "friendsCount": 592,
+      "followersCount": 69525,
+      "friendsCount": 594,
       "location": ""
     },
     "images": [],
@@ -446,8 +548,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12905,
-      "friendsCount": 3096,
+      "followersCount": 12907,
+      "friendsCount": 3097,
       "location": ""
     },
     "images": [
@@ -463,7 +565,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76161,
+      "followersCount": 76158,
       "friendsCount": 3581,
       "location": ""
     },
@@ -478,7 +580,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 66202,
+      "followersCount": 66199,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -693,7 +795,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158871,
+      "followersCount": 158858,
       "friendsCount": 532,
       "location": "中华人民共和国"
     },
