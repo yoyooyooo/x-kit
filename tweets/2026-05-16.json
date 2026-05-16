@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218552,
+      "friendsCount": 1637,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2055470006679302261",
+    "fullText": "用回 Sublime 了，内存只要 300 多 MB，相比 vscode 动辄 10 来个 G 还是节约内存多了！\n\n主要是现在基本不用手写代码了，VSCode 很多功能都用不上了，反而像 Sublime 这样语法高亮加文件编辑足够了。\n\nhttps://t.co/ItZKhDzZih"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 53018,
+      "friendsCount": 320,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2055469736914571620",
+    "fullText": "创业很多难题都可以靠时间去解决\n\n而赚钱是增加时间的唯一方法\n\n所以，赚钱是硬道理，不赚钱的创业都是耍流氓\n\n最后，买一台懒猫微服，OPC创业者必备神器，别人还在搭部署环境，你直接语音输入法编程，实时看效果"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6379,
+      "friendsCount": 679,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIZ0Le8aQAAU-7J.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2055458695866352014",
+    "fullText": "有老外找我聊 VC 的事，该怎么思考这件事，我需要 VC 吗？和老外合作是不是很麻烦？是骗子吗？ https://t.co/0RfWzr8KgW"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -22,7 +69,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -71,7 +118,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -88,7 +135,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -135,7 +182,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -145,6 +192,21 @@
     ],
     "tweetUrl": "https://x.com/yuyy614893671/status/2055378828789510462",
     "fullText": "今天，OpenAI向ChatGPT专业版的用户推出了AI理财试用版\n\n根据Open AI官网介绍，用户可以安全地连接其金融账户，查看资金流向，并根据个人的财务状况向ChatGPT提出问题\n\nOpenAI将首先面向小部分用户进行试用，以便从实际使用中学习，改进体验，并谨慎地逐步扩展 #OpenAI  #ChatGPT\n#金融革命 https://t.co/ZhwZJChgu5"
+  },
+  {
+    "user": {
+      "screenName": "virtuallatinos",
+      "name": "Virtual Latinos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2037292604845694976/jdrJvtBm_normal.jpg",
+      "description": "Virtual Latinos is the first platform connecting entrepreneurs, teams, and agencies from the US, Canada, and the world with virtual assistants.",
+      "followersCount": 16,
+      "friendsCount": 0,
+      "location": "San Diego, CA. US."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/virtuallatinos/status/2055377350607372471",
+    "fullText": "Doing everything yourself feels productive, but it slows growth. A Virtual Assistant keeps things moving. Book a free consultation."
   },
   {
     "user": {
@@ -182,7 +244,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -199,7 +261,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27504,
+      "followersCount": 27514,
       "friendsCount": 5378,
       "location": ""
     },
@@ -216,7 +278,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 218546,
+      "followersCount": 218552,
       "friendsCount": 1637,
       "location": "Chicago, IL"
     },
@@ -248,7 +310,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -265,7 +327,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14092,
+      "followersCount": 14091,
       "friendsCount": 557,
       "location": "杭州"
     },
@@ -280,7 +342,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -297,7 +359,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 14092,
+      "followersCount": 14091,
       "friendsCount": 557,
       "location": "杭州"
     },
@@ -361,7 +423,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -378,7 +440,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 218546,
+      "followersCount": 218552,
       "friendsCount": 1637,
       "location": "Chicago, IL"
     },
@@ -413,7 +475,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 218546,
+      "followersCount": 218552,
       "friendsCount": 1637,
       "location": "Chicago, IL"
     },
@@ -428,7 +490,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -443,7 +505,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -460,7 +522,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -477,7 +539,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -509,7 +571,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
@@ -541,7 +603,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 27504,
+      "followersCount": 27514,
       "friendsCount": 5378,
       "location": ""
     },
@@ -886,7 +948,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 69827,
+      "followersCount": 69845,
       "friendsCount": 595,
       "location": ""
     },
