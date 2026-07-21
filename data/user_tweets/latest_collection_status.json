@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T18:45:34.203002Z",
+  "generated_at": "2026-07-21T19:21:24.059166Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -380,6 +380,31 @@
       "latest_tweet_id": "2079592601691603122",
       "oldest_tweet_created_at": "2014-12-18T13:32:01Z",
       "oldest_tweet_id": "545572192902070273"
+    },
+    "leexinq": {
+      "status": "completed",
+      "twitter_url": "https://x.com/leexinq",
+      "twitter_rest_id": "3756811639",
+      "vibeloft_username": "leo3",
+      "vibeloft_nickname": "Leo",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/leo3",
+      "started_at": "2026-07-21T19:00:38.277134Z",
+      "data_file": "data/user_tweets/vibeloft/leexinq.json",
+      "stop_on_existing": false,
+      "handle": "leexinq",
+      "updated_at": "2026-07-21T19:21:24.059162Z",
+      "completed_at": "2026-07-21T19:21:24.058633Z",
+      "completed_at_local": "2026-07-22T03:21:24.058639+08:00",
+      "history_complete": true,
+      "pages_collected_total": 32,
+      "new_tweets_last_run": 468,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 468,
+      "latest_tweet_created_at": "2026-07-20T17:56:49Z",
+      "latest_tweet_id": "2079264279816229343",
+      "oldest_tweet_created_at": "2020-03-14T02:50:49Z",
+      "oldest_tweet_id": "1238658817325289473"
     }
   }
 }
