@@ -1,4 +1,5 @@
 import json
+import os
 import time
 from pathlib import Path
 from typing import Optional
@@ -6,6 +7,10 @@ from typing import Optional
 import httpx
 
 CONFIG_DIR = Path(__file__).resolve().parent.parent / "config"
+
+
+def insecure_tls_enabled() -> bool:
+    return os.environ.get("XKIT_INSECURE_TLS", "").lower() in {"1", "true", "yes", "on"}
 
 
 def _load_config() -> dict:
@@ -47,6 +52,7 @@ def get_client(
     auth_token: Optional[str] = None,
     ct0: Optional[str] = None,
     with_transaction_id: bool = True,
+    verify: Optional[bool] = None,
 ) -> httpx.Client:
     cfg = _load_config()
 
@@ -61,6 +67,8 @@ def get_client(
         )
 
     event_hooks = {"request": [_add_transaction_id]} if with_transaction_id else {}
+    if verify is None:
+        verify = not insecure_tls_enabled()
 
     client = httpx.Client(
         headers={
@@ -80,6 +88,7 @@ def get_client(
         },
         event_hooks=event_hooks,
         timeout=30,
+        verify=verify,
     )
     return client
 

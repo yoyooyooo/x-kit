@@ -64,6 +64,13 @@ uv run collect_vibeloft_twitter_accounts.py
 
 # Collect Twitter/X-side post and follower counts for those accounts
 uv run collect_twitter_profile_stats.py
+
+# Sequentially collect all VibeLoft Twitter/X timelines; pauses on X rate limits
+uv run python scripts/collect_vibeloft_twitter_sequence.py
+
+# Inspect the latest per-user collection status
+uv run python scripts/twitter_collection_status.py chunxiangai
+uv run python scripts/twitter_collection_status.py
 ```
 
 ## Notes
@@ -72,6 +79,9 @@ uv run collect_twitter_profile_stats.py
 - `data/user_tweets/` contains selected full-user tweet exports collected before the Python migration.
 - `data/vibeloft_twitter_accounts.json` records public VibeLoft profiles that expose Twitter/X links.
 - `data/vibeloft_twitter_x_stats.json` records Twitter/X-side post and follower counts for the VibeLoft Twitter cohort.
+- `data/user_tweets/latest_collection_status.json` records each collected VibeLoft Twitter user's latest collection time, newest tweet time, oldest tweet time, tweet count, output file, and failure/pause status.
+- `data/user_tweets/sequence_state.json` records the sequential collection cursor. If X returns a rate limit, the sequence pauses and resumes from the same user after the reset window.
+- `data/user_tweets/vibeloft/` stores per-user timeline exports collected by the sequential task.
 - Query IDs and feature flags are deployment artifacts. Refresh them if X.com changes its web bundle.
 - Write operations can trigger account-level limits and risk controls. Use deliberate delays and avoid automation bursts.
 - Do not commit cookies, captured private payloads, or personal datasets.

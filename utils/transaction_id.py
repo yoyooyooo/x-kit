@@ -7,17 +7,23 @@
 本模块在首次调用时获取并缓存这些资源。
 """
 
+import os
 import threading
 import time
 from urllib.parse import urlparse
 
 import bs4
 import requests
+import urllib3
 from x_client_transaction import ClientTransaction
 from x_client_transaction.utils import generate_headers, get_ondemand_file_url, handle_x_migration
 
 _lock = threading.Lock()
 _ct: ClientTransaction | None = None
+
+
+def insecure_tls_enabled() -> bool:
+    return os.environ.get("XKIT_INSECURE_TLS", "").lower() in {"1", "true", "yes", "on"}
 
 
 def _init_client_transaction() -> ClientTransaction:
@@ -31,6 +37,9 @@ def _init_client_transaction() -> ClientTransaction:
         try:
             session = requests.Session()
             session.headers = generate_headers()
+            if insecure_tls_enabled():
+                session.verify = False
+                urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
             # 1. 获取首页（含验证 meta + 动画 SVG）
             home_page = handle_x_migration(session)
