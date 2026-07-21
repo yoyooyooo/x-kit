@@ -1,0 +1,2287 @@
+{
+  "source": "https://vibeloft.ai",
+  "generated_at": "2026-07-21T10:22:12.827740Z",
+  "collection_method": {
+    "api_base": "https://api.vibeloft.ai/api/v1",
+    "profile_list_endpoint": "POST /api/v1/user/list",
+    "page_size": 100,
+    "note": "Public VibeLoft profile list; Twitter/X links are extracted from public profile fields."
+  },
+  "stats": {
+    "profiles_scanned": 1389,
+    "api_total_profiles": 1389,
+    "accounts": 76,
+    "unique_handles": 76
+  },
+  "accounts": [
+    {
+      "handle": "AirboZH",
+      "url": "https://x.com/AirboZH",
+      "vibeloft_profile": {
+        "id": "7ad794a0-4f96-4a64-9408-01d90591face",
+        "username": "airbozh",
+        "nickname": "二薄",
+        "url": "https://vibeloft.ai/profile/airbozh",
+        "is_verified": false,
+        "followers_count": 6,
+        "following_count": 12,
+        "posts_count": 24,
+        "product_count": 3,
+        "primary_product_name": "酒迹 - 精酿手帐",
+        "location": "北京",
+        "created_at": "2026-07-16T10:49:38.99959Z",
+        "updated_at": "2026-07-21T09:44:44.591241Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/AirboZH",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/AirboZH"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "noobnooc",
+      "url": "https://x.com/noobnooc",
+      "vibeloft_profile": {
+        "id": "1e576000-8519-4598-84fb-c2086f669410",
+        "username": "apple",
+        "nickname": "Nooc",
+        "url": "https://vibeloft.ai/profile/apple",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 6,
+        "posts_count": 0,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "",
+        "created_at": "2026-07-17T03:27:17.402686Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/noobnooc",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/noobnooc"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "HackerMeta",
+      "url": "https://x.com/HackerMeta",
+      "vibeloft_profile": {
+        "id": "593e8a03-8430-4256-b892-1baa36c26f2a",
+        "username": "bewords",
+        "nickname": "BeWords",
+        "url": "https://vibeloft.ai/profile/bewords",
+        "is_verified": false,
+        "followers_count": 4,
+        "following_count": 5,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "SwiftBiu",
+        "location": "武汉",
+        "created_at": "2026-07-16T09:27:43.131056Z",
+        "updated_at": "2026-07-21T00:19:44.636751Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/HackerMeta",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/HackerMeta"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "BillLi_AI",
+      "url": "https://x.com/BillLi_AI",
+      "vibeloft_profile": {
+        "id": "61042e72-6f45-4815-8394-b1c0dea495bf",
+        "username": "BillLi_AI",
+        "nickname": "大彪 bill",
+        "url": "https://vibeloft.ai/profile/BillLi_AI",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Painhunt.dev",
+        "location": "",
+        "created_at": "2026-07-16T13:26:23.97953Z",
+        "updated_at": "2026-07-17T19:23:15.848625Z"
+      },
+      "sources": [
+        {
+          "field": "website",
+          "raw_url": "https://x.com/BillLi_AI"
+        }
+      ]
+    },
+    {
+      "handle": "deepbluuest",
+      "url": "https://x.com/deepbluuest",
+      "vibeloft_profile": {
+        "id": "7f871c5f-f105-45dd-afaf-850ae79fe03f",
+        "username": "bluuedeep",
+        "nickname": "bluue deep",
+        "url": "https://vibeloft.ai/profile/bluuedeep",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 6,
+        "posts_count": 0,
+        "product_count": 2,
+        "primary_product_name": "Catmark",
+        "location": "",
+        "created_at": "2026-07-17T08:57:34.664699Z",
+        "updated_at": "2026-07-19T03:40:51.161637Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/deepbluuest",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/deepbluuest"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "avenger",
+      "url": "https://x.com/avenger",
+      "vibeloft_profile": {
+        "id": "5545c3bf-9a40-466f-8cab-8b6c245d438a",
+        "username": "bolechen",
+        "nickname": "Bole",
+        "url": "https://vibeloft.ai/profile/bolechen",
+        "is_verified": false,
+        "followers_count": 84,
+        "following_count": 11,
+        "posts_count": 44,
+        "product_count": 4,
+        "primary_product_name": "Zen · 净心禅堂",
+        "location": "Wuhan",
+        "created_at": "2026-07-16T09:34:51.410679Z",
+        "updated_at": "2026-07-21T10:14:44.599736Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/avenger",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/avenger"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "chibinya_",
+      "url": "https://x.com/chibinya_",
+      "vibeloft_profile": {
+        "id": "ceabf631-9ed4-4bca-b860-eb60e9747c1d",
+        "username": "boycechi",
+        "nickname": "Chi",
+        "url": "https://vibeloft.ai/profile/boycechi",
+        "is_verified": false,
+        "followers_count": 4,
+        "following_count": 9,
+        "posts_count": 13,
+        "product_count": 1,
+        "primary_product_name": "Uibook",
+        "location": "",
+        "created_at": "2026-07-16T09:54:51.403232Z",
+        "updated_at": "2026-07-21T09:04:44.601134Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/chibinya_",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/chibinya_"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "BOYSOcn",
+      "url": "https://x.com/BOYSOcn",
+      "vibeloft_profile": {
+        "id": "2401eea8-e9e4-4326-8b4d-a5b7bab9d1f8",
+        "username": "BOYSO",
+        "nickname": "BOYSO",
+        "url": "https://vibeloft.ai/profile/BOYSO",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "100BackLinks",
+        "location": "",
+        "created_at": "2026-07-17T02:22:13.934454Z",
+        "updated_at": "2026-07-21T00:04:44.612354Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/BOYSOcn",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/BOYSOcn"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "xbyeval",
+      "url": "https://x.com/xbyeval",
+      "vibeloft_profile": {
+        "id": "431c65f6-bbeb-4258-bbee-4427a234121e",
+        "username": "byeval",
+        "nickname": "byeval",
+        "url": "https://vibeloft.ai/profile/byeval",
+        "is_verified": false,
+        "followers_count": 0,
+        "following_count": 1,
+        "posts_count": 2,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "",
+        "created_at": "2026-07-21T03:05:44.216106Z",
+        "updated_at": "2026-07-21T03:20:59.302449Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/xbyeval",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/xbyeval"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "daijie",
+      "url": "https://x.com/daijie",
+      "vibeloft_profile": {
+        "id": "0192d43c-9677-41d4-b0bc-7c5b1bd8a970",
+        "username": "chieh",
+        "nickname": "Chieh",
+        "url": "https://vibeloft.ai/profile/chieh",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 1,
+        "product_count": 2,
+        "primary_product_name": "茶光词本",
+        "location": "Hangzhou",
+        "created_at": "2026-07-17T20:09:08.307781Z",
+        "updated_at": "2026-07-21T09:09:44.598965Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/daijie",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/daijie"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "chunxiangai",
+      "url": "https://x.com/chunxiangai",
+      "vibeloft_profile": {
+        "id": "bc9896d2-c8b9-4916-8461-271ba7f3b7e2",
+        "username": "chunxiangai",
+        "nickname": "赵纯想",
+        "url": "https://vibeloft.ai/profile/chunxiangai",
+        "is_verified": false,
+        "followers_count": 251,
+        "following_count": 20,
+        "posts_count": 66,
+        "product_count": 2,
+        "primary_product_name": "Laper",
+        "location": "武汉",
+        "created_at": "2026-07-14T02:08:11.210413Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/chunxiangai",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/chunxiangai"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "DeRyckNth",
+      "url": "https://x.com/DeRyckNth",
+      "vibeloft_profile": {
+        "id": "33e434ad-60ce-486c-ae71-dc9e02c59c49",
+        "username": "deryckderyckn",
+        "nickname": "Deryck (DeRyckn)",
+        "url": "https://vibeloft.ai/profile/deryckderyckn",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 6,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "Resomark",
+        "location": "",
+        "created_at": "2026-07-16T17:05:54.41078Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/DeRyckNth",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/DeRyckNth"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ducai_c137",
+      "url": "https://x.com/ducai_c137",
+      "vibeloft_profile": {
+        "id": "e853f153-5937-4f90-806a-67bc36a2ff33",
+        "username": "ditto",
+        "nickname": "ditto",
+        "url": "https://vibeloft.ai/profile/ditto",
+        "is_verified": false,
+        "followers_count": 5,
+        "following_count": 7,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "travoices",
+        "location": "",
+        "created_at": "2026-07-16T10:43:18.208074Z",
+        "updated_at": "2026-07-21T02:29:44.583949Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/ducai_c137",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ducai_c137"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "drmrzhong",
+      "url": "https://x.com/drmrzhong",
+      "vibeloft_profile": {
+        "id": "c8aef216-3b37-4479-b6f5-5244e483fc39",
+        "username": "drmrzhong",
+        "nickname": "AI设计钟师傅",
+        "url": "https://vibeloft.ai/profile/drmrzhong",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 6,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "WebtoMind",
+        "location": "深圳",
+        "created_at": "2026-07-17T03:12:13.410799Z",
+        "updated_at": "2026-07-21T10:09:44.595668Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/drmrzhong",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/drmrzhong"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "oopserian",
+      "url": "https://x.com/oopserian",
+      "vibeloft_profile": {
+        "id": "9767ae2d-8bf8-4cf8-961f-fac99a879c44",
+        "username": "erian",
+        "nickname": "Erian",
+        "url": "https://vibeloft.ai/profile/erian",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 0,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "",
+        "created_at": "2026-07-16T10:09:54.430922Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/oopserian",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/oopserian"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ericoding99",
+      "url": "https://x.com/ericoding99",
+      "vibeloft_profile": {
+        "id": "3c36842a-28b0-4bf0-adad-a1dc11182004",
+        "username": "ericoding00",
+        "nickname": "Eric|晓峰",
+        "url": "https://vibeloft.ai/profile/ericoding00",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 1,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "Shanghai",
+        "created_at": "2026-07-17T02:05:10.031618Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/ericoding99",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ericoding99"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "evanlong_me",
+      "url": "https://x.com/evanlong_me",
+      "vibeloft_profile": {
+        "id": "18616e43-5868-4013-bbad-f93ab2dbd91e",
+        "username": "evanlong",
+        "nickname": "Evan Long",
+        "url": "https://vibeloft.ai/profile/evanlong",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "ObixHub",
+        "location": "",
+        "created_at": "2026-07-18T14:03:57.076272Z",
+        "updated_at": "2026-07-18T16:39:25.273824Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/evanlong_me",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/evanlong_me"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ezshine",
+      "url": "https://x.com/ezshine",
+      "vibeloft_profile": {
+        "id": "3be71081-b00c-408a-a511-a5e6199553ef",
+        "username": "ezshine",
+        "nickname": "大帅",
+        "url": "https://vibeloft.ai/profile/ezshine",
+        "is_verified": false,
+        "followers_count": 22,
+        "following_count": 5,
+        "posts_count": 7,
+        "product_count": 10,
+        "primary_product_name": "GGEMU怀旧游戏网站",
+        "location": "",
+        "created_at": "2026-07-16T23:46:38.524305Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/ezshine",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ezshine"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "haxfenx",
+      "url": "https://x.com/haxfenx",
+      "vibeloft_profile": {
+        "id": "047f87cb-ebb4-477c-96f1-e25bd4c00d44",
+        "username": "fenx",
+        "nickname": "fenx",
+        "url": "https://vibeloft.ai/profile/fenx",
+        "is_verified": false,
+        "followers_count": 5,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 3,
+        "primary_product_name": "Design Fragments",
+        "location": "",
+        "created_at": "2026-07-16T12:47:45.908692Z",
+        "updated_at": "2026-07-21T05:14:44.603261Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/haxfenx",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/haxfenx"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "areahao",
+      "url": "https://x.com/areahao",
+      "vibeloft_profile": {
+        "id": "519c164f-f6ed-4f39-ae19-2802db3a13b9",
+        "username": "fivehow",
+        "nickname": "FiveHow",
+        "url": "https://vibeloft.ai/profile/fivehow",
+        "is_verified": false,
+        "followers_count": 6,
+        "following_count": 8,
+        "posts_count": 2,
+        "product_count": 5,
+        "primary_product_name": "Now",
+        "location": "上海",
+        "created_at": "2026-07-16T09:33:57.882219Z",
+        "updated_at": "2026-07-19T15:35:31.346729Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/areahao",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/areahao"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "flygoly",
+      "url": "https://x.com/flygoly",
+      "vibeloft_profile": {
+        "id": "aef028bb-2fc2-4d8a-8b00-6ed0a7f20b05",
+        "username": "flygoly",
+        "nickname": "flygoly",
+        "url": "https://vibeloft.ai/profile/flygoly",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 9,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "rootfont",
+        "location": "Shenzhen, China",
+        "created_at": "2026-07-17T04:29:24.661647Z",
+        "updated_at": "2026-07-21T04:24:44.592564Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/flygoly",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/flygoly"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "seekjourney",
+      "url": "https://x.com/seekjourney",
+      "vibeloft_profile": {
+        "id": "c0e25787-eda9-494a-8725-317bc5a8d2a8",
+        "username": "geekjourney",
+        "nickname": "极客杰尼",
+        "url": "https://vibeloft.ai/profile/geekjourney",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "beijing",
+        "created_at": "2026-07-16T12:30:55.804667Z",
+        "updated_at": "2026-07-21T02:29:44.583949Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/seekjourney",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/seekjourney"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "heichenya",
+      "url": "https://x.com/heichenya",
+      "vibeloft_profile": {
+        "id": "2b51bd71-3d6c-4fbc-8d71-dac837708996",
+        "username": "heichenya",
+        "nickname": "Heichen",
+        "url": "https://vibeloft.ai/profile/heichenya",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "",
+        "created_at": "2026-07-18T14:02:45.447817Z",
+        "updated_at": "2026-07-18T16:39:25.273824Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/heichenya",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/heichenya"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "HeyHuazi",
+      "url": "https://x.com/HeyHuazi",
+      "vibeloft_profile": {
+        "id": "3751bccc-1fc3-46ee-b593-9714d2f84d15",
+        "username": "huazi",
+        "nickname": "Huazi",
+        "url": "https://vibeloft.ai/profile/huazi",
+        "is_verified": false,
+        "followers_count": 12,
+        "following_count": 10,
+        "posts_count": 9,
+        "product_count": 6,
+        "primary_product_name": "Rive.Cool",
+        "location": "南京",
+        "created_at": "2026-07-16T09:44:12.026617Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/HeyHuazi",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/HeyHuazi"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "isacedx",
+      "url": "https://x.com/isacedx",
+      "vibeloft_profile": {
+        "id": "a5a9d52a-ddd2-4a83-87a2-31947d539b67",
+        "username": "isaced",
+        "nickname": "isaced",
+        "url": "https://vibeloft.ai/profile/isaced",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 5,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "VRenamer",
+        "location": "重庆",
+        "created_at": "2026-07-16T09:50:59.267073Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/isacedx",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/isacedx"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "jiacheng_w4ng",
+      "url": "https://x.com/jiacheng_w4ng",
+      "vibeloft_profile": {
+        "id": "75144dbf-a90e-4ac6-9467-9997fc0442ce",
+        "username": "jasonwang",
+        "nickname": "Jason Wang",
+        "url": "https://vibeloft.ai/profile/jasonwang",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 1,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "RockFocus",
+        "location": "",
+        "created_at": "2026-07-16T11:14:05.002558Z",
+        "updated_at": "2026-07-18T10:14:25.257984Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/jiacheng_w4ng",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/jiacheng_w4ng"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "jaywcjlove",
+      "url": "https://x.com/jaywcjlove",
+      "vibeloft_profile": {
+        "id": "e9aabc17-eb1e-4a45-a764-1108f4ecd2b3",
+        "username": "jiang",
+        "nickname": "Kenny Wang",
+        "url": "https://vibeloft.ai/profile/jiang",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "Iconize Folder",
+        "location": "",
+        "created_at": "2026-07-16T10:31:52.005678Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/jaywcjlove",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/jaywcjlove"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "zzjoey_",
+      "url": "https://x.com/zzjoey_",
+      "vibeloft_profile": {
+        "id": "a8f15e50-0b60-43b9-bde6-3996b881fc90",
+        "username": "joeyzhu",
+        "nickname": "Joey Zhu",
+        "url": "https://vibeloft.ai/profile/joeyzhu",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 5,
+        "posts_count": 3,
+        "product_count": 1,
+        "primary_product_name": "Motionflare",
+        "location": "",
+        "created_at": "2026-07-16T13:56:45.191353Z",
+        "updated_at": "2026-07-21T09:49:22.698978Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/zzjoey_",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/zzjoey_"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "junxi_song",
+      "url": "https://x.com/junxi_song",
+      "vibeloft_profile": {
+        "id": "a2aa4a3d-cdd0-419e-b00e-49ee78f88f01",
+        "username": "junxi",
+        "nickname": "Junxi",
+        "url": "https://vibeloft.ai/profile/junxi",
+        "is_verified": false,
+        "followers_count": 6,
+        "following_count": 7,
+        "posts_count": 11,
+        "product_count": 1,
+        "primary_product_name": "Crewargo",
+        "location": "硅谷",
+        "created_at": "2026-07-17T04:57:51.482465Z",
+        "updated_at": "2026-07-21T10:14:44.599736Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/junxi_song",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/junxi_song"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "HeiHeiKai",
+      "url": "https://x.com/HeiHeiKai",
+      "vibeloft_profile": {
+        "id": "517809f5-c22c-4056-8901-65db174ec207",
+        "username": "justin",
+        "nickname": "Justin",
+        "url": "https://vibeloft.ai/profile/justin",
+        "is_verified": false,
+        "followers_count": 4,
+        "following_count": 5,
+        "posts_count": 3,
+        "product_count": 1,
+        "primary_product_name": "KaCa翻译",
+        "location": "苏州",
+        "created_at": "2026-07-16T14:34:03.677923Z",
+        "updated_at": "2026-07-21T06:38:12.557235Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/HeiHeiKai",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/HeiHeiKai"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "KajianD65580",
+      "url": "https://x.com/KajianD65580",
+      "vibeloft_profile": {
+        "id": "5565094a-1651-471a-b659-e9a89167473a",
+        "username": "kajiandu",
+        "nickname": "kajian du",
+        "url": "https://vibeloft.ai/profile/kajiandu",
+        "is_verified": false,
+        "followers_count": 33,
+        "following_count": 5,
+        "posts_count": 9,
+        "product_count": 4,
+        "primary_product_name": "kajian个人主页",
+        "location": "",
+        "created_at": "2026-07-16T09:29:57.522929Z",
+        "updated_at": "2026-07-21T09:54:44.616713Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/KajianD65580",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/KajianD65580"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "kira_kamo_ne",
+      "url": "https://x.com/kira_kamo_ne",
+      "vibeloft_profile": {
+        "id": "29d4d888-33c7-4444-8ddb-ae06e1d6ec42",
+        "username": "kira",
+        "nickname": "Kira",
+        "url": "https://vibeloft.ai/profile/kira",
+        "is_verified": false,
+        "followers_count": 25,
+        "following_count": 5,
+        "posts_count": 2,
+        "product_count": 2,
+        "primary_product_name": "YOKAI.JP",
+        "location": "Tokyo",
+        "created_at": "2026-07-17T13:28:55.16658Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/kira_kamo_ne",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/kira_kamo_ne"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "kshift",
+      "url": "https://x.com/kshift",
+      "vibeloft_profile": {
+        "id": "caca58db-e788-4451-a4a4-c181f26ad659",
+        "username": "kshift",
+        "nickname": "kshift",
+        "url": "https://vibeloft.ai/profile/kshift",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "萤录 RayTally",
+        "location": "",
+        "created_at": "2026-07-17T03:26:35.911177Z",
+        "updated_at": "2026-07-20T09:28:46.010276Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/kshift",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/kshift"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "Kubai087",
+      "url": "https://x.com/Kubai087",
+      "vibeloft_profile": {
+        "id": "e5b0a113-f9ab-422e-bd10-3036782acfcf",
+        "username": "kubai087",
+        "nickname": "枯白啃设计",
+        "url": "https://vibeloft.ai/profile/kubai087",
+        "is_verified": false,
+        "followers_count": 6,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "Lumno",
+        "location": "深圳",
+        "created_at": "2026-07-17T01:37:28.554374Z",
+        "updated_at": "2026-07-21T06:49:44.64295Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/Kubai087",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/Kubai087"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "leeiio",
+      "url": "https://x.com/leeiio",
+      "vibeloft_profile": {
+        "id": "9aeeb0fd-9bf5-4d3f-86f5-3eef8db75fae",
+        "username": "leeiio",
+        "nickname": "Leeiio",
+        "url": "https://vibeloft.ai/profile/leeiio",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 2,
+        "posts_count": 2,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "HangZhou",
+        "created_at": "2026-07-16T11:02:22.137497Z",
+        "updated_at": "2026-07-19T12:49:44.642987Z"
+      },
+      "sources": [
+        {
+          "field": "website",
+          "raw_url": "https://x.com/leeiio"
+        }
+      ]
+    },
+    {
+      "handle": "leexinq",
+      "url": "https://x.com/leexinq",
+      "vibeloft_profile": {
+        "id": "7f0526ea-cf1e-442c-8286-ca61c98cd3b2",
+        "username": "leo3",
+        "nickname": "Leo",
+        "url": "https://vibeloft.ai/profile/leo3",
+        "is_verified": false,
+        "followers_count": 8,
+        "following_count": 19,
+        "posts_count": 2,
+        "product_count": 5,
+        "primary_product_name": "Enote",
+        "location": "",
+        "created_at": "2026-07-17T11:37:57.4799Z",
+        "updated_at": "2026-07-20T15:14:44.610256Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/leexinq",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/leexinq"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "leon7hao",
+      "url": "https://x.com/leon7hao",
+      "vibeloft_profile": {
+        "id": "6e49dbc8-86af-4f76-8814-dd88779e2bbc",
+        "username": "leon7hao",
+        "nickname": "leon7hao",
+        "url": "https://vibeloft.ai/profile/leon7hao",
+        "is_verified": false,
+        "followers_count": 17,
+        "following_count": 16,
+        "posts_count": 5,
+        "product_count": 1,
+        "primary_product_name": "Lody",
+        "location": "",
+        "created_at": "2026-07-16T09:56:13.996399Z",
+        "updated_at": "2026-07-21T05:56:57.267376Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/leon7hao",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/leon7hao"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "limbopeng",
+      "url": "https://x.com/limbopeng",
+      "vibeloft_profile": {
+        "id": "cacf26d3-dbe5-4dd5-b5fa-652215a3e9eb",
+        "username": "limbo",
+        "nickname": "Limbo",
+        "url": "https://vibeloft.ai/profile/limbo",
+        "is_verified": false,
+        "followers_count": 16,
+        "following_count": 5,
+        "posts_count": 3,
+        "product_count": 1,
+        "primary_product_name": "面面Agent",
+        "location": "北京",
+        "created_at": "2026-07-16T08:17:28.756056Z",
+        "updated_at": "2026-07-20T08:43:45.140868Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/limbopeng",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/limbopeng"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "alifeiliu",
+      "url": "https://x.com/alifeiliu",
+      "vibeloft_profile": {
+        "id": "52df8074-8c06-4e8f-84fb-c1d67e5813af",
+        "username": "liufei",
+        "nickname": "飞流",
+        "url": "https://vibeloft.ai/profile/liufei",
+        "is_verified": false,
+        "followers_count": 7,
+        "following_count": 4,
+        "posts_count": 12,
+        "product_count": 2,
+        "primary_product_name": "Tokenscope",
+        "location": "Mars",
+        "created_at": "2026-07-16T13:17:46.462089Z",
+        "updated_at": "2026-07-21T01:09:44.632664Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/alifeiliu",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/alifeiliu"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "GhostCa16861041",
+      "url": "https://x.com/GhostCa16861041",
+      "vibeloft_profile": {
+        "id": "7f850120-0f47-44e7-9ff2-ff2703d80739",
+        "username": "louis",
+        "nickname": "Louis",
+        "url": "https://vibeloft.ai/profile/louis",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 7,
+        "posts_count": 13,
+        "product_count": 1,
+        "primary_product_name": "Tesla Wrap Design",
+        "location": "杭州",
+        "created_at": "2026-07-18T04:30:43.453721Z",
+        "updated_at": "2026-07-21T10:09:44.595668Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/GhostCa16861041",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/GhostCa16861041"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "LuffyDaxia",
+      "url": "https://x.com/LuffyDaxia",
+      "vibeloft_profile": {
+        "id": "01d49c75-fd01-4a7d-bf90-c659d85f2e59",
+        "username": "luffy",
+        "nickname": "大侠Luffy",
+        "url": "https://vibeloft.ai/profile/luffy",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "ClipSeek",
+        "location": "",
+        "created_at": "2026-07-17T06:33:33.886569Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/LuffyDaxia",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/LuffyDaxia"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "Miaoooo000",
+      "url": "https://x.com/Miaoooo000",
+      "vibeloft_profile": {
+        "id": "319821e0-f90e-4d9f-937e-6e2b005452b2",
+        "username": "miao",
+        "nickname": "miao",
+        "url": "https://vibeloft.ai/profile/miao",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 5,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "Xingjuan",
+        "location": "",
+        "created_at": "2026-07-19T10:28:27.418729Z",
+        "updated_at": "2026-07-21T09:24:44.590734Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/Miaoooo000",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/Miaoooo000"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "nicechencs",
+      "url": "https://x.com/nicechencs",
+      "vibeloft_profile": {
+        "id": "cabf0500-d89d-4b92-a410-7e0ec232e6c1",
+        "username": "nicechen",
+        "nickname": "Cs chen",
+        "url": "https://vibeloft.ai/profile/nicechen",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "",
+        "created_at": "2026-07-16T10:08:01.59884Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "website",
+          "raw_url": "https://x.com/nicechencs"
+        }
+      ]
+    },
+    {
+      "handle": "feiji55",
+      "url": "https://x.com/feiji55",
+      "vibeloft_profile": {
+        "id": "e81d3388-6a0f-4ef0-a43c-4da2c3103ec6",
+        "username": "oosvg",
+        "nickname": "非机",
+        "url": "https://vibeloft.ai/profile/oosvg",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 15,
+        "posts_count": 21,
+        "product_count": 6,
+        "primary_product_name": "curvioo 花体生成器",
+        "location": "广东",
+        "created_at": "2026-07-17T08:35:26.301388Z",
+        "updated_at": "2026-07-21T09:14:44.594794Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/feiji55",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/feiji55"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "pavlova233",
+      "url": "https://x.com/pavlova233",
+      "vibeloft_profile": {
+        "id": "41b44809-8de3-47f9-b827-3bae000c5549",
+        "username": "pavlova",
+        "nickname": "Pavlova",
+        "url": "https://vibeloft.ai/profile/pavlova",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "个人提问箱",
+        "location": "Gensokyo",
+        "created_at": "2026-07-16T22:32:36.597299Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/pavlova233",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/pavlova233"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "pennlm",
+      "url": "https://x.com/pennlm",
+      "vibeloft_profile": {
+        "id": "9497ee19-f3cf-46fe-aeee-d1d638e3aa7f",
+        "username": "pennlam",
+        "nickname": "Penn Lam",
+        "url": "https://vibeloft.ai/profile/pennlam",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 0,
+        "primary_product_name": "",
+        "location": "北京",
+        "created_at": "2026-07-16T11:46:48.264779Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/pennlm",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/pennlm"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "AllRichRich",
+      "url": "https://x.com/AllRichRich",
+      "vibeloft_profile": {
+        "id": "4b3c0e3b-a8ff-4560-8a13-899b2b1b7026",
+        "username": "richquan",
+        "nickname": "Rich Quan",
+        "url": "https://vibeloft.ai/profile/richquan",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 5,
+        "posts_count": 12,
+        "product_count": 3,
+        "primary_product_name": "usAIge",
+        "location": "Singapore?",
+        "created_at": "2026-07-16T12:45:25.762718Z",
+        "updated_at": "2026-07-21T08:04:44.625951Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/AllRichRich",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/AllRichRich"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "YoYo_404_",
+      "url": "https://x.com/YoYo_404_",
+      "vibeloft_profile": {
+        "id": "c97d9601-251d-4085-b6fc-a61fc5ce658e",
+        "username": "sameral",
+        "nickname": "Sameral",
+        "url": "https://vibeloft.ai/profile/sameral",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 5,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Nexus Shell",
+        "location": "上海",
+        "created_at": "2026-07-16T10:18:32.99306Z",
+        "updated_at": "2026-07-21T06:04:44.641701Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/YoYo_404_",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/YoYo_404_"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "DbgKinggg",
+      "url": "https://x.com/DbgKinggg",
+      "vibeloft_profile": {
+        "id": "321f1665-03c7-4bd9-b303-72efe9bb385a",
+        "username": "sammie",
+        "nickname": "Sammie 逗比国国王",
+        "url": "https://vibeloft.ai/profile/sammie",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 7,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "Qoory AI",
+        "location": "",
+        "created_at": "2026-07-16T12:41:20.362943Z",
+        "updated_at": "2026-07-17T16:55:38.813309Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/DbgKinggg",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/DbgKinggg"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "SeanXunWong",
+      "url": "https://x.com/SeanXunWong",
+      "vibeloft_profile": {
+        "id": "d50e5c11-8527-40dd-a2b9-202560ef26ce",
+        "username": "seanwong",
+        "nickname": "Sean Wong",
+        "url": "https://vibeloft.ai/profile/seanwong",
+        "is_verified": false,
+        "followers_count": 6,
+        "following_count": 9,
+        "posts_count": 2,
+        "product_count": 2,
+        "primary_product_name": "ScreenLex",
+        "location": "广州",
+        "created_at": "2026-07-16T09:53:47.63593Z",
+        "updated_at": "2026-07-21T01:24:44.678737Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/SeanXunWong",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/SeanXunWong"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "heyshigeru",
+      "url": "https://x.com/heyshigeru",
+      "vibeloft_profile": {
+        "id": "b2db7611-85e3-435b-8622-2b9174eb2e64",
+        "username": "shigeru",
+        "nickname": "Shigeru",
+        "url": "https://vibeloft.ai/profile/shigeru",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 0,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "OGee",
+        "location": "",
+        "created_at": "2026-07-16T14:54:51.540344Z",
+        "updated_at": "2026-07-20T11:26:45.609856Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/heyshigeru",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/heyshigeru"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "wey_gu",
+      "url": "https://x.com/wey_gu",
+      "vibeloft_profile": {
+        "id": "1b1144da-932b-4003-8c5d-704c72395393",
+        "username": "siwei",
+        "nickname": "古思为",
+        "url": "https://vibeloft.ai/profile/siwei",
+        "is_verified": false,
+        "followers_count": 5,
+        "following_count": 4,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Nowledge Mem",
+        "location": "",
+        "created_at": "2026-07-20T09:56:51.14687Z",
+        "updated_at": "2026-07-21T10:09:44.595668Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/wey_gu",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/wey_gu"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "thejoven_com",
+      "url": "https://x.com/thejoven_com",
+      "vibeloft_profile": {
+        "id": "daf1354f-eacd-4fc2-9aa9-6290bbca6e2e",
+        "username": "thejovenelizaos",
+        "nickname": "thejoven - ElizaOS",
+        "url": "https://vibeloft.ai/profile/thejovenelizaos",
+        "is_verified": false,
+        "followers_count": 17,
+        "following_count": 15,
+        "posts_count": 29,
+        "product_count": 1,
+        "primary_product_name": "知命 - 人生指南",
+        "location": "深圳",
+        "created_at": "2026-07-16T09:37:17.048181Z",
+        "updated_at": "2026-07-21T09:39:44.60394Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/thejoven_com",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/thejoven_com"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "thetimothylau",
+      "url": "https://x.com/thetimothylau",
+      "vibeloft_profile": {
+        "id": "bf8a90f7-39ce-4609-9f09-4c0ed147cdee",
+        "username": "timothylau",
+        "nickname": "Timothy Lau",
+        "url": "https://vibeloft.ai/profile/timothylau",
+        "is_verified": false,
+        "followers_count": 4,
+        "following_count": 5,
+        "posts_count": 8,
+        "product_count": 1,
+        "primary_product_name": "Openbroca - 放弃打字的开始",
+        "location": "Beijing",
+        "created_at": "2026-07-16T10:54:13.728478Z",
+        "updated_at": "2026-07-21T08:04:44.625951Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/thetimothylau",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/thetimothylau"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "timtimtim_eth",
+      "url": "https://x.com/timtimtim_eth",
+      "vibeloft_profile": {
+        "id": "124e8b22-7fb8-4adb-8a80-f782a807f814",
+        "username": "timtimtim",
+        "nickname": "timtimtim",
+        "url": "https://vibeloft.ai/profile/timtimtim",
+        "is_verified": false,
+        "followers_count": 8,
+        "following_count": 5,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "Creader",
+        "location": "",
+        "created_at": "2026-07-16T09:26:32.745493Z",
+        "updated_at": "2026-07-20T09:18:34.213982Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/timtimtim_eth",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/timtimtim_eth"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "DevJohnWayne",
+      "url": "https://x.com/DevJohnWayne",
+      "vibeloft_profile": {
+        "id": "5bc5f8dc-17c9-42bb-8953-db7dd267b024",
+        "username": "user5bc5f8dc",
+        "nickname": "John Wayne",
+        "url": "https://vibeloft.ai/profile/user5bc5f8dc",
+        "is_verified": false,
+        "followers_count": 4,
+        "following_count": 5,
+        "posts_count": 5,
+        "product_count": 4,
+        "primary_product_name": "ShipSwift",
+        "location": "",
+        "created_at": "2026-07-16T14:53:20.605806Z",
+        "updated_at": "2026-07-21T09:29:44.590511Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/DevJohnWayne",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/DevJohnWayne"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "vpszk",
+      "url": "https://x.com/vpszk",
+      "vibeloft_profile": {
+        "id": "8a66d319-bfa1-4aba-9171-51b1dfa422a7",
+        "username": "user8a66d319",
+        "nickname": "kael",
+        "url": "https://vibeloft.ai/profile/user8a66d319",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 7,
+        "posts_count": 5,
+        "product_count": 1,
+        "primary_product_name": "Codep-AI等待时间背单词",
+        "location": "",
+        "created_at": "2026-07-16T10:45:23.980514Z",
+        "updated_at": "2026-07-20T05:34:08.844669Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/vpszk",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/vpszk"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "zhulin014",
+      "url": "https://x.com/zhulin014",
+      "vibeloft_profile": {
+        "id": "9a8bea08-d198-4517-abaa-b061f395bb08",
+        "username": "user9a8bea08",
+        "nickname": "哈里里",
+        "url": "https://vibeloft.ai/profile/user9a8bea08",
+        "is_verified": false,
+        "followers_count": 13,
+        "following_count": 8,
+        "posts_count": 3,
+        "product_count": 10,
+        "primary_product_name": "Codex 复古QQ 皮肤",
+        "location": "",
+        "created_at": "2026-07-17T03:18:45.050947Z",
+        "updated_at": "2026-07-21T08:59:44.583529Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/zhulin014",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/zhulin014"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "discountifu",
+      "url": "https://x.com/discountifu",
+      "vibeloft_profile": {
+        "id": "b9e84d60-cc17-4ecc-acc1-ae6b532458fb",
+        "username": "userb9e84d60",
+        "nickname": "大梦想家迪士尼",
+        "url": "https://vibeloft.ai/profile/userb9e84d60",
+        "is_verified": false,
+        "followers_count": 7,
+        "following_count": 5,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "RitMEX",
+        "location": "",
+        "created_at": "2026-07-16T11:42:43.410109Z",
+        "updated_at": "2026-07-21T08:39:44.655239Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/discountifu",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/discountifu"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "benshandebiao",
+      "url": "https://x.com/benshandebiao",
+      "vibeloft_profile": {
+        "id": "bb4cc8af-25dc-42ed-8ffc-0f28c355beb1",
+        "username": "userbb4cc8af",
+        "nickname": "本山德彪",
+        "url": "https://vibeloft.ai/profile/userbb4cc8af",
+        "is_verified": false,
+        "followers_count": 24,
+        "following_count": 8,
+        "posts_count": 7,
+        "product_count": 11,
+        "primary_product_name": "乡土游戏馆",
+        "location": "",
+        "created_at": "2026-07-16T11:27:46.057619Z",
+        "updated_at": "2026-07-21T10:19:44.613265Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/benshandebiao",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/benshandebiao"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "wangdouglas",
+      "url": "https://x.com/wangdouglas",
+      "vibeloft_profile": {
+        "id": "8e1835f3-89a4-4044-a0b2-f44ed4cacba7",
+        "username": "wangdouglas",
+        "nickname": "Roki",
+        "url": "https://vibeloft.ai/profile/wangdouglas",
+        "is_verified": false,
+        "followers_count": 11,
+        "following_count": 5,
+        "posts_count": 5,
+        "product_count": 5,
+        "primary_product_name": "seede.ai",
+        "location": "",
+        "created_at": "2026-07-16T10:04:18.767647Z",
+        "updated_at": "2026-07-19T10:39:44.596526Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/wangdouglas",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/wangdouglas"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "hellsign",
+      "url": "https://x.com/hellsign",
+      "vibeloft_profile": {
+        "id": "b9a44499-d6d6-4c14-ad11-09ccd21e75c7",
+        "username": "wangguania",
+        "nickname": "王大力",
+        "url": "https://vibeloft.ai/profile/wangguania",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 6,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "开口拍-AI提词器",
+        "location": "Beijing",
+        "created_at": "2026-07-17T01:30:09.218042Z",
+        "updated_at": "2026-07-21T09:29:44.590511Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/hellsign",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/hellsign"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "weijunext",
+      "url": "https://x.com/weijunext",
+      "vibeloft_profile": {
+        "id": "033276dd-9392-4723-81f7-c1f350da03f3",
+        "username": "weijunext",
+        "nickname": "weijunext",
+        "url": "https://vibeloft.ai/profile/weijunext",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 6,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "NEXTY.DEV",
+        "location": "",
+        "created_at": "2026-07-18T02:44:51.299523Z",
+        "updated_at": "2026-07-18T16:34:25.243174Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/weijunext",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/weijunext"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "wenyuanw_",
+      "url": "https://x.com/wenyuanw_",
+      "vibeloft_profile": {
+        "id": "ded98c6b-9693-4346-8ae8-4b1ff64c38f9",
+        "username": "wenyuanw",
+        "nickname": "wenyuan",
+        "url": "https://vibeloft.ai/profile/wenyuanw",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 7,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "A 股市场热力图",
+        "location": "Canton",
+        "created_at": "2026-07-17T12:12:13.475322Z",
+        "updated_at": "2026-07-21T10:09:44.595668Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/wenyuanw_",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/wenyuanw_"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "shi_jinwei",
+      "url": "https://x.com/shi_jinwei",
+      "vibeloft_profile": {
+        "id": "24e85a95-121d-4f3f-8d4a-1997faf729e4",
+        "username": "whenever",
+        "nickname": "whenever-不可兼容",
+        "url": "https://vibeloft.ai/profile/whenever",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 2,
+        "posts_count": 0,
+        "product_count": 2,
+        "primary_product_name": "Refacet",
+        "location": "",
+        "created_at": "2026-07-17T05:57:05.444574Z",
+        "updated_at": "2026-07-20T10:49:05.854476Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/shi_jinwei?s=11",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/shi_jinwei?s=11"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "_xiaobaiw",
+      "url": "https://x.com/_xiaobaiw",
+      "vibeloft_profile": {
+        "id": "06cfccba-3184-4b63-9426-1126ea3f597a",
+        "username": "white",
+        "nickname": "小白同学",
+        "url": "https://vibeloft.ai/profile/white",
+        "is_verified": false,
+        "followers_count": 3,
+        "following_count": 6,
+        "posts_count": 5,
+        "product_count": 1,
+        "primary_product_name": "Rhythm Word｜语境背单词",
+        "location": "",
+        "created_at": "2026-07-16T11:57:24.818368Z",
+        "updated_at": "2026-07-21T08:39:44.655239Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/_xiaobaiw",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/_xiaobaiw"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "wang3an",
+      "url": "https://x.com/wang3an",
+      "vibeloft_profile": {
+        "id": "36c61a64-4697-42b4-acd6-ee280ac3b4df",
+        "username": "williamwanghui",
+        "nickname": "William Wanghui",
+        "url": "https://vibeloft.ai/profile/williamwanghui",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 0,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Glidelines",
+        "location": "Japan",
+        "created_at": "2026-07-16T11:00:52.073101Z",
+        "updated_at": "2026-07-20T08:19:41.740204Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/wang3an",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/wang3an"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "keva7in",
+      "url": "https://x.com/keva7in",
+      "vibeloft_profile": {
+        "id": "763a151a-0a65-41fd-874a-470113547488",
+        "username": "win98",
+        "nickname": "win98",
+        "url": "https://vibeloft.ai/profile/win98",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 5,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Lofi Music",
+        "location": "Shenzhen",
+        "created_at": "2026-07-17T17:37:40.750662Z",
+        "updated_at": "2026-07-21T10:15:59.241219Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/keva7in",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/keva7in"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ZHENGWOOK",
+      "url": "https://x.com/ZHENGWOOK",
+      "vibeloft_profile": {
+        "id": "34f9f8d8-4606-4a29-bb89-4e542b9d5216",
+        "username": "Wook",
+        "nickname": "Wook",
+        "url": "https://vibeloft.ai/profile/Wook",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 7,
+        "posts_count": 2,
+        "product_count": 1,
+        "primary_product_name": "Airesearch",
+        "location": "大理",
+        "created_at": "2026-07-18T10:07:37.024698Z",
+        "updated_at": "2026-07-21T00:04:44.612354Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/ZHENGWOOK",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ZHENGWOOK"
+          }
+        },
+        {
+          "field": "website",
+          "raw_url": "https://x.com/ZHENGWOOK"
+        }
+      ]
+    },
+    {
+      "handle": "wuyuandev",
+      "url": "https://x.com/wuyuandev",
+      "vibeloft_profile": {
+        "id": "20ccb4b6-b0c4-45cb-93b6-1388e0e78965",
+        "username": "wuyuan",
+        "nickname": "孙悟元",
+        "url": "https://vibeloft.ai/profile/wuyuan",
+        "is_verified": false,
+        "followers_count": 40,
+        "following_count": 5,
+        "posts_count": 11,
+        "product_count": 7,
+        "primary_product_name": "零猫社区",
+        "location": "CN",
+        "created_at": "2026-07-16T10:16:59.88618Z",
+        "updated_at": "2026-07-18T10:30:22.387431Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/wuyuandev",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/wuyuandev"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "xiuerold",
+      "url": "https://x.com/xiuerold",
+      "vibeloft_profile": {
+        "id": "fe5eba71-12ce-434d-b909-ef793ba1cfb9",
+        "username": "xiuerold",
+        "nickname": "XiuerOld",
+        "url": "https://vibeloft.ai/profile/xiuerold",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 5,
+        "posts_count": 5,
+        "product_count": 1,
+        "primary_product_name": "独立开发集市",
+        "location": "",
+        "created_at": "2026-07-16T09:38:32.925459Z",
+        "updated_at": "2026-07-21T10:20:03.033321Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/intent/follow?screen_name=xiuerold",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/intent/follow?screen_name=xiuerold"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ios_1261142602",
+      "url": "https://x.com/ios_1261142602",
+      "vibeloft_profile": {
+        "id": "4c3ce77f-611d-44d4-baa3-1746fa439479",
+        "username": "xlsunshinelx",
+        "nickname": "x L (sunshineLx)",
+        "url": "https://vibeloft.ai/profile/xlsunshinelx",
+        "is_verified": false,
+        "followers_count": 41,
+        "following_count": 37,
+        "posts_count": 5,
+        "product_count": 5,
+        "primary_product_name": "EasyX",
+        "location": "",
+        "created_at": "2026-07-16T09:27:38.316325Z",
+        "updated_at": "2026-07-20T08:25:07.722542Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/ios_1261142602",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ios_1261142602"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "zachary_haha",
+      "url": "https://x.com/zachary_haha",
+      "vibeloft_profile": {
+        "id": "67d65b15-c2f3-4f17-9bc8-0caa84428503",
+        "username": "yangzhang",
+        "nickname": "Yang Zhang",
+        "url": "https://vibeloft.ai/profile/yangzhang",
+        "is_verified": false,
+        "followers_count": 0,
+        "following_count": 0,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "Agent Company",
+        "location": "New York",
+        "created_at": "2026-07-20T11:24:53.428901Z",
+        "updated_at": "2026-07-20T12:33:12.358993Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[1]",
+          "raw_url": "https://x.com/zachary_haha",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/zachary_haha"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "yekk_me",
+      "url": "https://x.com/yekk_me",
+      "vibeloft_profile": {
+        "id": "abe3b269-ab51-4e9d-bf22-bfa033745648",
+        "username": "yekk",
+        "nickname": "yekk",
+        "url": "https://vibeloft.ai/profile/yekk",
+        "is_verified": false,
+        "followers_count": 1,
+        "following_count": 1,
+        "posts_count": 1,
+        "product_count": 1,
+        "primary_product_name": "Mytess",
+        "location": "",
+        "created_at": "2026-07-17T01:55:54.844562Z",
+        "updated_at": "2026-07-21T05:29:44.602126Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/yekk_me",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/yekk_me"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "yishanll",
+      "url": "https://x.com/yishanll",
+      "vibeloft_profile": {
+        "id": "317723d3-350c-43b3-9468-901bd906e907",
+        "username": "yishan",
+        "nickname": "Yishan",
+        "url": "https://vibeloft.ai/profile/yishan",
+        "is_verified": false,
+        "followers_count": 2,
+        "following_count": 5,
+        "posts_count": 0,
+        "product_count": 1,
+        "primary_product_name": "Pokéji",
+        "location": "南宁",
+        "created_at": "2026-07-16T16:09:38.246022Z",
+        "updated_at": "2026-07-20T16:15:11.737692Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/yishanll",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/yishanll"
+          }
+        }
+      ]
+    },
+    {
+      "handle": "ZaynHao",
+      "url": "https://x.com/ZaynHao",
+      "vibeloft_profile": {
+        "id": "973ffcaa-ae89-4f7a-bbad-8709ad1fa410",
+        "username": "zaynhao",
+        "nickname": "Zayn Hao",
+        "url": "https://vibeloft.ai/profile/zaynhao",
+        "is_verified": false,
+        "followers_count": 20,
+        "following_count": 4,
+        "posts_count": 3,
+        "product_count": 2,
+        "primary_product_name": "Minttr",
+        "location": "Beijing",
+        "created_at": "2026-07-16T09:54:42.170037Z",
+        "updated_at": "2026-07-21T10:09:44.595668Z"
+      },
+      "sources": [
+        {
+          "field": "social_links[0]",
+          "raw_url": "https://x.com/ZaynHao",
+          "raw_link": {
+            "name": "Twitter/X",
+            "platform": "twitter",
+            "url": "https://x.com/ZaynHao"
+          }
+        }
+      ]
+    }
+  ]
+}

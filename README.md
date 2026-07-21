@@ -1,82 +1,76 @@
 # x-kit
 
-一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。
+Pure-Python protocol tools and research notes for the X.com web client.
 
-![x-kit](./images/action-stats.png)
-## 功能特点
+This repository now uses the Python protocol implementation as the source of truth. The previous Bun/TypeScript automation and checked-in tweet data have been removed.
 
-- 自动抓取指定用户的基本信息和推文
-- 定时更新用户时间线数据
-- 支持数据本地化存储
-- GitHub Actions 自动化部署
+## Capabilities
 
-## 更新日志
+- Read tweet details through `TweetDetail`.
+- Resolve user profiles through `UserByScreenName`.
+- Collect user timelines through `UserTweets`.
+- Collect search results through `SearchTimeline`, including date-window pagination for deeper history.
+- Create tweets with optional media upload.
+- Retweet, quote tweet, or copy public tweet text/media into a new tweet.
+- Automatically inject `x-client-transaction-id` for `/i/api/` requests.
 
-- 2024-12-24 添加每日发布推文功能 `post-twitter-daily.yml` `post-tweet.ts`
-- 2025-01-02 添加获取用户推文功能 `fetch-user-tweets.ts`
-
-## 安装
-
-```bash
-bun install
-```
-
-## 使用方法
-
-### 1. 配置环境变量
-
-在项目根目录创建 `.env` 文件,添加以下配置:
+## Setup
 
 ```bash
-AUTH_TOKEN=你的X认证Token
-GET_ID_X_TOKEN=用于获取用户ID的Token
+uv sync
+cp config/settings.example.json config/settings.json
 ```
 
-### 2. 添加需要追踪的用户
+Edit `config/settings.json` and fill:
 
-在 `dev-accounts.json` 中添加用户信息:
+- `auth.auth_token`
+- `auth.ct0`
 
-```json
-{
-  "username": "用户名",
-  "twitter_url": "用户主页链接", 
-  "description": "用户描述",
-  "tags": ["标签1", "标签2"]
-}
-```
+Both values come from an authenticated browser session on `x.com`. `config/settings.json` is ignored by Git.
 
-### 3. 运行脚本
+You can also pass credentials at runtime:
 
 ```bash
-# 获取用户信息
-bun run scripts/index.ts
-
-# 获取最新推文
-bun run scripts/fetch-tweets.ts
-
-# 批量关注用户
-bun run scripts/batch-follow.ts
+uv run user.py HiTw93 --auth-token "$AUTH_TOKEN" --ct0 "$CT0"
 ```
 
-## 自动化部署
+## Commands
 
-项目使用 GitHub Actions 实现自动化:
+```bash
+# User profile
+uv run user.py HiTw93
 
-- `get-home-latest-timeline.yml`: 每30分钟获取一次最新推文
-- `daily-get-tweet-id.yml`: 每天获取一次用户信息
+# Recent user tweets
+uv run user_tweets.py HiTw93 --pages 3 -o tweets.json
 
-## 数据存储
+# Fuller history via search date windows
+uv run search.py --from HiTw93 --all -o hitw93_full.json
 
-- 用户信息保存在 `accounts/` 目录
-- 推文数据保存在 `tweets/` 目录,按日期命名
+# Tweet detail
+uv run read.py https://x.com/i/status/2062521510938779729
 
-## 技术栈
+# Create a text tweet
+uv run tweet.py "hello world"
 
-- Bun
-- TypeScript 
-- Twitter API
-- GitHub Actions
+# Create a tweet with media
+uv run tweet.py "hello with image" --image ./photo.png
 
-## License
+# Retweet or quote
+uv run repost.py --retweet https://x.com/user/status/123
+uv run repost.py https://x.com/user/status/123 -t "comment"
 
-MIT
+# Collect public Twitter/X accounts recorded by VibeLoft
+uv run collect_vibeloft_twitter_accounts.py
+
+# Collect Twitter/X-side post and follower counts for those accounts
+uv run collect_twitter_profile_stats.py
+```
+
+## Notes
+
+- `ANALYSIS.md` records the reverse-engineering findings and current GraphQL operation IDs.
+- `data/vibeloft_twitter_accounts.json` records public VibeLoft profiles that expose Twitter/X links.
+- `data/vibeloft_twitter_x_stats.json` records Twitter/X-side post and follower counts for the VibeLoft Twitter cohort.
+- Query IDs and feature flags are deployment artifacts. Refresh them if X.com changes its web bundle.
+- Write operations can trigger account-level limits and risk controls. Use deliberate delays and avoid automation bursts.
+- Do not commit cookies, captured private payloads, or personal datasets.

@@ -1,41 +1,28 @@
-*.orig
-*.pyc
-*.swp
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local environment
 .env
+node_modules/
 
-/.cargo_home/
-/.idea/
-/.vs/
-/.vscode/
-gclient_config.py_entries
-/target/
-/std/hash/_wasm/target
-/tests/wpt/runner/manifest.json
-/third_party/
-/tests/napi/node_modules
-/tests/napi/build
-/tests/napi/third_party_tests/node_modules
+# Local credentials and exported browser cookies
+config/settings.json
+cookies.json
+cookies.txt
+*.cookies
 
-# MacOS generated files
-.DS_Store
-.DS_Store?
-
-# Flamegraphs
-/flamebench*.svg
-/flamegraph*.svg
-
-# WPT generated cert files
-/tests/wpt/runner/certs/index.txt*
-/tests/wpt/runner/certs/serial*
-
-/ext/websocket/autobahn/reports
-
-# JUnit files produced by deno test --junit
-junit.xml
-
-# Jupyter files
-.ipynb_checkpoints/
-Untitled*.ipynb
-node_modules
-.env
-node_modules/*
+# Runtime output
+data/checkpoints/
+tmp_media/
+*_full.json
+tweets_*.json
+search_*.json
+*.log
