@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:16:41.874803Z",
+  "generated_at": "2026-07-21T15:30:21.726688Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -127,6 +127,31 @@
       "latest_tweet_id": "2079484936671879507",
       "oldest_tweet_created_at": "2024-03-16T03:56:28Z",
       "oldest_tweet_id": "1768848782647783603"
+    },
+    "kira_kamo_ne": {
+      "status": "completed",
+      "twitter_url": "https://x.com/kira_kamo_ne",
+      "twitter_rest_id": "1765941433272524800",
+      "vibeloft_username": "kira",
+      "vibeloft_nickname": "Kira",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/kira",
+      "started_at": "2026-07-21T15:30:03.623231Z",
+      "data_file": "data/user_tweets/vibeloft/kira_kamo_ne.json",
+      "stop_on_existing": false,
+      "handle": "kira_kamo_ne",
+      "updated_at": "2026-07-21T15:30:21.726683Z",
+      "completed_at": "2026-07-21T15:30:21.726252Z",
+      "completed_at_local": "2026-07-21T23:30:21.726272+08:00",
+      "history_complete": true,
+      "pages_collected_total": 8,
+      "new_tweets_last_run": 41,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 41,
+      "latest_tweet_created_at": "2026-05-09T11:01:10Z",
+      "latest_tweet_id": "2053067750051045715",
+      "oldest_tweet_created_at": "2026-04-03T11:28:49Z",
+      "oldest_tweet_id": "2040028743637570001"
     }
   }
 }
