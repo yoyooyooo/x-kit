@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:20:07.740345Z",
+  "generated_at": "2026-07-21T21:00:37.207598Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -455,6 +455,31 @@
       "latest_tweet_id": "2078367401142562845",
       "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
       "oldest_tweet_id": "1819316924146466942"
+    },
+    "discountifu": {
+      "status": "completed",
+      "twitter_url": "https://x.com/discountifu",
+      "twitter_rest_id": "489233083",
+      "vibeloft_username": "userb9e84d60",
+      "vibeloft_nickname": "大梦想家迪士尼",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/userb9e84d60",
+      "started_at": "2026-07-21T20:30:38.044026Z",
+      "data_file": "data/user_tweets/vibeloft/discountifu.json",
+      "stop_on_existing": false,
+      "handle": "discountifu",
+      "updated_at": "2026-07-21T21:00:37.207595Z",
+      "completed_at": "2026-07-21T21:00:37.206551Z",
+      "completed_at_local": "2026-07-22T05:00:37.206558+08:00",
+      "history_complete": true,
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 768,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 768,
+      "latest_tweet_created_at": "2026-07-21T17:17:53Z",
+      "latest_tweet_id": "2079616868034421102",
+      "oldest_tweet_created_at": "2026-02-03T09:50:29Z",
+      "oldest_tweet_id": "2018623114326974522"
     }
   }
 }
