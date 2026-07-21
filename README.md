@@ -2,7 +2,7 @@
 
 Pure-Python protocol tools and research notes for the X.com web client.
 
-This repository now uses the Python protocol implementation as the source of truth. The previous Bun/TypeScript automation has been removed; historical collected tweet JSON is preserved under `tweets/`.
+This repository now uses the Python protocol implementation as the source of truth. The previous Bun/TypeScript automation has been removed; selected full-user tweet exports are preserved under `data/user_tweets/`.
 
 ## Capabilities
 
@@ -69,6 +69,7 @@ uv run collect_twitter_profile_stats.py
 ## Notes
 
 - `ANALYSIS.md` records the reverse-engineering findings and current GraphQL operation IDs.
+- `data/user_tweets/` contains selected full-user tweet exports collected before the Python migration.
 - `data/vibeloft_twitter_accounts.json` records public VibeLoft profiles that expose Twitter/X links.
 - `data/vibeloft_twitter_x_stats.json` records Twitter/X-side post and follower counts for the VibeLoft Twitter cohort.
 - Query IDs and feature flags are deployment artifacts. Refresh them if X.com changes its web bundle.
