@@ -2,13 +2,14 @@
   "paused": false,
   "pause_reason": "",
   "rate_limit_reset_at": null,
-  "last_run_started_at": "2026-07-21T15:45:01.308480Z",
+  "last_run_started_at": "2026-07-21T16:15:00.588300Z",
   "input_file": "/Users/not/projects/devs/opensource/x-kit/data/vibeloft_twitter_account_stats.json",
   "account_count": 73,
-  "next_index": 7,
-  "updated_at": "2026-07-21T15:47:12.637594Z",
+  "next_index": 8,
+  "updated_at": "2026-07-21T16:17:02.628673Z",
   "current_handle": null,
-  "last_run_finished_at": "2026-07-21T15:30:26.036108Z",
-  "last_completed_handle": "benshandebiao",
-  "last_completed_at": "2026-07-21T15:47:12.637148Z"
+  "last_run_finished_at": "2026-07-21T16:00:10.471503Z",
+  "last_completed_handle": "ezshine",
+  "last_completed_at": "2026-07-21T16:17:02.628470Z",
+  "rate_limit_reset_at_local": "2026-07-22T00:00:11+08:00"
 }

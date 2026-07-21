@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:47:12.635479Z",
+  "generated_at": "2026-07-21T16:17:02.627104Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -177,6 +177,34 @@
       "latest_tweet_id": "2079554861662884254",
       "oldest_tweet_created_at": "2024-12-18T07:25:51Z",
       "oldest_tweet_id": "1869282914850259239"
+    },
+    "ezshine": {
+      "status": "completed",
+      "twitter_url": "https://x.com/ezshine",
+      "twitter_rest_id": "18896395",
+      "vibeloft_username": "ezshine",
+      "vibeloft_nickname": "大帅",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/ezshine",
+      "started_at": "2026-07-21T16:15:00.589517Z",
+      "data_file": "data/user_tweets/vibeloft/ezshine.json",
+      "stop_on_existing": false,
+      "handle": "ezshine",
+      "updated_at": "2026-07-21T16:17:02.627101Z",
+      "paused_at": "2026-07-21T16:00:10.468458Z",
+      "rate_limit_reset_at": "2026-07-21T16:00:11Z",
+      "rate_limit_reset_at_local": "2026-07-22T00:00:11+08:00",
+      "error": "",
+      "completed_at": "2026-07-21T16:17:02.626482Z",
+      "completed_at_local": "2026-07-22T00:17:02.626498+08:00",
+      "history_complete": true,
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 724,
+      "stop_reason": "consecutive_empty_pages_3",
+      "tweet_count": 781,
+      "latest_tweet_created_at": "2026-07-21T12:24:26Z",
+      "latest_tweet_id": "2079543020920410228",
+      "oldest_tweet_created_at": "2024-03-01T12:16:02Z",
+      "oldest_tweet_id": "1763538685159465250"
     }
   }
 }
