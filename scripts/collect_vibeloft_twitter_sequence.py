@@ -15,6 +15,7 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import UTC, datetime
+from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
@@ -34,10 +35,36 @@ STATE_FILE = ROOT / "data" / "user_tweets" / "sequence_state.json"
 OUTPUT_DIR = ROOT / "data" / "user_tweets" / "vibeloft"
 CHECKPOINT_DIR = ROOT / "data" / "user_tweets" / "checkpoints"
 LOCK_FILE = ROOT / "data" / "user_tweets" / ".sequence.lock"
+LOCAL_TZ_NAME = "Asia/Shanghai"
+LOCAL_TZ = ZoneInfo(LOCAL_TZ_NAME)
 
 
 def utc_now() -> str:
     return datetime.now(UTC).isoformat().replace("+00:00", "Z")
+
+
+def local_now() -> str:
+    return datetime.now(LOCAL_TZ).isoformat()
+
+
+def epoch_to_utc_iso(epoch: int | None) -> str | None:
+    if not epoch:
+        return None
+    return datetime.fromtimestamp(epoch, UTC).isoformat().replace("+00:00", "Z")
+
+
+def epoch_to_local_iso(epoch: int | None) -> str | None:
+    if not epoch:
+        return None
+    return datetime.fromtimestamp(epoch, LOCAL_TZ).isoformat()
+
+
+def format_epoch_dual(epoch: int | None) -> str:
+    utc_iso = epoch_to_utc_iso(epoch)
+    local_iso = epoch_to_local_iso(epoch)
+    if not utc_iso:
+        return "unknown"
+    return f"{utc_iso} / {local_iso} {LOCAL_TZ_NAME}"
 
 
 def parse_cronbox_args() -> dict[str, Any]:
@@ -253,9 +280,11 @@ class RateLimitPause(RuntimeError):
 
     @property
     def reset_at_iso(self) -> str | None:
-        if not self.reset_at_epoch:
-            return None
-        return datetime.fromtimestamp(self.reset_at_epoch, UTC).isoformat().replace("+00:00", "Z")
+        return epoch_to_utc_iso(self.reset_at_epoch)
+
+    @property
+    def reset_at_local_iso(self) -> str | None:
+        return epoch_to_local_iso(self.reset_at_epoch)
 
 
 def is_systemic_network_error(exc: Exception) -> bool:
@@ -423,6 +452,7 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
 
     new_count = 0
     page_count = 0
+    consecutive_empty_pages = 0
     last_cursor = cursor
 
     while page_count < args.max_pages_per_user:
@@ -440,6 +470,11 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
                 new_count += 1
             merged_by_id[tweet_id] = tweet
 
+        if page_new == 0:
+            consecutive_empty_pages += 1
+        else:
+            consecutive_empty_pages = 0
+
         all_tweets = sort_tweets(list(merged_by_id.values()))
         save_user_tweets(handle, account, user_id, all_tweets)
         save_checkpoint(
@@ -456,8 +491,32 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
 
         print(
             f"    page={pages_done} fetched={len(page.tweets)} new={page_new} "
-            f"total={len(all_tweets)} remaining={page.remaining}"
+            f"empty_streak={consecutive_empty_pages} total={len(all_tweets)} remaining={page.remaining}"
         )
+
+        if args.max_empty_pages and consecutive_empty_pages >= args.max_empty_pages:
+            summary = summarize_tweets(all_tweets)
+            clear_checkpoint(handle)
+            update_user_status(
+                handle,
+                {
+                    "status": "completed",
+                    "completed_at": utc_now(),
+                    "completed_at_local": local_now(),
+                    "history_complete": True,
+                    "pages_collected_total": pages_done,
+                    "new_tweets_last_run": new_count,
+                    "stop_reason": f"consecutive_empty_pages_{consecutive_empty_pages}",
+                    "error": "",
+                    **summary,
+                },
+            )
+            return {
+                "status": "completed",
+                "new_count": new_count,
+                "stop_reason": f"consecutive_empty_pages_{consecutive_empty_pages}",
+                **summary,
+            }
 
         if should_pause_for_remaining(page, args.pause_remaining_threshold):
             raise RateLimitPause(page.reset_at_epoch, f"remaining_{page.remaining}")
@@ -470,6 +529,7 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
                 {
                     "status": "completed",
                     "completed_at": utc_now(),
+                    "completed_at_local": local_now(),
                     "history_complete": True,
                     "pages_collected_total": pages_done,
                     "new_tweets_last_run": new_count,
@@ -487,6 +547,7 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
                 {
                     "status": "completed",
                     "completed_at": utc_now(),
+                    "completed_at_local": local_now(),
                     "history_complete": True,
                     "pages_collected_total": pages_done,
                     "new_tweets_last_run": new_count,
@@ -507,6 +568,7 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
         {
             "status": "partial",
             "completed_at": utc_now(),
+            "completed_at_local": local_now(),
             "history_complete": False,
             "pages_collected_total": pages_done,
             "new_tweets_last_run": new_count,
@@ -580,6 +642,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--start-index", "--start_index", type=int, default=cron_defaults.get("start_index"))
     parser.add_argument("--max-users-per-run", "--max_users_per_run", type=int, default=int(cron_defaults.get("max_users_per_run") or 0), help="0 means no explicit user limit.")
     parser.add_argument("--max-pages-per-user", "--max_pages_per_user", type=int, default=int(cron_defaults.get("max_pages_per_user") or 10000))
+    parser.add_argument("--max-empty-pages", "--max_empty_pages", type=int, default=int(cron_defaults.get("max_empty_pages") or 3), help="Stop a user after N consecutive pages with no new tweets.")
     parser.add_argument("--delay", type=float, default=float(cron_defaults.get("delay") or 2.0))
     parser.add_argument("--pause-remaining-threshold", "--pause_remaining_threshold", type=int, default=int(cron_defaults.get("pause_remaining_threshold") or 2))
     parser.add_argument("--force-full", "--force_full", action="store_true", default=bool(cron_defaults.get("force_full") or False))
@@ -658,6 +721,7 @@ def main() -> int:
                             "status": "paused_rate_limit",
                             "paused_at": utc_now(),
                             "rate_limit_reset_at": exc.reset_at_iso,
+                            "rate_limit_reset_at_local": exc.reset_at_local_iso,
                             "error": str(exc),
                         },
                     )
@@ -666,12 +730,13 @@ def main() -> int:
                             "paused": True,
                             "pause_reason": str(exc),
                             "rate_limit_reset_at": exc.reset_at_iso,
+                            "rate_limit_reset_at_local": exc.reset_at_local_iso,
                             "next_index": index,
                             "current_handle": handle,
                             "last_run_finished_at": utc_now(),
                         }
                     )
-                    print(f"[pause] Rate limited at @{handle}; reset_at={exc.reset_at_iso or 'unknown'}")
+                    print(f"[pause] Rate limited at @{handle}; reset_at={format_epoch_dual(exc.reset_at_epoch)}")
                     return 0
                 except Exception as exc:
                     if is_systemic_network_error(exc):
