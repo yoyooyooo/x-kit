@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:17:02.627104Z",
+  "generated_at": "2026-07-21T16:32:15.860667Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -205,6 +205,31 @@
       "latest_tweet_id": "2079543020920410228",
       "oldest_tweet_created_at": "2024-03-01T12:16:02Z",
       "oldest_tweet_id": "1763538685159465250"
+    },
+    "zaynhao": {
+      "status": "completed",
+      "twitter_url": "https://x.com/ZaynHao",
+      "twitter_rest_id": "854722070101360641",
+      "vibeloft_username": "zaynhao",
+      "vibeloft_nickname": "Zayn Hao",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/zaynhao",
+      "started_at": "2026-07-21T16:30:03.903269Z",
+      "data_file": "data/user_tweets/vibeloft/zaynhao.json",
+      "stop_on_existing": false,
+      "handle": "ZaynHao",
+      "updated_at": "2026-07-21T16:32:15.860660Z",
+      "completed_at": "2026-07-21T16:32:15.859324Z",
+      "completed_at_local": "2026-07-22T00:32:15.859331+08:00",
+      "history_complete": true,
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 744,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 744,
+      "latest_tweet_created_at": "2026-07-21T14:50:26Z",
+      "latest_tweet_id": "2079579761551282217",
+      "oldest_tweet_created_at": "2025-11-05T00:20:12Z",
+      "oldest_tweet_id": "1985864689126109598"
     }
   }
 }
