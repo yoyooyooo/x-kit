@@ -1,0 +1,1128 @@
+{
+  "handle": "AirboZH",
+  "twitter_url": "https://x.com/AirboZH",
+  "twitter_rest_id": "1782625101147742208",
+  "vibeloft": {
+    "username": "airbozh",
+    "nickname": "二薄",
+    "profile_url": "https://vibeloft.ai/profile/airbozh"
+  },
+  "generated_at": "2026-07-21T21:20:06.820164Z",
+  "stats": {
+    "tweet_count": 58,
+    "latest_tweet_created_at": "2026-06-25T14:55:31Z",
+    "latest_tweet_id": "2070158958204243969",
+    "oldest_tweet_created_at": "2024-08-12T11:44:11Z",
+    "oldest_tweet_id": "1822962280142872729"
+  },
+  "tweets": [
+    {
+      "id": "2070158958204243969",
+      "text": "以后可以代表 JavaScript 了 https://t.co/oVky6AxBcl",
+      "created_at": "Thu Jun 25 14:55:31 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HLquj4FbcAET535.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2070158958204243969"
+    },
+    {
+      "id": "2069405431156687102",
+      "text": "好奇一个问题：QQ 邮箱的 https://t.co/BIbzxPxjDS 是什么定位？\n\n如果是新版邮箱，为什么要用 wx 这个子域名？如果只是微信登录/账号体系相关，为什么又放在 QQ 邮箱下面？",
+      "created_at": "Tue Jun 23 13:01:17 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "35",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2069405431156687102"
+    },
+    {
+      "id": "2060554611338219589",
+      "text": "JB 家有一点小小遗憾的是没办法多语言混合一起写。\n如果要写一下 tauri 项目的话。\n需要 rustrover 和 webstorm 一起开 🙃",
+      "created_at": "Sat May 30 02:51:17 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "72",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2060554611338219589"
+    },
+    {
+      "id": "2060408994745979026",
+      "text": "最近做智能提词器跟读，越来越感觉到：\n这不是 ASR 问题，而是 alignment 问题。\n\n我们不该关注“他说了什么”，而该问：“他现在读到稿子的哪里？”\n\n所以比起等 ASR 解码出文字再 fuzzy match，更好的路线可能是：\n声学模型 token =&gt; CTC forced alignment =&gt; 光标位置\n\n就好像暴力解法和算法一样",
+      "created_at": "Fri May 29 17:12:39 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "63",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2060408994745979026"
+    },
+    {
+      "id": "2058838936718639379",
+      "text": "🚨 GitHub SSH auth is failing right now.\n\nssh -T git@ssh.github.com\nreturns:\n\nPermission denied (publickey)\n\nNo local changes. Key fingerprint matches. SSH connection succeeds, but auth fails.\n\nLooks like GitHub-side auth is broken.",
+      "created_at": "Mon May 25 09:13:48 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "259",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2058838936718639379"
+    },
+    {
+      "id": "2057547588296159536",
+      "text": "https://t.co/IVNnZSAJs9",
+      "created_at": "Thu May 21 19:42:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "23",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2057547588296159536"
+    },
+    {
+      "id": "2056411180479238175",
+      "text": "Your AI coworker remembers what you forgot\n\njust ask Corivo https://t.co/5mtQFypjzS",
+      "created_at": "Mon May 18 16:26:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "32",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2056411097939460096/img/lwzY2D-dF68bYP-n.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2056411180479238175"
+    },
+    {
+      "id": "2053740482505924625",
+      "text": "Got the email 📧",
+      "created_at": "Mon May 11 07:34:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "38",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2053740482505924625"
+    },
+    {
+      "id": "2049863071204794495",
+      "text": "This is why I keep working till 2–3am every night. https://t.co/u3OeasKE0M",
+      "created_at": "Thu Apr 30 14:46:55 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "62",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHKTcZnbEAAhAkv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2049863071204794495"
+    },
+    {
+      "id": "2049846918654972014",
+      "text": "Every time I want ChatGPT to help with my work, I have to explain my whole project from scratch.\n\nIt’s 2026. Why is there still no easier way? https://t.co/t6ZMJ4EpPB",
+      "created_at": "Thu Apr 30 13:42:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHKEln6bcAAJn_U.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2049846918654972014"
+    },
+    {
+      "id": "2041720232151281676",
+      "text": "Spent the past week exploring AI memory \nStill far from solved\n\nBut we finally see the direction:\nwhat to build next, and why\nFeels like things are starting to connect \n\n#BuildingCorivoinPublic https://t.co/rAW5JqSk5x",
+      "created_at": "Wed Apr 08 03:30:11 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "101",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HFWluzEa8AE-f9y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2041720232151281676"
+    },
+    {
+      "id": "2040315955113529470",
+      "text": "Spent a week working on AI memory 🧠\n\nFinally got some direction, but it’s harder than expected \n\nMy current belief:\nmemory / context is the foundation\n\nWith enough context + tools,\nAI doesn’t just execute\nit can decide what to do\n\nStill exploring 🚧 https://t.co/HCWsS57dxv",
+      "created_at": "Sat Apr 04 06:30:05 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "37",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2040315900520439808/pu/img/qxo-NNqKI0F6vH87.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2040315955113529470"
+    },
+    {
+      "id": "2035655929283371374",
+      "text": "万物CLI 的时候，我把微信 AI Bot 的接口做成了一个 CLI，这样配合 skills 就可以让你的 Claude Code、Openclaw、Opencode、或者是一些脚本代码通过微信发信息了。\n\n目前知道的一个限制是 用户再次发送消息前，Agent 只能回 10 条消息，我做了提示。 https://t.co/RBqkLWvD18",
+      "created_at": "Sun Mar 22 09:52:48 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "74",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HEAaFNNbMAAsu7O.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2035655929283371374"
+    },
+    {
+      "id": "2003379956790034492",
+      "text": "我的 ChatGPT 年度回顾 https://t.co/7Rkq9DconJ",
+      "created_at": "Tue Dec 23 08:19:37 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "84",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G81ujdQagAQYudv.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G81upDwagAIaIoa.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G81usmUagAQHDuN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2003379956790034492"
+    },
+    {
+      "id": "1991231852212887742",
+      "text": "建议所有还在学 React/Vue 的同学立刻停止。\n🛑 你们正在学习怎么成为“赛博苦力”。\n\n看看这个发展史，全是垃圾堆。还在研究 CSS 居中的，建议直接下载此页面的《电子厂进厂指南》。\nhttps://t.co/SF97vzRXVc\n技术在 AI 面前一文不值。不服？来玩玩这个找BUG游戏看你有多菜👇\nhttps://t.co/SF97vzRXVc https://t.co/Ayv2ygDGjd",
+      "created_at": "Wed Nov 19 19:47:23 +0000 2025",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "210",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/G6JGg5JbAAA7sQ0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1991231852212887742"
+    },
+    {
+      "id": "1955818973003731358",
+      "text": "创业团队远程工作流程公开——《原则半远程工作手册》 https://t.co/5f2RrdQk3G #share",
+      "created_at": "Thu Aug 14 02:29:15 +0000 2025",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "181",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1955818973003731358"
+    },
+    {
+      "id": "1951507909000700367",
+      "text": "用上了阿里的 ESA，整合了 CDN WAF edge 等功能。效果还不错，\n之前用又拍云小服务商刚好欠费了。也是用上大厂产品了。\nhttps://t.co/n4oAMs1LW5 https://t.co/2lTxC0FDRf",
+      "created_at": "Sat Aug 02 04:58:37 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "132",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GxUlog7agAAKPHV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GxUlqO6aIAI1G5g.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1951507909000700367"
+    },
+    {
+      "id": "1944856577628155909",
+      "text": "我又熬了一个通宵\n\nhttps://t.co/V5kPJDPv75",
+      "created_at": "Mon Jul 14 20:28:36 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "75",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1944856577628155909"
+    },
+    {
+      "id": "1939377043810214209",
+      "text": "太震撼了 从头到尾激动没停过 \n好久没看过情绪完全进去剧情的片了\n要入坑 F1 了，赢麻了 https://t.co/oFCsdv5Ih1",
+      "created_at": "Sun Jun 29 17:34:53 +0000 2025",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "101",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GuoNJLRWcAAHflU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1939377043810214209"
+    },
+    {
+      "id": "1938880931051512097",
+      "text": "RT @hylarucoder: 我妈：手洗的衣服比机器洗的干净\n而我：手写的代码比 AI 写的好",
+      "created_at": "Sat Jun 28 08:43:31 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 67,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1938880931051512097"
+    },
+    {
+      "id": "1938027129968673012",
+      "text": "难得早起做了锅粥，把盐当成糖猛猛放了一大把……寄了",
+      "created_at": "Thu Jun 26 00:10:49 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "78",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1938027129968673012"
+    },
+    {
+      "id": "1938025368012853459",
+      "text": "🏆2500 小时——已达成\n 10 个月 1500 小时，按这个速度一万小时指日可待  \n\n这一年都是 TS 为主，感觉 WebStorm 真挺好用的 \nhttps://t.co/dZrfng5rAc https://t.co/6KsNmZht6y",
+      "created_at": "Thu Jun 26 00:03:49 +0000 2025",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "173",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GuU_wgdbEAQfrIa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1938025368012853459"
+    },
+    {
+      "id": "1937028397294883146",
+      "text": "推荐一个 AI类软件的 数据统计站点 https://t.co/x0mpi2QdlX\n掌握 AI类软件最新的 趋势和行情 必备 https://t.co/zdTfy1jjb7",
+      "created_at": "Mon Jun 23 06:02:12 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/1937028106952306690/img/hBJzXcBz_qtGv9Hk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1937028397294883146"
+    },
+    {
+      "id": "1916694210637598846",
+      "text": "RT @arvin17x: 今天开启 LobeChat 开启桌面端 Beta 版测试，其中我最喜欢的特性就是原生 Local Files 插件😋 https://t.co/zDDPRSjmh8",
+      "created_at": "Mon Apr 28 03:21:24 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 8,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/1916521459721347072/img/_Jpa0yiLkvIqoWZF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1916694210637598846"
+    },
+    {
+      "id": "1914532070573138057",
+      "text": "店家和我打电话说咨询了其他家全国连锁店，应该是 JD 系统崩了🥲 东哥做电商也二十多年了 这就寄了吗……",
+      "created_at": "Tue Apr 22 04:09:50 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "97",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1914532070573138057"
+    },
+    {
+      "id": "1914531057506115748",
+      "text": "JD 这波没接住流量啊\n点了两单等了二十分钟一看 待商家接单\n打商家电话问了一下 商家说没看到单子\n现在半个小时了还没有接单……\n不会是匹配到骑手才开始给商家发订单吧……",
+      "created_at": "Tue Apr 22 04:05:49 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "175",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1914531057506115748"
+    },
+    {
+      "id": "1914263093137510692",
+      "text": "晚上点了份 东哥的外卖，15分钟送到了。快是确实快。\n不过距离也就 1km，JD外卖目前单数不多外卖员只送我这一单，应该和美团优享送差不多。\n看了一下比美团还贵2块钱，改天点美团看看多久能送到。",
+      "created_at": "Mon Apr 21 10:21:01 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1914263093137510692"
+    },
+    {
+      "id": "1912138129525625099",
+      "text": "目前在做的一个，刚好看到感觉特别合适。\nNest 后端 + Next 前端 还有一些 Package\n1. TS，Eslint 配置统一\n2. 有一个单独的Package，前端引入使用 UI，后端引入使用工具方法。\n3. 设想前端后的一些公共接口类型或者数据类型 可以写到一个 common Package 里面。\n4. 可以同时看前后端不用切换",
+      "created_at": "Tue Apr 15 13:37:10 +0000 2025",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "233",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1912138129525625099"
+    },
+    {
+      "id": "1903711425694228572",
+      "text": "躺平大理了 https://t.co/O6nSFvNGhS",
+      "created_at": "Sun Mar 23 07:32:27 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "137",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GmtXb7UbgAAzQ93.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1903711425694228572"
+    },
+    {
+      "id": "1899789603416289678",
+      "text": "是谁在用 Vue 啊，这个世界上到底是谁在用 Vue 啊？？？",
+      "created_at": "Wed Mar 12 11:48:32 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "138",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1899789603416289678"
+    },
+    {
+      "id": "1899459053329510470",
+      "text": "想做一个飞书类似的编辑器 除了 tiptap 还有什么推荐的吗 感觉 tiptap 开发好麻烦",
+      "created_at": "Tue Mar 11 13:55:03 +0000 2025",
+      "favorite_count": 3,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "289",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1899459053329510470"
+    },
+    {
+      "id": "1899458533105500274",
+      "text": "中场休息一下 最近这几天 \n真是 醒着就干活\n困了就睡觉\n但是好像啥也没干😑 https://t.co/GAeDx0pzKD",
+      "created_at": "Tue Mar 11 13:52:59 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "78",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Glw7ddUW4AAB6yF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1899458533105500274"
+    },
+    {
+      "id": "1898390616335405189",
+      "text": "一天没吃饭 就靠这杯酒和薯条续命了 doge https://t.co/9A7XQD1sHM",
+      "created_at": "Sat Mar 08 15:09:27 +0000 2025",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GlhwM2IbwAATaMl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1898390616335405189"
+    },
+    {
+      "id": "1890597962419482757",
+      "text": "✨ 分享创造 · DeepSeek 对话生成器：让 DS 说出你想要的答案（附脑洞彩蛋） https://t.co/4uxrw7Kmbc #create",
+      "created_at": "Sat Feb 15 03:04:14 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "115",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1890597962419482757"
+    },
+    {
+      "id": "1889915913799168234",
+      "text": "遇到难写的代码 就奖励一瓶可乐 https://t.co/AUCI7cLLGL",
+      "created_at": "Thu Feb 13 05:54:01 +0000 2025",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "156",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GjpUgNFa4AAXotb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1889915913799168234"
+    },
+    {
+      "id": "1889679029990490172",
+      "text": "最喜欢的金汤力 🍸\nG&amp;T https://t.co/RbEQA4MyDR",
+      "created_at": "Wed Feb 12 14:12:43 +0000 2025",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "98",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gjl9Dc3aQAAVnIu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1889679029990490172"
+    },
+    {
+      "id": "1882708959808967063",
+      "text": "远程办公的这一周还是挺爽的\n虽然效率稍微低了一点点。但是辛福感大大提升🥰 https://t.co/O6qw3GwWD7",
+      "created_at": "Fri Jan 24 08:36:09 +0000 2025",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "385",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GiC50MqbAAA40Ap.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GiC50NGaAAAqU0y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1882708959808967063"
+    },
+    {
+      "id": "1870402410725949857",
+      "text": "我投一票 Java，我喜欢代码严丝合缝的感觉。喜欢每一个小细节的最优解和最佳结构。就算是写 ts 我也尽量使用严格的 ts 类型。\n只要足够多的重写和抽象就可以改依赖或已有代码到自己需要的样子，生态也足够稳健。\nlts 版本的新特性也让 Java 不算过时。\n爱了 🤗",
+      "created_at": "Sat Dec 21 09:34:19 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "346",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1870402410725949857"
+    },
+    {
+      "id": "1868912947017531535",
+      "text": "如何为正在飞行的飞机更换引擎",
+      "created_at": "Tue Dec 17 06:55:43 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "205",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1868912947017531535"
+    },
+    {
+      "id": "1867850090154782813",
+      "text": "感谢开源 感谢 halo 社区 https://t.co/pqncrdQY9L",
+      "created_at": "Sat Dec 14 08:32:19 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "144",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gevvwi9bIAACDsT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1867850090154782813"
+    },
+    {
+      "id": "1865015848517406732",
+      "text": "RT @sun76790508: 真舒服呀 https://t.co/AT3hL8TeGz",
+      "created_at": "Fri Dec 06 12:50:03 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "ja",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GeGUZyrakAE7ktG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1865015848517406732"
+    },
+    {
+      "id": "1862131329653264478",
+      "text": "手工压测了😜 https://t.co/Dg7FKwWWyF",
+      "created_at": "Thu Nov 28 13:48:00 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "120",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GdeekHdbsAAslw4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1862131329653264478"
+    },
+    {
+      "id": "1861626529035493738",
+      "text": "有没有大佬能说说 A 类、B 类和 C 类 IP 分类网络还使用吗？\n好像自 无类别域间路由 之后 分类网络 就不再使用了，但是网上搜索 ip 的分类还是在说  A 、B 、C 类 网络\n有点搞不懂了。",
+      "created_at": "Wed Nov 27 04:22:06 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1356",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1861626529035493738"
+    },
+    {
+      "id": "1861053104797671724",
+      "text": "工作需要学习了 Prisma Migrate 的使用，\n但是自己学习的时候发现没有特别通俗易懂的文档，\n在柯老师（Claude）的帮助下总算是搞清楚了 Prisma Migrate 到底是怎么一回事，\n也勉强算搞清楚怎么用了，\n写一点东西复盘总结，以便来日温故复习。\n\nhttps://t.co/pg7J7c5mmm",
+      "created_at": "Mon Nov 25 14:23:31 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "144",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1861053104797671724"
+    },
+    {
+      "id": "1859842598367789201",
+      "text": "cool thing https://t.co/s1pn8PU4hJ",
+      "created_at": "Fri Nov 22 06:13:24 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "109",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gc989YOasAAHYyC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1859842598367789201"
+    },
+    {
+      "id": "1859572947356209626",
+      "text": "太丝滑了吧～",
+      "created_at": "Thu Nov 21 12:21:54 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "91",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1859572947356209626"
+    },
+    {
+      "id": "1859566959588970805",
+      "text": "最近测移动端网页的体验，手机养了好多浏览器 🤗 https://t.co/EFLzysC7XR",
+      "created_at": "Thu Nov 21 11:58:06 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "75",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gc6CSnAaAAMztvR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1859566959588970805"
+    },
+    {
+      "id": "1856018124791075156",
+      "text": "一分钟一个简单页面🚀 https://t.co/Fi3WdKGkpX",
+      "created_at": "Mon Nov 11 16:56:18 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "4552",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GcHmkccaAAAJEOj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1856018124791075156"
+    },
+    {
+      "id": "1856017416863826136",
+      "text": "真正的AI，一定要好看哥！\n讲真现在小组件什么的用 Claude 效率不要太高，\nClaude 绝对是用过最好用的 Coding AI https://t.co/tLpCn2Phqo",
+      "created_at": "Mon Nov 11 16:53:29 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "343",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GcHl3zCbYAEnZXN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1856017416863826136"
+    },
+    {
+      "id": "1855244878319636895",
+      "text": "都用键盘快捷键 确实感觉会很快\n强迫自己用用快捷键试试",
+      "created_at": "Sat Nov 09 13:43:42 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "153",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1855244878319636895"
+    },
+    {
+      "id": "1854951469222707589",
+      "text": "乘大伙睡觉悄悄上个线 😴 https://t.co/KVdDBlrXBN",
+      "created_at": "Fri Nov 08 18:17:48 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "165",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gb4ch51bwAAuV2E.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gb4ch5ybwAQ1xbr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1854951469222707589"
+    },
+    {
+      "id": "1854887326352392607",
+      "text": "当一个 Chrome 壁纸插件也不错\nhttps://t.co/XrwjlZlKGw  拾贝书摘插件\n\nCreated by @AryaMM324783 &amp; @sun0225SUN https://t.co/sukdgqKlum",
+      "created_at": "Fri Nov 08 14:02:55 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "137",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Gb3her2bwAA9iXs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1854887326352392607"
+    },
+    {
+      "id": "1854493589096845390",
+      "text": "面试场景最新科技 ，隐形悬浮面试提词器\nhttps://t.co/FOTHt2Tq8I https://t.co/mGExoLWGTx",
+      "created_at": "Thu Nov 07 11:58:21 +0000 2024",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "845",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/1854493557060722689/pu/img/Qze7KMRHdUzwwPD_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1854493589096845390"
+    },
+    {
+      "id": "1854171722574143830",
+      "text": "小酌一杯回家继续coding ⌨ https://t.co/guTjsn2xvr",
+      "created_at": "Wed Nov 06 14:39:22 +0000 2024",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "313",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GbtXWT4bYAAJBey.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1854171722574143830"
+    },
+    {
+      "id": "1854164925779980516",
+      "text": "现在写代码 claude真的感觉像多了一个助手一样。梳理思路和明确思路之后的实现都能很好的完成。\n非常刁了",
+      "created_at": "Wed Nov 06 14:12:21 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "150",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1854164925779980516"
+    },
+    {
+      "id": "1848331035249135881",
+      "text": "RT @Guoxiaoli0: 今晚 21:30 在 X 试试，创业者/独立开发都是孤独的，创业过程中总是会遇到各种各样的问题，相信我，你不孤独，我也一样，我希望通过分享一些自己的过往经验，帮到一些朋友。当然我也需要和朋友们交流，获得成长https://t.co/vmSCrmG…",
+      "created_at": "Mon Oct 21 11:50:33 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 7,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1848331035249135881"
+    },
+    {
+      "id": "1831931491091410954",
+      "text": "拖了很久的问题终于解决了一下，这个编辑效果还是不错的。样式什么的还可以再优化。 Tiptap 的开发属实感觉有点复杂，可能还要看到 ProseMirror 的开发文档才可以解决一些问题。  \n\nhttps://t.co/jpRzpeuDNA https://t.co/4wgznh9RB4",
+      "created_at": "Fri Sep 06 05:44:37 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "121",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/GWxT9gTakAEdT9M.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1831931491091410954"
+    },
+    {
+      "id": "1822962280142872729",
+      "text": "RT @Guoxiaoli0: 我们团队同学 @liuzhengyanshuo 做了个极简的提词器产品，今天在 ProductHunt 上 Launch，\n需要朋友们宝贵的一票🙏 🤗\nhttps://t.co/asbZWnaLHQ",
+      "created_at": "Mon Aug 12 11:44:11 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1822962280142872729"
+    }
+  ]
+}
