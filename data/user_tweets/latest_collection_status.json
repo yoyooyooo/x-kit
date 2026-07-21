@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-07-21T14:17:31.394830Z",
+  "users": {
+    "chunxiangai": {
+      "status": "completed",
+      "twitter_url": "https://x.com/chunxiangai",
+      "twitter_rest_id": "913314383526223872",
+      "vibeloft_username": "chunxiangai",
+      "vibeloft_nickname": "赵纯想",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/chunxiangai",
+      "started_at": "2026-07-21T14:17:22.023616Z",
+      "data_file": "data/user_tweets/vibeloft/chunxiangai.json",
+      "stop_on_existing": false,
+      "handle": "chunxiangai",
+      "updated_at": "2026-07-21T14:17:31.394827Z",
+      "paused_at": "2026-07-21T14:02:09.645825Z",
+      "rate_limit_reset_at": "2026-07-21T14:07:42Z",
+      "error": "",
+      "completed_at": "2026-07-21T14:17:31.394543Z",
+      "completed_at_local": "2026-07-21T22:17:31.394549+08:00",
+      "history_complete": true,
+      "pages_collected_total": 68,
+      "new_tweets_last_run": 0,
+      "stop_reason": "consecutive_empty_pages_3",
+      "tweet_count": 496,
+      "latest_tweet_created_at": "2026-07-21T10:51:05Z",
+      "latest_tweet_id": "2079519528011317752",
+      "oldest_tweet_created_at": "2020-08-14T16:34:45Z",
+      "oldest_tweet_id": "1294311507069722625"
+    }
+  }
+}
