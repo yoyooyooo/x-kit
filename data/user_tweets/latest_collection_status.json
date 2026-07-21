@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:02:13.091738Z",
+  "generated_at": "2026-07-21T15:16:41.874803Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -102,6 +102,31 @@
       "latest_tweet_id": "2079473517444423986",
       "oldest_tweet_created_at": "2026-05-04T11:16:46Z",
       "oldest_tweet_id": "2051259735933157471"
+    },
+    "kajiand65580": {
+      "status": "completed",
+      "twitter_url": "https://x.com/KajianD65580",
+      "twitter_rest_id": "1760552398970556416",
+      "vibeloft_username": "kajiandu",
+      "vibeloft_nickname": "kajian du",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/kajiandu",
+      "started_at": "2026-07-21T15:15:02.954112Z",
+      "data_file": "data/user_tweets/vibeloft/kajiand65580.json",
+      "stop_on_existing": false,
+      "handle": "KajianD65580",
+      "updated_at": "2026-07-21T15:16:41.874791Z",
+      "completed_at": "2026-07-21T15:16:41.873779Z",
+      "completed_at_local": "2026-07-21T23:16:41.873807+08:00",
+      "history_complete": true,
+      "pages_collected_total": 39,
+      "new_tweets_last_run": 595,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 595,
+      "latest_tweet_created_at": "2026-07-21T08:33:38Z",
+      "latest_tweet_id": "2079484936671879507",
+      "oldest_tweet_created_at": "2024-03-16T03:56:28Z",
+      "oldest_tweet_id": "1768848782647783603"
     }
   }
 }
