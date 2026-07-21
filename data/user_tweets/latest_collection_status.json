@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:00:35.641310Z",
+  "generated_at": "2026-07-21T20:20:07.740345Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -430,6 +430,31 @@
       "latest_tweet_id": "2079393891086921925",
       "oldest_tweet_created_at": "2025-07-02T12:46:41Z",
       "oldest_tweet_id": "1940391677740654617"
+    },
+    "alifeiliu": {
+      "status": "completed",
+      "twitter_url": "https://x.com/alifeiliu",
+      "twitter_rest_id": "1785337381845192704",
+      "vibeloft_username": "liufei",
+      "vibeloft_nickname": "飞流",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/liufei",
+      "started_at": "2026-07-21T20:15:38.240639Z",
+      "data_file": "data/user_tweets/vibeloft/alifeiliu.json",
+      "stop_on_existing": false,
+      "handle": "alifeiliu",
+      "updated_at": "2026-07-21T20:20:07.740339Z",
+      "completed_at": "2026-07-21T20:20:07.739548Z",
+      "completed_at_local": "2026-07-22T04:20:07.739558+08:00",
+      "history_complete": true,
+      "pages_collected_total": 7,
+      "new_tweets_last_run": 54,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 54,
+      "latest_tweet_created_at": "2026-07-18T06:32:57Z",
+      "latest_tweet_id": "2078367401142562845",
+      "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
+      "oldest_tweet_id": "1819316924146466942"
     }
   }
 }
