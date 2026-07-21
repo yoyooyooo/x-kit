@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:32:15.860667Z",
+  "generated_at": "2026-07-21T16:45:45.539086Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -230,6 +230,31 @@
       "latest_tweet_id": "2079579761551282217",
       "oldest_tweet_created_at": "2025-11-05T00:20:12Z",
       "oldest_tweet_id": "1985864689126109598"
+    },
+    "thejoven_com": {
+      "status": "completed",
+      "twitter_url": "https://x.com/thejoven_com",
+      "twitter_rest_id": "344028988",
+      "vibeloft_username": "thejovenelizaos",
+      "vibeloft_nickname": "thejoven - ElizaOS",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/thejovenelizaos",
+      "started_at": "2026-07-21T16:45:08.614578Z",
+      "data_file": "data/user_tweets/vibeloft/thejoven_com.json",
+      "stop_on_existing": false,
+      "handle": "thejoven_com",
+      "updated_at": "2026-07-21T16:45:45.539079Z",
+      "completed_at": "2026-07-21T16:45:45.538653Z",
+      "completed_at_local": "2026-07-22T00:45:45.538666+08:00",
+      "history_complete": true,
+      "pages_collected_total": 14,
+      "new_tweets_last_run": 191,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 191,
+      "latest_tweet_created_at": "2026-07-19T15:27:41Z",
+      "latest_tweet_id": "2078864359036715277",
+      "oldest_tweet_created_at": "2016-10-28T21:46:25Z",
+      "oldest_tweet_id": "792120360606969856"
     }
   }
 }
