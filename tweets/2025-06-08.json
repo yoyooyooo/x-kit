@@ -1,0 +1,873 @@
+[
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+      "followersCount": 6986,
+      "friendsCount": 730,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/1931855476372943226",
+    "fullText": "高考作文这是给人上四九年入国军还是五零年回国的眼药吗？"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8224,
+      "friendsCount": 263,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs8cU7_aoAAxngB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1931794678904725720",
+    "fullText": "有些模型看着调用多，实际可能电费都交不起\n\n兔子站调用次数最多的gpt-4o-mini模型，每1万次大约2美金合计费用，实际支付1.4人民币，利润🙃\n\n所以像什么“沉浸式翻译”，接入4o-mini模型后常开在那里了，畅游互联网没几个字费用的。 https://t.co/PmRNWAjPRS"
+  },
+  {
+    "user": {
+      "screenName": "XimVewDew",
+      "name": "Ximvoodoo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800163028098273280/DOzQvoIK_normal.jpg",
+      "description": "🎵 Music Composer & Sound Engineer | Creating emotional soundscapes for film, TV, games, & more | Bass player turned melody maker | Let's make some noise! 🎸🎧",
+      "followersCount": 1993,
+      "friendsCount": 5306,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/XimVewDew/status/1931746242914115931",
+    "fullText": "@amuse It’s almost like they wanted this to happen so they could have the excuse they need to install AI cameras on all American citizens or something … 🤔🤔"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 731,
+      "friendsCount": 473,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1931742952529027306",
+    "fullText": "EdgeOne Pages 部署 Next 动态数据的项目一堆问题啊，部署静态的还能正常，Vercel 能正常部署，它就跑不起来。。。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150346,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1931723263916511488",
+    "fullText": "我坐电梯从没有按错过，直到我朋友对我说：他对电梯的设计有点疑惑，屏幕显示电梯在 1 楼，他会先按上让电梯上来，然后再下去。但如果没有显示楼层的数字他就会很明白上下键的作用。我说这是设计心理学的问题，确实会有歧义。\n\n然后我现在每次按电梯都会想起他这个问题，偶尔也会短路按错电梯了……"
+  },
+  {
+    "user": {
+      "screenName": "tuziapi",
+      "name": "兔子",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+      "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+      "followersCount": 8224,
+      "friendsCount": 263,
+      "location": "NewYork"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs7VRCVbwAAjhim.jpg",
+      "https://pbs.twimg.com/media/Gs7VleMboAA7Ks1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tuziapi/status/1931717298680967475",
+    "fullText": "https://t.co/XIvA4MZ1Q7 新上线的五种api, 非常好用！！\n\n1⃣gemini-2.5-flash-all\\pro-all 多模态版本，支持文件、视频、图片分析、画图、实时联网\n2⃣gemini-2.5-flash-deepsearch\\pro-deepsearch 深度搜索模型，比 openai、grok 都好\n3⃣veo3  独家带有声音的视频模型\n\n关注兔子，最快接入最前沿模型 https://t.co/ZWyp3qN6lM"
+  },
+  {
+    "user": {
+      "screenName": "keithbacker",
+      "name": "keithbacker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/499615574771515393/-sYyr5sE_normal.jpeg",
+      "description": "Free markets and free enterprise have helped more people out of poverty than every government program combined.",
+      "followersCount": 364,
+      "friendsCount": 344,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs7R91FW8AAUPrq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/keithbacker/status/1931712984444706987",
+    "fullText": "Gavin Newsom sips Napa Cabernet while Los Angeles burns https://t.co/Tmo8adXxBi"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART AI 生图：https://t.co/Hpds5VR4iC\n独立开发者导航：https://t.co/b0jrjyMdZC\nFlux 免费图像生成：https://t.co/Rf7lU4WsuM",
+      "followersCount": 731,
+      "friendsCount": 473,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs7Qb8sbUAAsVaR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/1931710505116475705",
+    "fullText": "【白嫖福利】perplexity pro 1年的会员，速度领取，手慢无 https://t.co/PrFgO8iOua\n验证券：PPLXLIUMBLHOTVAJ2QI https://t.co/oFG68jHu1Z"
+  },
+  {
+    "user": {
+      "screenName": "KTSmithFFSN",
+      "name": "Kevin Smith",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1862592745782591488/6DBEPPNO_normal.jpg",
+      "description": "30 years coaching as HC/OC. Podcast host of “The Call Sheet Daily.” Football analyst for @FFSN_NFL and @SteelCNetwork.",
+      "followersCount": 17824,
+      "friendsCount": 337,
+      "location": "Ocean City, New Jersey"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KTSmithFFSN/status/1931707282632392921",
+    "fullText": "Reading about the House v. NCAA settlement that will now allow colleges to directly pay athletes. This feels like the opening of an unending can of further lawsuits. Some of the immediate problems I see:\n\nWill college payments reign in and regulate private NIL deals, as the"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150346,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1931696997519835571",
+    "fullText": "把办公室里的花花草草都拉走了，过两天把贵重设备也拉走，可惜了我的海景大办公室，要空置很久了。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23044,
+      "friendsCount": 290,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1931691470890918021",
+    "fullText": "最近跟着 youtube 的建房子视频，我先后学会了建造砖瓦房，钢筋水泥房，榫卯结构圆木房，木板房，茅草屋，以及砖瓦烧制，三合土制作，各类地基搭建，防水，保暖，化粪池，就只剩下没动手实践了。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs69jiPbIAApld-.jpg",
+      "https://pbs.twimg.com/media/Gs69jiRbIAErmwU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931689747392692541",
+    "fullText": "没吃饱，制作一份真正的红烧牛肉面 https://t.co/eMasHBWzHk"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs6sIzvbMAAXQ3L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931670586394325018",
+    "fullText": "能吃是福 https://t.co/Zq4GMoa0Bp"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10486,
+      "friendsCount": 3536,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931649395000500224/vid/avc1/1956x1080/zxuHhPbQGMRU90pP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1931651446455607648",
+    "fullText": "感觉想象力被打开了🙂‍↔️ \nhttps://t.co/6jSLxIeUNa"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931641652294349241",
+    "fullText": "上班上疯了，下午困到不行想睡一小时，梦到我需要做一个什么自动化的需求，刚睡醒那两三分钟分钟忧心忡忡的在思考可行性，发现实现不了。又躺了两三分钟终于缓过来了：\n\n“需求是假的，流程是梦里瞎掰的，今天是周末，我才刚睡醒”\n\n想明白之后平静多了，伸了个懒腰起床了🥰"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150346,
+      "friendsCount": 477,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs6D1LpbYAA8tXc.jpg",
+      "https://pbs.twimg.com/media/Gs6D1LkaYAACcUa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1931626368183238815",
+    "fullText": "最近 labubu 怎么这么火，刚打印完的几个玩偶都被朋友要走了 https://t.co/8K7zoXXrhg"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54822,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs6DNUwaMAAIzM1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/1931625686692950191",
+    "fullText": "非常知名的 Dracula Theme 出了一个专门适配 Cursor 的版本：\nhttps://t.co/6DqqANtPR4\n\n赶快用了一下，需要手动安装，据说是为了适配 Cursor 和 VScode 的版本做了很多修改，但是我也没看出来是啥，总之，颜值还可以，我之前用过一段时间的，很喜欢那个紫色，大家喜欢的可以试试看。 https://t.co/qcs5m0mze5"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10486,
+      "friendsCount": 3536,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931621038489735168/vid/avc1/576x1280/pe-geYe96SXg-b_b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/1931623796152353212",
+    "fullText": "提示词注入攻击 😁\n https://t.co/jMYDUNqiSy"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5963,
+      "friendsCount": 1253,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs5z7lubUAAbLUU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1931609489746362868",
+    "fullText": "#DataCollie 日拱一卒\n 不纠结了。决定每个Tab脚本控制台都支持切换连接，主窗口工具栏中间区域高亮部分显示当前激活的连接信息，支持点击设置高亮颜色等。\n#buildinpublic #indiedev https://t.co/7z02IEJDwg"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gs5vvhXbAAAKcVL.mp4"
+    ],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931604162686632166",
+    "fullText": "刚入住的时候自如的管家答应给我约一次免费的保洁，各种疏忽已经放了我两次鸽子，今天终于是真的盼来了。 https://t.co/1GY3qMoseq"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 54822,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931602567030784000/vid/avc1/1080x720/huir-QOAONDHWrEC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/1931602842860822973",
+    "fullText": "最近看到一个非常神奇的项目 MemVid ，彻底把我给惊到了\n\nhttps://t.co/DOVBIZTmhp\n\n一个数据存储解决方案，但是它将文本数据编码为 MP4 视频文件，利用视频压缩技术，实现高达 10 倍的存储效率。\n\n同时还内置了语义搜索，用户可以通过自然语言来进行数据的查询。 https://t.co/xNd1xXIKCR"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18719,
+      "friendsCount": 1806,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931588011327967733",
+    "fullText": "想不明白那些不卖烟酒又没什么生意的小卖部是咋活下来的，半小时就卖出去一瓶饮料，店租都划拉不出来吧"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18721,
+      "friendsCount": 1806,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs5UD2GagAA-pIC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931573761809289240",
+    "fullText": "来逛gai https://t.co/mOXxH5utOG"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs5O0n_bsAALt6T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931567968800125330",
+    "fullText": "所谓路边摊的预制煎饺\n也不过是青春的叹息\n就好像塞住的马桶\n上也不是\n不上也不是 https://t.co/RkCb1kZB2h"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "ThreadsDashboard 500$/m (https://t.co/t0XT54LiH6). Just-for-Instagram app 100$/m on Apple Vision Pro. ByteDance",
+      "followersCount": 5421,
+      "friendsCount": 352,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs5E140a8AApbJD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/1931556990666621340",
+    "fullText": "wwdc 杭州线下观影报名，还剩最后一天，明天晚上活动开始！ https://t.co/BCZMfhnGDf"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18679,
+      "friendsCount": 1808,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs5D5q5bQAAvwqp.jpg",
+      "https://pbs.twimg.com/media/Gs5D5rIbYAAOXLb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931555966702735626",
+    "fullText": "深圳地铁站看见的👀\nNFT时代的东西怎么还没退版本啊 https://t.co/oYBZdIFf8W"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18718,
+      "friendsCount": 1803,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs478YCakAEiUWG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931547218466763214",
+    "fullText": "奋斗百天，我要上清华大学！ https://t.co/vtBwDKIsfO"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
+      "description": "是谁，带你来看这场庙会？",
+      "followersCount": 18718,
+      "friendsCount": 1803,
+      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/1931540502496842058",
+    "fullText": "睡醒了，打算收拾一下去华强北逛逛，一直是久仰大名今天终于可以一探究竟"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31163,
+      "friendsCount": 593,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs4h0YFaEAACKga.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1931518500839014540",
+    "fullText": "在折腾摄影器材的时候突然对摄影博主们心生敬佩。摄影本身是一个文科/艺术学类专业，但其实又得有很强的理科生动手能力、思维和素质。我不是一个非常喜欢折腾螺母螺丝的理科生，每次弄那些设备的时候都会有些许崩溃，但真正玩摄影的却乐此不疲。他们是真正的创作和创新者。 https://t.co/Ur43hgwtLi"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 73322,
+      "friendsCount": 3404,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs4gHBBawAACCDE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1931516616258589180",
+    "fullText": "这书太有趣了：\n初读几页以为是写桥的书\n再读感觉是写土木工程的书\n读下去才知道，它写的是历史 https://t.co/2v3vlbwlVq"
+  },
+  {
+    "user": {
+      "screenName": "ufc",
+      "name": "UFC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_normal.jpg",
+      "description": "#UFC316 | Dvalishvili vs O'Malley 2 | June 7th | 10pmET on @ESPNPlus PPV",
+      "followersCount": 13012100,
+      "friendsCount": 679,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931485949956943872/vid/avc1/1080x1080/Dm8Ak5q6yDf3eW3S.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ufc/status/1931486081469251939",
+    "fullText": "Things are heating up in this third round 👀 #UFC316 https://t.co/dGiukr7xLF"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4168572,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/1931446297665695773",
+    "fullText": "We launched an update to Advanced Voice to make it way more natural and effortless to talk to.\n\nNow available to all paid users in ChatGPT."
+  },
+  {
+    "user": {
+      "screenName": "VarrockBank",
+      "name": "hype",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1928610879991324672/UObydm-5_normal.jpg",
+      "description": "i love twin primes, of which there are an infinite amount",
+      "followersCount": 4540,
+      "friendsCount": 3178,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VarrockBank/status/1931408564922310883",
+    "fullText": "2015: Husband works hard so wife can run a cute dog toy boutique that loses $15k/mo\n\n2025: Wife works hard so husband can run an AI b2b SaaS  that loses $30k/mo"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 145810,
+      "friendsCount": 1276,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1931400825479573840",
+    "fullText": "最近发生了很多新奇体验，以往我肯定会认真写点东西觉得自己又在 OR 这件事上做了点什么进展，但现在我突然不觉得关系必须是线性的，没有前也没有后，无所谓离开也无所谓在一起，「自在如一」真是种奇妙的心境！"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 145828,
+      "friendsCount": 1276,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/1931399638743216156",
+    "fullText": "@cellinlab 本人现在单身！"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
+      "description": "Programmer, Creator of @DataCollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
+      "followersCount": 5969,
+      "friendsCount": 1252,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs2ySa2bUAADntU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/1931398554695967010",
+    "fullText": "#DataCollie 日拱一卒\n初见雏形，慢慢开始进入深水区了。\n#buildinginpublic #indiedev https://t.co/5pZnjzUhcM"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "",
+      "followersCount": 150367,
+      "friendsCount": 476,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs2qpe8bMAAEUf_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/1931388923412090884",
+    "fullText": "突然想有没有随身 NAS，搜了一下没想到还真有……可惜市面上只有这一款。还是先用 PSSD 吧，文件共享，加上我高价买的随身 Wi-Fi 的高速内网应该能满足需求了。 https://t.co/PAxnTCRo3W"
+  },
+  {
+    "user": {
+      "screenName": "NASCAR",
+      "name": "NASCAR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929379236797673472/Gq1vUwfl_normal.jpg",
+      "description": "SUNDAY | 2 p.m. ET | @PrimeVideo",
+      "followersCount": 3660171,
+      "friendsCount": 351,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931374881578377216/vid/avc1/720x720/sKI5UBvEE2u_sFIZ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NASCAR/status/1931374930228052452",
+    "fullText": "The lap that earned the No. 19 the #BuschLightPole Award. 💨 https://t.co/WEe56EKrBk"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "Linux, Emacs开源社区从业二十余载，前Deepin CTO\n懒猫微服CEO，不端不装，仗剑走天涯\n客官喜欢，欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H\n开源万岁： 开发者私信我有大额优惠",
+      "followersCount": 29066,
+      "friendsCount": 126,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/1931366096931877063",
+    "fullText": "https://t.co/2fr2dYbueH"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10408,
+      "friendsCount": 3533,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1931361120801144966",
+    "fullText": "突然发现一个有趣的事情：\n玉伯的产品 @YouMind_AI \nLeon的产品 @YouWareAI \n都是 You 开头的😆"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 23032,
+      "friendsCount": 299,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs2PRi4aIAAKP9I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/1931357801991032987",
+    "fullText": "买了个四网口加 N335 的新设备，碰到个奇怪的操作系统 iStoreOS ，啥系统啊？有人用过么？ https://t.co/SR7dVj0gH3"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "熠辉 Indie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/15evEBMZUr) | 全职独立开发者 | NuxtBase作者 | B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 31158,
+      "friendsCount": 593,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs11NNUawAAiSSJ.jpg",
+      "https://pbs.twimg.com/media/Gs11NNWaAAADUkH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/1931328702010548699",
+    "fullText": "和狗子入驻新家吸甲醛啦！等工作室弄好来个 Room Tour，无敌 SO 景房😎\n\n本来这次想用日式搬家的，但掂量了下钱包还是没狠下心。但搬到新家后，面对几十个纸箱感受到力不从心，还是在 58 上预约了收纳师来整理，还挺便宜省心的。\n\n意外地发现了一种半价实现日式搬家的方法: https://t.co/SU8zrMeGso"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2025 https://t.co/pAkSJnpKXA \n我的 2024 https://t.co/HfDF6oduB7 \n我的 2023 https://t.co/QyV8PiZmOY\n..............",
+      "followersCount": 73337,
+      "friendsCount": 3402,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs1uk1ybYAA8Wba.jpg",
+      "https://pbs.twimg.com/media/Gs1uk1zasAAgMG8.jpg",
+      "https://pbs.twimg.com/media/Gs1uk1naoAEB2-N.jpg",
+      "https://pbs.twimg.com/media/Gs1uk2ibEAAKG6M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/1931321432048636012",
+    "fullText": "#今天的跑步电台。强烈推荐。 https://t.co/Azc7eSiWSL"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🧚‍♂️ INFP to ENFJ ｜ 🎯 AI & Crypto | 🏙️ 北漂 ｜💻 独立开发者 ｜🎙️《午睡到天亮》播客 ｜ 🤖 AGI 降临派 ｜🚧在做：🚀巢级智造 https://t.co/Jf3ZgaF6No、🤝 巢级个体 https://t.co/OxOuKFZsWS、🔥 小火炉播客 https://t.co/c1oYKYV0rS",
+      "followersCount": 10407,
+      "friendsCount": 3533,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs1fUqTaAAAi-tF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/1931304634502824332",
+    "fullText": "这玩意还用调查吗🦥 https://t.co/I9nWPRfaAO"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18394,
+      "friendsCount": 824,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1931288749734023425",
+    "fullText": "微信上有一些北京的投资人或者厂商，和人打招呼约见面时就总假设对方也在北京，完全是“北京本位”考虑问题，似乎人就应该生活在北京似的。\n\n完全不礼貌，"
+  },
+  {
+    "user": {
+      "screenName": "iHasCupquake",
+      "name": "Cupquake💜",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1333521005965307906/IxbshmUQ_normal.jpg",
+      "description": "Here to make your life a little brighter through gaming, art & creativity!  Support my small business 👇",
+      "followersCount": 706296,
+      "friendsCount": 966,
+      "location": "Los Angeles"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1930025702356819968/vid/avc1/1920x1080/9CHGSGzcnzInLzw1.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/iHasCupquake/status/1931201117528129545",
+    "fullText": "Unboxing a CURSED gift https://t.co/kmmDabpIuP"
+  },
+  {
+    "user": {
+      "screenName": "ApeChainHUB",
+      "name": "ApeChainHUB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904299746485063680/n75GDrRK_normal.jpg",
+      "description": "A home for the entire ApeChain ecosystem.",
+      "followersCount": 21757,
+      "friendsCount": 655,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsy8YUsWQAAPFPI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ApeChainHUB/status/1931125577425043548",
+    "fullText": "Access the Sole of ApeChain and flex your new banner 👟 https://t.co/SMz6SbnZB9"
+  },
+  {
+    "user": {
+      "screenName": "FBRorg",
+      "name": "Foundation for Biomedical Research",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1613543571168043009/gV0KUp9e_normal.jpg",
+      "description": "Most cures have happened as a direct result of biomedical research, saving human and animal lives.",
+      "followersCount": 3796,
+      "friendsCount": 1354,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FBRorg/status/1931066208276914260",
+    "fullText": "Got Diabetes?"
+  },
+  {
+    "user": {
+      "screenName": "TiVo",
+      "name": "TiVo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876399610291499008/ZZCbdIM8_normal.jpg",
+      "description": "Stream With TiVo!",
+      "followersCount": 23901,
+      "friendsCount": 1240,
+      "location": "Silicon Valley, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsx9923a4AA69bq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TiVo/status/1931056947119427877",
+    "fullText": "Only mood today - #JohnWick  marathon — because Ballerina drops today.\n\nWhich screen are you watching?\n#TiVoWeekend https://t.co/pPoREao8WT"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 124558,
+      "friendsCount": 1321,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1931036909448397037",
+    "fullText": "开个 Thread 来整理一些我使用 CluadeCode 的经验和心得，也欢迎留言分享。去年起我是 Cursor 的重度用户，最近一个月，我用 Cursor 越来越少了，开发方式也发生了变化，现在大部分时候都是：ClaudeCode 先做，做完了我去 IDE 去审查修改，所以不再需要 Cursor 的绝大部分功能，反而由于 Cursor"
+  },
+  {
+    "user": {
+      "screenName": "TheDahhliaLlama",
+      "name": "Nadia Bastos Facciolla",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909345443365982208/aq6Ij27Q_normal.jpg",
+      "description": "✨ Activist Poet | 🌿 \n\n Radfem🫆\nBlueCollar Trades\n@AmeriCorps\n🫦BBP🦠 BIG Beautiful @POTUS 🇬🇧   //🦾\n S1 Operator in NJ 💦//❣️\nShakespeare = MERCUTIO🤟🏻🤘🏻",
+      "followersCount": 270,
+      "friendsCount": 1337,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsw-cPEXsAE4ZxY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDahhliaLlama/status/1930986996979179529",
+    "fullText": "@SenBooker @MetLifeStadium @BergenCountySo @bcj @wclpd @Mahwah_Police @AndyKimNJ @Jack4NJ \n\nyour honor Court admissible evidence Christopher shoeface my pre-trial servicing disappeared and is trying to get me arrested. no one will let me switch pre-trial servicing monitors. who https://t.co/S9jKDtWSuk"
+  },
+  {
+    "user": {
+      "screenName": "TheLateBell",
+      "name": "TheLateBell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905180826255392768/UiS3wv1l_normal.jpg",
+      "description": "Hijacked flavors that I'm flippin' like birds.",
+      "followersCount": 1897,
+      "friendsCount": 1540,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsu5tnrXMAAR0ZV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheLateBell/status/1930883112570892296",
+    "fullText": "What a weird night to log in and read the news.  I've seen a lot of strange takes, so I figured I would offer a different take.\n\nMy Magnum Opus after spending my free time this year researching the phenomenon of X.\n\nX is a laser pointer. 🧵 https://t.co/G5OynS8FKb"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 18394,
+      "friendsCount": 824,
+      "location": "Mountain View, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsuVlk_bgAEfYd9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/1930801341879980529",
+    "fullText": "https://t.co/T9QbS0bb3a"
+  }
+]

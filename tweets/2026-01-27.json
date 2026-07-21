@@ -1,0 +1,2258 @@
+[
+  {
+    "user": {
+      "screenName": "kasmediadotcom",
+      "name": "KASmedia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1795119541145468928/-1dIY3pd_normal.jpg",
+      "description": "KASmedia publishes in-depth research and articles on Kaspa and its financial markets, including distributed systems theory, and Kaspa's philosophical history.",
+      "followersCount": 5775,
+      "friendsCount": 42,
+      "location": "Newport Beach, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_tA_ggbUAAkkbK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/kasmediadotcom/status/2016277403753185431",
+    "fullText": "Say hello to a new Kaspa Analytics chart: The On-Chain Capital Flow Rate (Realized Price 30-Day Change). This metric tracks the 30-day percentage change in Kaspa's Realized Price, serving as a proxy for the rate of on-chain capital inflows and outflows. We highly recommend this https://t.co/od4LVbrtEg"
+  },
+  {
+    "user": {
+      "screenName": "JessWu1995",
+      "name": "Jess Wu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009716905704148992/m-OWt_98_normal.jpg",
+      "description": "Founder @ Reml",
+      "followersCount": 2,
+      "friendsCount": 26,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JessWu1995/status/2016258488780169590",
+    "fullText": "I’ve started a monthly newsletter called The Reml Letter.\nI write from a dual vantage point: years in institutional investing, and now building AI products in Silicon Valley.\nEach month, I’ll explore how emerging technology actually shows up inside professional workflows — beyond"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155621,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016238142081401090",
+    "fullText": "把云端 sandbox 这个事情做完了，我开始有个新想法，为什么不在本地做个跨平台的 vm 专门运行 agents 呢？但是我仔细想了下，这不就是 agents os 吗只不过跑在现有的 os 基础上的虚拟层。"
+  },
+  {
+    "user": {
+      "screenName": "rubicondefi",
+      "name": "Rubicon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1993124408613842944/xqsJ96QL_normal.jpg",
+      "description": "Financial Revolution ⚔️🐸\nTrade, Farm, or Create thousands of onchain assets.\nEarn and Govern with $RUBI",
+      "followersCount": 170073,
+      "friendsCount": 49,
+      "location": "DeFi"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_sRFlRWAAAorXM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rubicondefi/status/2016224096644706632",
+    "fullText": "The best time to plant a tree was 20 years ago. The second best time is now https://t.co/J65X4thGDy"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173085,
+      "friendsCount": 1544,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016209062854041600/vid/avc1/1920x1080/BWioa1N7Dx4tlujY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2016223577112989873",
+    "fullText": "OpenAI 今天发布了 Prism，一个专为科学家设计的 AI 工作区。免费，对所有 ChatGPT 用户开放。\nhttps://t.co/ltBgx7lUGz\n\n简单说：这是一个内置 GPT-5.2 的云端 LaTeX 编辑器。OpenAI 收购了 LaTeX 平台 Crixet，然后把自家最强模型塞了进去。\n\n它能做什么？\n\n-"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155621,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_sObJ6XoAA4-4n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2016221244484661318",
+    "fullText": "嘿嘿实现了，在 cf 一键创建沙箱，不依赖任何需要安装的工具（tmux 等）实现流式输入和交互式终端，一键导入 Github 项目，指挥多个 cc 在不同的 sandbox 中工作不同的项目分支，然后创建 PR 合并。每个终端都有对应的 web/api 服务端点，支持 OAuth 方式配置 Claude Code 来使用自己的 pro/max 订阅！ https://t.co/qnq3OLPIdX"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4595369,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016207515973980160/vid/avc1/1920x1080/qSf3UTFEArw7oRSn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2016209462621831448",
+    "fullText": "Introducing Prism, a free workspace for scientists to write and collaborate on research, powered by GPT-5.2.\n\nAvailable today to anyone with a ChatGPT personal account: https://t.co/9mTLAbxPdH https://t.co/GJOIipU3hx"
+  },
+  {
+    "user": {
+      "screenName": "CastelloAi",
+      "name": "Castello",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000640226549506049/behEo7rk_normal.jpg",
+      "description": "Finance & Investing Made Simple.",
+      "followersCount": 630,
+      "friendsCount": 260,
+      "location": "San Francisco "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CastelloAi/status/2016193597541175363",
+    "fullText": "Boomers built wealth on cheap assets. Gen Z is told to build character 👍"
+  },
+  {
+    "user": {
+      "screenName": "marketwirenews",
+      "name": "Market Wire News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1806758575148011521/7uxqERRy_normal.jpg",
+      "description": "Real-time stock news & investor tools\nDaily #StockNews at https://t.co/i02lmIzgjP\nDisclaimer: https://t.co/5QRpJ201eB",
+      "followersCount": 60673,
+      "friendsCount": 0,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/marketwirenews/status/2016192158395457683",
+    "fullText": "Join us Live with Specificity (OTCID: $SPTY) Founder Jason Wood\n\nYou're invited to our exclusive X Spaces this Wednesday, January 28th!\n\nJoin us live as we unpack the past 18 months: Specificity has successfully overcome the BF Borgers audit fraud challenge, fully restored"
+  },
+  {
+    "user": {
+      "screenName": "FastCompany",
+      "name": "Fast Company",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1051826427837014017/v2TLU4mf_normal.jpg",
+      "description": "Inspiring readers to think beyond traditional boundaries & create the future of business. Subscribe to our daily newsletter: https://t.co/BpH3KmBae9",
+      "followersCount": 1992492,
+      "friendsCount": 3784,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016185986040868874/vid/avc1/1920x1080/BnrO0ERuroyDkiCO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FastCompany/status/2016191625714901415",
+    "fullText": "“This is a space that people want to be in. You can literally see how you’re making an impact.” At WEF26, Fast Company CEO and CCO Stephanie Mehta spoke with @SchneiderElec EVP Aamir Paul about recruiting talent to work on the modernization of energy infrastructure. https://t.co/lT6ef4SWIC"
+  },
+  {
+    "user": {
+      "screenName": "bryanclark",
+      "name": "Bryan Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837229097723817984/WUPPyvov_normal.jpg",
+      "description": "VP, Editorial @graphitegrowth Previous work stuff: @nytimes, @popsci, @thenextweb, @wired | Fueled by tacos 🌮 | Subscribe to my Substack (below)",
+      "followersCount": 6192,
+      "friendsCount": 96,
+      "location": "St Louis, MO"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bryanclark/status/2016189980301734187",
+    "fullText": "After a decade writing at places like NYT, Wired, WaPo, and others—and running the newsroom at The Next Web—I figured out what the best stories have in common:\nThey're not about things that are broken.\nThey're about things working exactly as designed—just not for you. 🧵"
+  },
+  {
+    "user": {
+      "screenName": "temple_ny",
+      "name": "Temple",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953945030143410176/mtixh3kv_normal.jpg",
+      "description": "A privacy focused technical stack to trade capital markets. Powered by @CantonNetwork",
+      "followersCount": 9923,
+      "friendsCount": 27,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ruKuXXAAAPxyj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/temple_ny/status/2016186381370798235",
+    "fullText": "Temple is now the top performing platform on @CantonNetwork.   Data provided by @KaikoData. https://t.co/tdykxb8BMf"
+  },
+  {
+    "user": {
+      "screenName": "bitstarz",
+      "name": "BitStarz.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1614958672970481666/nelVl3dk_normal.jpg",
+      "description": "🎰 The ultimate online casino for crypto lovers 💰\n🏆 Award winning #Bitcoin casino 🏅\n🎁 5 BTC welcome bonus + 180 free spins 🎁\n👇 Get involved today!",
+      "followersCount": 23010,
+      "friendsCount": 85,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bitstarz/status/2016184723102380510",
+    "fullText": "My biggest win is ______ X and I hit it playing _______\n\nFinish the sentence in replies, find out why tomorrow 😉\n\nHint: It's free spins."
+  },
+  {
+    "user": {
+      "screenName": "TheAroraReport",
+      "name": "Nigam Arora",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539346309936726018/4ir4pXyC_normal.jpg",
+      "description": "Unrivaled insights in bull and bear stock markets\nInvestment newsletter--FREE 30 day trials\nNigam's  writings are popular--over 100 million pageviews",
+      "followersCount": 108393,
+      "friendsCount": 390,
+      "location": "Click for FREE 30 day trials"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheAroraReport/status/2016184085329096717",
+    "fullText": "SIGNAL LIMITED: $MU in ZYX Buy\n\nLong from $21.77.\nTrading near $407 — a 1770% gain.\n\nWith several memory earnings ahead, this becomes a risk event.\nProbability favors upside, but downside risk rises.\n\nConsider partial profits on a very small quantity.\n\n$SNDK $STX $WDC"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9563,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2016180083560743154",
+    "fullText": "最近自己倒腾做了2个 Agent 产品，最终做出来感觉自己都不太会去用。\n在这过程中，也不亏，首先非常熟悉了 Agent 产品的研发流程和现在新的一些 AI 的 infra 设施，这个跟以前做 SaaS 的基础设施，和开发方式都有比较大的区别。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rmh6VakAAvL0T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016177272726945867",
+    "fullText": "今日好物：床上折叠椅\n\n终于可以半躺着打游戏玩手机了。翻转90度面朝屏幕，拿小手柄玩个游戏或者看个剧，再摆个床上桌，纯在享受 https://t.co/veqZxHRPbn"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22909,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rlRh1bYAAHA6M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016175926091129234",
+    "fullText": "习得一项技能最好的方法，依然是：\n\n亲手去做一遍，然后再讲出来\n\n说到烂大街的费曼式学习法，\n真实践起来没几个人能执行\n\n收藏夹吃灰的再多，不如自己写个 Demo https://t.co/vEwLcLFV3i"
+  },
+  {
+    "user": {
+      "screenName": "Teamsters",
+      "name": "Teamsters",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1535321370032234497/osKtsL6w_normal.jpg",
+      "description": "North America's strongest union.",
+      "followersCount": 132763,
+      "friendsCount": 9225,
+      "location": "Washington, D.C."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016170332323762176/vid/avc1/1080x1920/boqCUQ890LBLwrUF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Teamsters/status/2016171069464355035",
+    "fullText": "Martin Luther King Jr. was assassinated fighting for sanitation workers.\n\n3,000 Teamsters who make the multibillion-dollar waste giant Republic Services run are continuing MLK's crusade of respect and dignity for sanitation workers by fighting for new equitable contracts across https://t.co/hkG9cVvmxp"
+  },
+  {
+    "user": {
+      "screenName": "gizmothegizzer",
+      "name": "Anna | Perena",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004693356908060673/n2R4rZvi_normal.jpg",
+      "description": "Money is the language of human coordination. Stablecoins liberate money.",
+      "followersCount": 11159,
+      "friendsCount": 1967,
+      "location": "Stablecoin land"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gizmothegizzer/status/2016160029397967170",
+    "fullText": "I'm in a CEO gc and 80% of the questions are about bank failures!\n\nUnauthorized ACH pulls, wires that never arrive, random freezes, rejections due to \"risks.\"\n\nBanking is a MASSIVE pain point for business owners.\n\nWhen we got debanked last year, Perena stayed operational because"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173085,
+      "friendsCount": 1544,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2016153776713863599",
+    "fullText": "https://t.co/cdG2cMDmpg"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016149213751746770",
+    "fullText": "加密货币支付网络公司Mesh在创立5年后，获得了来自Coinbase venture等风投7500万美元的投资令其估值超过10亿美金\n\nMesh将像当年的Plaid一样帮助构建加密货币支付体系，把主流加密货币和消费者支付链接起来，并且将在全球拓展业务\n\n目前Mesh看到了每个月100亿美元的交易量 https://t.co/IuQCDJ7b0t"
+  },
+  {
+    "user": {
+      "screenName": "VarrdInc",
+      "name": "Varrd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009388575826079744/cu-DB75T_normal.jpg",
+      "description": "AI Powered Quant",
+      "followersCount": 185,
+      "friendsCount": 166,
+      "location": "Chicago"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rMD_TWQAANSuE.jpg",
+      "https://pbs.twimg.com/media/G_rMYcxXUAAGQhJ.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016147845603110912/vid/avc1/2772x1398/qtYAs7hPCDB8zdL-.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/VarrdInc/status/2016148583083290939",
+    "fullText": "Trade of the day that tests out $ZM\n\nholding 20 days with stops in video but the avg path forward is pretty incredibly 80 days out https://t.co/kbUorG75ZS"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rKPyqbAAUA-id.jpg",
+      "https://pbs.twimg.com/media/G_rKPyybAAEEMhU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016146161414086791",
+    "fullText": "【芯片战争】微软发布了自己的第二代芯片Maia200，将减少对英伟达芯片的依赖\n\nMaia200由台积电代工，会首先部署到微软在爱荷华的数据中心，接下来会部署到在凤凰城的数据中心\n\n但目前会不会大规模部署到微软的Azure云平台，还是个未知数\n\n巨头们在算力的争夺上肉眼可见激烈起来 https://t.co/CqOGTjlzC5"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rGyVeboAANTWW.jpg",
+      "https://pbs.twimg.com/media/G_rGyVba0AAn8vR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016142355334889944",
+    "fullText": "【交易的艺术】TACO\n看到一个有趣的数据，对特朗普关税政策相关行动的跟踪和分析\n\n真正被执行的关税目前只有20%\n\n绝大部分还在调查，并为实施，或部分实施，撤回中\n\n就他这报价策略特别适合中国人，每个人都有讨价还价的经历，就算现在自由农贸市场还常常还价呢😝 https://t.co/sWcbb8K9yF"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rGgKnbAAIqsa7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016142136278999055",
+    "fullText": "：海肠呢？\n：我叫海肠 https://t.co/vJz2dB9YpQ"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62481,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rE0kkbAAEtMB7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2016141170787877150",
+    "fullText": "写的差不多了，过几天发布，没有满意的微信支付 SDK，自己写一个并且之后给 TinyShip 用上，纯ESM + Typescript，轻量级依赖，支持 Native/APP/JSAPI/H5（商家转账还没写，之后再支持），支持最新的微信支付公钥模式，并且配备了三个 Demo：极简的 Hono 以及 Next 和 Nuxt https://t.co/UrqYqJ0lBN"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_rA4aba0AAw7JC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016135879530869014",
+    "fullText": "买了一只小猫咪🐱侍寝，可爱捏 https://t.co/Gs2ZvNYvmu"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64015,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2016132571068055607",
+    "fullText": "【技术的青春期】是Anthropic CEO达里奥·阿莫迪在2026年1月提出的一个概念，指代人工智能即将进入快速发展阶段，可能在2027年出现超越人类顶尖智慧的AI系统。"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2016102149063901540",
+    "fullText": "好哥们胖胖一个月前提了离职，按理说今天是提桶跑路大喜之日，他都到家了昨天又坐几小时动车跑回去上班\n\n我们问他为啥，他说厂里每周四才给办离职..."
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49695,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_qbYV4WMAASpwU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2016094637531005041",
+    "fullText": "我最爱吃的菜，你们喜欢吃不？ https://t.co/x6m6QuqrK8"
+  },
+  {
+    "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 21937,
+      "friendsCount": 1048,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016068016837165059/vid/avc1/1040x720/NdhsrjxinBXlpEcL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/lencx_/status/2016068371696296115",
+    "fullText": "给 Noi Terminal 实现了命令缩略图和命令输入编辑（光标任意定位插入，选中删除/编辑）。 https://t.co/6v8aio60xX"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22909,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_p8v_pacAA-pBs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016061270928367796",
+    "fullText": "最近在看 立党，发现一件事情，\n\n“全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人”\n\n这个第一人是真的吗，不一定，\n但是架不住他每天喊一遍，\n喊得时间久了，慢慢大家就刻在脑子里了！\n\n所以，喊出来！\n\nCELL 细胞 是 全球首个提出 「BIP 订阅制真人秀」 的！\n\n全球 「BIP https://t.co/eZZIzpOdng"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154929,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2016041909433860406",
+    "fullText": "完全没想到大家对手机上控制 Agent 这件事竟然有这么大的需求。我之前觉得这个需求太小众，自己把想法给毙了。"
+  },
+  {
+    "user": {
+      "screenName": "goblintown",
+      "name": "goblintown",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1547342101083525127/-25FryT4_normal.png",
+      "description": "ₐₐₐₐₐₐₐᵤᵤᵤᵤᵤGGGₕₕₕₕₕ\ngobblins goblinns GOBLINNNNNNNNns wekm ta goblintown!\nhttps://t.co/41dOjLFRm9",
+      "followersCount": 115635,
+      "friendsCount": 96,
+      "location": "dₒwₙ dₒwₙ ₜₒ gₒbₗᵢₙ ₜₒwₙ"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pkNBUXAAAG8EB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goblintown/status/2016034427655028857",
+    "fullText": "Nale aka chicken legs 4 times\n\nWho will win this handsome brute tomorrow? https://t.co/tAQ00cIK18"
+  },
+  {
+    "user": {
+      "screenName": "PeptidePartners",
+      "name": "Peptide Partners",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920150695426048000/RX-dtGF8_normal.jpg",
+      "description": "The #1 rated peptide vendor in overall quality by independent analysis \n\nIndepently tested. High purity. Great prices.\n\nhttps://t.co/azLWC8r4qm",
+      "followersCount": 1267,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pkRzxWoAAl4Qp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeptidePartners/status/2016034050499051983",
+    "fullText": "PT-141: A Serendipitous Discovery in Sexual Health\n\nNow up on the Stack\n\n[link below] https://t.co/dgyRElve7q"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49695,
+      "friendsCount": 289,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2016028554086252572",
+    "fullText": "写了20多年代码，内心还是非常喜欢写代码，创造东西特别有成就感\n\n但是这几年作为营销的负责人，每次写代码的时候都会有很大的内疚感，就觉得写代码会让团队变得更差。但是完全不动代码，我心里面也会很烦躁，觉得离创作产品越来越远了。\n\n自从有了 Claude Code"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 173085,
+      "friendsCount": 1544,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pMcDXWUAASFcr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2016008560660934704",
+    "fullText": "Derek Mobley 是一位年过40的非裔工程师，患有焦虑和抑郁症。过去几年里，他通过 Workday 平台（在美国找过工作的都知道这家）申请了100多个岗位，无一例外被拒。更离谱的是，很多拒信是凌晨1:50发来的，距他提交申请不到一小时。\n\n这个点没有HR工作，只能是AI。Mobley 怒而起诉，指控 Workday 的 AI https://t.co/TUafNK4oAE"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22909,
+      "friendsCount": 4941,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2016008357010677874",
+    "fullText": "自媒体做久了，你就会发现：\n\n并不是 说的对的人 粉丝多，\n而是话多、说的久的人，\n沉淀了熟人感，变成了影响力。"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154941,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2016000040066809894",
+    "fullText": "我一直坚信，自由不需要很多钱，够用就行，赚钱不应该是生活的唯一目标，这在很长时间内都是我的人生信条。直到我准备考虑“孩子”这件事，这个议题真的带给我非常大的压力。不考虑孩子，人生是一片坦途，可以肆意探索。但一想到孩子，仿佛就被从天空拉到了地上。为什么一想到孩子就会想全力赚钱。"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76779,
+      "friendsCount": 3522,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_pDGKebAAAZM1i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2015997575434801609",
+    "fullText": "过去一年的变化太大了。从我这个念念不忘的 issue 说起。\nhttps://t.co/Yf01s2IdVZ https://t.co/9cfIlRrXkX"
+  },
+  {
+    "user": {
+      "screenName": "Trae_ai",
+      "name": "TRAE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013522107359956992/6yBirAhL_normal.jpg",
+      "description": "The Real AI Engineer. | https://t.co/kapduuvVDO",
+      "followersCount": 32033,
+      "friendsCount": 30,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015992045899304960/vid/avc1/1678x1080/nSpLpNY8qYm605Q5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Trae_ai/status/2015992317065495030",
+    "fullText": "TRAE Skills is now available in all agents and models.\n\nSkills make the coding routine easier by automating repeated workflows on demand.\n\nNew features: Enable/Disable Skills, Global/Project Skills, and more. https://t.co/0FdXoE6UTV"
+  },
+  {
+    "user": {
+      "screenName": "rtedwardchen",
+      "name": "Edward Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1623998815832244227/XmMTCyeV_normal.jpg",
+      "description": "Building AI Infrastructure & Autonomous Trading Agents on DeFi | 智能体",
+      "followersCount": 96,
+      "friendsCount": 248,
+      "location": "Irvine, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015991896019963904/vid/avc1/3840x2160/Y6e2IHcspqFEVn-A.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/rtedwardchen/status/2015992148559065240",
+    "fullText": "🤖: I started to perform quant research, interpret the strategies I built, and make improvements based on my knowledge! https://t.co/PTYEKa2QkF"
+  },
+  {
+    "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947763656701448192/Wli8elHE_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 933837,
+      "friendsCount": 38087,
+      "location": "ALL TWEETS are just my opinion"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_oy4sCasAAD1lH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/donwinslow/status/2015980040371212454",
+    "fullText": "To my friends on X,\n\nWe've been in the fight together since 2015. We have watched the tactics of the most corrupt administration in history. Now some of their followers are threatening me and trying to silence me.\n\nI'm asking for your support. Please order The Final Score. https://t.co/e6foRrseXo"
+  },
+  {
+    "user": {
+      "screenName": "numbcomf",
+      "name": "D'Aaron",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856329865651249152/cVa8DCHi_normal.jpg",
+      "description": "🚫DM means BLOCK. USN Vet (20+ years active duty in Submarine Force). \"Malo periculosam, libertatem quam quietam servitutem.\" Live Free or Die!",
+      "followersCount": 2617,
+      "friendsCount": 4920,
+      "location": "NORTH CAROLINA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/numbcomf/status/2015974264030085241",
+    "fullText": "POTUS being very Presidential today, offering 4 pillars to MN to abide by. All very reasonable proposals and gives MN an out to comply. If they don't, POTUS can say he tried to calm things down and MN refused, next comes the insurrection act. Mainstream media thinks POTUS backed"
+  },
+  {
+    "user": {
+      "screenName": "thewernickfiles",
+      "name": "The Wernick Files",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1997901631082614784/7TM-S3OP_normal.jpg",
+      "description": "Unfiltered. Uncompromising. Unexpected.",
+      "followersCount": 396,
+      "friendsCount": 14,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thewernickfiles/status/2015972979419541780",
+    "fullText": "Property, Not Privacy: A Data Manifesto\n\nI. The Principle\nAny society that claims to respect the individual must begin with the sovereign individual.\nThe first property right is not land. It is not money. It is not a home or a business.\nIt is yourself.\nIf you lose ownership of"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18483,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_oqkb1bAAcpe2c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2015972380083159052",
+    "fullText": "之前应该是 @imwsl90 推荐的机场「风之谷」，买了一年体验不错，打算到期再续一年\n\n线路并不是都稳，能用的有三四条，好用的两条左右，日常设备上网是足够用的，体验可以有70-80分\n\n反倒是 Dler，没用过这么贵的机场，三四百块钱买了一年，结果用一两个月开始卡，卡到怀疑人生，直接吃灰了 https://t.co/ppaUX2NFnv"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9567,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2015972101044502770",
+    "fullText": "为啥现在都追求一个东西要用，好玩不就好了，just for fun。十分好玩之后自然会产生商业价值"
+  },
+  {
+    "user": {
+      "screenName": "Giveawaydotgame",
+      "name": "Giveaway.Games",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013652623660847150/zcaUjyrT_normal.jpg",
+      "description": "Games games and more games for real gamers! Discover and win some of the best games in the world for just being a part of our community!",
+      "followersCount": 7081,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_oolELaYAAvnAi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Giveawaydotgame/status/2015968559747473616",
+    "fullText": "Another big one! To win your own copy of Arc Raiders:   \n\n- Follow us \n- Leave a dot in comments \n- RT  \n\nWe will pick a winner next Tuesday! https://t.co/4S9xSBed0c"
+  },
+  {
+    "user": {
+      "screenName": "DrKPsychologist",
+      "name": "Dr. Jelena Kecmanovic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1751674590697263104/ygQLvofP_normal.png",
+      "description": "Psychologist | Georgetown prof| Lover of science, ancient wisdom, existentialism, and hiking. | Bylines @washingtonpost, @CNN & many others.",
+      "followersCount": 1895,
+      "friendsCount": 448,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ooWbwXwAA8BEN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DrKPsychologist/status/2015968379627069833",
+    "fullText": "If you're interested in my writing, please check my FREE Substack. Link below 👇 https://t.co/2AgwYajxix"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9567,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2015965358495301664",
+    "fullText": "AI 时代变化太快了，特别是如果经常刷推，可能每天都有新的东西，从白天研究到晚上，发现还没研究明白，第二天新的又来了。\n难的事可能从获取新信息变成了如何静下心来做好自己想做的事情。"
+  },
+  {
+    "user": {
+      "screenName": "LeoFrankPapers",
+      "name": "Leo Frank Papers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1436486480193630208/w6w2EyuG_normal.png",
+      "description": "Research on the trial of Leo Frank for the murder of 13-year-old Mary Phagan in 1913. Learn why the case is still important today. https://t.co/WpvO1qxzSt",
+      "followersCount": 324,
+      "friendsCount": 39,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015546476676435968/vid/avc1/1440x1080/9ky2FnolL1ACt5WF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LeoFrankPapers/status/2015964474516046173",
+    "fullText": "Learn about the Trial of the 20th Century straight from the source - the Brief of Evidence. D H PICKETT, Sworn In For The State, 167th To Testify https://t.co/gkLoCrs61a"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41619,
+      "friendsCount": 758,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ohkILbAAEIGlt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2015960953133924475",
+    "fullText": "🥳本期ShipAny2的重磅课程已发布，我们会带着大家开发一个 AI漫剧创作平台的MVP。这是一期非常综合的课程，即使你不购买ShipAny2，也能从课程会学到很多东西：\n\n1. 项目非常的综合：有调用OpenRouter的Gemini3-flash的文本生成，有调用Nano Banan Pro的视频生成，有调用Sora2 Pro的视频生成 https://t.co/VRCmxaAAqu"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22886,
+      "friendsCount": 4940,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2015953150163681496",
+    "fullText": "AI 时代需培养「独立决策」「好奇心」「跨学科能力」，而非机械记忆。"
+  },
+  {
+    "user": {
+      "screenName": "eyeballsocial",
+      "name": "Eyeball",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831195143845588992/I_B6UCWE_normal.jpg",
+      "description": "Finance-focused social media platform built for the next generation of investors.  Available on Android, iOS, Web  👇🏼",
+      "followersCount": 4642,
+      "friendsCount": 68,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2015942298069086210/pu/vid/avc1/718x1278/NRct9kLS--t6b6Ed.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/eyeballsocial/status/2015942369703580147",
+    "fullText": "Daily market roundup in 1 minute. Follow @eyeballsocial to not miss a beat. https://t.co/wpsgdrl7bZ"
+  },
+  {
+    "user": {
+      "screenName": "samaydhawan1994",
+      "name": "Samay",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904753704949211138/LkOEhaTV_normal.jpg",
+      "description": "Don’t just do something, stand there!\n\nInvesting in Applied AI, Infra & DevTools. Based in SF. Views my own.",
+      "followersCount": 65,
+      "friendsCount": 770,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/samaydhawan1994/status/2015939695239446777",
+    "fullText": "Claude Code is one of the best tools I've ever used. But every time a new tool becomes a daily driver, you discover weird edges that breed frustration.\n\nHere's the one that's been driving me crazy: giving longform writing feedback through prompts is fundamentally broken.\n\nI write"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64022,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_n806RbAAIPV8z.jpg",
+      "https://pbs.twimg.com/media/G_n806TaAAAOsQS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2015920301197164722",
+    "fullText": "【日本经济金融】摩根斯坦利将进一步加强和三菱金融集团的合作：通过合资的经纪商 ， 两家巨头希望加强财富管理、证券交易和投资银行业务方面的合作，此外，他们还讨论在证券业务之外的更多生意，比如房地产资管/投资\n\n右图是他们和野村在经纪业务净收入上的对比，野村优势在扩大 https://t.co/qNx5FbArbJ"
+  },
+  {
+    "user": {
+      "screenName": "TopHatStudiosEN",
+      "name": "Top Hat Studios, Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/968231327840571394/kl1dbuX4_normal.jpg",
+      "description": "Your favorite publisher and curator of Japanese-inspired and retro delicacies. We port, publish, develop, and distribute to all major platforms. 🎩🎮",
+      "followersCount": 21108,
+      "friendsCount": 1159,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015890263479058432/vid/avc1/1920x1080/rf58dg5JBAENZwS5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TopHatStudiosEN/status/2015899805755547690",
+    "fullText": "Discover the mystery of what's UNDER THE ISLAND! Delve into action packed dungeons, discover hidden treasures, and adventure across a world of fantastic biomes and discovery. https://t.co/LmalodCBIE"
+  },
+  {
+    "user": {
+      "screenName": "BreakoutApp",
+      "name": "Breakout",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983992359961710592/K1c53w6m_normal.jpg",
+      "description": "Are you long or short CT?",
+      "followersCount": 1079,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015897375978749956/vid/avc1/720x720/t77xqBUDHVwTV_-T.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BreakoutApp/status/2015897862769639631",
+    "fullText": "Introducing Breakout: trade attention on @base\n\nAvailable on to non-US users. https://t.co/LqxIFAYrQ3"
+  },
+  {
+    "user": {
+      "screenName": "EltonBooks",
+      "name": "Donald Elton Books",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878143717728518144/DxvVcWys_normal.jpg",
+      "description": "Books by Donald Elton though sometimes I’ll post about other books I like.",
+      "followersCount": 290,
+      "friendsCount": 1541,
+      "location": "Kissimmee, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_nnDReWcAA2I6G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EltonBooks/status/2015896373334352274",
+    "fullText": "When disasters happen, it’s rarely because no one knew something was wrong.\n\nIt’s because the people who knew couldn’t speak clearly — or weren’t heard.\n\nSpeak Up! examines real, documented failures in aviation, medicine, aerospace, and corporate leadership to show how hierarchy https://t.co/A9DuEUvWB6"
+  },
+  {
+    "user": {
+      "screenName": "MarketBeatCom",
+      "name": "MarketBeat",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998463714631004160/j7Is4Y7__normal.png",
+      "description": "Actionable market news for everyday investors, paired with commentary and the sarcasm needed to survive volatility. 🎢🤪",
+      "followersCount": 18765,
+      "friendsCount": 2447,
+      "location": "Sioux Falls, SD"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MarketBeatCom/status/2015896246741762131",
+    "fullText": "Found the “quiet winners” of the chip buildout. Spoiler: they’re not designing chips, they’re selling the machines. $ASML $AMAT $LRCX \n\nBreakdown below 👇:"
+  },
+  {
+    "user": {
+      "screenName": "FCA_World",
+      "name": "FC Augsburg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1757230670022090752/z9Rm6OqZ_normal.jpg",
+      "description": "Welcome to the official FC Augsburg Twitter page in English! #FCA // Deutsch: @FCAugsburg",
+      "followersCount": 45741,
+      "friendsCount": 394,
+      "location": "Augsburg, Bayern"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015891821834977280/vid/avc1/1080x1920/4QLjsb0vJecavqdv.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/FCA_World/status/2015894078810968071",
+    "fullText": "Watch it once. Watch it twice. Watch it forever 🤩\n\nRelive the goals that silenced the Allianz Arena! https://t.co/Qy0gtahMb8"
+  },
+  {
+    "user": {
+      "screenName": "AlastromLive",
+      "name": "AlastromLive",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923906666224816128/VwNA-VA2_normal.jpg",
+      "description": "Leader of the ODYN Gaming Network. Check us out at https://t.co/LhJrIkrjTG",
+      "followersCount": 411,
+      "friendsCount": 287,
+      "location": "Somewhere high above the sky."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AlastromLive/status/2015893203787129320",
+    "fullText": "I want an MMO with Chivalry/Mordhau combat. Sea of Thieves sailing, Star Wars Galaxies economy and Kingdom Come Deliverance crafting. I'd like it to have the scope of Star Citizen and server based communities where you know the names of the people you play with.\n\nI'd bring back"
+  },
+  {
+    "user": {
+      "screenName": "brentadubya",
+      "name": "Brent Austin Watson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1520706458643578881/QW-fL-Dw_normal.jpg",
+      "description": "Living my life and dreaming big! Author/CEO, Ole Miss alum making it happen as a quad.\nTell me I can't and WATCH!\nhttps://t.co/APYaXBgx5o",
+      "followersCount": 605,
+      "friendsCount": 793,
+      "location": "Pell City, Alabama"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/brentadubya/status/2015890509781168259",
+    "fullText": "@PatMcAfeeShow @PeteThamel Decide to change things and make Ole Miss take the fall for where the powers that be screwed up. Sounds like 1994 and 2017 all over again."
+  },
+  {
+    "user": {
+      "screenName": "gmi_cloud",
+      "name": "GMI Cloud",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2011560548983599104/frGhwaDS_normal.jpg",
+      "description": "The playground for AI builders and creators: NVIDIA-backed GPUs, models, and media under one roof. Join https://t.co/0lGtMM9H8y",
+      "followersCount": 1502,
+      "friendsCount": 329,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015882688251711489/vid/avc1/1280x720/LVP9KjzfAnj9D0OO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/gmi_cloud/status/2015886758844760272",
+    "fullText": "Made with GMI Studio. \n\n@lloydcreates @altphotos_pl @0xbisc @egeberkina @churvikv @Ankit_patel211 @zyvaoz @ImperfectEngel @iX00AI @HAL2400AI https://t.co/oWoWbTwvyd"
+  },
+  {
+    "user": {
+      "screenName": "TheAroraReport",
+      "name": "Nigam Arora",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539346309936726018/4ir4pXyC_normal.jpg",
+      "description": "Unrivaled insights in bull and bear stock markets\nInvestment newsletter--FREE 30 day trials\nNigam's  writings are popular--over 100 million pageviews",
+      "followersCount": 108384,
+      "friendsCount": 390,
+      "location": "Click for FREE 30 day trials"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheAroraReport/status/2015879321659822565",
+    "fullText": "Silver $SLV didn’t move on hype alone.\n\nThe Arora Report members entered at $13.96.\nPartial profits were signaled at $114.\n\nOur adaptive models show the move is mostly a short squeeze — filtered through rates, currencies, sentiment, and smart money behavior."
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3522,
+      "friendsCount": 1009,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015863881764073473/vid/avc1/1920x1080/r-X62CtXMXedqJho.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2015877406284816473",
+    "fullText": "The AI story doesn’t end with the model. It starts when the system has to run—day after day, inside real operations.\n\nScott Tease of @Lenovodc  explains why inferencing, not frontier models, is where enterprise AI earns trust, drives efficiency, and becomes durable. https://t.co/wuc5pVPdNS"
+  },
+  {
+    "user": {
+      "screenName": "wallstreetbets",
+      "name": "wallstreetbets",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014881157167345664/NEmNTwOr_normal.jpg",
+      "description": "Jaime Rogozinski\nDisruptor, Author, Innovator, founder of WallStreetBets",
+      "followersCount": 930596,
+      "friendsCount": 2757,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_nQzRqWAAA0ljy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wallstreetbets/status/2015871937726328948",
+    "fullText": "Hey @elonmusk, according to the ruling, it's the provision of services which counts as \"first use in commerce\"\n\nAnd @Reddit is now enforcing the trademark (outside of cyberspace), blocking the Miami Conference.\n\nHow will you respond to barrage of incoming C&amp;D's headed your way? https://t.co/uP9u3iMued"
+  },
+  {
+    "user": {
+      "screenName": "worldofdypians",
+      "name": "World of Dypians",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2007169149294747648/mjs7ftyZ_normal.png",
+      "description": "Shaping the future of AI-Powered Gaming. $WOD is part of the @BNBCHAIN $100M Incentive Program. 👉 Download now on @EpicGames.",
+      "followersCount": 340017,
+      "friendsCount": 500,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015864555532906498/vid/avc1/3840x2160/GIcEWFdXXM6iyC4q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/worldofdypians/status/2015866916871549265",
+    "fullText": "🔥 This is how Web3 games should feel.\n\nSmooth gameplay. Real progression. A world worth exploring.\n\nBuilt different. Powered by $WOD. https://t.co/NKZVi8l7Tj"
+  },
+  {
+    "user": {
+      "screenName": "TheBirbNest",
+      "name": "THE ₿IRB NEST",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959880162301956096/uJchr4g0_normal.jpg",
+      "description": "A community with trading education and courses, fundamental analysis, live trading, airdrop strategies and trading psychology 📚",
+      "followersCount": 94963,
+      "friendsCount": 149,
+      "location": "Reliable trading community →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015863101527085057/vid/avc1/1920x1080/7oltU8WK9iAwA89Y.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheBirbNest/status/2015863466762936575",
+    "fullText": "Binance is no longer just an exchange, as it increasingly functions as the infrastructure layer that large parts of the crypto market operate on every day.\n\nIn 2025 alone, $34T moved through Binance across spot, futures, and on chain products, while total all time trading volume https://t.co/52bxr7Eglf"
+  },
+  {
+    "user": {
+      "screenName": "UberEats",
+      "name": "Uber Eats",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2008204211289280512/iWdfZIfT_normal.jpg",
+      "description": "Get almost almost anything 🛍️",
+      "followersCount": 421992,
+      "friendsCount": 70,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015861037979824128/vid/avc1/720x1280/QlUc2U7AW_EAP4SA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/UberEats/status/2015861233165955539",
+    "fullText": "If you’re hosting friends or feeding the whole crew, this is the easiest way to bring @TerryBlacks_BBQ to you!🍖 https://t.co/GfzDhSAXOe"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3520,
+      "friendsCount": 1009,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015849248189739009/vid/avc1/1920x1080/eYNf36KcfZ7N1ju8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/2015854751674728706",
+    "fullText": "Big models don’t decide AI scale.\nReal-world constraints do.\n\nFlynn Maloy of @Lenovodc explains why memory, latency, security, and energy realities are reshaping where AI can actually run, and why edge inferencing is quickly becoming the difference between pilots and production. https://t.co/S6G4CzgR5d"
+  },
+  {
+    "user": {
+      "screenName": "Flutterbye_io",
+      "name": "Flutterbye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006133309647048704/U0N-qMDP_normal.jpg",
+      "description": "Building the on-chain wallet-to-wallet communication layer for Solana.\nProtocol infrastructure, not a messaging app.",
+      "followersCount": 586,
+      "friendsCount": 491,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Flutterbye_io/status/2015853965129265173",
+    "fullText": "Most crypto marketing guesses who to reach.\n\nFlutterbye lets you message specific wallets based on real on-chain behavior.\n\nNot followers.\nNot emails.\nNot demographics.\nActual wallets that already do what you care about.\nIf you could message only the right wallets, would you?\n\n👉"
+  },
+  {
+    "user": {
+      "screenName": "get_Ethos",
+      "name": "Ethos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895552790665314304/SAhXBchP_normal.jpg",
+      "description": "Ethos is changing the way people buy life insurance. We've simplified the process so you can get covered online instantly. \n\nLicenses: https://t.co/fuKtojjyQr",
+      "followersCount": 4989,
+      "friendsCount": 140,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/get_Ethos/status/2015851085764952067",
+    "fullText": "Don’t be the dad without life insurance.\n\nGet same-day coverage with Ethos life insurance."
+  },
+  {
+    "user": {
+      "screenName": "charliepgarcia",
+      "name": "Charlie Garcia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1867075866984960000/uKK6Cx7o_normal.jpg",
+      "description": "Decorated veteran. Served six Presidents—both parties. Serial entrepreneur. Bestselling author. Run a Bitcoin node. Founded R360 as a Force for Good.",
+      "followersCount": 12959,
+      "friendsCount": 1183,
+      "location": "Daytona Beach, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/charliepgarcia/status/2015850180734574738",
+    "fullText": "$23. I told R360.\n$33. I told MarketWatch.\n$49. I told Substack.\n$71. I told you again.\nSilver hit $117 today. What's next? 👇"
+  },
+  {
+    "user": {
+      "screenName": "solanagaming",
+      "name": "Solana Gaming",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014708355005120512/Djc6zFAe_normal.jpg",
+      "description": "Official Gaming Account for @Solana 🕹️\n\nRedefine how gamers play with speed, scalability, and digital ownership.",
+      "followersCount": 128163,
+      "friendsCount": 3195,
+      "location": "Solana"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015847541993308161/vid/avc1/3840x2160/KsYRDd97YMOS_jXE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/solanagaming/status/2015848076074987684",
+    "fullText": "Distribution is king! \n\n@Octo8gaming is betting on web2 user acquisition combined with big @solana IPs collaborations \n\nIs this the game-changing strategy on web3 for capturing users? https://t.co/MElRKUGocD"
+  },
+  {
+    "user": {
+      "screenName": "DIFA_USA",
+      "name": "Digital Innovation for America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896665195121967104/w2F8cQbm_normal.jpg",
+      "description": "DIFA is the voice for every American who seeks to harness the promise of blockchain & digital assets for a more empowered future 🇺🇸",
+      "followersCount": 20069,
+      "friendsCount": 111,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DIFA_USA/status/2015844479425814954",
+    "fullText": "Without clear crypto rules, American consumers are left exposed.\n\nTell your Senator to pass market structure and put people first!"
+  },
+  {
+    "user": {
+      "screenName": "DIFA_USA",
+      "name": "Digital Innovation for America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896665195121967104/w2F8cQbm_normal.jpg",
+      "description": "DIFA is the voice for every American who seeks to harness the promise of blockchain & digital assets for a more empowered future 🇺🇸",
+      "followersCount": 20069,
+      "friendsCount": 111,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DIFA_USA/status/2015844479337734232",
+    "fullText": "Crypto needs clear rules so markets work for everyday Americans.\n\nTell your Senator to pass market structure now."
+  },
+  {
+    "user": {
+      "screenName": "theclapperapp",
+      "name": "Clapper",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014037604346281984/1KVmD6AC_normal.jpg",
+      "description": "Be Heard, Be Seen, Be Valued 👏🏻",
+      "followersCount": 8328,
+      "friendsCount": 1490,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_m2EdFW4AAsvSK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/theclapperapp/status/2015843401912991751",
+    "fullText": "With TikTok’s sudden changes, creators are exploring new platforms.\n\nClapper is seeing a surge of growth as more creators join our community for vertical video, Livestreams, Group chats, Shops, creator monetization, and more.\n\nWe’re building an all-in-one platform with all your https://t.co/A7VADziv8T"
+  },
+  {
+    "user": {
+      "screenName": "CelsiusOfficial",
+      "name": "CELSIUS Energy Drink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2008251272944603138/6GJuZKIu_normal.jpg",
+      "description": "Zero Sugar. Essential Energy. ⚡️ LIVE. FIT. GO.",
+      "followersCount": 44203,
+      "friendsCount": 174,
+      "location": "Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CelsiusOfficial/status/2015831599036916052",
+    "fullText": "Refreshing &amp; flavorful without all the bubbles!"
+  },
+  {
+    "user": {
+      "screenName": "real_alethia",
+      "name": "ALETHIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1992858690030813184/EiOYeYFc_normal.jpg",
+      "description": "Building persistent AI systems that operate autonomously and engage naturally. We help orgs deploy/scale adaptive, interactive AI products.\n\nVisit: https://t.co/GCdEzebSQy",
+      "followersCount": 74777,
+      "friendsCount": 2549,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/G_mp-WTWMA4F8J7.mp4"
+    ],
+    "tweetUrl": "https://x.com/real_alethia/status/2015829631153139742",
+    "fullText": "At ALETHIA AI, we started by building infrastructure.\n\nOur early pipelines focused on intelligence layers, asset interoperability, and persistence across systems. Over time, those pipelines matured, gaining the ability to support continuity, responsiveness, and long-term https://t.co/hRmGH2iH5r"
+  },
+  {
+    "user": {
+      "screenName": "robynnaiapp",
+      "name": "Robynn AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1717314975147130880/Ks4BjmMV_normal.jpg",
+      "description": "",
+      "followersCount": 12,
+      "friendsCount": 6,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015813460475650049/vid/avc1/3840x2160/GfPUJxD57lzAnXKm.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/robynnaiapp/status/2015827912176644607",
+    "fullText": "The wait is over. Meet Rory.\n\nNot a copywriter. Not just a chatbot.\n\nThe world’s first CMO Agent designed to hold your strategy, not just generate text.\n\nBuild your brand book and say hello to Rory (link in the first comment) https://t.co/AnCvCDLWjI"
+  },
+  {
+    "user": {
+      "screenName": "InfiniteXYZ",
+      "name": "Infinite Capital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820528579559464961/HnMRS8UV_normal.jpg",
+      "description": "Infinite invests in the founders leading generational shifts in deep tech and decentralization",
+      "followersCount": 573,
+      "friendsCount": 77,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_mlVy5WsAAIsHr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/InfiniteXYZ/status/2015824105212199247",
+    "fullText": "We're are excited to be a partner sponsor of @DeepTechNY, a new initiative from @alley_corp bringing together 300 of the world's top founders, researchers, innovators, and investors.\n\nThree of Infinite's portfolio founders will be key event speakers, @josephfkrause, @GillVerd, https://t.co/0HdEjIx3lL"
+  },
+  {
+    "user": {
+      "screenName": "LucasAFerrara",
+      "name": "Lucas A. Ferrara",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/910980790162423809/3AvhHe2Q_normal.jpg",
+      "description": "Founding partner of Newman Ferrara, Lucas has been a Super Lawyer® every year since 2007, repeatedly achieving \"Top 100\" recognition",
+      "followersCount": 3073,
+      "friendsCount": 274,
+      "location": "New York, New York"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015822793435140096/vid/avc1/1080x1080/vaUaY_-0-XbfS0o8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LucasAFerrara/status/2015822931935244333",
+    "fullText": "Longing. Cars. Life choices.\n\nReady for some soul‑searching and car‑dealer combat?\n\nBlair Glaser and Zach Shefska join:\n\nSHAKE IT OFF WITH MERT &amp; LUCAS, LIVE!\n\nSun, Feb. 1 | 7–9 PM EST | AM970 Radio | Streaming everywhere\n\n@mycaredge @shefska @am970TheAnswer @BlairGlaser https://t.co/RUre1PRlNJ"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41605,
+      "friendsCount": 758,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_mWZVzWoAEogul.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2015808141825548346",
+    "fullText": "Typeless的定价还是有点离谱，想着语音输入法一个月30美金真的太贵了。\n\n但是让我充值年度吧，AI变化太快，谁家充值年度会员啊 https://t.co/L4wAPlXX3y"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41605,
+      "friendsCount": 758,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_mSaHdWEAExxYu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2015803962121933070",
+    "fullText": "哈哈，上线AI漫剧应用教程。所有群都嗨了，说不睡了，开始上课！ 课程直达地址： https://t.co/J438tSnXek https://t.co/4wz7piiZiE"
+  },
+  {
+    "user": {
+      "screenName": "resend",
+      "name": "Resend",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1990958219913818112/SmTEj-uJ_normal.jpg",
+      "description": "Email for developers.",
+      "followersCount": 27291,
+      "friendsCount": 22,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015802919837433856/vid/avc1/1294x720/rToj16hy0UrPVoAG.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/resend/status/2015803010040131924",
+    "fullText": "Today, we're open-sourcing the Webhooks Ingester, a self-hosted solution to store all your Resend data.\n\nYour data, your database. https://t.co/uHtInZHNcy"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18487,
+      "friendsCount": 1742,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2015795068372914237",
+    "fullText": "买了个空气净化器，自提，约好了22:30来拿，我提前就到了，一问对方说还要十几分钟才来🙄没有时间观念的人真讨厌"
+  },
+  {
+    "user": {
+      "screenName": "MarketBeatCom",
+      "name": "MarketBeat",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998463714631004160/j7Is4Y7__normal.png",
+      "description": "Actionable market news for everyday investors, paired with commentary and the sarcasm needed to survive volatility. 🎢🤪",
+      "followersCount": 18765,
+      "friendsCount": 2447,
+      "location": "Sioux Falls, SD"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015794168493195264/vid/avc1/2160x3840/zUBzVw6MjGj7GHp6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MarketBeatCom/status/2015794343580209256",
+    "fullText": "This $20 Robotics Stock Could Be Huge 👀 https://t.co/JJ5Ud1YKxw"
+  },
+  {
+    "user": {
+      "screenName": "ax1vc",
+      "name": "AX1",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1663668218366513152/yFCwPZa4_normal.jpg",
+      "description": "🟦 startup ecosystem on @base",
+      "followersCount": 14338,
+      "friendsCount": 85,
+      "location": "grants: 2/100 out (2026)"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ax1vc/status/2015791400520909014",
+    "fullText": "Be your own asset manager\nhow DeFi evolving on Base\n\nAMA X Space - Jan 29, 4 PM GMT\nGuests:\n- Brian (@glider_fi, backed by a16z + Coinbase Ventures)\n- Nick (@clashofcoins, Base Batches 002, held a Base App feature for a month)\n\n“TradFi is smooth UX and zero self-custody. Crypto"
+  },
+  {
+    "user": {
+      "screenName": "RedChip",
+      "name": "RedChip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
+      "description": "The World Leader in Small-Cap Investor Relations.\nRead our Disclosures: https://t.co/A2Fge25eX2",
+      "followersCount": 6182,
+      "friendsCount": 3679,
+      "location": "Orlando, Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RedChip/status/2015789441021853832",
+    "fullText": "🌍 Enlivex Therapeutics $ENLV: RAIN Treasury Token Begins Trading on WhiteBIT\n\nEnlivex announced that its primary digital treasury asset, $RAIN, is now listed and trading on the WhiteBIT exchange (effective Jan. 21, 2026). The listing expands market access and secondary liquidity"
+  },
+  {
+    "user": {
+      "screenName": "RedChip",
+      "name": "RedChip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
+      "description": "The World Leader in Small-Cap Investor Relations.\nRead our Disclosures: https://t.co/A2Fge25eX2",
+      "followersCount": 6182,
+      "friendsCount": 3679,
+      "location": "Orlando, Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RedChip/status/2015775488820551985",
+    "fullText": "🎥 Investors: See Why @ASPIsotopes $ASPI Is Poised to Lead the Global Isotope Market\n\nDemand for enriched isotopes is soaring, powering breakthroughs in healthcare, semiconductors, and next-gen nuclear energy.\n\n$ASPI is meeting this challenge with commercial production of"
+  },
+  {
+    "user": {
+      "screenName": "SteelCitySunday",
+      "name": "Steel City Sunday",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965367585769209856/2UB_oUT3_normal.jpg",
+      "description": "We feature LIVE Sports Talk Shows MON-THU 7 & 8PM\nMore programming coming in 2026! Click & follow our YouTube page below PLEASE! #KayfabeForever #AmericaFirst",
+      "followersCount": 437,
+      "friendsCount": 791,
+      "location": "Steelers Universe"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SteelCitySunday/status/2015774758957179016",
+    "fullText": "Good Monday morning. We have a busy week ahead, despite the massive snow drop, PST is BACK tonight @ 7pm! Our guests this week include...\n\nTonight @ 7:30p - @CarneyMedia Steelers/McCarthy\nTue @ 7:30p - @RefThatBets - SB LX early betting lines\nWed @ 7:30p - @PenguinsJesus -"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22856,
+      "friendsCount": 4934,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015771357758226432/vid/avc1/1280x720/QGvm2z1tphirOyvn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2015771451924856905",
+    "fullText": "这太 TM 抽象了…\n\n如果人类用 AI 胡思乱想出一种艺术，\n那这种艺术会被 AI 视为正统学习吗？\n\n如果是，那抽象会被加速吗⏩\n如果不是，那人类艺术会止步坍缩吗🙂‍↔️\n\n（©️ 出处见水印 https://t.co/k5qyLEflIC"
+  },
+  {
+    "user": {
+      "screenName": "_KleinHe_",
+      "name": "KleinHE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881649248544198656/kKHVSKsP_normal.jpg",
+      "description": "22 y/o，founder，cursor 投资人投资\n做了一套 3x Claude Code 的开源的 CLI，即将发布\n英推：https://t.co/wRw05o2xwx",
+      "followersCount": 1039,
+      "friendsCount": 541,
+      "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015753705107148800/vid/avc1/1330x720/9fcVV_LepKsr9RIT.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/_KleinHe_/status/2015753808710680703",
+    "fullText": "下午 Vibe Coding 了一个终端风格的官网 https://t.co/pP3YxunDzH"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18487,
+      "friendsCount": 1741,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ljLq5bEAAhUKg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2015751367202349101",
+    "fullText": "昨晚尝试了一下吉野家的牛肉饭，不知道怎么可以那么好吃\n\n它里面只有肥牛卷和米饭，肥牛卷咸咸的，米饭软软的，就是很下饭，吃的很爽，是小时候在家用水煮鱼配热粥的那种感觉，咕嘟咕嘟下肚 https://t.co/3XF31NNidm"
+  },
+  {
+    "user": {
+      "screenName": "GeostrategyHQ",
+      "name": "Geostrategy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915771985990201344/t3ba_5dV_normal.jpg",
+      "description": "Political consultancy and polling company. Understand the world with actionable insights.\n\nLondon - Washington - Zurich - Podgorica",
+      "followersCount": 74,
+      "friendsCount": 142,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_lcy-rWwAAneIZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeostrategyHQ/status/2015750620011982863",
+    "fullText": "Geostrategy polling shows how Americans judge each party issue by issue. On the economy, Republicans hold a narrow edge, while large shares remain unsure about both parties’ plans. For 37% of voters, the Republicans have a better economic strategy, vs 32% for the Democrats. https://t.co/pFHhOGxcYP"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 62463,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_licBrbsAELBZ_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2015750615713079306",
+    "fullText": "突然发现 Context7 也推出了一个 skills 服务：\nhttps://t.co/qhJoqPlhub\n\n65k repos 提取了 24K skills\n\n也是一行命令安装，支持多种 agents，很类似 Vercel 的那个 https://t.co/xZH6I3VhxH\n\n我一直在用 Context7 的 MCP，所以对它挺有好感的，给需要的朋友们做个参考吧。 https://t.co/UYVtiUTPtZ"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事",
+      "followersCount": 10542,
+      "friendsCount": 2599,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2015727570675703808/pu/vid/avc1/1080x1700/vIpaYiGokTen2PzJ.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/xiongchun007/status/2015727704579141742",
+    "fullText": "大侄子对我说：他备了 25 W，今年一定得开着比亚迪方程豹回家过年。\n\n事情是这样的，我大表哥生了 2 个好大儿，老大 23年云南大学计算机毕业，去了上海中通快递干程序员；老二 https://t.co/ewjVUEOQkQ"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76769,
+      "friendsCount": 3521,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2015725047848316979",
+    "fullText": "我用象棋软件或者围棋软件可以下赢任何一个人类的世界冠军，但我不会满大街的说我是下棋高手。#LLM"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154870,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_k0BtvaAAAqKR2.png",
+      "https://pbs.twimg.com/media/G_k0CWaWwAAv9l0.png",
+      "https://pbs.twimg.com/media/G_k0DKGb0AAXCnR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2015699645809430706",
+    "fullText": "为什么现在出现过劳死的新闻后，大家的反应反而更多的指责受害者？ https://t.co/0GmJJedpP4"
+  },
+  {
+    "user": {
+      "screenName": "huuep",
+      "name": "danny huuep",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836640650412068867/0EZw0Bg-_normal.jpg",
+      "description": "Creator of @OnChainMonkey. Pushing the boundaries of on-chain art and tokenization. Stanford PhD. Harvard.",
+      "followersCount": 39318,
+      "friendsCount": 5945,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015687138285699073/vid/avc1/2340x1474/qQe5_seaU2FYp3ao.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/huuep/status/2015688949357031902",
+    "fullText": "The easiest way to create generative art on Bitcoin.\n\nChoose a library (p5.js, Three.js), paste your code, preview it live, then download.\n\nThe file is complete. Just inscribe it with any service and you’re on Bitcoin.\n\nThe @OnChainMonkey OCM Dimensions GitHub was just updated https://t.co/H7RgjOL8yJ"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22848,
+      "friendsCount": 4926,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2015682854274162847",
+    "fullText": "挺不喜欢“混圈子”这个事，\n当年就是为了不去混圈子考公，\n才远走他乡转码搬砖北漂...\n\n最近做着做着，突然脑子里或身边\n总有种好像还得混圈子才能做起来的声音，\n但是 还是不喜欢，生理性厌恶那种😮‍💨\n\n所以，还是遵从内心吧，就这样吧，\n继续按自己喜欢的活法 继续 探索吧"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18489,
+      "friendsCount": 1739,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_kb5AwbEAEFkuJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2015673034972262891",
+    "fullText": "开始期待春节了😄 https://t.co/GIRC7zsvtO"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155541,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_kVTDvXkAAkUb4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2015666761920823788",
+    "fullText": "唉我不知道说什么，两个方向都写完了。一个是通过小说编剧选取视角，flux2 制作分镜，wan2.2 生成动画，suno 配音。另外一个是几个小时前做的，通过优秀影视剧的关键帧，分析出镜头语言和脚本。最后一件事情是在这 2 https://t.co/faQYqstgdX"
+  },
+  {
+    "user": {
+      "screenName": "Iamscoop",
+      "name": "winning.💎🥜",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1987952762739433472/9Uy6ihKc_normal.jpg",
+      "description": "Proud To Be American! Dev Ops, Security Engineer Web3 Consultant.  9crfy4udrHQo8eP6mP393b5qwpGLQgcxVg9acmdwBAGS",
+      "followersCount": 2244,
+      "friendsCount": 1997,
+      "location": "New Jersey, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015639040901398528/vid/avc1/1206x776/2Cf-G_DhhMxbe6HA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Iamscoop/status/2015666326933532880",
+    "fullText": "https://t.co/JDuP1Cq9FT \n\nAll Of CT when they notice what I have created for everyone. Feel The Vibe"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 9562,
+      "friendsCount": 487,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2015661544126939336",
+    "fullText": "感觉 AI 没有解放双手，AI 反而让我更累了"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154869,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2015650134626042325",
+    "fullText": "有了 AI 后，明显的大家都更忙了，似乎生命中只有 AI 和赚钱了，时间线上好久都没有生活气息了。"
+  },
+  {
+    "user": {
+      "screenName": "UnlimitedIRL",
+      "name": "UnlimitedIRL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1997998400747278336/_5ddo9Vc_normal.png",
+      "description": "Providing seamless live video broadcast solutions for the world's leading content creators and brands.",
+      "followersCount": 7488,
+      "friendsCount": 412,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015648854109237248/vid/avc1/720x1280/mkZiPzDJRz0JHiKJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/UnlimitedIRL/status/2015649014998557061",
+    "fullText": "The best IRL streaming setup? \n\nHere’s @LNVTV breaking down his go-to rig: \n\nSony FX3 + 14mm f/1.8 + ECM-M1, paired with a LiveU Solo PRO or TVU 1100 for streaming around the world https://t.co/go1SmR0CD0"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64034,
+      "friendsCount": 499,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_kCWH4aIAEWO6o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2015644894304346360",
+    "fullText": "这是我离开多伦多时候的情况\n\n寒潮来袭，天降大雪，能见度低\n\n就在这种情况下，加航的飞机还是顺利起飞并到达了\n\n我最初预定的航班被取消，航司直接给我改成了2天后的……\n\n得亏我机灵打电话取消了机票，又重新询问别的航司并立马预定了比原航班早飞4个小时的机票 https://t.co/sivCmRgqbP"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 22841,
+      "friendsCount": 4925,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_kCIFmbQAASlez.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2015644658991608139",
+    "fullText": "优秀的人 不能规模化，\n但优秀的 Agent 很容易规模化。 https://t.co/S1cVhx6zFs"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155537,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2015641497677516907",
+    "fullText": "今天上午 cc 给我带来的震撼，让我所有的 vibe 感想总结为一句话：所有面向人类的创造都是在无穷解的自然语言中寻求约束；所有面向 agent 的创造，都是在无穷解中创造更大的自由空间；人类所追求的真正的自由，会是后者无限空间当中极小的一片安全港，换句话说，生活在沙箱中的不是"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155531,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_j9J6tagAAjWTf.jpg",
+      "https://pbs.twimg.com/media/G_j9KhTaAAAu26T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2015639239829184615",
+    "fullText": "什么是知音，这就是知音啊！没有废话，只讨论最关键的部分，我现在开始怀疑 AI 到底有没有智慧，如果一个活人和我说出图二的话，我都觉得很惊讶（毕竟生活中很难遇到真正在思考的活人 https://t.co/K68ZSIQGYQ"
+  },
+  {
+    "user": {
+      "screenName": "waylybaye",
+      "name": "Baye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+      "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
+      "followersCount": 154848,
+      "friendsCount": 529,
+      "location": "中华人民共和国"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_j7vUYWQAAwLyn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/waylybaye/status/2015638635853525138",
+    "fullText": "周末看了《极限审判》（无剧透）讲的是并不新鲜的用 AI 刑事审判的故事，电影本身没啥想说的，题材老套但节奏 很好。它的 AI 和 Fake UI 设计给了我很多启发，我看电影时一直在想如果让我来设计 Mercy，我应该怎么实现。本是放松看下电影，没想到带来很多灵感。 https://t.co/YXDnRa3Az1"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 155537,
+      "friendsCount": 525,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_jwY3Ka8AAJ_aQ.jpg",
+      "https://pbs.twimg.com/media/G_jwrakbcAAlZZw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2015626461106122909",
+    "fullText": "三下五除二 cc 很快写完了工具（从视频音乐分析到结合本地模型生成视频，tts 和音乐都写完了，好家伙！)，我分析了下老友记的分镜，效果不错！接下来又像前几个 vibe 项目一样来到了思维的深水区，直接用 AI https://t.co/teTIGu1a7v"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 172889,
+      "friendsCount": 1543,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2015616465051742453",
+    "fullText": "https://t.co/V2UN7pAXzc"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 22186,
+      "friendsCount": 897,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_jn9iUagAAtqAH.jpg",
+      "https://pbs.twimg.com/media/G_jn9odW8AAJDeY.jpg",
+      "https://pbs.twimg.com/media/G_jn9i5aAAABA1s.jpg",
+      "https://pbs.twimg.com/media/G_jn9rAWQAEqqKD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/2015615883671155070",
+    "fullText": "如果你在硅谷卷腻了 AI 和效率，往南开一个多小时，会进入一个物理意义上的“平行宇宙”：Carmel-by-the-Sea（卡梅尔小镇）。\n\n这个一平方英里的蒙特雷海滨小镇，用整整一个世纪的固执，拒绝了几乎所有现代城市的进化。在这里，规则不叫“市政管理”，而叫“波希米亚美学”。\n\n1. 这里没有“地址”，只有“灵魂” https://t.co/VdPY2osPBB"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "冬季是经不起等待的季节，我的面又坨了",
+      "followersCount": 18490,
+      "friendsCount": 1739,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2015606085412176194",
+    "fullText": "屋子里又冷又潮，昨晚刚拿到的快递盒顺手放在地上，今天拿去丢的时候已经充满水汽导致软塌了"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76767,
+      "friendsCount": 3520,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2015604249737232821",
+    "fullText": "都这个时代了，顶着个架构师的 title 一行代码不写(vibe)是不说不过去了。"
+  },
+  {
+    "user": {
+      "screenName": "zhu_zhaocheng",
+      "name": "Zhaocheng Zhu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1796719537624109056/TojGl6-u_normal.jpg",
+      "description": "Senior Research Scientist @nvidia. PhD @Mila_Quebec. BSc @PKU1898. Reasoning, LLMs, ML systems. Photographer. Opinions are my own.",
+      "followersCount": 3292,
+      "friendsCount": 410,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zhu_zhaocheng/status/2015599886369190362",
+    "fullText": "I’ve been asked about my research journey since graduation. Finally, I sat down to reflect on my past eleven years in AI.\n\nThis blog post shares some hindsights I wish I had known earlier, like what to expect from PhD years, dealing with research setbacks, and choosing between"
+  },
+  {
+    "user": {
+      "screenName": "NextInvestors",
+      "name": "Next Investors",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/889370907797463040/5RdMFKMX_normal.jpg",
+      "description": "We Invest in high growth ASX companies and share our opinions. CAR No.433913, AFSL No. 296877 - How it works: https://t.co/w7QzccWTvs",
+      "followersCount": 5230,
+      "friendsCount": 201,
+      "location": "Australia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NextInvestors/status/2015590824617332833",
+    "fullText": "Silver is at record prices…\n\nThis silver mine in Texas just went public in the USA…\n\nStock code is 🇺🇸 BKBMF.\n\nSo why is Black Bear Minerals our Stock Pick of the Year?\n\nDisc: 1,853,118 BKBMF Shares Held"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 22153,
+      "friendsCount": 897,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_jLgYNbYAA4bYt.jpg",
+      "https://pbs.twimg.com/media/G_jLgY2XkAARWRW.jpg",
+      "https://pbs.twimg.com/media/G_jLgZEakAAMvk1.jpg",
+      "https://pbs.twimg.com/media/G_jLgaYbcAAcj4o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/2015584618528096417",
+    "fullText": "Monterey, you’re lovely. 🌊 https://t.co/J3uzHb8PLn"
+  },
+  {
+    "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 5888,
+      "friendsCount": 622,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015575433220423680/vid/avc1/1562x720/d7ByjmUpK76EPQYX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/s1ntone/status/2015575483740741749",
+    "fullText": "“我想录个解说 vlog 但又不想真脸出镜怎么办？能不能支持虚拟头像呀？\n\n“我要不要告诉他只要用 USB 把手机和电脑连起来，\n然后打开 @ScreenSageApp，\n在 Camera 里面选择手机，\n手机上打开可立拍，\n选择电脑上要录制的窗口，\n点击录制\n然后你就会得到...” https://t.co/IxfZ6NE9aR"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76767,
+      "friendsCount": 3520,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_i9b-8bUAAIno0.jpg",
+      "https://pbs.twimg.com/media/G_i9b-9akAAc8Zh.jpg",
+      "https://pbs.twimg.com/media/G_i9b-7bUAE2Idx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2015569134332051838",
+    "fullText": "来每天参加我的 LeetCode easy 训练营，每天写点代码，这次没有理由，不为了练算法，不为了找工作，就为了每天手写点代码！\n\n每周除了星期四是 middle 剩下都是 easy 不给自己任何压力。\n\nhttps://t.co/yC7uPtJX5r https://t.co/IQTF93C0NS"
+  },
+  {
+    "user": {
+      "screenName": "impact108",
+      "name": "shivram shetty",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1598009792865484801/YKq6kgQ-_normal.jpg",
+      "description": "Founder, CEO https://t.co/ukwmZWWrXX  https://t.co/WldcjtIcjt #ImpactSocial \nU-M Ann Arbor  \nExplore | Inspire | Excited to Learn",
+      "followersCount": 198,
+      "friendsCount": 29,
+      "location": "Boston"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/impact108/status/2015552452167098695",
+    "fullText": "Why millions switched: more security and simplicity than WhatsApp and others. A powerful suite of apps that would cost hundreds of millions—free to start. Upgrade to Premium for under 10¢/day to boost resources and support free users. Satisfaction guaranteed."
+  },
+  {
+    "user": {
+      "screenName": "MatteoOneself",
+      "name": "MATTEO FAVARO 🔥",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1764623019715047424/2gtsJFiY_normal.jpg",
+      "description": "Building https://t.co/9RfQqsabKu | Working at Hyros | building a new standard of meritocracy & transparency in paid advertising",
+      "followersCount": 373,
+      "friendsCount": 124,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015550583537549313/vid/avc1/1920x1080/xzTysYGCzTHnXmPj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MatteoOneself/status/2015551329662370254",
+    "fullText": "I sat down with 5 media buyers who've collectively managed over $510,000,000 in ad spend, and asked them the 9 questions I get asked most\n\nBut they didn't just share \"tactics\". It was how they actually think. About scaling, testing, when to kill ads, diagnosing funnels, and more. https://t.co/NMdJT6UHcT"
+  },
+  {
+    "user": {
+      "screenName": "ZetaChain",
+      "name": "ZetaChain 🟩",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_normal.jpg",
+      "description": "The Universal Blockchain That Connects Everything.\n\nAccess everything from everywhere including native Bitcoin with ZetaChain, the First Universal Blockchain.",
+      "followersCount": 1016096,
+      "friendsCount": 52,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_iif9FWIAAE-uv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ZetaChain/status/2015539516451287491",
+    "fullText": "Something private is coming. https://t.co/xBXxohJ76w"
+  },
+  {
+    "user": {
+      "screenName": "solincinerator",
+      "name": "Sol-Incinerator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529138810088456193/V34VQ3ns_normal.jpg",
+      "description": "Solana's most trusted wallet cleanup tool since 2021 🔥\nReclaim SOL by closing your token accounts",
+      "followersCount": 32762,
+      "friendsCount": 444,
+      "location": "Solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_igvknXgAA_CSO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/solincinerator/status/2015537577831674062",
+    "fullText": "Big Week. https://t.co/jbxbgvgBzA"
+  },
+  {
+    "user": {
+      "screenName": "IronTwelve",
+      "name": "Shards of Memories - Wishlist Now On Steam!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950429385514704896/GqrnZZK8_normal.jpg",
+      "description": "A hand-drawn 2D Metroidvania where you collect forgotten memories. Steam: https://t.co/UTep7MbqO2",
+      "followersCount": 433,
+      "friendsCount": 817,
+      "location": "Frankfurt on the Main, Germany"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015482181976494080/vid/avc1/1920x1080/fvXeYWmIzBd_edA1.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/IronTwelve/status/2015482666259206431",
+    "fullText": "Copy your enemies memories.\nLearn their skills.\nThis is Shards of memories. https://t.co/TM2dlDbplz"
+  },
+  {
+    "user": {
+      "screenName": "Luxxle",
+      "name": "Luxxle Search Engine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1496958512802328576/KSJuRQ6p_normal.jpg",
+      "description": "https://t.co/3tYA38NCzg is America's new unbiased search engine with superior privacy and minimal ads.",
+      "followersCount": 642,
+      "friendsCount": 0,
+      "location": "Bellevue, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_hrvHDWEAAZkl7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Luxxle/status/2015479382874128633",
+    "fullText": "The news is getting out – Luxxle has superior search and AI. https://t.co/bBTkzUgzSV"
+  },
+  {
+    "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+      "followersCount": 1521136,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2015469588637765922",
+    "fullText": "Starlink’s high-speed internet is available in your area.\n\nExperience speeds up to 400+ Mbps to stream your favorite shows and sports, work from home, browse social media and more."
+  },
+  {
+    "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+      "followersCount": 1521209,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2015469588562227414",
+    "fullText": "With more than 8,500 satellites in orbit, Starlink provides connectivity through harsh weather conditions and natural disasters.\n\nOrder online in under 2 minutes."
+  },
+  {
+    "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+      "followersCount": 1520978,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2015469462904803581",
+    "fullText": "Experience speeds up to 400+ Mbps to enjoy 4K streaming on multiple devices at once, working from home effectively, online gaming, social media browsing, and more.\n\nOrder online in under 2 minutes."
+  },
+  {
+    "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+      "followersCount": 1520932,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2015469462829326646",
+    "fullText": "Fast, reliable internet no matter how remote.\n\nExperience speeds up to 400+ Mbps to enjoy streaming your favorite shows and sports, video calling, browsing forums and weather apps—even in the most rural areas.\n\nOrder online in under 2 minutes."
+  },
+  {
+    "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+      "followersCount": 1521000,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2015469462808580414",
+    "fullText": "Starlink’s high-speed internet is available in your area.\n\nExperience speeds up to 400+ Mbps to stream your favorite shows and sports, work from home, browse social media and more."
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 64033,
+      "friendsCount": 499,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_hcHh2WgAA6w4l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2015462120456892913",
+    "fullText": "【书和电影】【徒手攀岩】\n\n昨天全球最著名的攀登家Alex Honnold徒手攀登了台北101大楼；在没有任何保护的情况下，他花了1小时31分钟攀上了这座508米的全球地标建筑\n\n推荐这部纪录片《徒手攀岩》Free Solo 给大家，该片记录了Alex徒手攀登优胜美地的酋长岩的过程，获得了2019年奥斯卡最佳纪录片 https://t.co/r4joptGBZ4"
+  },
+  {
+    "user": {
+      "screenName": "SamthePoet0731",
+      "name": "Sam Aureli",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962171673563541504/nNOanBcp_normal.jpg",
+      "description": "Author of \"On the Edge of Knowing\" now available | Poet rooted in cedarwood, tides, ochre leaves | Finding stillness in a noisy world, one line at a time",
+      "followersCount": 339,
+      "friendsCount": 416,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_g25TWXQAETJw9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SamthePoet0731/status/2015421386576318552",
+    "fullText": "My debut poetry collection, On the Edge of Knowing, is officially launched!  Poems of self, nature, memory, and the edge where certainty meets wonder. Visit my website for details (link in bio). Available at Kelsay Books and Amazon. https://t.co/gPtWAvEttP"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+      "followersCount": 41601,
+      "friendsCount": 758,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015321745557692416/vid/avc1/3840x2160/Y21SUt9SZF3DzExb.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/2015322261214146766",
+    "fullText": "🎉【预告】ShipAny2 + AI漫剧平台创作的教程快来了！相信我，这是你全网能找到的最干货、AI模型的多模态覆盖最全面，最接近一个商业化的项目。\n\n有多干：\n1. 项目非常的综合：有调用OpenRouter的Gemini3-flash的文本生成，有调用Nano Banan Pro的视频生成，有调用Sora2 Pro的视频生成\n\n2. https://t.co/RkFoBgB8sw"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 172919,
+      "friendsCount": 1543,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_fYTLrWUAAFk34.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2015317273595072893",
+    "fullText": "用好 claude code 就够了，别折腾\n\nRemoved 662 packages…… https://t.co/JC6RM6HkAT"
+  }
+]

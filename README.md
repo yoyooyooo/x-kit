@@ -2,7 +2,7 @@
 
 Pure-Python protocol tools and research notes for the X.com web client.
 
-This repository now uses the Python protocol implementation as the source of truth. The previous Bun/TypeScript automation and checked-in tweet data have been removed.
+This repository now uses the Python protocol implementation as the source of truth. The previous Bun/TypeScript automation has been removed; historical collected tweet JSON is preserved under `tweets/`.
 
 ## Capabilities
 
