@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:13:04.440215Z",
+  "generated_at": "2026-07-21T22:29:39.633758Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -580,6 +580,31 @@
       "latest_tweet_id": "2079603466599903307",
       "oldest_tweet_created_at": "2018-07-27T14:33:20Z",
       "oldest_tweet_id": "1022852441484611584"
+    },
+    "kubai087": {
+      "status": "completed",
+      "twitter_url": "https://x.com/Kubai087",
+      "twitter_rest_id": "703796597335822336",
+      "vibeloft_username": "kubai087",
+      "vibeloft_nickname": "枯白啃设计",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/kubai087",
+      "started_at": "2026-07-21T22:15:37.219144Z",
+      "data_file": "data/user_tweets/vibeloft/kubai087.json",
+      "stop_on_existing": false,
+      "handle": "Kubai087",
+      "updated_at": "2026-07-21T22:29:39.633754Z",
+      "completed_at": "2026-07-21T22:29:39.633075Z",
+      "completed_at_local": "2026-07-22T06:29:39.633091+08:00",
+      "history_complete": true,
+      "pages_collected_total": 21,
+      "new_tweets_last_run": 301,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 301,
+      "latest_tweet_created_at": "2026-07-17T01:58:21Z",
+      "latest_tweet_id": "2077935908884824308",
+      "oldest_tweet_created_at": "2018-06-16T14:15:51Z",
+      "oldest_tweet_id": "1007990140705361922"
     }
   }
 }
