@@ -1,0 +1,523 @@
+{
+  "handle": "LuffyDaxia",
+  "twitter_url": "https://x.com/LuffyDaxia",
+  "twitter_rest_id": "1116633244995211264",
+  "vibeloft": {
+    "username": "luffy",
+    "nickname": "大侠Luffy",
+    "profile_url": "https://vibeloft.ai/profile/luffy"
+  },
+  "generated_at": "2026-07-22T22:03:47.015188Z",
+  "stats": {
+    "tweet_count": 23,
+    "latest_tweet_created_at": "2026-07-21T17:17:13Z",
+    "latest_tweet_id": "2079616698559414308",
+    "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
+    "oldest_tweet_id": "1965401343298093237"
+  },
+  "tweets": [
+    {
+      "id": "2079616698559414308",
+      "text": "昨天刚买了pro 5x，早知道今天就使劲蹬了。",
+      "created_at": "Tue Jul 21 17:17:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2079616698559414308"
+    },
+    {
+      "id": "2079186144349261932",
+      "text": "一个省钱的小技巧：在使用GPU云服务器测试的时候，可以先在普通服务器把环境配置好，把模型下载好，然后把系统镜像设置到目标GPU服务器上。",
+      "created_at": "Mon Jul 20 12:46:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2079186144349261932"
+    },
+    {
+      "id": "2079180880837591417",
+      "text": "codex 消耗token的速度是越来越快了，plus也就能提交两三个任务就没了，冲个5x缓解一下token焦虑症。\n\n快点来多几次重置，拜托了... https://t.co/LsbrcAa9qr",
+      "created_at": "Mon Jul 20 12:25:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "169",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNq7twDaAAABRPU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2079180880837591417"
+    },
+    {
+      "id": "2079070796094554415",
+      "text": "阿里云这些大厂GPU实在太贵了，分享两个目前我用过，价格比较OK的GPU服务器，很适合用来做一些测试。\n\n1. 海外： runpod\n2. 国内：智星云\n\n支持按小时租用，可仅保留磁盘和镜像，支持ssh。",
+      "created_at": "Mon Jul 20 05:07:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "51",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2079070796094554415"
+    },
+    {
+      "id": "2078740122779222168",
+      "text": "为了进一步节省转写费用，用 codex + vast的gpu，搓了一个低成本的音频转字幕API服务，5.6 消耗真快啊，重置了好几次了。 https://t.co/SCQZBgbRSR",
+      "created_at": "Sun Jul 19 07:14:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "35",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNkpV7GbUAEZvB1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNkpfbFacAAMt_3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2078740122779222168"
+    },
+    {
+      "id": "2078715927143886881",
+      "text": "星巴克的wifi终于去掉了验证码。 https://t.co/XYohNdmnOT",
+      "created_at": "Sun Jul 19 05:37:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNkUzjhagAAQTlS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2078715927143886881"
+    },
+    {
+      "id": "2078713190129848593",
+      "text": "说一下我是如何上外网的，最早是自己利用可以直连的海外服务器自己搭建，甚至还用过阿里云。\n\n后来有段时间，搭建一个封一个，太浪费心力了，就开始找第三方梯子服务。\n\n下图是从2020年开始用的shadowsocks代理，当时价格11.6美元一年，现在涨到快20美元了，不过对比下来还是挺划算的。\n\n服务很稳定，速度也不错，最近我换成了Pro套餐，专线确实用起来更爽。\n\n如果你有更好的推荐，欢迎留言。\n\nhttps://t.co/NYI7tOEgBe",
+      "created_at": "Sun Jul 19 05:26:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "110",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNkONlHaIAAYviO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNkOso2agAA5bdm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2078713190129848593"
+    },
+    {
+      "id": "2078327123262271521",
+      "text": "心痛，刚浪费了一次重置。",
+      "created_at": "Sat Jul 18 03:52:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "23",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2078327123262271521"
+    },
+    {
+      "id": "2078042152932966694",
+      "text": "用 Codex 实测了一下 Qwen3-ASR 。\n\n关注指标：\n\n1. 文本和时间戳准确度。\n2. 并发能力，转写时间，GPU内存、CPU、内存资源消耗。\n3. 对比transformers 和vLLM后端性能。\n\n一些结论：\n\n1. 中文和英文文本准确度都不错。\n2. 中文时间戳比较准，英文很差，其余语种估计也不会很理想。\n3. 16GB GPU 显存可以顺利跑动 Qwen3-ASR-1.7B + transformers 后端。\n4. 用vLLM后端部署需要更多GPU内存，处理更快，批量处理性能更好。\n5. Qwen3-ForcedAligner 不支持vLLM，而且会随着音频长度增加，需要GPU内存也会增加，但是处理速度很快。\n\n部署建议：\n\n1. Qwen3-ASR-1.7B 和 Qwen3-ForcedAligner-0.6B 单独部署，不要放在同一台机器。\n2. Qwen3-ASR-1.7B 使用 vLLM 后端发挥最佳性能。\n\n代码处理：\n\n1. 同一个模型实例一次只允许一个线程进入 model.transcribe。\n2. 可以通过transcribe 传入批量音频来实现并发。\n3. 使用vLLM部署，长音频需要分割，8到10分钟一个分段比较安全。\n\n可用场景：\n\n1. 生成中文字幕（Qwen3-ASR-1.7B  + Qwen3-ForcedAligner-0.6B）\n2. 生成不带时间戳纯文稿（Qwen3-ASR-1.7B）\n3. 多语种实时语音识别 （Qwen3-ASR-1.7B + vLLM）",
+      "created_at": "Fri Jul 17 09:00:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNav0LXb0AEC6Lu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNav1sUbIAAfr5A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNav3kLbQAAI1J1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNawK2gaoAA9u9Q.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2078042152932966694"
+    },
+    {
+      "id": "2073439593698140586",
+      "text": "阿里云DNS解析要收费了，决定迁移cloudflare来解析，整个流程也非常简单。\n\n第一步：在阿里云域名后台导出zone格式txt文本。\n\n第二步：在cloudflare导入解析记录。\n\n第三步：在阿里云域名控制台修改DNS服务器。\n\n为了避免使用cloudflare代理出现问题，可以先把代理服务关闭，后面再打开试试。 https://t.co/jgZqGefpzB",
+      "created_at": "Sat Jul 04 16:11:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "56",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMZTn0uaMAAdQJR.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMZUbAIawAAwh-4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMZVN6maoAEJruJ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMZVxcZaEAAwUQH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2073439593698140586"
+    },
+    {
+      "id": "2072851424829218936",
+      "text": "最近在跑一些youtube数据，目前能找到的性价比最好的IP代理，连通和速度还可以，但也有不少轮转IP在抓数据的时候会被ban，总的来说能用。\n\nIP代理的流量费用不算便宜，很好奇那些提供免费youtube下载的网页服务是怎么做到的？毕竟下载视频还是挺消耗流量的。\n\nhttps://t.co/Onv5m2RcUC https://t.co/oLdeGr4ooC",
+      "created_at": "Fri Jul 03 01:14:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "60",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMQ8soBawAAoFcf.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMQ9OZmaQAAmule.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2072851424829218936"
+    },
+    {
+      "id": "2071987428198601060",
+      "text": "wtpsplit的文本分割性能很棒，支持85种语言 , 用在文本 RAG 和 字幕行分割任务上非常巴适，不需要昂贵的GPU，CPU就能跑起来。\n\n已经愉快地用上了。⛏️\n\nhttps://t.co/6jaUZD9b8u",
+      "created_at": "Tue Jun 30 16:01:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2071987428198601060"
+    },
+    {
+      "id": "2020378940502835265",
+      "text": "sync-cdn-ssl + https://t.co/etTJZuAcc9，阿里云和七牛 CDN 免费 HTTPS 证书一劳永逸。\n\n用AI写了个小脚本，帮助大家把免费ssl证书部署到阿里云和七牛云CDN上。\n\nhttps://t.co/84yHlFYA12",
+      "created_at": "Sun Feb 08 06:07:30 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "69",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2020378940502835265"
+    },
+    {
+      "id": "2018162999216009548",
+      "text": "寸土寸金的香港，连星巴克都只有30分钟的WIFI时间。\n\n而霸王茶姬24RMB一杯的伯牙绝弦，不限上网时间，空间也尚安静舒适。\n\n这里成了我每次到香港移动办公的老地方，希望它股价能坚挺一些。 https://t.co/1pNOVuSnng",
+      "created_at": "Mon Feb 02 03:22:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "82",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAH0i9EbUAApju7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAH0i9EbYAE6lgn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2018162999216009548"
+    },
+    {
+      "id": "2013843035528818735",
+      "text": "Andrew 发布了一期面向零代码基础的AI编程课。\n\nhttps://t.co/UL5M4KDb4E",
+      "created_at": "Wed Jan 21 05:16:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "30",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2013843035528818735"
+    },
+    {
+      "id": "2013108419956519124",
+      "text": "实测google/translategemma-4b-it在macbook pro M3上的表现，开启了mps加速，翻译一次16秒以上，看起来在端侧部署的实用性不大。 https://t.co/6S5KZOaZw4",
+      "created_at": "Mon Jan 19 04:37:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "70",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-_-gDzWUAAZ0T1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2013108419956519124"
+    },
+    {
+      "id": "1973295460959003005",
+      "text": "新开发的浏览器插件这两天开始每天有几十新增用户，不知到是哪个大佬推荐了。\n\n对做运营和自媒体的朋友来说，应该挺实用的小工具。它可以一键截取在线视频画面，快速制作台词拼图。\n\nhttps://t.co/kzxfR6vtT5 https://t.co/wTNU0abwkN",
+      "created_at": "Wed Oct 01 07:54:34 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "57",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G2KKjUqaIAIgq7z.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G2KKk-7bEAAQqsZ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G2KKmUXaIAkjFVs.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G2KKq2TaIAAjbSU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1973295460959003005"
+    },
+    {
+      "id": "1967523790386245671",
+      "text": "这个小红书账号靠发一些名人访谈的字幕拼图，获得了非常好的数据。\n\n要做这个并不难，你只需要一个好用的浏览器插件，在平时看视频的时候，顺便把一些金句或有意思的台词截图拼好就可以了。\n\n传送地址: https://t.co/c2qAwszsCA https://t.co/PJpsdPwtxj",
+      "created_at": "Mon Sep 15 09:40:01 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "69",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G04MbaNbEAAy98z.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G04MbaHacAAAdiO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G04MbaHawAEw9rm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1967523790386245671"
+    },
+    {
+      "id": "1967218925693014132",
+      "text": "个人开发者可免费在 Microsoft Store 发布应用了。\n\nhttps://t.co/dP8qV0V97m https://t.co/m9pKUpRvJF",
+      "created_at": "Sun Sep 14 13:28:35 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "44",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G0z3KI9a0AEgT_f.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1967218925693014132"
+    },
+    {
+      "id": "1966764871346712580",
+      "text": "分享一些可以推广网站或软件产品的小渠道。\n\n好不容易做了个产品，除了可以在小红书，知乎，B站一些大平台发布，还有那些地方可以推广一下呢，下面分享几个我觉得比较有用的小渠道。\n\n字数限制，就只能发到图片中了，希望可以助你一臂之力。 https://t.co/htiQXG5TVi",
+      "created_at": "Sat Sep 13 07:24:20 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G0tZ-nSasAA5ZIt.png"
+        }
+      ],
+      "url": "https://x.com/i/status/1966764871346712580"
+    },
+    {
+      "id": "1966118102942495182",
+      "text": "对于一个新工具站来说，做好SEO，除了增加外链，想办法增加网站内容，去match到更多的长尾关键词也是其中一个重要的技巧。\n\n这篇文章分享了我的一个实操思路，其中很多关键词借助了AI来生成的，希望我的思路对大家有帮助。\n\nhttps://t.co/EP7Mj2Iwyz",
+      "created_at": "Thu Sep 11 12:34:19 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "80",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1966118102942495182"
+    },
+    {
+      "id": "1965701181952622671",
+      "text": "分享使用 Trae 从 0 到 1 开发 Chrome 插件的过程和AI编程小技巧。😎\n\n代码已开源：\n\nhttps://t.co/fWhgoMizUR https://t.co/g0owTz74TI",
+      "created_at": "Wed Sep 10 08:57:37 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "49",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G0eSMgEbAAAkrP8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1965701181952622671"
+    },
+    {
+      "id": "1965401343298093237",
+      "text": "最近 Vibe Coding 比较火，在上周末，我也花了点时间，尝试使用Trae，从零到一构建了一个 Chrome 浏览器插件。\n\n这个插件的功能非常简单，就是把网页中的视频进行截图，然后拼接成一张台词图。\n\n支持所有视频网站，完全本地运行，免费无登录。\n\nhttps://t.co/kzxfR6vtT5 https://t.co/sv0JZByvfF",
+      "created_at": "Tue Sep 09 13:06:10 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "36",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G0aB_czbkAAQHqt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1965401343298093237"
+    }
+  ]
+}
