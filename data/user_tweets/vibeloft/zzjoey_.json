@@ -1,0 +1,558 @@
+{
+  "handle": "zzjoey_",
+  "twitter_url": "https://x.com/zzjoey_",
+  "twitter_rest_id": "1896520996145987584",
+  "vibeloft": {
+    "username": "joeyzhu",
+    "nickname": "Joey Zhu",
+    "profile_url": "https://vibeloft.ai/profile/joeyzhu"
+  },
+  "generated_at": "2026-07-22T09:04:26.592137Z",
+  "stats": {
+    "tweet_count": 26,
+    "latest_tweet_created_at": "2026-07-18T09:32:16Z",
+    "latest_tweet_id": "2078412529399963898",
+    "oldest_tweet_created_at": "2025-03-06T08:47:06Z",
+    "oldest_tweet_id": "1897569616156905638"
+  },
+  "tweets": [
+    {
+      "id": "2078412529399963898",
+      "text": "New UI 2.0!\nGemini 3.5 + Grok 4.5 + GPT-5.6!",
+      "created_at": "Sat Jul 18 09:32:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "32",
+      "lang": "in",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2078412529399963898"
+    },
+    {
+      "id": "2078410656609697821",
+      "text": "蓝紫网站横行的时代，依然坚持手搓设计系统\n因为不想把 ai slop 带给用户🌹 https://t.co/e9KnaarSmk",
+      "created_at": "Sat Jul 18 09:24:50 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "35",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNf_L-mbEAA8iWy.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNf_QSNb0AARElQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNf_aORasAAzbGW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNf_dRZaEAAE7vr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2078410656609697821"
+    },
+    {
+      "id": "2077405324286312864",
+      "text": "4 AI models. Same prompt. Which one you prefer👇\n(grok-4.5 / gemini-3.5-flash / gpt-5.6-terra / gpt-5.6-sol) https://t.co/ipGkb002tb",
+      "created_at": "Wed Jul 15 14:50:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "41",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2077248702822092801/img/XSJlYUkrLO3kunaP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077405324286312864"
+    },
+    {
+      "id": "2077248357018529890",
+      "text": "grok-4.5, gemini-3.5-flash, gpt-5.6 terra, gpt-5.6-sol\n\nside-by-side comparison to make launch video for stripe https://t.co/QluVThuyxf",
+      "created_at": "Wed Jul 15 04:26:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "82",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2077247732927070208/img/Zgyt2N8bUyK3o2BD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077248357018529890"
+    },
+    {
+      "id": "2077207858022912283",
+      "text": "RT @motionflareai: https://t.co/dZm7v7QCB5 now support multi-languages, get your video with your native language.\n\n🌍 English, Greek, Spanis…",
+      "created_at": "Wed Jul 15 01:45:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2077207858022912283"
+    },
+    {
+      "id": "2076522665276514684",
+      "text": "https://t.co/VbSf8wYHnl 更新，支持了十几种语言\n\n英语 德语 法语 日语 韩语 西班牙语，普通话 粤语，通通没问题 https://t.co/h0cH7SFbyV",
+      "created_at": "Mon Jul 13 04:22:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNFJ_yLbMAADTsi.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNFKCmyaYAAweBc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2076522665276514684"
+    },
+    {
+      "id": "2075132802664943663",
+      "text": "🤯 Claude Opus suddenly output it's SYSTEM PROMPT in our conversation.\n\nWhat's going on... https://t.co/KWbWsb4HOv",
+      "created_at": "Thu Jul 09 08:19:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMxaMCSbgAAWNEX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2075132802664943663"
+    },
+    {
+      "id": "2074770758040158671",
+      "text": "Introducing MotionFlare 🎬\n\nTurn any website into on-brand marketing, advertising, and social video.\n\nDrop in a URL. Get finished videos back, voice-over, text, motion, all matched to your brand.\n\n→ https://t.co/wYQaeWjK6C https://t.co/3yrXefbgJK",
+      "created_at": "Wed Jul 08 08:21:10 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "52280",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2074770317462188032/img/C3oRpuWBSqPPCe7d.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2074770758040158671",
+      "pinned": true
+    },
+    {
+      "id": "2074757711942856790",
+      "text": "Am I the only one who feels like opus got dumber after fable came out? https://t.co/XYRkMsZsfj",
+      "created_at": "Wed Jul 08 07:29:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMsFI8MbAAAzM3I.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2074757711942856790"
+    },
+    {
+      "id": "2074558503587627250",
+      "text": "Also try https://t.co/VbSf8wYHnl\n\nWebsite to video",
+      "created_at": "Tue Jul 07 18:17:45 +0000 2026",
+      "favorite_count": 85,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "347",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2074558503587627250"
+    },
+    {
+      "id": "2073331466415841494",
+      "text": "One-shot this video including BGM + voiceover, fully by AI.\nMotion Design is cooked.\n\nDM for prompt. https://t.co/xPEyy5wvEd",
+      "created_at": "Sat Jul 04 09:01:56 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2073331365991587841/img/0TAp2Vfu9zzHmJgj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2073331466415841494"
+    },
+    {
+      "id": "2072549482689155309",
+      "text": "Same prompt, two tools.\nLeft: OpenMontage - $12\nRight: https://t.co/StQ8u5E66I - $2 https://t.co/Rs0Fuyli5O",
+      "created_at": "Thu Jul 02 05:14:37 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "31",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2072548381357142016/img/b552CGTVkMn7MabX.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2072548381344575488/img/N_Le6Oly5yOFEjKt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2072549482689155309"
+    },
+    {
+      "id": "2070087397736636676",
+      "text": "Cooking new design for Motionflare \n\nbefore vs after https://t.co/tvmGTGNUDw",
+      "created_at": "Thu Jun 25 10:11:10 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HLptaMIbYAAn2Cb.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HLpte9TaQAANGG9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2070087397736636676"
+    },
+    {
+      "id": "2067599210317492306",
+      "text": "🚨 Launchvideo has been acquired by https://t.co/VbSf8wYHnl. No layoffs. Old links redirect, login works, credits carry over.\n\n...ok, it's a rename. A launch is one day, the motion you need isn't. Same product, new name.\n\nhttps://t.co/wYQaeWjK6C 🎉",
+      "created_at": "Thu Jun 18 13:24:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "104",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2067599210317492306"
+    },
+    {
+      "id": "2066430451645133116",
+      "text": "I'll read every single word",
+      "created_at": "Mon Jun 15 07:59:46 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "29",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2066430451645133116"
+    },
+    {
+      "id": "2064243479493189846",
+      "text": "Introducing https://t.co/RxtI0FHlB3 \n\nTurn any URL (or just a prompt) into a studio-quality motion video.\n\nProduct launches, weekly updates, newsletters, now all in video.\n\nUpvote on PeerList: https://t.co/5lb4dxYWVY https://t.co/y4cZcV0eMR",
+      "created_at": "Tue Jun 09 07:09:31 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "793",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2064243372966260736/img/AogsQcGTScd0Ag-7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2064243479493189846"
+    },
+    {
+      "id": "2060274567734767877",
+      "text": "cold start day 1\n\n#buildinpublic #saas https://t.co/UULzTlK3cY",
+      "created_at": "Fri May 29 08:18:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJeQmPbbMAAL0KL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2060274567734767877"
+    },
+    {
+      "id": "2026937736691954123",
+      "text": "⏱️⏱️⏱️ https://t.co/LyOjouTzdc",
+      "created_at": "Thu Feb 26 08:29:49 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "46",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026937656576475138/img/FMM88H5wKfkvP3qi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2026937736691954123"
+    },
+    {
+      "id": "2026931617755967747",
+      "text": "vibe 了一个开源的world clock pro https://t.co/OgD5V82FWq",
+      "created_at": "Thu Feb 26 08:05:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "13",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026931186740899841/img/CU5qsexWYIrUJvjk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2026931617755967747"
+    },
+    {
+      "id": "2026928095756955907",
+      "text": "P1 &amp; P2 - World Clock Master: $2.99/month, iOS only.\nP3 - https://t.co/sOkqWn0Zu9, $0, free, all platform, no install required. https://t.co/jyoPw0YKVH",
+      "created_at": "Thu Feb 26 07:51:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HCEYW1Xa0AABKsL.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HCEYW1XaMAEmIgP.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HCEYW1YaAAAp0Nx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2026928095756955907"
+    },
+    {
+      "id": "2020814501478633643",
+      "text": "Just vibed a small macOS app and decided to open-source it.\n\nIt downloads videos from X, auto-configures cookies, supports multi-threaded, multi-videos.\n\nhttps://t.co/vJfPtiKmnq\nhttps://t.co/VddxSn3Hve https://t.co/k7tskP2rEO",
+      "created_at": "Mon Feb 09 10:58:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "68",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAtf_RhbMAAoWNK.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HAtgC_FbMAAuw5c.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2020814501478633643"
+    },
+    {
+      "id": "1981767064349192451",
+      "text": "Evaluating a co-founder: Descrimination, Taste, Execution.\nEvaluating a candidate: Legitimate, Honest, Growth.\n\n找合伙人看三点：洞察力，品味，执行力\n找员工看三点：正直，诚实，成长性",
+      "created_at": "Fri Oct 24 16:57:42 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "17",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1981767064349192451"
+    },
+    {
+      "id": "1912714058211696681",
+      "text": "RT @garrytan: For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. \n\nThat’s not a typo. The age of vibe coding is here.",
+      "created_at": "Thu Apr 17 03:45:42 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 453,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1912714058211696681"
+    },
+    {
+      "id": "1901513889285873863",
+      "text": "Before vibe coding, founders have to be “fake it until make it”\n\nNow, with AI, founders can ‘keep building, keep making”. (kudos to @cursor_ai ,@lovable, etc. for bringing the amazing tools)\n\nLet’s KEEP BUILDING, KEEP MAKING! https://t.co/dSnqNvllyn",
+      "created_at": "Mon Mar 17 06:00:14 +0000 2025",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "68",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GmOIzfNbsAArdnE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1901513889285873863"
+    },
+    {
+      "id": "1901371648206618778",
+      "text": "RT @pontusab: Still the best Startup Stack:\n\n🧱 @nextjs - Framework\n☁️ @vercel - Hosting\n📦 @supabase - Backend/Auth/Storage\n✉️ @resend - Ema…",
+      "created_at": "Sun Mar 16 20:35:01 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 239,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1901371648206618778"
+    },
+    {
+      "id": "1897569616156905638",
+      "text": "RT @jelanifuel: System Prompt for Bolt/Lovable:\n\nYou are an expert in React, Vite, Node, Express and Tailwind CSS\n\nAlways make apps mobile…",
+      "created_at": "Thu Mar 06 08:47:06 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 16,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1897569616156905638"
+    }
+  ]
+}
