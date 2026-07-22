@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T00:33:23.107320Z",
+  "generated_at": "2026-07-22T01:04:28.460756Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -705,6 +705,31 @@
       "latest_tweet_id": "2079595769473212667",
       "oldest_tweet_created_at": "2019-12-05T13:01:54Z",
       "oldest_tweet_id": "1202573815223504896"
+    },
+    "thetimothylau": {
+      "status": "completed",
+      "twitter_url": "https://x.com/thetimothylau",
+      "twitter_rest_id": "1151379549172596736",
+      "vibeloft_username": "timothylau",
+      "vibeloft_nickname": "Timothy Lau",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/timothylau",
+      "started_at": "2026-07-22T01:00:37.104987Z",
+      "data_file": "data/user_tweets/vibeloft/thetimothylau.json",
+      "stop_on_existing": false,
+      "handle": "thetimothylau",
+      "updated_at": "2026-07-22T01:04:28.460749Z",
+      "completed_at": "2026-07-22T01:04:28.459291Z",
+      "completed_at_local": "2026-07-22T09:04:28.459303+08:00",
+      "history_complete": true,
+      "pages_collected_total": 6,
+      "new_tweets_last_run": 51,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 51,
+      "latest_tweet_created_at": "2026-07-16T11:49:45Z",
+      "latest_tweet_id": "2077722350804664782",
+      "oldest_tweet_created_at": "2023-11-16T06:36:17Z",
+      "oldest_tweet_id": "1725040072020595027"
     }
   }
 }
