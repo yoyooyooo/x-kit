@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:09:09.658489Z",
+  "generated_at": "2026-07-22T08:03:53.265864Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -832,6 +832,31 @@
       "latest_tweet_id": "2079415188051362168",
       "oldest_tweet_created_at": "2022-06-09T11:50:54Z",
       "oldest_tweet_id": "1534865620348575745"
+    },
+    "_xiaobaiw": {
+      "status": "completed",
+      "twitter_url": "https://x.com/_xiaobaiw",
+      "twitter_rest_id": "2034918732309676032",
+      "vibeloft_username": "white",
+      "vibeloft_nickname": "小白同学",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/white",
+      "started_at": "2026-07-22T08:00:40.816728Z",
+      "data_file": "data/user_tweets/vibeloft/_xiaobaiw.json",
+      "stop_on_existing": false,
+      "handle": "_xiaobaiw",
+      "updated_at": "2026-07-22T08:03:53.265853Z",
+      "completed_at": "2026-07-22T08:03:53.263814Z",
+      "completed_at_local": "2026-07-22T16:03:53.263832+08:00",
+      "history_complete": true,
+      "pages_collected_total": 5,
+      "new_tweets_last_run": 34,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 34,
+      "latest_tweet_created_at": "2026-07-21T10:04:19Z",
+      "latest_tweet_id": "2079507759029239946",
+      "oldest_tweet_created_at": "2026-03-24T06:41:04Z",
+      "oldest_tweet_id": "2036332454013968571"
     }
   }
 }
