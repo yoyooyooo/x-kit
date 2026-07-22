@@ -1,0 +1,1044 @@
+{
+  "handle": "DevJohnWayne",
+  "twitter_url": "https://x.com/DevJohnWayne",
+  "twitter_rest_id": "2007364793162977280",
+  "vibeloft": {
+    "username": "user5bc5f8dc",
+    "nickname": "John Wayne",
+    "profile_url": "https://vibeloft.ai/profile/user5bc5f8dc"
+  },
+  "generated_at": "2026-07-22T02:05:50.989223Z",
+  "stats": {
+    "tweet_count": 53,
+    "latest_tweet_created_at": "2026-07-22T00:09:14Z",
+    "latest_tweet_id": "2079720388804989174",
+    "oldest_tweet_created_at": "2026-05-12T12:11:52Z",
+    "oldest_tweet_id": "2054172705340170631"
+  },
+  "tweets": [
+    {
+      "id": "2079720388804989174",
+      "text": "挺好用的，cc 内部直接完成了改代码，build，simulator 中验证的闭环，省去了人工验证，截图反馈问题这一环\n\ncc 可以在 simulator 点击，输入文字，上下滑动，通过 Apple 的模拟器工具链直接注入，比之前的 computer use 高效的多\n\n读屏幕方便还是通过截图，token 消耗会多一些\n\n另外，虽然形式很像，但这不是 preview，没有热重载，改完代码要看效果要重新 xcodebuild",
+      "created_at": "Wed Jul 22 00:09:14 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "667",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2079720388804989174"
+    },
+    {
+      "id": "2079513743600636390",
+      "text": "前段时间做的卡牌效果 https://t.co/jCpWRQUyLm",
+      "created_at": "Tue Jul 21 10:28:06 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1285",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2079513641876172800/img/6dBsCq0aGCGqHlUZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2079513743600636390"
+    },
+    {
+      "id": "2079203261962465683",
+      "text": "在 bd 一个新加坡的宠物店主，断断续续聊了几天，早上他突然说让我找个更耐心的同事跟他对接\n\n看来我直来直去的英文有点太硬了，后续交流要多用 pls 和 emoji 了",
+      "created_at": "Mon Jul 20 13:54:22 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1129",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2079203261962465683"
+    },
+    {
+      "id": "2079202623199318467",
+      "text": "fable 5 使用 figma 的能力绝了，装上 plugin，设计稿还原度接近 100%",
+      "created_at": "Mon Jul 20 13:51:49 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1222",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2079202623199318467"
+    },
+    {
+      "id": "2077917875747369228",
+      "text": "Cloudflare，小团队开发第一选择 https://t.co/AX3oAcBJif",
+      "created_at": "Fri Jul 17 00:46:42 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 16,
+      "views": "2608",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2077917481403060224/img/xGemSSm8ZpU5VrU1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077917875747369228"
+    },
+    {
+      "id": "2077775120354230494",
+      "text": "做到了第三排，很棒的想法\n\n如果能进一步吸引非 vibecoder 用户那就太棒了 https://t.co/UXriHh9kux",
+      "created_at": "Thu Jul 16 15:19:26 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3198",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNW9dLhbgAAoVwi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077775120354230494"
+    },
+    {
+      "id": "2077554498999050601",
+      "text": "新加坡的宠物市场绝大多数商家还在依赖建站工具做网站，同质化严重\n\n用 whatsapp 咨询+预约，非常的耗人工\n\n做了一个网站+后台，准备在这个领域 bd 下\n如果我能给一个低到令人发指的价格，能把这个行业拿下吗🤔 https://t.co/MkMzvfALsB",
+      "created_at": "Thu Jul 16 00:42:46 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 19,
+      "views": "5349",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2077554251199594496/img/LEEm6L6IqYO5KgIZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077554498999050601"
+    },
+    {
+      "id": "2077281900641808770",
+      "text": "小店的产品复盘 https://t.co/otXW9DWJqu",
+      "created_at": "Wed Jul 15 06:39:33 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "4050",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2077281563499474944/img/sQp8ASC4MHjAIf8Q.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077281900641808770"
+    },
+    {
+      "id": "2077279465282121770",
+      "text": "为啥我没有早点试试 cloudflare 全家桶，做 mvp 太香了，给我香迷糊了，再见 aws",
+      "created_at": "Wed Jul 15 06:29:53 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2865",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2077279465282121770"
+    },
+    {
+      "id": "2077044572002382286",
+      "text": "用了半年 claudecode，配置文件变得非常臃肿，直观体验就是响应慢，丢失上下文严重\n\n今晚清理了下，claude.md 只做索引，控制在 50 行以内，瞬间清爽了 https://t.co/0x90Ucgl6Q",
+      "created_at": "Tue Jul 14 14:56:30 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "606",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNMlA0QaAAAF5He.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2077044572002382286"
+    },
+    {
+      "id": "2076820588648341635",
+      "text": "超多人跟我说 ShipSwift 的后端架构基于 AWS 全家桶，App Runner，DynamoDB，Cognito，S3 + CloudFront，Lambda，虽然稳定，但是对于 OPC MVP 来说有点重\n\n最近做 pawport 尝试了下 Cloudflare + Supabase，确实很香，可以做到小时级搭建，几乎零运维\n\n已更新到 shipswift 开源 repo",
+      "created_at": "Tue Jul 14 00:06:28 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "2875",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2076820588648341635"
+    },
+    {
+      "id": "2076088181615886745",
+      "text": "RT @DevJohnWayne: 全部开源啦 https://t.co/NtpoC4FchB",
+      "created_at": "Sat Jul 11 23:36:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 25,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2057971880817238016/img/5Le90M9RAAb6cHlR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2076088181615886745"
+    },
+    {
+      "id": "2075815269511971170",
+      "text": "介绍一下我们做的一些产品\n\n1. ShipSwift — AI-native 全栈组件库。\nhttps://t.co/Y3Ce1fU948\nSwiftUI + Hono + AWS，30+ 动画组件、8 种图表、Auth / Paywall / Chat / 相机等完整模块，全部是生产级代码。一条命令接入 MCP Server，让 Claude / Cursor 直接调 Recipe 写真实 App。\n开源（MIT）+ 付费 Pro Recipe（后端 + 合规 + 踩坑文档）。也接定制开发：48 小时出 Demo，4 周交付上架。\n\n2. 小店 — 帮你找到身边的烟火小店，俗称\"干美团\"。\nhttps://t.co/dVjkmyFFP2\n刷到抖音探店视频？粘贴链接，自动提取店名、招牌菜、真实评价，直接落到地图上。\n点评必须\"真实吃过\"——GPS 同城校验，没有水军，只有本地人的私藏推荐。\n\n3. PawPort — 新加坡宠物服务平台。\nhttps://t.co/B38k0598ZU\n疫苗、驱虫、体重一站式宠物健康档案；HDB 养狗合规检查、猫牌 PALS 申请助手；全岛 314 家政府持牌兽医 / 宠物店 / 寄养一图搜齐。\n\n4. Fullpack — 旅行打包与穿搭助手。\nhttps://t.co/PvvGHXXx8Q\n行程清单管理，打包建议，家里物品建库存，出门前用穿搭画布把搭配摆出来。",
+      "created_at": "Sat Jul 11 05:31:41 +0000 2026",
+      "favorite_count": 51,
+      "retweet_count": 6,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 71,
+      "views": "5966",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2075815269511971170",
+      "pinned": true
+    },
+    {
+      "id": "2075776012160475197",
+      "text": "给新加坡养宠家庭专门做了个 App\n\n把全岛 121 家 Veterinary Centre，108 家 Pet Shop 和 92 家 Boarding Facility 信息都整合进来了\n\n话说为啥一直没人做这件事呢，还是说我没看到 https://t.co/P249TWl8tm",
+      "created_at": "Sat Jul 11 02:55:42 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "4245",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HM6jPvlbgAIgXoR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2075776012160475197"
+    },
+    {
+      "id": "2075414931470746062",
+      "text": "一直想在 ios 上实现动态 UI，奈何苹果不允许实时生成 Swift/SwiftUI 源码然后在用户设备上编译运行😂",
+      "created_at": "Fri Jul 10 03:00:53 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2538",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2075414931470746062"
+    },
+    {
+      "id": "2075413740946944287",
+      "text": "未来三年就一个目标，向老登巨头持续的发起冲锋，时不我待，干就完了",
+      "created_at": "Fri Jul 10 02:56:09 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1843",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2075413740946944287"
+    },
+    {
+      "id": "2075208076265918802",
+      "text": "claude 桌面端已经进化到这个地步了，更好的渲染，命令支持，内置 terminal\n\n而且我觉得在 desktop 用 Fable 5 响应速度更快，是我的错觉吗 https://t.co/pbzqqSe6Ci",
+      "created_at": "Thu Jul 09 13:18:55 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1938",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMyeva6aQAA9Dvq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2075208076265918802"
+    },
+    {
+      "id": "2075189662029935024",
+      "text": "老登美食 app 是以店铺为中心去推荐，但是店铺太容易换马甲，刷分情况严重，用户很难判断，久而久之自然就失去信任\n\n所以我做小店的第一核心原则就是基于博主来推荐，不管是首页 feed 还是地图页的 marker，用户看到的第一元素永远是博主头像\n\n用户信任某个博主，就跟着这个博主去吃，如果跟吃体验不好，差评、拉黑，换一个博主去跟吃",
+      "created_at": "Thu Jul 09 12:05:45 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "4254",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2075187992394944512/img/Dwd4Zv6gnzBlJjRB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2075189662029935024"
+    },
+    {
+      "id": "2074695229354254688",
+      "text": "抖音不让我发小店 app 的内容了，帖子不给流量，付费加热都不行哈哈 https://t.co/DIodRJpSZN",
+      "created_at": "Wed Jul 08 03:21:03 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "620",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMrMTm7bsAAlIbB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2074695229354254688"
+    },
+    {
+      "id": "2072469771178901658",
+      "text": "我打了一个 Hi，请问你们触发了你们什么限制，给我自动切换到 opus4.8？ @ClaudeDevs @claudeai \n太荒缪了！ https://t.co/QqoPW4NQuT",
+      "created_at": "Wed Jul 01 23:57:52 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "521",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HMLj3X8bEAArEV6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2072469771178901658"
+    },
+    {
+      "id": "2072467149755670640",
+      "text": "你是在逗我吗？\n\n用了一早上 fable5，每次都给我切换回 opus4.8，都是些正常的代码任务。。。",
+      "created_at": "Wed Jul 01 23:47:27 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "668",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2072467149755670640"
+    },
+    {
+      "id": "2071228237385232396",
+      "text": "有了 claude code 之后，老是抑制不住冲动想去实现一些想法，做的差不多了又觉得兴味索然，然后被新的想法所吸引。\n半点责任不想负，留下一堆烂尾项目。\n\n这种渣男行为怎么克服😂",
+      "created_at": "Sun Jun 28 13:44:28 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "329",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2071228237385232396"
+    },
+    {
+      "id": "2070445121485807848",
+      "text": "RT @protoduct_ai: AIがSwiftUIを“それっぽく”書くことはできても、\n課金、オンボーディング、認証、設定画面、チャート、アニメーションみたいな\n実アプリに必要な型を知らないことが多い。\n\n↓↓↓ これで解決\n\nAIが参照できるSwiftUIの実装レシピ集…",
+      "created_at": "Fri Jun 26 09:52:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 41,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "ja",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2070445121485807848"
+    },
+    {
+      "id": "2067496798390976826",
+      "text": "小店最近又涨了 2000 用户，看来本地烟火小店推荐这个方向是选对了\n\n毕竟谁不想吃到烟火气满满的地道美食呢😆",
+      "created_at": "Thu Jun 18 06:37:03 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "249",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2067496798390976826"
+    },
+    {
+      "id": "2067433911781859658",
+      "text": "Keythron 键盘做的越来越好了，关键还是免费送的 https://t.co/nr6r5yLLk9",
+      "created_at": "Thu Jun 18 02:27:10 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2553",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HLEALTZakAAvj7S.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2067433911781859658"
+    },
+    {
+      "id": "2067417435742027829",
+      "text": "咔嘣咔的 Porcelain 模板，千字长文直接把图片配好，在小红书/ins 发的效果应该不错 https://t.co/yuzzYgU6oU",
+      "created_at": "Thu Jun 18 01:21:42 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "913",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HLDw8ylaMAAzFFB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2067417435742027829"
+    },
+    {
+      "id": "2067237669944570080",
+      "text": "Bento 风格展示了配图模板，效果还不错 https://t.co/xRdRzHP6dD",
+      "created_at": "Wed Jun 17 13:27:22 +0000 2026",
+      "favorite_count": 58,
+      "retweet_count": 6,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 55,
+      "views": "5879",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2067237515598467072/img/iFXOmeWnAB4UfRKU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2067237669944570080"
+    },
+    {
+      "id": "2064288838974091451",
+      "text": "最强 cladue 就是 4.6，不接受反驳\n4.7，4.8 太垃圾，4.6 1M 上下文也不行\n\nclaude --dangerously-skip-permissions --model claude-opus-4-6",
+      "created_at": "Tue Jun 09 10:09:46 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "358",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2064288838974091451"
+    },
+    {
+      "id": "2063839131546034611",
+      "text": "Confetti Fireworks，模拟金沙酒店烟花秀，基于 SwiftUI，已开源 https://t.co/L3NHP2U0qo",
+      "created_at": "Mon Jun 08 04:22:47 +0000 2026",
+      "favorite_count": 249,
+      "retweet_count": 16,
+      "reply_count": 6,
+      "quote_count": 2,
+      "bookmark_count": 167,
+      "views": "17537",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2063838267250999296/img/9MNVxMj5gEbg4XN4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2063839131546034611"
+    },
+    {
+      "id": "2062234250703995043",
+      "text": "我是很多年的国航白金卡，平均一年飞 50 次以上，今天决定以后都不坐国航了。\n\n体验实在太差，烂泥扶不上墙！",
+      "created_at": "Wed Jun 03 18:05:34 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "569",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2062234250703995043"
+    },
+    {
+      "id": "2061713885498163331",
+      "text": "新加坡养猫必须持牌，截止日是 8 月 31 日，未完成合规流程会罚款 SGD 5000。\n\n我把 AVS 猫牌申请的完整流程放到了 onbording，如果没有牌照，自动触发。 https://t.co/RxYk1syJPy",
+      "created_at": "Tue Jun 02 07:37:49 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "2537",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2061712796266766336/img/5U439oz7EaGDXH9R.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2061713885498163331"
+    },
+    {
+      "id": "2061411340133322772",
+      "text": "新加坡有 121 家猫狗 Veterinary Centre，108 家 Pet Shop 和 92 家 Boarding Facility。\n我把他们集成到了一张地图，放到了我的新 app 里面～ https://t.co/YsvPbmwA6t",
+      "created_at": "Mon Jun 01 11:35:37 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "371",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJuarYraUAADhfr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2061411340133322772"
+    },
+    {
+      "id": "2061076688562524421",
+      "text": "Wallet 组件，已在 shipswift 中开源\n\nhttps://t.co/TCLYiAKuTY https://t.co/kMMa9gAKUB",
+      "created_at": "Sun May 31 13:25:50 +0000 2026",
+      "favorite_count": 182,
+      "retweet_count": 13,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 167,
+      "views": "8174",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2061076412564643840/img/Qen_xecKXD8Hxji_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2061076688562524421"
+    },
+    {
+      "id": "2060748679267660084",
+      "text": "AWS 用多了，偶尔用下 supabase，感觉好轻松呀",
+      "created_at": "Sat May 30 15:42:26 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "460",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2060748679267660084"
+    },
+    {
+      "id": "2060566540710477835",
+      "text": "Star Nest，已开源\nhttps://t.co/kNq8jeDVQu https://t.co/aV1Yh6exhs",
+      "created_at": "Sat May 30 03:38:41 +0000 2026",
+      "favorite_count": 327,
+      "retweet_count": 16,
+      "reply_count": 2,
+      "quote_count": 2,
+      "bookmark_count": 320,
+      "views": "13657",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2060566442286981120/img/qV5dCpOKsVnuxxmM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2060566540710477835"
+    },
+    {
+      "id": "2060386289501999572",
+      "text": "PawPort 的 Onbording 页面 https://t.co/rRtcNi6Zb8",
+      "created_at": "Fri May 29 15:42:26 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "853",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJf2UQabEAApYKy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2060386289501999572"
+    },
+    {
+      "id": "2060355286385168571",
+      "text": "Holographic Cards，已开源\n\nhttps://t.co/WeXlIc900u https://t.co/SEddYscun2",
+      "created_at": "Fri May 29 13:39:14 +0000 2026",
+      "favorite_count": 1121,
+      "retweet_count": 76,
+      "reply_count": 11,
+      "quote_count": 4,
+      "bookmark_count": 1371,
+      "views": "54340",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2060355182333227008/img/8lq-IQhbcN7urmkg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2060355286385168571"
+    },
+    {
+      "id": "2060210763604906149",
+      "text": "我超级怕晚上狗狗突然不舒服，找不到 24h 营业诊所\n\n所以地图页面必须标记清楚，可以app 内预约，可以电话预约，当然也可以直接导航过去 https://t.co/ldqHKH101x",
+      "created_at": "Fri May 29 04:04:57 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1432",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2060209955656142848/img/hiP8tSBfugOhKWTx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2060210763604906149"
+    },
+    {
+      "id": "2059861169851228407",
+      "text": "研究了 2 天，准备搞个宠物行业的产品，做完第一个页面啦～ https://t.co/n3HCBkfduy",
+      "created_at": "Thu May 28 04:55:47 +0000 2026",
+      "favorite_count": 52,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 25,
+      "views": "10100",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2059860744032927744/img/vnOvxmjLkxq9jfx5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2059861169851228407"
+    },
+    {
+      "id": "2059602220342243547",
+      "text": "在新加坡做个大众点评有没有搞头？",
+      "created_at": "Wed May 27 11:46:49 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3841",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2059602220342243547"
+    },
+    {
+      "id": "2058433408767049776",
+      "text": "在新加坡交付的第一个项目，确实碾压本土玩家哈哈 https://t.co/Y825gtzxKQ",
+      "created_at": "Sun May 24 06:22:23 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "551",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2058433325040271361/img/1bie0iIiewSDlAFL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2058433408767049776"
+    },
+    {
+      "id": "2058357906672931158",
+      "text": "花一天时间就把demo 跑通了，是不是吊打的体验🥳 https://t.co/wpDPbcBYwl",
+      "created_at": "Sun May 24 01:22:22 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "840",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2058357572743450624/img/WTx_oG7BHW9oYgTk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2058357906672931158"
+    },
+    {
+      "id": "2058133612684546165",
+      "text": "哈芝巷的阿凡提餐厅，好吃 https://t.co/TKm9KGYiLo",
+      "created_at": "Sat May 23 10:31:06 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "789",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HI_1m5NaUAA-EEi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2058133612684546165"
+    },
+    {
+      "id": "2057442782705525014",
+      "text": "新加坡最大的剪发连锁集团的 app，体验不好，排队信息错误，剪发前没有消息提醒，没有 apple pay\n\n我两周就能做一个更好的版本 https://t.co/1zBiaXBDfh",
+      "created_at": "Thu May 21 12:45:59 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1282",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HI2BTfGaMAAncPt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2057442782705525014"
+    },
+    {
+      "id": "2057088109704274197",
+      "text": "Start-up Singapore 和 SEEDS capital 怎么申请，有没有 sg 的朋友知道 https://t.co/kf7F89wFq0",
+      "created_at": "Wed May 20 13:16:38 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "447",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIw-uskaoAA_KJc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2057088109704274197"
+    },
+    {
+      "id": "2056937683545739774",
+      "text": "OPC 都在做工具，像我这种做平台要去干美团的应该不多吧😂 https://t.co/I7X2cAwV19",
+      "created_at": "Wed May 20 03:18:54 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "413",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIu1wIZboAAHEOW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2056937683545739774"
+    },
+    {
+      "id": "2056762498196599156",
+      "text": "AI 圈影响最大的人 Andrej Karpathy 加入 Anthropic 了",
+      "created_at": "Tue May 19 15:42:47 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "590",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2056762498196599156"
+    },
+    {
+      "id": "2056727458754502934",
+      "text": "要不是字节恐吓要告我，小店现在肯定用户破 10 万了\n特么白白耽误我一个月时间🤬 https://t.co/wj8PVlquGn",
+      "created_at": "Tue May 19 13:23:32 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "381",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIr2uKVb0AAHyKQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2056727458754502934"
+    },
+    {
+      "id": "2056159064288326090",
+      "text": "现在满大街都是连锁店、品牌店，某评某团点开也全是耳熟能详的名字，餐饮越来越规模化，这是不可避免的趋势\n\n这种店吃着放心，但实在无趣\n\n所以很多人在怀念烟火气、怀念现炒现做，想尝到真正有特色的味道\n店面不用大，服务不用周到\n但味道一定要真诚，不能太多预制，价格也要实惠\n\n问题是，这种店靠的是邻里口口相传，在流量时代几乎不可能被大众看到\n\n这就是我做小店的原因，怎么实现呢\n\n第一，基于真实的邻里推荐\n任何人都可以创建小店，但只有附近 10km 范围内的人能点评、打分，后续我们还会公开所有店铺数据，彻底杜绝刷分和打榜\n第二，跟着靠谱的探店博主去吃\n某音上有大量不接广的探店博主，比如乌某啦、刘某鑫，他们帮大家找了大量的宝藏烟火小店\n你可以直接从某音导入他们的视频，我们帮你找到这家店，一键导航过去\n\n不管你是想在家附近找宝藏小店，还是出差旅行到异地想体验特色，希望我们都能帮你在纷繁的流量里找到最真诚的味道",
+      "created_at": "Sun May 17 23:44:57 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "364",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIjxw5oawAA9EDn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2056159064288326090"
+    },
+    {
+      "id": "2056018325457850840",
+      "text": "不知道这个收入在独立开发者里面属于什么水平 https://t.co/qKFKYBBUWP",
+      "created_at": "Sun May 17 14:25:42 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "313",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIhxteRbYAAbjPA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2056018325457850840"
+    },
+    {
+      "id": "2055891889002565735",
+      "text": "巨讨厌预制菜，来了新加坡只吃得起预制菜\n我太难了 https://t.co/R32leumS2P",
+      "created_at": "Sun May 17 06:03:17 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "305",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2055891768458334208/img/iJm41SlrHcszlgtJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2055891889002565735"
+    },
+    {
+      "id": "2055060792744218877",
+      "text": "进 appstore 前五十了，继续冲 https://t.co/5yAgzK4QSH",
+      "created_at": "Thu May 14 23:00:48 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "298",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIUK5Zra0AADZ7A.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2055060792744218877"
+    },
+    {
+      "id": "2054172705340170631",
+      "text": "用 html 跟 claude code 聊天爽爆了",
+      "created_at": "Tue May 12 12:11:52 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "236",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2054172705340170631"
+    }
+  ]
+}

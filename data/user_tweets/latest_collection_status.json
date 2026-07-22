@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:04:28.460756Z",
+  "generated_at": "2026-07-22T02:05:50.997484Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -730,6 +730,31 @@
       "latest_tweet_id": "2077722350804664782",
       "oldest_tweet_created_at": "2023-11-16T06:36:17Z",
       "oldest_tweet_id": "1725040072020595027"
+    },
+    "devjohnwayne": {
+      "status": "completed",
+      "twitter_url": "https://x.com/DevJohnWayne",
+      "twitter_rest_id": "2007364793162977280",
+      "vibeloft_username": "user5bc5f8dc",
+      "vibeloft_nickname": "John Wayne",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/user5bc5f8dc",
+      "started_at": "2026-07-22T02:00:37.760958Z",
+      "data_file": "data/user_tweets/vibeloft/devjohnwayne.json",
+      "stop_on_existing": false,
+      "handle": "DevJohnWayne",
+      "updated_at": "2026-07-22T02:05:50.997476Z",
+      "completed_at": "2026-07-22T02:05:50.996166Z",
+      "completed_at_local": "2026-07-22T10:05:50.996184+08:00",
+      "history_complete": true,
+      "pages_collected_total": 8,
+      "new_tweets_last_run": 53,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 53,
+      "latest_tweet_created_at": "2026-07-22T00:09:14Z",
+      "latest_tweet_id": "2079720388804989174",
+      "oldest_tweet_created_at": "2026-05-12T12:11:52Z",
+      "oldest_tweet_id": "2054172705340170631"
     }
   }
 }
