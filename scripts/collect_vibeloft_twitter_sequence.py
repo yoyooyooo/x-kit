@@ -699,6 +699,7 @@ def main() -> int:
                 "paused": False,
                 "pause_reason": "",
                 "rate_limit_reset_at": None,
+                "rate_limit_reset_at_local": None,
                 "last_run_started_at": utc_now(),
                 "input_file": str(args.accounts),
                 "account_count": len(accounts),
@@ -754,6 +755,7 @@ def main() -> int:
                                 "paused": True,
                                 "pause_reason": str(exc),
                                 "rate_limit_reset_at": None,
+                                "rate_limit_reset_at_local": None,
                                 "next_index": index,
                                 "current_handle": handle,
                                 "last_run_finished_at": utc_now(),
@@ -802,18 +804,19 @@ def main() -> int:
 
                 completed_this_run += 1
                 next_index = index + 1
-                save_state(
-                    {
-                        "next_index": next_index,
-                        "current_handle": None,
-                        "last_completed_handle": handle,
-                        "last_completed_at": utc_now(),
-                    }
-                )
+                stop_after_user = bool(args.max_users_per_run and completed_this_run >= args.max_users_per_run)
+                state_patch = {
+                    "next_index": next_index,
+                    "current_handle": None,
+                    "last_completed_handle": handle,
+                    "last_completed_at": utc_now(),
+                }
+                if stop_after_user:
+                    state_patch["last_run_finished_at"] = utc_now()
+                save_state(state_patch)
                 if args.git_sync and result.get("status") == "completed":
                     git_sync_after_user(handle)
-                if args.max_users_per_run and completed_this_run >= args.max_users_per_run:
-                    save_state({"last_run_finished_at": utc_now()})
+                if stop_after_user:
                     print(f"[stop] max-users-per-run={args.max_users_per_run}")
                     return 0
 
@@ -822,6 +825,7 @@ def main() -> int:
                 "paused": False,
                 "pause_reason": "",
                 "rate_limit_reset_at": None,
+                "rate_limit_reset_at_local": None,
                 "next_index": 0,
                 "current_handle": None,
                 "last_full_cycle_completed_at": utc_now(),
