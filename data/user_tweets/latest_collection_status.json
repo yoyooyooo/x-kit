@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:03:48.516868Z",
+  "generated_at": "2026-07-22T20:12:09.737105Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1075,6 +1075,32 @@
       "latest_tweet_id": "2079806591914893779",
       "oldest_tweet_created_at": "2022-12-21T01:50:22Z",
       "oldest_tweet_id": "1605380124320206849"
+    },
+    "yoyo_404_": {
+      "status": "completed",
+      "twitter_url": "https://x.com/YoYo_404_",
+      "twitter_rest_id": "1256637891020599297",
+      "vibeloft_username": "sameral",
+      "vibeloft_nickname": "Sameral",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/sameral",
+      "started_at": "2026-07-22T20:00:00.718916Z",
+      "data_file": "data/user_tweets/vibeloft/yoyo_404_.json",
+      "stop_on_existing": false,
+      "handle": "YoYo_404_",
+      "updated_at": "2026-07-22T20:12:09.737097Z",
+      "paused_at": "2026-07-22T19:18:38.509696Z",
+      "history_complete": true,
+      "error": "",
+      "completed_at": "2026-07-22T20:12:09.736382Z",
+      "completed_at_local": "2026-07-23T04:12:09.736391+08:00",
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 248,
+      "stop_reason": "consecutive_empty_pages_3",
+      "tweet_count": 616,
+      "latest_tweet_created_at": "2026-07-22T14:54:46Z",
+      "latest_tweet_id": "2079943239650685032",
+      "oldest_tweet_created_at": "2025-10-27T14:07:21Z",
+      "oldest_tweet_id": "1982811357259944267"
     }
   }
 }
