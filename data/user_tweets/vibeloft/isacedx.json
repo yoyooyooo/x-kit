@@ -1,0 +1,1789 @@
+{
+  "handle": "isacedx",
+  "twitter_url": "https://x.com/isacedx",
+  "twitter_rest_id": "636195098",
+  "vibeloft": {
+    "username": "isaced",
+    "nickname": "isaced",
+    "profile_url": "https://vibeloft.ai/profile/isaced"
+  },
+  "generated_at": "2026-07-22T11:27:14.831353Z",
+  "stats": {
+    "tweet_count": 95,
+    "latest_tweet_created_at": "2026-03-26T05:57:50Z",
+    "latest_tweet_id": "2037046346797244498",
+    "oldest_tweet_created_at": "2012-07-16T02:23:49Z",
+    "oldest_tweet_id": "224690772623114240"
+  },
+  "tweets": [
+    {
+      "id": "2037046346797244498",
+      "text": "试了一下 Lynx (@LynxJS_org)，可以快速覆盖 iOS + HarmonyOS 两端对我来说已经足够，配合 Bun 和 TailwindCSS 开发体验也还不错，官方还提供了 AGENTS.md/llms.txt/doc mcp 优化大模型理解，计划在接下来的项目中试试。 https://t.co/D5Q45fylCK",
+      "created_at": "Thu Mar 26 05:57:50 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "207",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HEUJoRAaoAApM3U.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2037046346797244498"
+    },
+    {
+      "id": "2011466576516763787",
+      "text": "用 Gemini 3 Pro 重新设计了一下，效果还不错。 https://t.co/FmlTQhdGMF https://t.co/C5q7gMuBYY",
+      "created_at": "Wed Jan 14 15:52:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "69",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-oqMDDawAA7RTJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2011466576516763787"
+    },
+    {
+      "id": "1990744109578170805",
+      "text": "在国内复制 Vercel 运营最大的问题主要是监管和带宽成本的问题，是否有可能换一个思路，做一个“托管基础设施”的模式，保留构建、CI/CD、可视化操作、部署体验，底层的服务器、CDN、函数计算由用户自己提供，通过各大云平台的开放 API 进行代交互。",
+      "created_at": "Tue Nov 18 11:29:16 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1990744109578170805"
+    },
+    {
+      "id": "1943942800740884587",
+      "text": "Kimi 的更新说明有点意思啊！ @Kimi_Moonshot https://t.co/Ahai4tifnr",
+      "created_at": "Sat Jul 12 07:57:35 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "216",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GvpFqrRWEAA6nIg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GvpFqqeaIAA8mDQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1943942800740884587"
+    },
+    {
+      "id": "1943864393651171774",
+      "text": "RT @Kimi_Moonshot: 🚀 Hello, Kimi K2!  Open-Source Agentic Model!\n🔹 1T total / 32B active MoE model\n🔹 SOTA on SWE Bench Verified, Tau2 &amp; Ace…",
+      "created_at": "Sat Jul 12 02:46:01 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 1133,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1943864393651171774"
+    },
+    {
+      "id": "1904529760773923310",
+      "text": "RT @deepseek_ai: 🚀 DeepSeek-V3-0324 is out now!\n\n🔹 Major boost in reasoning performance\n🔹 Stronger front-end development skills\n🔹 Smarter t…",
+      "created_at": "Tue Mar 25 13:44:14 +0000 2025",
+      "favorite_count": 0,
+      "retweet_count": 1882,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1904529760773923310"
+    },
+    {
+      "id": "1864856327488704810",
+      "text": "越来越多的 Framework 注重 DX (Developer Experience)，采用 “生成式” 设计方式设计更加优雅的 API 和更易用的开发体验，比如：\n\n1. Prisma：生成数据模型的 TypeScript 定义和 CRUD 方法\n2. TanStack Router： 生成 TypeScript 路由定义\n3. GORM：生成数据模型的 Golang 结构体和 CRUD 方法",
+      "created_at": "Fri Dec 06 02:16:10 +0000 2024",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "374",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1864856327488704810"
+    },
+    {
+      "id": "1862711076594631069",
+      "text": "早上起来部署在阿里云 CDN 免费的三个月 SSL 证书又过期了，推荐一下 @usual2971 开发的 cerimate，支持自动证书签发 + 上传到各种云服务，提前 10 天自动更新。\n\n很赞的是非常轻量，用 Go 语言编写，基于 SQLite，Docker 一键部署在我的小机上只需要 16MB 内存。\n\nhttps://t.co/m9QWT3cTQh https://t.co/JhyioS8SIn",
+      "created_at": "Sat Nov 30 04:11:42 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "262",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GdmrMSzXMAApUGe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1862711076594631069"
+    },
+    {
+      "id": "1858812429817544842",
+      "text": "一直好奇 GitHub Copilot for Xcode 是怎么实现在 Xcode 中的断行处显示提示代码的，尝试在输入状态时拖动一下 Xcode 窗口，果然是障眼法，盖了一个 Text View 在屏幕上。。。 https://t.co/VFgW4TDMsD",
+      "created_at": "Tue Nov 19 09:59:52 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "218",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GcvTTyWXoAAlMAS.png"
+        }
+      ],
+      "url": "https://x.com/i/status/1858812429817544842"
+    },
+    {
+      "id": "1853406883199205655",
+      "text": "Dokploy 是基于 Node.js + Nest.js + Redis + PostgreSQL + Traefik 构建的，对机器内存还是有一定要求；我理想的这类 self-host 应用应该把内存控制在 50MB 之内，后端基于 Golang + SQLite + Caddy，前端也别整什么 SSR 了，Darshboard SPA 单页应用跑起来，把宿主机资源尽可能都留给业务应用。",
+      "created_at": "Mon Nov 04 12:00:10 +0000 2024",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "271",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1853406883199205655"
+    },
+    {
+      "id": "1826408833482445014",
+      "text": "之前用 M2 Pro 玩了一阵永劫无间，机器烫的可以煎鸡蛋 🍳",
+      "created_at": "Wed Aug 21 23:59:33 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "364",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1826408833482445014"
+    },
+    {
+      "id": "1825930702187278594",
+      "text": "黑猴上架第一天，大家都在 “直面天命”，我去完成了 Unity 第一课，官方交互式、视频+图文形式的教程学起来效率还是挺高的。 https://t.co/rNHWQRBEgv",
+      "created_at": "Tue Aug 20 16:19:38 +0000 2024",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "344",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GVcBcn8aMAIAkTs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1825930702187278594"
+    },
+    {
+      "id": "1824977812786467296",
+      "text": "7900XT 还能再战一战，黑神话悟空 90 帧 https://t.co/Kl7jYJIUB7",
+      "created_at": "Sun Aug 18 01:13:11 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "376",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GVOfpKKaUAAOp7J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1824977812786467296"
+    },
+    {
+      "id": "1818171622291026116",
+      "text": "少有的为中国大陆进行网络优化的开源软件 👍",
+      "created_at": "Tue Jul 30 06:27:49 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "253",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1818171622291026116"
+    },
+    {
+      "id": "1802653502755463516",
+      "text": "被推油诱惑，今天也跑去趁618下了台极米的投影仪，从 Z6X 看到 Z7X ，再看到 R10 mini ，再看到 R10，越看眼越花，最终还是选了台4K三色激光，且看效果如何了。 https://t.co/SMMpLYnp4a",
+      "created_at": "Mon Jun 17 10:44:21 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "289",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GQRPzYtawAAU5ZJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1802653502755463516"
+    },
+    {
+      "id": "1795479107335279054",
+      "text": "Swift UI 果然还是被移植到前端世界了",
+      "created_at": "Tue May 28 15:35:52 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "249",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1795479107335279054"
+    },
+    {
+      "id": "1793983358776828163",
+      "text": "奇怪某个站点的 Vercel 显示的请求消耗远比 Google Analytics 统计的多，翻看了一下访问日志，原来之前授权过 ahrefs（SEO Tools），然后它真的会不断爬你的网站，消耗你的带宽。还好 ahrefs 后台可以灵活开关和调整频率。 https://t.co/TwvmNv4CTC",
+      "created_at": "Fri May 24 12:32:17 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "222",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GOWBbcnbAAEdHFK.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GOWB7TbbgAApGXu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1793983358776828163"
+    },
+    {
+      "id": "1765530653570084934",
+      "text": "终于可以在 Bun 中通过 HTTP UNIX Socket 操作 Docker 了，兼容了 dockerode",
+      "created_at": "Thu Mar 07 00:11:24 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "323",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1765530653570084934"
+    },
+    {
+      "id": "1760223831598534725",
+      "text": "还真有… https://t.co/scj7AZWF8m",
+      "created_at": "Wed Feb 21 08:43:59 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "242",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GG2SPmsakAAAd-q.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1760223831598534725"
+    },
+    {
+      "id": "1756610325066240262",
+      "text": "以后咱也是有 IPv6 的人了，回头再看看 ECS 怎么把 IPv6 出网打开。 https://t.co/dPm3sVWhXm",
+      "created_at": "Sun Feb 11 09:25:12 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "218",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GGC7xp6aoAAfwIE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1756610325066240262"
+    },
+    {
+      "id": "1752726524099477569",
+      "text": "RT @github: 📣 Exciting news for GitHub Actions! \n\nA new GitHub hosted Apple silicon (M1) runner is now available for all plans, including o…",
+      "created_at": "Wed Jan 31 16:12:22 +0000 2024",
+      "favorite_count": 0,
+      "retweet_count": 142,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1752726524099477569"
+    },
+    {
+      "id": "1752330782956503427",
+      "text": "简单试了下，CodeLlama-70B-Instruct 对比 GPT-3.5 在代码生成上确实效果更好。 https://t.co/1kZ5NBVd4k",
+      "created_at": "Tue Jan 30 13:59:50 +0000 2024",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "207",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GFGHOh7bIAAmQvq.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GFGHiZUaoAAL6gL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1752330782956503427"
+    },
+    {
+      "id": "1739465433907073363",
+      "text": "一直觉得 Next.js 中间件设计的比较低级，不太利于上层使用，特别是需要多个中间件的场景，这篇推介绍了通过 Hono 这个遵循 Web 标准且 Serverless 友好的 Web 框架来做 API 路由层，感觉不错，准备下个项目试试",
+      "created_at": "Tue Dec 26 01:57:31 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "279",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1739465433907073363"
+    },
+    {
+      "id": "1734039617652105293",
+      "text": "有点被 Google Bard 的识图能力惊到了，传了一个软件的设置页截图，居然能识别出这是什么软件，关键是这张图并没有任何关于这个软件的名称信息 https://t.co/Vo8DE8HzLH",
+      "created_at": "Mon Dec 11 02:37:16 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "444",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBCLQ0vacAAdh74.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GBCLQBhbMAAFfmy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1734039617652105293"
+    },
+    {
+      "id": "1717053187402924261",
+      "text": "RT @prisma: 🚢 Prisma ORM v5.5.0 is out!\n\nToday, we shipped:\n🌟 Improvements to the serverless database drivers (Preview)\n🌟 3 new flags for t…",
+      "created_at": "Wed Oct 25 05:39:15 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 19,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1717053187402924261"
+    },
+    {
+      "id": "1711789885785604234",
+      "text": "PlanetScale 家的 MySQL 教程真心不错，推荐一下 https://t.co/D5V8Ml7Qtn",
+      "created_at": "Tue Oct 10 17:04:46 +0000 2023",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "425",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1711789885785604234"
+    },
+    {
+      "id": "1699771184949162023",
+      "text": "Apple 打款第二次莫名被退回，招行始终查不到记录，折腾不动了，换民生香港😓",
+      "created_at": "Thu Sep 07 13:06:45 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "198",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1699771184949162023"
+    },
+    {
+      "id": "1699232716410233272",
+      "text": "https://t.co/bm1kfsnFl6",
+      "created_at": "Wed Sep 06 01:27:04 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "158",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/F5TjHldbQAAbgl0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/F5TjHlfasAAb0aO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/F5TjHlgbkAA6HDY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1699232716410233272"
+    },
+    {
+      "id": "1697270460667539586",
+      "text": "使用 SwiftUI 构建一个新的 macOS App https://t.co/V1rMBYyrWv",
+      "created_at": "Thu Aug 31 15:29:46 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "194",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/F43qFYnbYAAFpi1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1697270460667539586"
+    },
+    {
+      "id": "1697125172938248517",
+      "text": "2023 Google 开发者大会，下周上海见！ https://t.co/YI7tvrihLh",
+      "created_at": "Thu Aug 31 05:52:26 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "251",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/F41mRDWasAAY_lR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1697125172938248517"
+    },
+    {
+      "id": "1693098721540706377",
+      "text": "最近经常通过夸克网盘给 NAS 填充资源，为了让 Infuse 识别，每次都要将资源下载到本地再重命名，写了一个油猴脚本给夸克 Web 端增加在线批量重命名功能 https://t.co/1JNN8rkTmz",
+      "created_at": "Sun Aug 20 03:12:46 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "795",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1693098721540706377"
+    },
+    {
+      "id": "1675426576702513152",
+      "text": "去年基于 Cocos Creator 游戏产品夭折了，后面打算用 SwiftUI 开发一款模拟类游戏，文字为主，让 Midjourney 担任美术，GPT 辅助文案设计，地球 Online 生存模拟。",
+      "created_at": "Sun Jul 02 08:49:58 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "288",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1675426576702513152"
+    },
+    {
+      "id": "1675292421100548097",
+      "text": "论上手成本 Svelte 真的太低了，最近有个小项目首次尝试了 Svelte，没有框架带给你的心智负担，结合 Copilot 和少量文档查阅完成工作，关键是写着心情很愉悦",
+      "created_at": "Sat Jul 01 23:56:53 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "437",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1675292421100548097"
+    },
+    {
+      "id": "1660984119260774401",
+      "text": "程序员除了技术全栈化的方向外，也可以考虑往全栈设计师 (Full Stack Designer) 发展，特别是作为独立开发者，为的不一定是多干一个人的活，而是可以对自己的产品和用户有深刻的理解。 https://t.co/8YRXcicEXZ",
+      "created_at": "Tue May 23 12:20:48 +0000 2023",
+      "favorite_count": 111,
+      "retweet_count": 9,
+      "reply_count": 11,
+      "quote_count": 1,
+      "bookmark_count": 33,
+      "views": "10646",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Fwz_nKhaAAAVGlF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1660984119260774401"
+    },
+    {
+      "id": "1659437884854894592",
+      "text": "英伟达股价近半年翻了一倍 https://t.co/3ESiZ0Gcdk",
+      "created_at": "Fri May 19 05:56:37 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "362",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FweBw_NagAEikRA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1659437884854894592"
+    },
+    {
+      "id": "1657575255240753152",
+      "text": "日志服务阿里云 SLS 切到 @AxiomFM  了，UI非常简洁清爽，免费额度（500G/月数据传入，保留30天）基本够用了，可以说是日志服务的理想型儿了 https://t.co/GL6sD2g793",
+      "created_at": "Sun May 14 02:35:11 +0000 2023",
+      "favorite_count": 120,
+      "retweet_count": 19,
+      "reply_count": 8,
+      "quote_count": 1,
+      "bookmark_count": 72,
+      "views": "15905",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FwDimW8aUAAQZtU.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FwDi0BcaUAALCC8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FwDi7a-agAA8zQ3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1657575255240753152"
+    },
+    {
+      "id": "1655747970611167237",
+      "text": "RT @GcZsmkv: 🎈Mac端极简风的第三方V2EX App“V2exOS”现已支持Apple TV端，就等于可以躺着用Siri Remote刷V2EX惹，体验还不戳，支持深色模式！ https://t.co/1zvM6pqh7E",
+      "created_at": "Tue May 09 01:34:13 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FvoBd_ZaAAA_blb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1655747970611167237"
+    },
+    {
+      "id": "1652868364191301632",
+      "text": "快一个月没收到 Apple 的打款，再次电话给建行客服查美元入账记录，态度太差了，感觉像我欠银行钱一样，相比 Apple 电话客服简直天差地别，Apple 客服即使没有立即解决你的问题也会细心周到的提供可能的解决方案，无论是语气、处理方式都让人很舒服。🤷",
+      "created_at": "Mon May 01 02:51:41 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "247",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1652868364191301632"
+    },
+    {
+      "id": "1636724212818907143",
+      "text": "对比 23 款 Mac mini M2 Pro 和 15 款 MacBook Pro 的磁盘读写性能差距还挺大的 https://t.co/O79LM67kpx",
+      "created_at": "Fri Mar 17 13:40:35 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "371",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FrbPZsdaAAAWXa_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FrbPZsaaUAAfjK7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1636724212818907143"
+    },
+    {
+      "id": "1634170730979147776",
+      "text": "Apple Store 进不去了，是要有什么动作了吗？ https://t.co/xbMrP8ljAu",
+      "created_at": "Fri Mar 10 12:33:58 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1059",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Fq29nWOaEAIrDyl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1634170730979147776"
+    },
+    {
+      "id": "1629804436058152960",
+      "text": "一份关于 React Native 的开发者调研报告，来自 1800+名开发者，可以了解下目前 RN 的生态和趋势\nhttps://t.co/hKPOisMyj8",
+      "created_at": "Sun Feb 26 11:23:52 +0000 2023",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "175",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1629804436058152960"
+    },
+    {
+      "id": "1629284039789268993",
+      "text": "不用 Raycast 的唯一理由是性能问题，效率场景对打开速度很敏感，最终还是切回了 Alfred",
+      "created_at": "Sat Feb 25 00:56:00 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "266",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1629284039789268993"
+    },
+    {
+      "id": "1628547515422474240",
+      "text": "Unfortunately, the free plan can only be triggered once a day",
+      "created_at": "Thu Feb 23 00:09:19 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "224",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1628547515422474240"
+    },
+    {
+      "id": "1628433739591331840",
+      "text": "RT @NotionHQ: Notion AI is now available to everyone.\n\nNo waitlist, no “limited preview.”\n\nGet started: https://t.co/qKmTw6ieJP https://t.c…",
+      "created_at": "Wed Feb 22 16:37:13 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 1517,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1628433739591331840"
+    },
+    {
+      "id": "1627317404794773506",
+      "text": "A TypeScript module for Node.js that interacts with the App Store Connect API, providing support for all APIs based on OpenAPI specification.\n\nhttps://t.co/eZiWkjLaG8",
+      "created_at": "Sun Feb 19 14:41:18 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "139",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1627317404794773506"
+    },
+    {
+      "id": "1626626337195827203",
+      "text": "新姿势",
+      "created_at": "Fri Feb 17 16:55:14 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "244",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/1626626337195827203"
+    },
+    {
+      "id": "1626612709814059009",
+      "text": "借助 ChatGPT 实现 AI Commit，感觉太奇妙了。 \naicommits 这个 CLI 工具运行 git diff 以获取最新的代码变更，将它们发送到 OpenAI 的 GPT-3，然后返回 AI 生成的 Commit Message。\nhttps://t.co/dkk2M2x3wU https://t.co/BDZrNDKNNi",
+      "created_at": "Fri Feb 17 16:01:05 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "258",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FpLjKE5aAAY1_Yr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1626612709814059009"
+    },
+    {
+      "id": "1626499887767650307",
+      "text": "疑似自2月15日起，GFW已解除了对Steam、Github的干扰，现在可以直连访问，速度还可以，你们那怎么样？\nhttps://t.co/kbgY310B0Z https://t.co/DwGYk0wqj5",
+      "created_at": "Fri Feb 17 08:32:46 +0000 2023",
+      "favorite_count": 23,
+      "retweet_count": 8,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "6502",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FpJ8pEYacAARQjA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1626499887767650307"
+    },
+    {
+      "id": "1625659578963890177",
+      "text": "RT @deno_land: Watching 👀 the filesystem is easy with `Deno.watchFs` 👇\n\n(This also works on Windows) https://t.co/bJV1EVthHv",
+      "created_at": "Wed Feb 15 00:53:41 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 40,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/1625619283463249920/pu/img/VdIt6A1HbIwH9PYl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1625659578963890177"
+    },
+    {
+      "id": "1624417849363292160",
+      "text": "花了一点点时间把 V2exOS 适配了 iOS 和 tvOS (原来只支持 macOS)，用自己的 App 就是顺心，想怎么玩就怎么玩，话说 SwiftUI 做跨平台应用还真是方便 https://t.co/jOKOViqflI",
+      "created_at": "Sat Feb 11 14:39:30 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "361",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FosXaqUaYAAphxm.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FosXaqSaEAAz_jz.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FosXaqSaEAM3kgH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1624417849363292160"
+    },
+    {
+      "id": "1623863524459175941",
+      "text": "Quora 刚刚推出的 AI 对话机器人 Poe，Poe 上的 AI 目前由 OpenAI 和 Anthropic 的模型提供支持，Poe 这个名字是“Platform for Open Exploration”的缩写。\n\n如今真是 AI 热潮\n\nhttps://t.co/iRQCTrNEyq",
+      "created_at": "Fri Feb 10 01:56:48 +0000 2023",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "195",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1623863524459175941"
+    },
+    {
+      "id": "1620058083899887617",
+      "text": "全球第一个 tvOS 上的 V2EX 客户端即将出炉 😄 https://t.co/9b8zwDBonT",
+      "created_at": "Mon Jan 30 13:55:21 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "189",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FnuaA0FaEAANf6V.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1620058083899887617"
+    },
+    {
+      "id": "1613716030559522821",
+      "text": "测了一下连接各个镜像源的速度，没想到一直用的阿里云是最慢的，中科大最快可以跑到 50MB/s https://t.co/uwKG6cnddg https://t.co/FLrBRTTRBw",
+      "created_at": "Fri Jan 13 01:54:17 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "179",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FmURZxkakAA2RoA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1613716030559522821"
+    },
+    {
+      "id": "1613591290524098560",
+      "text": "Vercel 已经从 yarn 切换到 pnpm 了，我也再试试看 https://t.co/UzKXTYuVNd",
+      "created_at": "Thu Jan 12 17:38:37 +0000 2023",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "247",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FmSgrOfaEAEtce-.png"
+        }
+      ],
+      "url": "https://x.com/i/status/1613591290524098560"
+    },
+    {
+      "id": "1610458973974716416",
+      "text": "RT @GcZsmkv: 起飞了作者新作与Banana Browser同样代码/功能的Apple TV 浏览器“Airon ”TF来了！（之前加入前者的就别占着TF名额了） https://t.co/sCMrlMXQZ3",
+      "created_at": "Wed Jan 04 02:11:54 +0000 2023",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FlhmtpIaEAAVWvb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1610458973974716416"
+    },
+    {
+      "id": "1600366058103185408",
+      "text": "RT @Mystryl: 实测有效 屏蔽iOS开屏广告 https://t.co/22cYDPMFEz",
+      "created_at": "Wed Dec 07 05:46:16 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 308,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FjV7bq4UUAIBhU8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1600366058103185408"
+    },
+    {
+      "id": "1599632202593374208",
+      "text": "RT @vikingmute: 开一个 🧵thread 记录一下简单简历(https://t.co/xkpKTH0tUV) 用到的所有优质的免费服务，消费降级的年代，独立开发省钱非常必要，欢迎大家评论补充，帖子会一直更新，欢迎收藏。",
+      "created_at": "Mon Dec 05 05:10:11 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 220,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1599632202593374208"
+    },
+    {
+      "id": "1596179760199393280",
+      "text": "家里不知几代小米盒子居然放不了 1080P H.264 片子，趁黑五京东 1288 赶紧下了一台 Apple TV https://t.co/uvpMxt4Wjb",
+      "created_at": "Fri Nov 25 16:31:25 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FibFBqvUYAAtTiM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1596179760199393280"
+    },
+    {
+      "id": "1596070248179912704",
+      "text": "发现一个有用的工具 msmbps，可以在线测试本机到各主流云服务商不同机房的连接速度\n\nhttps://t.co/LwbGr4hZiG https://t.co/nbzzpFW6fW",
+      "created_at": "Fri Nov 25 09:16:15 +0000 2022",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FiZgrKSUoAA718J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1596070248179912704"
+    },
+    {
+      "id": "1593196440406618113",
+      "text": "RT @zachlloydtweets: 1/ Today, we’re announcing the launch of our IDE-style terminal input!\n\nSyntax &amp; error highlighting, Intellisense-like…",
+      "created_at": "Thu Nov 17 10:56:46 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 136,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1593196440406618113"
+    },
+    {
+      "id": "1592316422788911106",
+      "text": "RT @deno_land: 🤯 https://t.co/5lrkTaBT9r",
+      "created_at": "Tue Nov 15 00:39:53 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 220,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "qme",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/1592273908173983744/pu/img/Aj9pg6kme76-g1mr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1592316422788911106"
+    },
+    {
+      "id": "1590884430432047104",
+      "text": "很久没写博客了，记录一下最近关于使用 SwiftUI、SPM、Xcode Cloud 的一些体会，同时分享一下 V2exOS 这个开源项目的诞生过程\nhttps://t.co/Rl7TH1PoSP",
+      "created_at": "Fri Nov 11 01:49:40 +0000 2022",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1590884430432047104"
+    },
+    {
+      "id": "1574630891896201216",
+      "text": "V2exOS - 用 SwiftUI 写了一个 V2EX 客户端 https://t.co/OJfoevJe61 https://t.co/2uakqNxkJI",
+      "created_at": "Tue Sep 27 05:23:54 +0000 2022",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/Fdo2clIUAAAyPLx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1574630891896201216"
+    },
+    {
+      "id": "1572948788234571777",
+      "text": "终于开通了 GitHub Sponsors，踏出成为全职开源开发者的第一步 💖 https://t.co/Vr9XbqxzQJ",
+      "created_at": "Thu Sep 22 13:59:49 +0000 2022",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1572948788234571777"
+    },
+    {
+      "id": "1559567550219841537",
+      "text": "RT @tibo_maker: Can you launch your startup in 1 week? \n\nAbsolutely!\n\nActually, you should.\n\nI've built 14+ products and scaled one to $1,0…",
+      "created_at": "Tue Aug 16 15:47:33 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 425,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1559567550219841537"
+    },
+    {
+      "id": "1554645613840478208",
+      "text": "Go 1.19 增加了龙芯架构支持 👍 https://t.co/WPeC9fKS7R",
+      "created_at": "Wed Aug 03 01:49:32 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FZM1sKsVsAE35Dc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1554645613840478208"
+    },
+    {
+      "id": "1539832986316595201",
+      "text": "Swift 5.7 finally simplifies `if let` syntax https://t.co/LuXao7MIXl",
+      "created_at": "Thu Jun 23 04:49:27 +0000 2022",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FV6VetyVUAAWXSx.png"
+        }
+      ],
+      "url": "https://x.com/i/status/1539832986316595201"
+    },
+    {
+      "id": "1539763323180199936",
+      "text": "RT @reactnative: React Native 0.69 is out with React 18 🎉, bundled Hermes 🎒, and more!\n\nWe go over the new release in this blog post: https…",
+      "created_at": "Thu Jun 23 00:12:38 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 301,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1539763323180199936"
+    },
+    {
+      "id": "1538292197778305024",
+      "text": "在 @bitrise 上构建一个小型 React Native 项目（Demo 级别），花了 28 分钟，这大概会成为退坑 React Native 理由之一吧 🙃 https://t.co/hQNHa7yi5Z",
+      "created_at": "Sat Jun 18 22:46:54 +0000 2022",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FVkbrvSUYAEKmoB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1538292197778305024"
+    },
+    {
+      "id": "1537937428308447232",
+      "text": "RT @TauriApps: https://t.co/EvT2uwTQcb",
+      "created_at": "Fri Jun 17 23:17:11 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 59,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zxx",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FVWeOKPXoAIpHDk.png"
+        }
+      ],
+      "url": "https://x.com/i/status/1537937428308447232"
+    },
+    {
+      "id": "1533972595632054272",
+      "text": "RT @twannl: Finally!!! \n\nI nominate this as the best new feature of #xcode14 #WWDC22 🤩 https://t.co/fa3yP3ETJn",
+      "created_at": "Tue Jun 07 00:42:21 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 118,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/FUmNl9bXwAABJe2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/1533972595632054272"
+    },
+    {
+      "id": "1529258010324832256",
+      "text": "RT @deno_land: Deno Deploy Beta 4 is released with \n📺 new dashboard UI, \n🗺more regions, and\n💸billing functionality\nand countless small bug…",
+      "created_at": "Wed May 25 00:28:16 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 37,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1529258010324832256"
+    },
+    {
+      "id": "1528450184098684928",
+      "text": "RT @Baconbrix: I needed a Cupertino/iOS list for a React Native demo, so I made one here https://t.co/WeQ1mu5ktZ\n\nUses all of the native pl…",
+      "created_at": "Sun May 22 18:58:15 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 9,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1528450184098684928"
+    },
+    {
+      "id": "1528067952343257088",
+      "text": "RT @diegohaz: GitHub is adding some fancy blockquotes to markdown previews (documents, issues, PRs, discussions, etc.)\n\nMarkdown / Preview…",
+      "created_at": "Sat May 21 17:39:24 +0000 2022",
+      "favorite_count": 0,
+      "retweet_count": 1100,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1528067952343257088"
+    },
+    {
+      "id": "1206995620998742016",
+      "text": "RT @bzamayo: Sadly, IBM is ending its open source contributions to server side Swift. They were the biggest 'big company' supporter (apart…",
+      "created_at": "Tue Dec 17 17:52:35 +0000 2019",
+      "favorite_count": 0,
+      "retweet_count": 73,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1206995620998742016"
+    },
+    {
+      "id": "1200548602646388736",
+      "text": "RT @luckymarmot: Paw — The most advanced API tool for Mac (REST &amp; HTTP Client) https://t.co/qMXLFUbxHf · We're making a crazy Black Friday…",
+      "created_at": "Fri Nov 29 22:54:26 +0000 2019",
+      "favorite_count": 0,
+      "retweet_count": 3967,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1200548602646388736"
+    },
+    {
+      "id": "1121075214975000581",
+      "text": "RT @sdogruyol: Crystal For Rubyists (https://t.co/s6X2v59PHn) is reborn ⭐\n\n- Now hosted on @GitBookIO with a beautiful UI and search capabi…",
+      "created_at": "Wed Apr 24 15:35:34 +0000 2019",
+      "favorite_count": 0,
+      "retweet_count": 13,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/1121075214975000581"
+    },
+    {
+      "id": "888783874569846784",
+      "text": "RT @Flarum: Beta 7 is here with a few handy improvements 🔧 and 🐞 fixes. Read the announcement: https://t.co/jaYBXSUjyG",
+      "created_at": "Sat Jul 22 15:32:43 +0000 2017",
+      "favorite_count": 0,
+      "retweet_count": 6,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/888783874569846784"
+    },
+    {
+      "id": "888211359162187776",
+      "text": "Start PHP... https://t.co/FzCuj4LKj3",
+      "created_at": "Fri Jul 21 01:37:44 +0000 2017",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/DFOPfCvVoAA3yTu.png"
+        }
+      ],
+      "url": "https://x.com/i/status/888211359162187776"
+    },
+    {
+      "id": "887514035272400896",
+      "text": "IOS 11 developer beta 3 draining my battery too fast, back to 10.3.",
+      "created_at": "Wed Jul 19 03:26:49 +0000 2017",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/887514035272400896"
+    },
+    {
+      "id": "803899007655215104",
+      "text": "Starting my road of swift server-side from NSPress : https://t.co/UcroDvhtQ1",
+      "created_at": "Wed Nov 30 09:50:33 +0000 2016",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/803899007655215104"
+    },
+    {
+      "id": "801660731854766081",
+      "text": "@MacDevWeekly What happened to you?",
+      "created_at": "Thu Nov 24 05:36:27 +0000 2016",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/801660731854766081"
+    },
+    {
+      "id": "800381775163768832",
+      "text": "Good night.",
+      "created_at": "Sun Nov 20 16:54:20 +0000 2016",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/800381775163768832"
+    },
+    {
+      "id": "606348412628312065",
+      "text": "Yesterday,i Watched the Chappie,oh...,for live forever,continue writing code...",
+      "created_at": "Thu Jun 04 06:35:01 +0000 2015",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/606348412628312065"
+    },
+    {
+      "id": "588161885922426880",
+      "text": "Upcoming WWDC again",
+      "created_at": "Wed Apr 15 02:08:15 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "in",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/588161885922426880"
+    },
+    {
+      "id": "573005094901268480",
+      "text": "\"Don't talk about doing stuff. Do stuff.\" - I have been the principle",
+      "created_at": "Wed Mar 04 06:20:35 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/573005094901268480"
+    },
+    {
+      "id": "571157320618479617",
+      "text": "Confused after the New Year",
+      "created_at": "Fri Feb 27 03:58:11 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/571157320618479617"
+    },
+    {
+      "id": "570429294171697154",
+      "text": "Happy New Year",
+      "created_at": "Wed Feb 25 03:45:16 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/570429294171697154"
+    },
+    {
+      "id": "565700111557472256",
+      "text": "Automatic Reference Counting (ARC) is a compiler-level feature that simplifies the process of managing object lifetimes (memory management)",
+      "created_at": "Thu Feb 12 02:33:11 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/565700111557472256"
+    },
+    {
+      "id": "565535703225081858",
+      "text": "Go to sleep",
+      "created_at": "Wed Feb 11 15:39:53 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/565535703225081858"
+    },
+    {
+      "id": "564990246111019008",
+      "text": "\"Somewhere only we know\"",
+      "created_at": "Tue Feb 10 03:32:26 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/564990246111019008"
+    },
+    {
+      "id": "559034843141402624",
+      "text": "It was late...",
+      "created_at": "Sat Jan 24 17:07:47 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/559034843141402624"
+    },
+    {
+      "id": "558470433888927746",
+      "text": "I am waiting to try swift...",
+      "created_at": "Fri Jan 23 03:45:01 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/558470433888927746"
+    },
+    {
+      "id": "557729049796431874",
+      "text": "Will i also become an independent developer?",
+      "created_at": "Wed Jan 21 02:39:02 +0000 2015",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/557729049796431874"
+    },
+    {
+      "id": "224690772623114240",
+      "text": "hello,twitter!",
+      "created_at": "Mon Jul 16 02:23:49 +0000 2012",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "no",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/224690772623114240"
+    }
+  ]
+}
