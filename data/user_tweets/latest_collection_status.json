@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:15:33.515526Z",
+  "generated_at": "2026-07-22T16:34:23.791093Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -999,6 +999,32 @@
       "latest_tweet_id": "2078703689754345634",
       "oldest_tweet_created_at": "2025-09-19T12:07:03Z",
       "oldest_tweet_id": "1969010345097281913"
+    },
+    "ghostca16861041": {
+      "status": "completed",
+      "twitter_url": "https://x.com/GhostCa16861041",
+      "twitter_rest_id": "1340168885329260546",
+      "vibeloft_username": "louis",
+      "vibeloft_nickname": "Louis",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/louis",
+      "started_at": "2026-07-22T16:00:40.498722Z",
+      "data_file": "data/user_tweets/vibeloft/ghostca16861041.json",
+      "stop_on_existing": false,
+      "handle": "GhostCa16861041",
+      "updated_at": "2026-07-22T16:34:23.791089Z",
+      "paused_at": "2026-07-22T15:01:26.145722Z",
+      "history_complete": true,
+      "error": "",
+      "completed_at": "2026-07-22T16:34:23.788964Z",
+      "completed_at_local": "2026-07-23T00:34:23.789291+08:00",
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 835,
+      "stop_reason": "consecutive_empty_pages_3",
+      "tweet_count": 835,
+      "latest_tweet_created_at": "2026-07-21T10:28:38Z",
+      "latest_tweet_id": "2079513878858502610",
+      "oldest_tweet_created_at": "2022-08-27T08:15:33Z",
+      "oldest_tweet_id": "1563440064352636928"
     }
   }
 }
