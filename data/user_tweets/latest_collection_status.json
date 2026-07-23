@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:29:25.380688Z",
+  "generated_at": "2026-07-23T09:13:47.121529Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1401,6 +1401,31 @@
       "latest_tweet_id": "2079904829473009705",
       "oldest_tweet_created_at": "2022-06-30T14:20:02Z",
       "oldest_tweet_id": "1542513294996819969"
+    },
+    "ericoding99": {
+      "status": "completed",
+      "twitter_url": "https://x.com/ericoding99",
+      "twitter_rest_id": "1947294542354632704",
+      "vibeloft_username": "ericoding00",
+      "vibeloft_nickname": "Eric|晓峰",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/ericoding00",
+      "started_at": "2026-07-23T09:00:37.203209Z",
+      "data_file": "data/user_tweets/vibeloft/ericoding99.json",
+      "stop_on_existing": false,
+      "handle": "ericoding99",
+      "updated_at": "2026-07-23T09:13:47.121519Z",
+      "completed_at": "2026-07-23T09:13:47.119864Z",
+      "completed_at_local": "2026-07-23T17:13:47.119888+08:00",
+      "history_complete": true,
+      "pages_collected_total": 20,
+      "new_tweets_last_run": 247,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 247,
+      "latest_tweet_created_at": "2026-07-23T06:17:28Z",
+      "latest_tweet_id": "2080175446940119096",
+      "oldest_tweet_created_at": "2025-09-14T16:43:15Z",
+      "oldest_tweet_id": "1967267913376923806"
     }
   }
 }
