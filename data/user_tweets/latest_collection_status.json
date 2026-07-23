@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:31:05.701203Z",
+  "generated_at": "2026-07-23T20:05:03.409734Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1676,6 +1676,31 @@
       "latest_tweet_id": "2080348918538215717",
       "oldest_tweet_created_at": "2025-06-04T10:55:48Z",
       "oldest_tweet_id": "1930216911528440196"
+    },
+    "pavlova233": {
+      "status": "completed",
+      "twitter_url": "https://x.com/pavlova233",
+      "twitter_rest_id": "1676119892230037509",
+      "vibeloft_username": "pavlova",
+      "vibeloft_nickname": "Pavlova",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/pavlova",
+      "started_at": "2026-07-23T20:00:36.449099Z",
+      "data_file": "data/user_tweets/vibeloft/pavlova233.json",
+      "stop_on_existing": false,
+      "handle": "pavlova233",
+      "updated_at": "2026-07-23T20:05:03.409726Z",
+      "completed_at": "2026-07-23T20:05:03.407436Z",
+      "completed_at_local": "2026-07-24T04:05:03.407455+08:00",
+      "history_complete": true,
+      "pages_collected_total": 7,
+      "new_tweets_last_run": 41,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 41,
+      "latest_tweet_created_at": "2026-07-21T16:05:39Z",
+      "latest_tweet_id": "2079598690042626528",
+      "oldest_tweet_created_at": "2026-05-01T15:07:57Z",
+      "oldest_tweet_id": "2050230752089195003"
     }
   }
 }
