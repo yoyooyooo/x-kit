@@ -20,6 +20,8 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
+import httpx
+
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
@@ -310,16 +312,77 @@ def parse_int_header(value: str | None) -> int | None:
         return None
 
 
-def resolve_user_id(client, handle: str, cfg: dict) -> str:
+TRANSIENT_HTTP_EXCEPTIONS = (
+    httpx.RemoteProtocolError,
+    httpx.ReadError,
+    httpx.ConnectError,
+    httpx.ReadTimeout,
+    httpx.WriteError,
+    httpx.PoolTimeout,
+)
+TRANSIENT_HTTP_STATUS = {500, 502, 503, 504}
+
+
+def get_with_retries(
+    client,
+    url: str,
+    *,
+    params: dict[str, Any],
+    label: str,
+    retries: int,
+    retry_delay: float,
+):
+    attempts = max(retries, 0) + 1
+    for attempt in range(1, attempts + 1):
+        try:
+            response = client.get(url, params=params)
+        except TRANSIENT_HTTP_EXCEPTIONS as exc:
+            if attempt >= attempts:
+                raise
+            wait = retry_delay * attempt
+            print(
+                f"[retry] {label}: {type(exc).__name__}: {exc}; "
+                f"retry {attempt}/{retries} in {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+
+        if response.status_code in TRANSIENT_HTTP_STATUS and attempt < attempts:
+            wait = retry_delay * attempt
+            print(
+                f"[retry] {label}: HTTP {response.status_code}; "
+                f"retry {attempt}/{retries} in {wait:.1f}s",
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+            continue
+        return response
+
+    raise RuntimeError(f"{label}: retry loop exhausted")
+
+
+def resolve_user_id(
+    client,
+    handle: str,
+    cfg: dict,
+    *,
+    retries: int = 3,
+    retry_delay: float = 5.0,
+) -> str:
     query_id = cfg["api"].get("user_by_screenname_query_id", "IGgvgiOx4QZndDHuD3x9TQ")
     url = f"{cfg['api']['base_url']}/graphql/{query_id}/UserByScreenName"
-    response = client.get(
+    response = get_with_retries(
+        client,
         url,
         params={
             "variables": json.dumps({"screen_name": handle, "withGrokTranslatedBio": True}),
             "features": json.dumps(USER_FEATURES),
             "fieldToggles": json.dumps({"withPayments": False, "withAuxiliaryUserLabels": True}),
         },
+        label=f"resolve_user @{handle}",
+        retries=retries,
+        retry_delay=retry_delay,
     )
     reset_at = parse_int_header(response.headers.get("x-rate-limit-reset"))
     if response.status_code == 429:
@@ -340,7 +403,15 @@ def resolve_user_id(client, handle: str, cfg: dict) -> str:
     return str(user_id)
 
 
-def fetch_tweets_page(client, user_id: str, cfg: dict, cursor: str | None) -> PageResult:
+def fetch_tweets_page(
+    client,
+    user_id: str,
+    cfg: dict,
+    cursor: str | None,
+    *,
+    retries: int = 3,
+    retry_delay: float = 5.0,
+) -> PageResult:
     query_id = cfg["api"].get("user_tweets_query_id", "PNd0vlufvrcIwrAnBYKE9g")
     url = f"{cfg['api']['base_url']}/graphql/{query_id}/UserTweets"
     variables: dict[str, Any] = {
@@ -353,13 +424,17 @@ def fetch_tweets_page(client, user_id: str, cfg: dict, cursor: str | None) -> Pa
     if cursor:
         variables["cursor"] = cursor
 
-    response = client.get(
+    response = get_with_retries(
+        client,
         url,
         params={
             "variables": json.dumps(variables),
             "features": json.dumps(TIMELINE_FEATURES),
             "fieldToggles": json.dumps({"withArticlePlainText": False}),
         },
+        label=f"user_tweets user_id={user_id}",
+        retries=retries,
+        retry_delay=retry_delay,
     )
     reset_at = parse_int_header(response.headers.get("x-rate-limit-reset"))
     remaining = parse_int_header(response.headers.get("x-rate-limit-remaining"))
@@ -433,7 +508,13 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
     pages_done = int(checkpoint.get("pages_done") or 0) if checkpoint else 0
 
     if not user_id:
-        user_id = resolve_user_id(client, handle, cfg)
+        user_id = resolve_user_id(
+            client,
+            handle,
+            cfg,
+            retries=args.request_retries,
+            retry_delay=args.request_retry_delay,
+        )
 
     update_user_status(
         handle,
@@ -456,7 +537,14 @@ def collect_one_user(client, cfg: dict, account: dict, args: argparse.Namespace)
     last_cursor = cursor
 
     while page_count < args.max_pages_per_user:
-        page = fetch_tweets_page(client, user_id, cfg, last_cursor)
+        page = fetch_tweets_page(
+            client,
+            user_id,
+            cfg,
+            last_cursor,
+            retries=args.request_retries,
+            retry_delay=args.request_retry_delay,
+        )
         page_count += 1
         pages_done += 1
 
@@ -644,6 +732,8 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--max-pages-per-user", "--max_pages_per_user", type=int, default=int(cron_defaults.get("max_pages_per_user") or 10000))
     parser.add_argument("--max-empty-pages", "--max_empty_pages", type=int, default=int(cron_defaults.get("max_empty_pages") or 3), help="Stop a user after N consecutive pages with no new tweets.")
     parser.add_argument("--delay", type=float, default=float(cron_defaults.get("delay") or 2.0))
+    parser.add_argument("--request-retries", "--request_retries", type=int, default=int(cron_defaults.get("request_retries") or 3), help="Retries for transient X HTTP/protocol errors.")
+    parser.add_argument("--request-retry-delay", "--request_retry_delay", type=float, default=float(cron_defaults.get("request_retry_delay") or 5.0), help="Base seconds for transient request retry backoff.")
     parser.add_argument("--pause-remaining-threshold", "--pause_remaining_threshold", type=int, default=int(cron_defaults.get("pause_remaining_threshold") or 2))
     parser.add_argument("--force-full", "--force_full", action="store_true", default=bool(cron_defaults.get("force_full") or False))
     parser.add_argument("--git-sync", "--git_sync", action="store_true", default=bool(cron_defaults.get("git_sync") or False), help="Commit and push after each fully completed user.")
