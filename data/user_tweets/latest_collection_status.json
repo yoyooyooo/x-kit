@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:30:43.229582Z",
+  "generated_at": "2026-07-23T12:04:33.366558Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1476,6 +1476,31 @@
       "latest_tweet_id": "2080240736856121417",
       "oldest_tweet_created_at": "2014-07-01T05:46:32Z",
       "oldest_tweet_id": "483849113784426496"
+    },
+    "yekk_me": {
+      "status": "completed",
+      "twitter_url": "https://x.com/yekk_me",
+      "twitter_rest_id": "917220610517938176",
+      "vibeloft_username": "yekk",
+      "vibeloft_nickname": "yekk",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/yekk",
+      "started_at": "2026-07-23T12:00:37.219639Z",
+      "data_file": "data/user_tweets/vibeloft/yekk_me.json",
+      "stop_on_existing": false,
+      "handle": "yekk_me",
+      "updated_at": "2026-07-23T12:04:33.366541Z",
+      "completed_at": "2026-07-23T12:04:33.364898Z",
+      "completed_at_local": "2026-07-23T20:04:33.364920+08:00",
+      "history_complete": true,
+      "pages_collected_total": 6,
+      "new_tweets_last_run": 28,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 28,
+      "latest_tweet_created_at": "2026-07-21T14:13:09Z",
+      "latest_tweet_id": "2079570378134004122",
+      "oldest_tweet_created_at": "2018-05-20T08:02:57Z",
+      "oldest_tweet_id": "998111822812086275"
     }
   }
 }
