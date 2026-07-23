@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:10:19.651026Z",
+  "generated_at": "2026-07-23T07:19:08.100323Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1351,6 +1351,31 @@
       "latest_tweet_id": "2080117274082693574",
       "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
       "oldest_tweet_id": "1269216141"
+    },
+    "zhengwook": {
+      "status": "completed",
+      "twitter_url": "https://x.com/ZHENGWOOK",
+      "twitter_rest_id": "889022853919592448",
+      "vibeloft_username": "Wook",
+      "vibeloft_nickname": "Wook",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/Wook",
+      "started_at": "2026-07-23T07:00:39.124615Z",
+      "data_file": "data/user_tweets/vibeloft/zhengwook.json",
+      "stop_on_existing": false,
+      "handle": "ZHENGWOOK",
+      "updated_at": "2026-07-23T07:19:08.100316Z",
+      "completed_at": "2026-07-23T07:19:08.098391Z",
+      "completed_at_local": "2026-07-23T15:19:08.098406+08:00",
+      "history_complete": true,
+      "pages_collected_total": 28,
+      "new_tweets_last_run": 424,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 424,
+      "latest_tweet_created_at": "2026-07-21T12:20:52Z",
+      "latest_tweet_id": "2079542119988175210",
+      "oldest_tweet_created_at": "2021-08-31T13:40:13Z",
+      "oldest_tweet_id": "1432699752022413323"
     }
   }
 }
