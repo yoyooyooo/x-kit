@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:03:08.292525Z",
+  "generated_at": "2026-07-23T19:31:05.701203Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1651,6 +1651,31 @@
       "latest_tweet_id": "2044269852140187799",
       "oldest_tweet_created_at": "2025-12-30T15:41:01Z",
       "oldest_tweet_id": "2006027752722555059"
+    },
+    "jaywcjlove": {
+      "status": "completed",
+      "twitter_url": "https://x.com/jaywcjlove",
+      "twitter_rest_id": "579701209",
+      "vibeloft_username": "jiang",
+      "vibeloft_nickname": "Kenny Wang",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/jiang",
+      "started_at": "2026-07-23T19:00:38.124619Z",
+      "data_file": "data/user_tweets/vibeloft/jaywcjlove.json",
+      "stop_on_existing": false,
+      "handle": "jaywcjlove",
+      "updated_at": "2026-07-23T19:31:05.701199Z",
+      "completed_at": "2026-07-23T19:31:05.699338Z",
+      "completed_at_local": "2026-07-24T03:31:05.699349+08:00",
+      "history_complete": true,
+      "pages_collected_total": 46,
+      "new_tweets_last_run": 555,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 555,
+      "latest_tweet_created_at": "2026-07-23T17:46:47Z",
+      "latest_tweet_id": "2080348918538215717",
+      "oldest_tweet_created_at": "2025-06-04T10:55:48Z",
+      "oldest_tweet_id": "1930216911528440196"
     }
   }
 }
