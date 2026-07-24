@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:06:21.926209Z",
+  "generated_at": "2026-07-24T00:10:52.526593Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1776,6 +1776,31 @@
       "latest_tweet_id": "2080270734568374275",
       "oldest_tweet_created_at": "2022-03-08T14:30:21Z",
       "oldest_tweet_id": "1501203675712462850"
+    },
+    "xbyeval": {
+      "status": "completed",
+      "twitter_url": "https://x.com/xbyeval",
+      "twitter_rest_id": "543581252",
+      "vibeloft_username": "byeval",
+      "vibeloft_nickname": "byeval",
+      "vibeloft_profile_url": "https://vibeloft.ai/profile/byeval",
+      "started_at": "2026-07-24T00:00:36.825337Z",
+      "data_file": "data/user_tweets/vibeloft/xbyeval.json",
+      "stop_on_existing": false,
+      "handle": "xbyeval",
+      "updated_at": "2026-07-24T00:10:52.526588Z",
+      "completed_at": "2026-07-24T00:10:52.524452Z",
+      "completed_at_local": "2026-07-24T08:10:52.524467+08:00",
+      "history_complete": true,
+      "pages_collected_total": 16,
+      "new_tweets_last_run": 245,
+      "stop_reason": "consecutive_empty_pages_3",
+      "error": "",
+      "tweet_count": 245,
+      "latest_tweet_created_at": "2026-07-21T05:12:11Z",
+      "latest_tweet_id": "2079434240161395149",
+      "oldest_tweet_created_at": "2012-09-20T13:49:11Z",
+      "oldest_tweet_id": "248780848642535424"
     }
   }
 }
