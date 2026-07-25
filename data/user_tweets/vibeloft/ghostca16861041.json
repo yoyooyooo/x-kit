@@ -7,15 +7,221 @@
     "nickname": "Louis",
     "profile_url": "https://vibeloft.ai/profile/louis"
   },
-  "generated_at": "2026-07-22T16:34:23.758191Z",
+  "generated_at": "2026-07-25T18:02:01.179795Z",
   "stats": {
-    "tweet_count": 835,
-    "latest_tweet_created_at": "2026-07-21T10:28:38Z",
-    "latest_tweet_id": "2079513878858502610",
+    "tweet_count": 846,
+    "latest_tweet_created_at": "2026-07-25T01:07:30Z",
+    "latest_tweet_id": "2080822213801038205",
     "oldest_tweet_created_at": "2022-08-27T08:15:33Z",
     "oldest_tweet_id": "1563440064352636928"
   },
   "tweets": [
+    {
+      "id": "2080822213801038205",
+      "text": "RT @hayriyeakguller: Hey yooo, I designed a component for @framer ! 💃🏻🎉😍\n\nhttps://t.co/S2LD8gBz7a https://t.co/J2QDGWOaLy",
+      "created_at": "Sat Jul 25 01:07:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 5,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080594951033778176/img/oaH_zNHQkhqin8mh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080822213801038205"
+    },
+    {
+      "id": "2080818765957382503",
+      "text": "RT @CollectUI: Blossom picker by @lichinlin\n\nMore color picker designs: https://t.co/zqqkJYAMlA https://t.co/sf3n2dZv8t",
+      "created_at": "Sat Jul 25 00:53:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2079175767037259776/img/59QcKQxxtoQit1Mg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080818765957382503"
+    },
+    {
+      "id": "2080578398595035509",
+      "text": "RT @hal__lee: 太棒啦，给我的个人网站里面的贴纸也加上了这个效果，顺便让 AI 加了个彩蛋——贴纸背后也有字。\n\n感谢开源。 https://t.co/WKwhFtiyWf",
+      "created_at": "Fri Jul 24 08:58:40 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 48,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080314842272165888/img/QFPIi-4-vYD33g3m.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080578398595035509"
+    },
+    {
+      "id": "2080572487965004020",
+      "text": "RT @Easycompany333: 真的要卸载剪映了。\n\nYC S24 团队做的 Palmier Pro，开源后已经冲过 1 万 GitHub stars。\n\n我看到它的第一反应：AI 已经进时间线里干活了。\n\n把 Codex、Claude Code 或 Cursor 通过…",
+      "created_at": "Fri Jul 24 08:35:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 250,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080572487965004020"
+    },
+    {
+      "id": "2080572216190865694",
+      "text": "RT @joshpuckett: A few kind folks have asked if they can gift an Interface Craft membership to someone, and I'm excited to share that gifti…",
+      "created_at": "Fri Jul 24 08:34:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 12,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080572216190865694"
+    },
+    {
+      "id": "2080569132341395587",
+      "text": "RT @MiladmoHQ: Why open a new page when the button can just become the page?\n\nMade with @motiondotdev https://t.co/4Ug9rwGHCg",
+      "created_at": "Fri Jul 24 08:21:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 32,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080285802056347648/img/wYx4JzKeLavhNhzu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080569132341395587"
+    },
+    {
+      "id": "2080566911172301150",
+      "text": "RT @nd__xyz: I made a website where you can explore (and put stickers on) 54,565 objects from the Cooper Hewitt design collection. https://…",
+      "created_at": "Fri Jul 24 08:13:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 10,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080566911172301150"
+    },
+    {
+      "id": "2080566642996887871",
+      "text": "RT @SenZh4: Vibe Coding 能把简历玩出什么花样？？\n\n😄分享一个最近Vibe的个人网站，用AI把自己变成一个3D虚拟小人，还Vibe了一个小白也能快速生成的平台。#vibecoding #3d互动 #网页设计 https://t.co/xfMk7H0id3",
+      "created_at": "Fri Jul 24 08:11:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 188,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080294062775816192/img/KdCAC7Glt2fr_EQa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080566642996887871"
+    },
+    {
+      "id": "2080566491884523682",
+      "text": "RT @cats_juice: 加了纯浏览器本地抠图，效果还可以，欢迎来玩儿：\n\n🌍 https://t.co/6CCoQe3RO4 https://t.co/Xl3rNbS4Nh",
+      "created_at": "Fri Jul 24 08:11:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 83,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080264988695146496/img/webmQw-grfdp2CsN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080566491884523682"
+    },
+    {
+      "id": "2080566440760127909",
+      "text": "RT @world_is_web: Did a couple more tweaks. It’s quite fun to play with. (made with three.js btw)\n\nHere is the link as promised.\n\nhttps://t…",
+      "created_at": "Fri Jul 24 08:11:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 23,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2080566440760127909"
+    },
+    {
+      "id": "2080566397701333088",
+      "text": "RT @workcinprogress: me if I was a sticker pack 🎀\n\nhere’s a fun lil interaction from my portfoliooo (sound on for some asmr lol) https://t.…",
+      "created_at": "Fri Jul 24 08:10:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 5,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080566397701333088"
+    },
     {
       "id": "2079513878858502610",
       "text": "RT @heyohelen: tinkering and a-tanglin’ https://t.co/20WpMjThbJ",
@@ -42,7 +248,7 @@
       "text": "RT @cats_juice: 想起当年手 k 过这个效果，现在用 GPT 5.6 Sol 很轻松就实现了，还支持了自定义富文本、自定义图像上传。已开源：\n\n🔗在线体验： https://t.co/aSPhu1DC3r https://t.co/mhxlSoIhIh",
       "created_at": "Tue Jul 21 05:23:08 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 127,
+      "retweet_count": 157,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -63,7 +269,7 @@
       "text": "RT @SubhanHQ: Introducing Amicro.\n\nA curated library of premium micro-interactions and transition components for React.\n\nAdd beautiful card…",
       "created_at": "Mon Jul 20 09:25:26 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 301,
+      "retweet_count": 302,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -79,7 +285,7 @@
       "text": "RT @vishlbhardwaj: Exploring some typography effects for a new project https://t.co/Bn7gcOh3jf",
       "created_at": "Mon Jul 20 09:19:29 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 61,
+      "retweet_count": 62,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -121,7 +327,7 @@
       "text": "RT @elonmusk: Robot fights are fun 😂 https://t.co/br6jtV0u0p",
       "created_at": "Sun Jul 19 08:46:11 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 14245,
+      "retweet_count": 14027,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -338,7 +544,7 @@
       "text": "RT @AnthropicAI: New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a ti…",
       "created_at": "Sat Jul 11 12:39:35 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 3988,
+      "retweet_count": 3996,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -423,7 +629,7 @@
       "text": "RT @jmtrivedi: So excited to share one of my white-whale projects: a fully physics-based, holographic foil shader.\n\nEach pixel simulates a…",
       "created_at": "Wed Jul 08 12:38:28 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 2208,
+      "retweet_count": 2205,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -517,7 +723,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "21",
+      "views": "23",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
