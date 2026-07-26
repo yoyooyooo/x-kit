@@ -7,25 +7,355 @@
     "nickname": "Nooc",
     "profile_url": "https://vibeloft.ai/profile/apple"
   },
-  "generated_at": "2026-07-23T13:32:13.584731Z",
+  "generated_at": "2026-07-26T14:02:08.583701Z",
   "stats": {
-    "tweet_count": 784,
-    "latest_tweet_created_at": "2026-07-23T12:02:31Z",
-    "latest_tweet_id": "2080262279023771976",
+    "tweet_count": 800,
+    "latest_tweet_created_at": "2026-07-26T12:53:45Z",
+    "latest_tweet_id": "2081362334518595656",
     "oldest_tweet_created_at": "2025-09-26T10:18:35Z",
     "oldest_tweet_id": "1971519763898908991"
   },
   "tweets": [
     {
-      "id": "2080262279023771976",
-      "text": "我太爱这个动动嘴皮子就能做出东西的时代了",
-      "created_at": "Thu Jul 23 12:02:31 +0000 2026",
+      "id": "2081362334518595656",
+      "text": "现在每周的生活轨迹：\n\n工作日白天正常工作\n工作日晚上做自己的东西\n周六上海市内参加活动\n周日跟团出上海",
+      "created_at": "Sun Jul 26 12:53:45 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "127",
+      "views": "141",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2081362334518595656"
+    },
+    {
+      "id": "2081345601816686806",
+      "text": "这有家 AGI 店 https://t.co/smVfmZVYuW",
+      "created_at": "Sun Jul 26 11:47:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "223",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJsyYNawAAEsvp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081345601816686806"
+    },
+    {
+      "id": "2081329669698445614",
+      "text": "好多马 https://t.co/U5qbg2ZjVv",
+      "created_at": "Sun Jul 26 10:43:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "206",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJeJ0iaoAEOl2w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJeJ0sa8AA-ovQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJeJ1CbQAA-Qav.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJeJ1VbQAAVV7S.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081329669698445614"
+    },
+    {
+      "id": "2081230065715872099",
+      "text": "更近了 https://t.co/A0l1uFaSYl",
+      "created_at": "Sun Jul 26 04:08:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "354",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOIDsfvaEAAYuHt.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOIDsfwbUAAcceg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOIDsfxbgAAXk4Z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081230065715872099"
+    },
+    {
+      "id": "2081201802855510100",
+      "text": "离影视飓风最近的一次🤪 https://t.co/bI1TgWuaju",
+      "created_at": "Sun Jul 26 02:15:51 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1030",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOHp_58bIAAcIoQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081201802855510100"
+    },
+    {
+      "id": "2081011770509201870",
+      "text": "RT @hal__lee: 跟风写了一个 notch bar 应用，显示你的 agent 重置倒计时，重置时间一到就满屏撒花，让等待重置变得更有仪式感。 https://t.co/ZMh5RR1YZv",
+      "created_at": "Sat Jul 25 13:40:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "7",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081008421399363584/img/Mo21RbziUKxY0tX6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081011770509201870"
+    },
+    {
+      "id": "2080961089794384351",
+      "text": "为什么你们的 Codex 都炸了，我的中转站还能用啊？",
+      "created_at": "Sat Jul 25 10:19:20 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "466",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080961089794384351"
+    },
+    {
+      "id": "2080900160297820206",
+      "text": "Opus 5 最大变化：喜欢在对话名字前加 emoji 了",
+      "created_at": "Sat Jul 25 06:17:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "189",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080900160297820206"
+    },
+    {
+      "id": "2080875756545257841",
+      "text": "可能是 opus 5 做的",
+      "created_at": "Sat Jul 25 04:40:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "480",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2080875756545257841"
+    },
+    {
+      "id": "2080874233383760377",
+      "text": "Opus 5 不太行啊，每条消息都在更正上一条消息的错误 https://t.co/cEksMmpepT",
+      "created_at": "Sat Jul 25 04:34:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "615",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOC8kv2aEAASqPI.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOC8tQhakAEulen.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080874233383760377"
+    },
+    {
+      "id": "2080820410619412825",
+      "text": "Claude code 手机上这个 Ultracode 的效果更有意思啊 https://t.co/ShRdSkAuUW",
+      "created_at": "Sat Jul 25 01:00:20 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "4762",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080820307343065088/img/zifYla5qS0naUeAd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080820410619412825"
+    },
+    {
+      "id": "2080662265850999280",
+      "text": "哈哈哈，我把 PR 关了，Claude 还知道反思是不是自己没做对 https://t.co/knij47LpTG",
+      "created_at": "Fri Jul 24 14:31:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "497",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN__MInbEAEgBGF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080662265850999280"
+    },
+    {
+      "id": "2080614259105669441",
+      "text": "现在只要有这俩，我就能干活了。\n\n这几天的工作基本上都是给 Claude 发消息、检查一下效果、合 PR 。\n\n我觉得 Cloud 端的 Coding Agent 有点被低估了，并行 Coding 非常的爽，没有没完没了的 Worktree，不用担心网络是否稳定。\n\n只需要最开始配置一下 CI/CD，后面就爽爽干！ https://t.co/vGESODFmOV",
+      "created_at": "Fri Jul 24 11:21:09 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1453",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN_To1paMAA7XUj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080614259105669441"
+    },
+    {
+      "id": "2080611139281658191",
+      "text": "什么水平？\n\n虽然用户不多，但也是遍布全世界了 👀 https://t.co/X9OpRnFdvV",
+      "created_at": "Fri Jul 24 11:08:46 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "541",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN_QzJcawAApyqM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080611139281658191"
+    },
+    {
+      "id": "2080603413935702400",
+      "text": "哪个缺德的，把我自行车龙头都掰弯了",
+      "created_at": "Fri Jul 24 10:38:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "257",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080603413935702400"
+    },
+    {
+      "id": "2080453937178784011",
+      "text": "AI 就很适合用来干中学，有时候自己对一个技术或一个领域没那么了解，甚至可以让 AI 先把产品做出来，然后通过这个产品的设计去学习对应的知识，然后在反过来持续迭代这个产品。",
+      "created_at": "Fri Jul 24 00:44:06 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1163",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080453937178784011"
+    },
+    {
+      "id": "2080262279023771976",
+      "text": "我太爱这个动动嘴皮子就能做出东西的时代了",
+      "created_at": "Thu Jul 23 12:02:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "434",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +371,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 14,
-      "views": "2285",
+      "views": "2460",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -52,12 +382,12 @@
       "id": "2079918487481545181",
       "text": "这咋把我的发型画成图标了",
       "created_at": "Wed Jul 22 13:16:25 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "887",
+      "views": "1005",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -73,7 +403,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "244",
+      "views": "265",
       "lang": "und",
       "is_retweet": false,
       "is_quote": false,
@@ -94,7 +424,7 @@
       "reply_count": 43,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1715",
+      "views": "1776",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -115,7 +445,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2282",
+      "views": "2340",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -131,7 +461,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "584",
+      "views": "603",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -152,7 +482,7 @@
       "reply_count": 31,
       "quote_count": 0,
       "bookmark_count": 29,
-      "views": "7100",
+      "views": "7143",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -173,7 +503,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1004",
+      "views": "1034",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -194,7 +524,7 @@
       "reply_count": 37,
       "quote_count": 1,
       "bookmark_count": 4,
-      "views": "13108",
+      "views": "13165",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +545,7 @@
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2123",
+      "views": "2132",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +566,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "515",
+      "views": "518",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -252,7 +582,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "558",
+      "views": "568",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -268,7 +598,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "748",
+      "views": "758",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -284,7 +614,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "831",
+      "views": "885",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -305,7 +635,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "576",
+      "views": "578",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -326,7 +656,7 @@
       "reply_count": 51,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "939",
+      "views": "989",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -342,7 +672,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "379",
+      "views": "384",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -363,7 +693,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "545",
+      "views": "550",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -11874,7 +12204,7 @@
       "reply_count": 6,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "9979",
+      "views": "10051",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
