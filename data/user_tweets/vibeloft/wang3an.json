@@ -7,15 +7,36 @@
     "nickname": "William Wanghui",
     "profile_url": "https://vibeloft.ai/profile/williamwanghui"
   },
-  "generated_at": "2026-07-23T06:10:19.639993Z",
+  "generated_at": "2026-07-26T07:01:57.526499Z",
   "stats": {
-    "tweet_count": 110,
-    "latest_tweet_created_at": "2026-07-23T02:26:19Z",
-    "latest_tweet_id": "2080117274082693574",
+    "tweet_count": 111,
+    "latest_tweet_created_at": "2026-07-24T10:08:24Z",
+    "latest_tweet_id": "2080595949035085828",
     "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
     "oldest_tweet_id": "1269216141"
   },
   "tweets": [
+    {
+      "id": "2080595949035085828",
+      "text": "啊？starlink会因为极端天气而断线？就只是一场大雨而已啊。 https://t.co/q0hdQNzQ8d",
+      "created_at": "Fri Jul 24 10:08:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "28",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN_C_G3acAA_AEl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080595949035085828"
+    },
     {
       "id": "2080117274082693574",
       "text": "https://t.co/7t8Xyaheod\n哈哈，移风易俗有困难，但是应该继续！ https://t.co/SU4qbrSa2o",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "14",
+      "views": "19",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +67,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "17",
+      "views": "18",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -62,7 +83,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "30",
+      "views": "31",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
