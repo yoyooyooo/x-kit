@@ -7,15 +7,929 @@
     "nickname": "Kenny Wang",
     "profile_url": "https://vibeloft.ai/profile/jiang"
   },
-  "generated_at": "2026-07-23T19:31:05.675910Z",
+  "generated_at": "2026-07-26T20:06:04.889563Z",
   "stats": {
-    "tweet_count": 555,
-    "latest_tweet_created_at": "2026-07-23T17:46:47Z",
-    "latest_tweet_id": "2080348918538215717",
+    "tweet_count": 600,
+    "latest_tweet_created_at": "2026-07-26T13:10:53Z",
+    "latest_tweet_id": "2081366648540594536",
     "oldest_tweet_created_at": "2025-06-04T10:55:48Z",
     "oldest_tweet_id": "1930216911528440196"
   },
   "tweets": [
+    {
+      "id": "2081366648540594536",
+      "text": "Myx：适用于终端的 Spotify 播放器，支持动态主题\n\n👉https://t.co/JafPjW4jwv https://t.co/HOZY6puK5q",
+      "created_at": "Sun Jul 26 13:10:53 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "283",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJ_3-eaYAAix5J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081366648540594536"
+    },
+    {
+      "id": "2081313336449474596",
+      "text": "Betlang：一个体积很小（50kb）的编程语言检测模型\n类似于 Guesslang，但更小。\n\n👉 https://t.co/13bJfFhswo https://t.co/gSaIQmo4ZM",
+      "created_at": "Sun Jul 26 09:39:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "422",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJPUlfbUAEDuLL.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJPZcaaoAAICsY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081313336449474596"
+    },
+    {
+      "id": "2081309985527804289",
+      "text": "对你热爱的事，尽管痴迷钻研就好\n大胆保持较真与执着的极客本色😁 https://t.co/WBO0QHrwrd",
+      "created_at": "Sun Jul 26 09:25:44 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "760",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081309789796347904/img/cun04dbkm1ZBIs45.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081309985527804289"
+    },
+    {
+      "id": "2081300287575503255",
+      "text": "Claude Codex Battery\n以电池图标展示 Claude Code 与 Codex 的用量限制 \n绿色充足，红色告急。\n\n👉 https://t.co/Jbl38mMqio https://t.co/T1IocaJGMc",
+      "created_at": "Sun Jul 26 08:47:11 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "482",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOJDhcRbkAEe1zn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081300287575503255"
+    },
+    {
+      "id": "2081294509661732969",
+      "text": "Sonor：隐私优先的本地语音转文字工具\n基于 whisper.cpp 与本地 LLM 运行\n👉https://t.co/CQeHw0GL8V https://t.co/y4gE0WVuut",
+      "created_at": "Sun Jul 26 08:24:14 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "783",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HOI-OHWbwAAJ-oi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081294509661732969"
+    },
+    {
+      "id": "2081274131090387096",
+      "text": "Rekody：注重隐私的语音听写工具\n在本地转写并将说出的文字输入到任意应用的光标位置\n\n👉https://t.co/fjMMj2shr3 https://t.co/Ef0hsUrk4V",
+      "created_at": "Sun Jul 26 07:03:15 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "435",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HOIrwXdaMAArj11.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081274131090387096"
+    },
+    {
+      "id": "2081239838884520188",
+      "text": "Codex Quota：在屏幕边缘显示 Codex 额度\n当前账户为实时值，另一个账户为最近确认的快照。\n\n👉https://t.co/EpBFB3eRpz https://t.co/DpCkwkBbTq",
+      "created_at": "Sun Jul 26 04:46:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "325",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOIMFqVbwAAH4Ij.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2081239838884520188"
+    },
+    {
+      "id": "2081228983614702073",
+      "text": "SubTap · 字幕点读器，英语学习的好工具\n\n👉 https://t.co/wr7NB7iqeu https://t.co/GNXyVebuFg",
+      "created_at": "Sun Jul 26 04:03:51 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "886",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOICfhXb0AAuiZn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOICpuAagAAFnUh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081228983614702073"
+    },
+    {
+      "id": "2081227996086829368",
+      "text": "这个纸飞机视频就一眼假了\n\n这种纸飞机飞不高，飞不远，还摇摇晃晃的\n\nhttps://t.co/bWiWRxtXMs https://t.co/jgrvd8slVA",
+      "created_at": "Sun Jul 26 03:59:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "619",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081227682713636864/img/V4XWQNMGcZ8tl9Mx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081227996086829368"
+    },
+    {
+      "id": "2081193757119307955",
+      "text": "天才的想法，买个折射镜，一秒变早教机😂",
+      "created_at": "Sun Jul 26 01:43:53 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2197",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2081193757119307955"
+    },
+    {
+      "id": "2081192066642800996",
+      "text": "Reddit 连续打卡天数，有没有人徽章搜集完了的？ https://t.co/lL95ueYUBF",
+      "created_at": "Sun Jul 26 01:37:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "552",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOHg-dgbkAAfmWD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081192066642800996"
+    },
+    {
+      "id": "2081191336229912988",
+      "text": "我以为是个玩具，其实是个摄影机\n\n大疆前高管创业的项目，好小众 https://t.co/9CXcP0NWeY",
+      "created_at": "Sun Jul 26 01:34:15 +0000 2026",
+      "favorite_count": 45,
+      "retweet_count": 1,
+      "reply_count": 45,
+      "quote_count": 0,
+      "bookmark_count": 27,
+      "views": "21634",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081190071148199937/img/YWdKLcqIL-rv8PbJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081191336229912988"
+    },
+    {
+      "id": "2081004067137208772",
+      "text": "想买 HUD 抬头显示的，可以用高德地图先体验一下\n\n我也是刚知道，高德地图有这个功能的 https://t.co/Eje5VKqzOq",
+      "created_at": "Sat Jul 25 13:10:07 +0000 2026",
+      "favorite_count": 56,
+      "retweet_count": 5,
+      "reply_count": 31,
+      "quote_count": 1,
+      "bookmark_count": 52,
+      "views": "75300",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081003904503091200/img/eHZz9K8dqdcpoTNq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081004067137208772"
+    },
+    {
+      "id": "2080972793123074258",
+      "text": "这个钥匙来一把，可以直接上岗了哦😂 https://t.co/ZxWQQOGaOC",
+      "created_at": "Sat Jul 25 11:05:51 +0000 2026",
+      "favorite_count": 91,
+      "retweet_count": 11,
+      "reply_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 75,
+      "views": "56478",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080972567528247296/img/ALRPxM3ScVSOl0-m.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080972793123074258"
+    },
+    {
+      "id": "2080967270709473740",
+      "text": "第一次，并行任务一起跑，速度嘎嘎的 https://t.co/Cr76CZSUeU",
+      "created_at": "Sat Jul 25 10:43:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 31,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "582",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOET_7IaAAA9Rhc.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080967270709473740"
+    },
+    {
+      "id": "2080958528148353468",
+      "text": "我最近一个月没有日韩用户 https://t.co/bbHRQC6dcu",
+      "created_at": "Sat Jul 25 10:09:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "563",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOEMi4zaYAA4NmE.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080958528148353468"
+    },
+    {
+      "id": "2080953013745946787",
+      "text": "虽然 Focus Cursor 的光标跟随很刺眼\n\n但是它们可以自定义的，我现在老喜欢了😂 https://t.co/9eSqLmoUEO",
+      "created_at": "Sat Jul 25 09:47:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "865",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080952641505607680/img/EoCv5gm8-r57PW4v.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080953013745946787"
+    },
+    {
+      "id": "2080948048193315059",
+      "text": "Menuist 支持应用 Quick Look https://t.co/PQTlEZGwRl",
+      "created_at": "Sat Jul 25 09:27:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "619",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080947900830642176/img/7W5tEMn-QzmYBxbO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOEDNIMa4AA1NyG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080948048193315059"
+    },
+    {
+      "id": "2080942682759975170",
+      "text": "ShengJi 👇\nhttps://t.co/7reKs7BUMP",
+      "created_at": "Sat Jul 25 09:06:12 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "236",
+      "lang": "cy",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080942682759975170"
+    },
+    {
+      "id": "2080942680432099415",
+      "text": "声迹ShengJi：把麦克风、音视频文件和 Mac 正在播放的声音，在本机转成可编辑文字与字幕。 https://t.co/eYcRtxvFUB",
+      "created_at": "Sat Jul 25 09:06:11 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "2424",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HOD-EGybUAA4mIX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080942680432099415"
+    },
+    {
+      "id": "2080937757476782540",
+      "text": "这款悬浮升降桌Ingrem 的悬浮桌哪个好？\n也没有人做个评测，现在手头紧，也不想冒然下单... https://t.co/z9LMPAcyDu",
+      "created_at": "Sat Jul 25 08:46:37 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1140",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080937356249698305/img/NBiF1brGDMbKEtIv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080937757476782540"
+    },
+    {
+      "id": "2080881733524934729",
+      "text": "抬头显示 hud 有没有必要买一个？\n有什么推荐的呢？ https://t.co/95YAQYKfl3",
+      "created_at": "Sat Jul 25 05:04:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "82807",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080881520341106688/img/M5Qfdomw-GWhrRaz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080881733524934729"
+    },
+    {
+      "id": "2080876846187745487",
+      "text": "如果你有梦想，就一定要去捍卫它！\n我的梦想是涨粉超过马斯克！ https://t.co/6CaxmMU495",
+      "created_at": "Sat Jul 25 04:44:35 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "460",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080876437960364032/img/QDmmn8qHgcKvBVeU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080876846187745487"
+    },
+    {
+      "id": "2080842408586313770",
+      "text": "差点就被骗了... https://t.co/hl8O1ESTjF",
+      "created_at": "Sat Jul 25 02:27:45 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1022",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOCjDYtawAAQ-RQ.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080842408586313770"
+    },
+    {
+      "id": "2080841028417081790",
+      "text": "Mugshot：使用人脸识别解锁 sudo，完全在设备端运行\n\n👉https://t.co/RuFPhD2uyS https://t.co/CfFvq9Yv7g",
+      "created_at": "Sat Jul 25 02:22:15 +0000 2026",
+      "favorite_count": 47,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 62,
+      "views": "8715",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOChormaYAA8ruV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOChtbOagAAz-Vw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080841028417081790"
+    },
+    {
+      "id": "2080822458303848753",
+      "text": "手机偏振镜，这个不是智商税的吧 https://t.co/oR86sSActv",
+      "created_at": "Sat Jul 25 01:08:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1381",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080821832316489729/img/-pjCmaljV2dZcmi2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOCQ6BlbMAAuooN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080822458303848753"
+    },
+    {
+      "id": "2080817901985276303",
+      "text": "JDK 27 起，Oracle 将停止维护 macOS/x64 版本\n\nIntel 版本的二手 Mac 再便宜也不要买，许多软件都不支持了，知道吧 https://t.co/tsIoaCy89Q",
+      "created_at": "Sat Jul 25 00:50:22 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1345",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOCLNnTawAAcsKO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOCMrxEboAAK0c9.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080817901985276303"
+    },
+    {
+      "id": "2080709779853586587",
+      "text": "PermissionFlow v2.7 发布，面向 macOS 的权限引导 Swift 库\n\nhttps://t.co/FO42Hksuoo",
+      "created_at": "Fri Jul 24 17:40:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "348",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2080709779853586587"
+    },
+    {
+      "id": "2080655941050265852",
+      "text": "Hi，入住 𝕏 股票能涨起来不？😂",
+      "created_at": "Fri Jul 24 14:06:47 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "464",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2080655941050265852"
+    },
+    {
+      "id": "2080643747700974026",
+      "text": "前端、后端、测试一次性抹了，现在真叫全站工程师了😂 https://t.co/rrbJC0g3Y6",
+      "created_at": "Fri Jul 24 13:18:20 +0000 2026",
+      "favorite_count": 21,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "views": "14224",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN_uWj2acAAifaZ.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080643747700974026"
+    },
+    {
+      "id": "2080587729931583582",
+      "text": "FocusCursor v3.0 发布，属于重构级别的哦！光标跟随也很炫酷 https://t.co/uU0IOBURcT",
+      "created_at": "Fri Jul 24 09:35:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "474",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080587702278524928/img/R6sVwOC_DsRmGBjJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080587729931583582"
+    },
+    {
+      "id": "2080581129229472033",
+      "text": "有时候描述了半天 agent 没有理解你，\n怀疑过自己的语文能力问题，\n\n等不及了，然后手动改一下，\n可能只需要 2s 就搞定了😂\n\n这么快搞定，是因为原来整个工程是自己手写的😅 https://t.co/xyL77mavd6",
+      "created_at": "Fri Jul 24 09:09:31 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "378",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-023MawAAx4wl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080581129229472033"
+    },
+    {
+      "id": "2080556102853570953",
+      "text": "macOS 26 工具栏都无法点击？\n我是 macOS 27 无法测试，有谁帮忙测试一下 https://t.co/4GPUzTxfsc",
+      "created_at": "Fri Jul 24 07:30:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "599",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-enJaagAAFgAQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080556102853570953"
+    },
+    {
+      "id": "2080534880652607819",
+      "text": "Cruller：Bun 的 Zig 运行时精简版，Bun 的 fork 版本\n\n👉https://t.co/peTbSF1k8y https://t.co/PGNPTU390y",
+      "created_at": "Fri Jul 24 06:05:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "746",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-Kv9SbkAAcynh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080534880652607819"
+    },
+    {
+      "id": "2080532671349026967",
+      "text": "Kimi K3 都这么强了吗？\n\nKimi K3 利用发现的最新 Redis 服务器 0day 漏洞，仅用 27 分钟就通过 32 个代理完成了攻击。",
+      "created_at": "Fri Jul 24 05:56:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "615",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2080532671349026967"
+    },
+    {
+      "id": "2080529328991777173",
+      "text": "一个人。一套内核。数十亿设备背后的代码。\n\n他写下的代码没人看见，\n却每天支撑着全球 Linux 世界。🤯\n\n认识 Dan Williams 🇺🇸\n\n▶ 美国 Linux 内核核心开发者。\n▶ 长期贡献于 Linux 存储和内存系统。\n▶ 推动 Linux NVDIMM 支持。\n▶ 维护 libnvdimm 和 DAX 等关键组件。\n▶ 让 Linux 更好支持新型存储硬件。\n▶ 他的代码运行在服务器和数据中心。\n▶ 长期担任 Linux Foundation 技术顾问委员会成员。\n▶ 审核代码，指导开发者，维护内核稳定。\n▶ 属于 Linux 社区的幕后核心维护者。\n▶ 没有流量，没有炒作，只有长期贡献。\n▶ 他的工作影响全球无数 Linux 设备。\n▶ 2026 年7月，他离开了这个世界。\n\n很多人不知道他的名字，\n但每天都在使用他的代码。\n\n大多数人追求创造被看见的产品，\n他守护没人注意的基础设施。\n\nLinux 内核守护者 GOAT。🐐\n\n👉https://t.co/237PvpVOFY",
+      "created_at": "Fri Jul 24 05:43:41 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "views": "2081",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-Fs-_aUAAFfel.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080529328991777173"
+    },
+    {
+      "id": "2080523175193202781",
+      "text": "现在还有人用 C++ 手写渲染器用于学习\n只有 500 来行，现在需不需要学习呢？\n\n👉https://t.co/TTI5iN3KIB https://t.co/8q02Dlub5j",
+      "created_at": "Fri Jul 24 05:19:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "573",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-ABtpbUAECfTQ.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-AIXiakAABzgk.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080523175193202781"
+    },
+    {
+      "id": "2080504834453811597",
+      "text": "一个 Windows 98 界面的 CSS 库 98.css\n\n这个是什么情怀？ https://t.co/HKvvnsrN1P",
+      "created_at": "Fri Jul 24 04:06:21 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2588",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9wFL-aUAA_7A1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9wHXHbcAEcBhy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080504834453811597"
+    },
+    {
+      "id": "2080503197383405980",
+      "text": "Google 搜索突然用不了，这是怎么个情况？\nGmail 是没有问题的.... https://t.co/0jXdztbI1W",
+      "created_at": "Fri Jul 24 03:59:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "854",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9uP2taoAA82ud.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080503197383405980"
+    },
+    {
+      "id": "2080499954288853411",
+      "text": "安卓手表可刷 Linux 开源系统 AsteroidOS 了 https://t.co/33a5iLgwzm",
+      "created_at": "Fri Jul 24 03:46:57 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "1601",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9qnRXaUAACL1g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9rW11a0AEg5Vf.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2080499954288853411"
+    },
+    {
+      "id": "2080465596228284775",
+      "text": "我的语音输入没有发布，竞品是在太多了，懒得发布了\n\n我相信软件工程，\n\n即将变成像客服一样，说话的工作了😂 https://t.co/j4QmKbcCAR",
+      "created_at": "Fri Jul 24 01:30:25 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "3870",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9LweoacAA_ige.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080465596228284775"
+    },
+    {
+      "id": "2080462257557999685",
+      "text": "为什么越有钱，他物品价格越便宜呢？\n才 $1块，制造大厂竟然要 32块.... https://t.co/t6WCAqhdo5",
+      "created_at": "Fri Jul 24 01:17:09 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "9140",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN9JDAPaMAA1LzQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080462257557999685"
+    },
+    {
+      "id": "2080451533863522738",
+      "text": "贴个磨砂透明键盘按键贴纸，非常有必要的😂 https://t.co/goQuj7Qyat",
+      "created_at": "Fri Jul 24 00:34:33 +0000 2026",
+      "favorite_count": 34,
+      "retweet_count": 2,
+      "reply_count": 42,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "65019",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080451034913320960/img/Rez77n4DJfmouhdw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080451533863522738"
+    },
     {
       "id": "2080348918538215717",
       "text": "往前看，别回头。",
@@ -25,7 +939,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "66",
+      "views": "477",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -36,12 +950,12 @@
       "id": "2080338578782183512",
       "text": "深更半夜看了部纪录片，太难受了\n\n主角普洁还没长大，导演再去的时候就去世了\n人生的面，见一面少一面 https://t.co/PiDlDXlcxv",
       "created_at": "Thu Jul 23 17:05:42 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 18,
       "retweet_count": 0,
-      "reply_count": 2,
+      "reply_count": 7,
       "quote_count": 1,
-      "bookmark_count": 1,
-      "views": "264",
+      "bookmark_count": 9,
+      "views": "8733",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -59,10 +973,10 @@
       "created_at": "Thu Jul 23 14:06:40 +0000 2026",
       "favorite_count": 2,
       "retweet_count": 0,
-      "reply_count": 15,
+      "reply_count": 18,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "421",
+      "views": "696",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -78,7 +992,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "985",
+      "views": "1750",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -94,12 +1008,12 @@
       "id": "2080265631166079343",
       "text": "用上了 Kero 挺喜欢右边工具栏的 https://t.co/eYpwrKfDTB",
       "created_at": "Thu Jul 23 12:15:50 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 2,
-      "views": "1389",
+      "bookmark_count": 3,
+      "views": "1925",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -115,12 +1029,12 @@
       "id": "2080255449677611492",
       "text": "我么那个时候，就没有这样的好老师 https://t.co/BcDpefPVz6",
       "created_at": "Thu Jul 23 11:35:23 +0000 2026",
-      "favorite_count": 9,
-      "retweet_count": 1,
+      "favorite_count": 13,
+      "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 1,
-      "bookmark_count": 5,
-      "views": "1534",
+      "bookmark_count": 9,
+      "views": "2668",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +1055,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "412",
+      "views": "537",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -157,12 +1071,12 @@
       "id": "2080197369451425905",
       "text": "𝕏 Money 目前不符合资格😂 https://t.co/qiVzkHgpvH",
       "created_at": "Thu Jul 23 07:44:35 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "450",
+      "views": "604",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -182,8 +1096,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "294",
+      "bookmark_count": 2,
+      "views": "338",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -204,7 +1118,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "1694",
+      "views": "1995",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -220,12 +1134,12 @@
       "id": "2080111469493182625",
       "text": "Neodisk：只读磁盘空间可视化原生 macOS 工具 https://t.co/qyJRLFVPmk",
       "created_at": "Thu Jul 23 02:03:15 +0000 2026",
-      "favorite_count": 9,
+      "favorite_count": 13,
       "retweet_count": 1,
       "reply_count": 3,
       "quote_count": 0,
-      "bookmark_count": 6,
-      "views": "1869",
+      "bookmark_count": 10,
+      "views": "2290",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -246,7 +1160,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "703",
+      "views": "798",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -259,6 +1173,27 @@
       "url": "https://x.com/i/status/2080105548394254757"
     },
     {
+      "id": "2080097878874423445",
+      "text": "VidCrop v1.8.0 发布了，视频裁剪工具，内置播放器，支持画面裁剪、分时裁剪、变速、输出尺寸和水印。\n\n本次更新修改水印设置和人脸识别用抽屉的方式展示 https://t.co/BDhieHfyrM",
+      "created_at": "Thu Jul 23 01:09:15 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "908",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080095586754379776/img/UbhNpmNGDUJhoPHb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080097878874423445"
+    },
+    {
       "id": "2079948404222988726",
       "text": "Birth：启动项查看管理工具，识别隐藏开机程序\n依靠签名标记伪装的恶意启动项。\n\n👉https://t.co/7SXzknbRlL https://t.co/sO6VnYy4m0",
       "created_at": "Wed Jul 22 15:15:17 +0000 2026",
@@ -267,7 +1202,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 12,
-      "views": "1608",
+      "views": "1676",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -288,7 +1223,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "714",
+      "views": "780",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -309,7 +1244,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "392",
+      "views": "409",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -330,7 +1265,7 @@
       "reply_count": 74,
       "quote_count": 0,
       "bookmark_count": 43,
-      "views": "61593",
+      "views": "61993",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -348,10 +1283,10 @@
       "created_at": "Wed Jul 22 07:13:09 +0000 2026",
       "favorite_count": 60,
       "retweet_count": 0,
-      "reply_count": 122,
+      "reply_count": 121,
       "quote_count": 0,
       "bookmark_count": 43,
-      "views": "155589",
+      "views": "156708",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -375,8 +1310,8 @@
       "retweet_count": 59,
       "reply_count": 64,
       "quote_count": 6,
-      "bookmark_count": 242,
-      "views": "250442",
+      "bookmark_count": 240,
+      "views": "252375",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -393,11 +1328,11 @@
       "text": "情侣上传两张合照，并简述二人相识的经历，AI 便能生成一部横跨不同时光、具有电影质感的爱情大片。\n\n在婚礼现场播放自己的爱情大片\n应该会不一样的感觉吧，\n这真是个商机哦。",
       "created_at": "Wed Jul 22 05:38:07 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "780",
+      "views": "835",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -413,7 +1348,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "462",
+      "views": "519",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -434,7 +1369,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "504",
+      "views": "530",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -455,12 +1390,33 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "341",
+      "views": "352",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
       "media": [],
       "url": "https://x.com/i/status/2079750303268958690"
+    },
+    {
+      "id": "2079733174884843677",
+      "text": "WinDiskWriter：在 Mac 上制作 Windows USB 启动盘 https://t.co/l46UauKjp1",
+      "created_at": "Wed Jul 22 01:00:03 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "1614",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HNyySzfaAAARgam.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2079733174884843677"
     },
     {
       "id": "2079731230476734796",
@@ -471,7 +1427,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1062",
+      "views": "1094",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -492,7 +1448,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "767",
+      "views": "821",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -508,7 +1464,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "647",
+      "views": "657",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -524,7 +1480,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "538",
+      "views": "547",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -545,7 +1501,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "955",
+      "views": "966",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -566,7 +1522,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "753",
+      "views": "764",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -582,7 +1538,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "404",
+      "views": "416",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -603,7 +1559,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 7,
-      "views": "1504",
+      "views": "1522",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -624,7 +1580,7 @@
       "reply_count": 17,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "563",
+      "views": "573",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -644,8 +1600,8 @@
       "retweet_count": 17,
       "reply_count": 48,
       "quote_count": 0,
-      "bookmark_count": 188,
-      "views": "40893",
+      "bookmark_count": 187,
+      "views": "41115",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -670,7 +1626,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1423",
+      "views": "1439",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -691,7 +1647,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "360",
+      "views": "371",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -712,7 +1668,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "607",
+      "views": "614",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -733,7 +1689,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "587",
+      "views": "608",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -749,7 +1705,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "840",
+      "views": "858",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -770,7 +1726,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "550",
+      "views": "559",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -791,7 +1747,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1050",
+      "views": "1095",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -812,7 +1768,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "4088",
+      "views": "4102",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -833,7 +1789,7 @@
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "550",
+      "views": "576",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -849,7 +1805,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "663",
+      "views": "667",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -870,7 +1826,7 @@
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "295",
+      "views": "306",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -891,7 +1847,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1211",
+      "views": "1226",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -907,7 +1863,7 @@
       "reply_count": 5,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2179",
+      "views": "2250",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -928,7 +1884,7 @@
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1993",
+      "views": "2063",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -953,7 +1909,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1417",
+      "views": "1428",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -11642,12 +12598,12 @@
       "id": "1930216911528440196",
       "text": "给自己定了个目标：上架 100 个应用。\n\n刚才数了一下，已经完成了 24 个，差不多达成了四分之一。\n\n等目标完成，我就收手！继续加油！💪 https://t.co/J6httJJxY0",
       "created_at": "Wed Jun 04 10:55:48 +0000 2025",
-      "favorite_count": 279,
+      "favorite_count": 282,
       "retweet_count": 8,
-      "reply_count": 81,
+      "reply_count": 82,
       "quote_count": 8,
-      "bookmark_count": 162,
-      "views": "106366",
+      "bookmark_count": 163,
+      "views": "107052",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
