@@ -7,15 +7,36 @@
     "nickname": "yekk",
     "profile_url": "https://vibeloft.ai/profile/yekk"
   },
-  "generated_at": "2026-07-23T12:04:33.357777Z",
+  "generated_at": "2026-07-26T13:04:03.666814Z",
   "stats": {
-    "tweet_count": 28,
-    "latest_tweet_created_at": "2026-07-21T14:13:09Z",
-    "latest_tweet_id": "2079570378134004122",
+    "tweet_count": 31,
+    "latest_tweet_created_at": "2026-07-24T08:30:14Z",
+    "latest_tweet_id": "2080571243313721485",
     "oldest_tweet_created_at": "2018-05-20T08:02:57Z",
     "oldest_tweet_id": "998111822812086275"
   },
   "tweets": [
+    {
+      "id": "2080571243313721485",
+      "text": "My Model 3 has now covered over 42,000 km. Mytess estimates the battery health at 94.5%, with 526 km of range at 100%. Sharing for reference.\n\nhttps://t.co/mobo8sgEpn https://t.co/oWBaEOqcyr",
+      "created_at": "Fri Jul 24 08:30:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "13",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HN-sg9_bkAAlypC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080571243313721485"
+    },
     {
       "id": "2079570378134004122",
       "text": "Mytess 2.3 is here 👋\n• Siri &amp; Shortcuts\n• Weekly &amp; monthly recaps\n• Clearer Live Activities\n• Smarter parking-fee calculations\nSmall, focused, and built for a better Tesla data experience.\n❤️Discover Mytess:https://t.co/mobo8sgEpn https://t.co/RRFyA44lyf",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "40",
+      "views": "41",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -58,7 +79,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "53",
+      "views": "54",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -328,6 +349,27 @@
         }
       ],
       "url": "https://x.com/i/status/2036599503852314697"
+    },
+    {
+      "id": "2035673923795493349",
+      "text": "gas prices keep going up and i keep pulling up my charging stats to feel better about it\n378 km last week. electricity cost mass roughly 1/4 of what gas would've been\ntracked with mytess → https://t.co/321ApkrxiR https://t.co/2KFpHawG7h",
+      "created_at": "Sun Mar 22 11:04:19 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "45",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HEAqgQkbcAATnrU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2035673923795493349"
     },
     {
       "id": "2034218862758236447",
@@ -723,6 +765,22 @@
         }
       ],
       "url": "https://x.com/i/status/2019332298131533845"
+    },
+    {
+      "id": "2016713837974868358",
+      "text": "The Dev Story (AI &amp; Workflow)\nMy first 2026 app: Mytess, an iOS app for TeslaMate. 20 days using Claude Code.\n3 quick tips :\n1️⃣ Keep https://t.co/ON4iPFzJri lean to save tokens. \n2️⃣ Use  Skills  for  tasks like i18n. \n3️⃣ Use FractalFlow to keep docs and code in sync. 🧵 1/4",
+      "created_at": "Thu Jan 29 03:23:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "88",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2016713837974868358"
     },
     {
       "id": "998111822812086275",
