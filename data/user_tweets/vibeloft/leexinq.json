@@ -7,15 +7,78 @@
     "nickname": "Leo",
     "profile_url": "https://vibeloft.ai/profile/leo3"
   },
-  "generated_at": "2026-07-24T17:02:32.806871Z",
+  "generated_at": "2026-07-27T18:01:51.429973Z",
   "stats": {
-    "tweet_count": 470,
-    "latest_tweet_created_at": "2026-07-24T07:09:35Z",
-    "latest_tweet_id": "2080550949781950670",
+    "tweet_count": 473,
+    "latest_tweet_created_at": "2026-07-27T12:47:23Z",
+    "latest_tweet_id": "2081723123041485028",
     "oldest_tweet_created_at": "2020-03-14T02:50:49Z",
     "oldest_tweet_id": "1238658817325289473"
   },
   "tweets": [
+    {
+      "id": "2081723123041485028",
+      "text": "I understand why the X app needs Background App Refresh, but I’m curious why it also requires Live Activities. I just noticed that the latest version of the X app now supports Live Activities.@x @nikitabier https://t.co/XjPyV2SMCi",
+      "created_at": "Mon Jul 27 12:47:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOPDiSQawAAOH79.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081723123041485028"
+    },
+    {
+      "id": "2081265269968982244",
+      "text": "@剪映 请问你们产品经理，脑子咋想的？ https://t.co/tZFOENRwkX",
+      "created_at": "Sun Jul 26 06:28:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "154",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOIjue8akAA3vts.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2081265269968982244"
+    },
+    {
+      "id": "2081077281993457792",
+      "text": "看了奥德赛，感觉奥斯卡女主角已经定了 https://t.co/nsJTsGGwYA",
+      "created_at": "Sat Jul 25 18:01:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "126",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOF4rhDaMAAms8R.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081077281993457792"
+    },
     {
       "id": "2080550949781950670",
       "text": "反观mac端审核的这个大哥，都超过48小时了，我都怀疑是不是给忘了！ https://t.co/jhQridZoWW",
@@ -25,7 +88,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "98",
+      "views": "108",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -46,7 +109,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "180",
+      "views": "183",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +125,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "229",
+      "views": "232",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +146,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "186",
+      "views": "187",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -220,7 +283,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "207",
+      "views": "219",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -605,7 +668,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "598",
+      "views": "606",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
