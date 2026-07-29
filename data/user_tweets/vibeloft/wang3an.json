@@ -7,15 +7,36 @@
     "nickname": "William Wanghui",
     "profile_url": "https://vibeloft.ai/profile/williamwanghui"
   },
-  "generated_at": "2026-07-26T07:01:57.526499Z",
+  "generated_at": "2026-07-29T08:01:50.374913Z",
   "stats": {
-    "tweet_count": 111,
-    "latest_tweet_created_at": "2026-07-24T10:08:24Z",
-    "latest_tweet_id": "2080595949035085828",
+    "tweet_count": 112,
+    "latest_tweet_created_at": "2026-07-26T15:20:36Z",
+    "latest_tweet_id": "2081399290887618820",
     "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
     "oldest_tweet_id": "1269216141"
   },
   "tweets": [
+    {
+      "id": "2081399290887618820",
+      "text": "硕鼠硕鼠，无食我黍！\n乐土乐土，爰得我所。 https://t.co/ERtbuFgkqu",
+      "created_at": "Sun Jul 26 15:20:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "22",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HOKdmyPbMAAPetN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2081399290887618820"
+    },
     {
       "id": "2080595949035085828",
       "text": "啊？starlink会因为极端天气而断线？就只是一场大雨而已啊。 https://t.co/q0hdQNzQ8d",
@@ -25,7 +46,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "42",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +67,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "19",
+      "views": "26",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +88,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "18",
+      "views": "29",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -83,7 +104,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "41",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -104,7 +125,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "14",
+      "views": "16",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
