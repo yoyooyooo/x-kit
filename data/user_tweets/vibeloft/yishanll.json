@@ -7,15 +7,31 @@
     "nickname": "Yishan",
     "profile_url": "https://vibeloft.ai/profile/yishan"
   },
-  "generated_at": "2026-07-26T04:01:56.958153Z",
+  "generated_at": "2026-07-29T05:01:48.345621Z",
   "stats": {
-    "tweet_count": 287,
-    "latest_tweet_created_at": "2026-07-24T04:56:55Z",
-    "latest_tweet_id": "2080517562555908500",
+    "tweet_count": 288,
+    "latest_tweet_created_at": "2026-07-29T01:36:30Z",
+    "latest_tweet_id": "2082279064988234117",
     "oldest_tweet_created_at": "2022-10-10T06:45:04Z",
     "oldest_tweet_id": "1579362359587794944"
   },
   "tweets": [
+    {
+      "id": "2082279064988234117",
+      "text": "ElevenLabs 的音乐生成也太拉胯了 🥵",
+      "created_at": "Wed Jul 29 01:36:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "17",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2082279064988234117"
+    },
     {
       "id": "2080517562555908500",
       "text": "https://t.co/h2de1tBPiz",
@@ -25,12 +41,13 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "851",
+      "views": "1301",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
       "media": [],
-      "url": "https://x.com/i/status/2080517562555908500"
+      "url": "https://x.com/i/status/2080517562555908500",
+      "pinned": true
     },
     {
       "id": "2080488378068611193",
@@ -41,7 +58,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "76",
+      "views": "81",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +79,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "62",
+      "views": "66",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -78,7 +95,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "54",
+      "views": "57",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
