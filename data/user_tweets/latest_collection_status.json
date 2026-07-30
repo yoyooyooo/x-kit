@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:01:13.084353Z",
+  "generated_at": "2026-07-30T03:02:28.615206Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1819,21 +1819,21 @@
       "vibeloft_username": "yangzhang",
       "vibeloft_nickname": "Yang Zhang",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/yangzhang",
-      "started_at": "2026-07-27T02:00:38.099664Z",
+      "started_at": "2026-07-30T03:00:37.133174Z",
       "data_file": "data/user_tweets/vibeloft/zachary_haha.json",
       "stop_on_existing": true,
       "handle": "zachary_haha",
-      "updated_at": "2026-07-27T02:02:35.270426Z",
-      "completed_at": "2026-07-27T02:02:35.267609Z",
-      "completed_at_local": "2026-07-27T10:02:35.267638+08:00",
+      "updated_at": "2026-07-30T03:02:28.615190Z",
+      "completed_at": "2026-07-30T03:02:28.612746Z",
+      "completed_at_local": "2026-07-30T11:02:28.612790+08:00",
       "history_complete": true,
       "pages_collected_total": 3,
-      "new_tweets_last_run": 24,
+      "new_tweets_last_run": 32,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 863,
-      "latest_tweet_created_at": "2026-07-27T01:47:05Z",
-      "latest_tweet_id": "2081556950324507123",
+      "tweet_count": 895,
+      "latest_tweet_created_at": "2026-07-30T02:49:50Z",
+      "latest_tweet_id": "2082659906587394533",
       "oldest_tweet_created_at": "2026-03-21T13:08:34Z",
       "oldest_tweet_id": "2035342808052056503"
     }
