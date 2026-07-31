@@ -7,15 +7,52 @@
     "nickname": "Joey Zhu",
     "profile_url": "https://vibeloft.ai/profile/joeyzhu"
   },
-  "generated_at": "2026-07-28T13:01:14.299135Z",
+  "generated_at": "2026-07-31T14:02:33.777114Z",
   "stats": {
-    "tweet_count": 26,
-    "latest_tweet_created_at": "2026-07-18T09:32:16Z",
-    "latest_tweet_id": "2078412529399963898",
+    "tweet_count": 29,
+    "latest_tweet_created_at": "2026-07-31T13:48:34Z",
+    "latest_tweet_id": "2083188072242692196",
     "oldest_tweet_created_at": "2025-03-06T08:47:06Z",
     "oldest_tweet_id": "1897569616156905638"
   },
   "tweets": [
+    {
+      "id": "2083188072242692196",
+      "text": "一点点打磨\n一点点进步\n谢谢所有用户的支持 https://t.co/T8zqlEfDuo",
+      "created_at": "Fri Jul 31 13:48:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOj4gktbIAAfVEw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083188072242692196"
+    },
+    {
+      "id": "2082429928235237859",
+      "text": "Smoothness!\n\nThis video is one-shotted on https://t.co/wYQaeWjK6C",
+      "created_at": "Wed Jul 29 11:35:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "5",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2082429928235237859"
+    },
     {
       "id": "2078412529399963898",
       "text": "New UI 2.0!\nGemini 3.5 + Grok 4.5 + GPT-5.6!",
@@ -25,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "35",
+      "views": "38",
       "lang": "in",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +78,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "40",
+      "views": "41",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +215,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "52296",
+      "views": "52300",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -330,6 +367,35 @@
       "is_quote": true,
       "media": [],
       "url": "https://x.com/i/status/2066430451645133116"
+    },
+    {
+      "id": "2065018803101356451",
+      "text": "Inbox is my roadmap.\n\nA user emailed Tuesday: \"Love this, but my audience doesn't speak English.\"\n\nFair. Gave myself 2 days.\n\nText and voice, native. Screenshot? A real video in Greek. Shipped Thursday.\n\nWant anything? Email me. I read every one.\n\n#BuildInPublic #SaaS https://t.co/EjDWzqkO95",
+      "created_at": "Thu Jun 11 10:30:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "11",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhqC0xaAAEtIZ8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhqDZ8bcAApx7v.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HKhqEMeaIAA2qI7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2065018803101356451"
     },
     {
       "id": "2064243479493189846",
@@ -490,7 +556,7 @@
       "text": "RT @garrytan: For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. \n\nThat’s not a typo. The age of vibe coding is here.",
       "created_at": "Thu Apr 17 03:45:42 +0000 2025",
       "favorite_count": 0,
-      "retweet_count": 453,
+      "retweet_count": 452,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -527,7 +593,7 @@
       "text": "RT @pontusab: Still the best Startup Stack:\n\n🧱 @nextjs - Framework\n☁️ @vercel - Hosting\n📦 @supabase - Backend/Auth/Storage\n✉️ @resend - Ema…",
       "created_at": "Sun Mar 16 20:35:01 +0000 2025",
       "favorite_count": 0,
-      "retweet_count": 239,
+      "retweet_count": 238,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
