@@ -7,21 +7,63 @@
     "nickname": "Louis",
     "profile_url": "https://vibeloft.ai/profile/louis"
   },
-  "generated_at": "2026-07-28T19:01:53.086782Z",
+  "generated_at": "2026-07-31T20:01:55.353367Z",
   "stats": {
-    "tweet_count": 851,
-    "latest_tweet_created_at": "2026-07-28T10:29:28Z",
-    "latest_tweet_id": "2082050800025784333",
+    "tweet_count": 853,
+    "latest_tweet_created_at": "2026-07-31T03:07:14Z",
+    "latest_tweet_id": "2083026675768713429",
     "oldest_tweet_created_at": "2022-08-27T08:15:33Z",
     "oldest_tweet_id": "1563440064352636928"
   },
   "tweets": [
     {
+      "id": "2083026675768713429",
+      "text": "RT @xin_pai88825: 优化了一下画布节点的编组管理功能。可以随时调整节点排列，增加了编组的折叠状态（目的是节省画布资源），你也可以点击聚焦，专注编组内的节点配置 https://t.co/PEXU9L1IFq",
+      "created_at": "Fri Jul 31 03:07:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2082775960227926016/img/sx4lO5LZlJco7tMN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083026675768713429"
+    },
+    {
+      "id": "2083025209976901813",
+      "text": "RT @its_sslvr: sonic+tides+ https://t.co/1ofsv9FQWb",
+      "created_at": "Fri Jul 31 03:01:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 24,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2082708539974561793/img/RNWDoOJecyl0JRdW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083025209976901813"
+    },
+    {
       "id": "2082050800025784333",
       "text": "RT @its_sslvr: {cosmic+wind+in+notifications} https://t.co/QJWdytvmPZ",
       "created_at": "Tue Jul 28 10:29:28 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 49,
+      "retweet_count": 89,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -42,7 +84,7 @@
       "text": "RT @ricouii: 一手信息推荐：这是我目前看到过方向最棒的设计灵感网站之一，网站开源，目前收录 1200+ 的网站灵感\n\nhttps://t.co/zhENbf3FPf\n\n它把网页的设计决策拆开，解析为可以直接喂给 AI 的 提示词和规范文件包（含截图、规范、Token…",
       "created_at": "Tue Jul 28 10:28:42 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 22,
+      "retweet_count": 23,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -243,7 +285,7 @@
       "text": "RT @SenZh4: Vibe Coding 能把简历玩出什么花样？？\n\n😄分享一个最近Vibe的个人网站，用AI把自己变成一个3D虚拟小人，还Vibe了一个小白也能快速生成的平台。#vibecoding #3d互动 #网页设计 https://t.co/xfMk7H0id3",
       "created_at": "Fri Jul 24 08:11:57 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 192,
+      "retweet_count": 193,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -417,7 +459,7 @@
       "text": "RT @elonmusk: Robot fights are fun 😂 https://t.co/br6jtV0u0p",
       "created_at": "Sun Jul 19 08:46:11 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 14006,
+      "retweet_count": 13998,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -454,7 +496,7 @@
       "text": "RT @yaojingang: 迭代了多次后，正式对GEORank全部开源，已推送到GitHub\n\n这是一个可私有化部署的GEO工作台，帮助大家，诊断官网的GEO友好性，并继续生成行动方案、拓词、JSON-LD、llms.txt和知识库等工具\n以及教程、问答等功能模块\n\n旨在帮…",
       "created_at": "Fri Jul 17 17:26:40 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 124,
+      "retweet_count": 123,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -634,7 +676,7 @@
       "text": "RT @AnthropicAI: New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a ti…",
       "created_at": "Sat Jul 11 12:39:35 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 3979,
+      "retweet_count": 3972,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
