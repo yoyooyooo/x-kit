@@ -7,15 +7,61 @@
     "nickname": "Yishan",
     "profile_url": "https://vibeloft.ai/profile/yishan"
   },
-  "generated_at": "2026-07-29T05:01:48.345621Z",
+  "generated_at": "2026-08-01T06:01:55.208233Z",
   "stats": {
-    "tweet_count": 288,
-    "latest_tweet_created_at": "2026-07-29T01:36:30Z",
-    "latest_tweet_id": "2082279064988234117",
+    "tweet_count": 290,
+    "latest_tweet_created_at": "2026-07-31T01:51:11Z",
+    "latest_tweet_id": "2083007535272148998",
     "oldest_tweet_created_at": "2022-10-10T06:45:04Z",
     "oldest_tweet_id": "1579362359587794944"
   },
   "tweets": [
+    {
+      "id": "2083007535272148998",
+      "text": "X 的翻译为什么会隐藏网址 😵 https://t.co/4PlFulTFXO",
+      "created_at": "Fri Jul 31 01:51:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "56",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOhUNLiawAAvxMY.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOhUNigaAAAUqDl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083007535272148998"
+    },
+    {
+      "id": "2082734894913098191",
+      "text": "参考了几个站点做了个粤拼转换器，方便自己查询，学习粤语的朋友也可以看看 👀 https://t.co/OXTIu9O1OQ 优点就是现代、快，和 TTS 读音 😃 https://t.co/hLgx1Wd34W",
+      "created_at": "Thu Jul 30 07:47:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "78",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOdcVsKaEAAr0sM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2082734894913098191"
+    },
     {
       "id": "2082279064988234117",
       "text": "ElevenLabs 的音乐生成也太拉胯了 🥵",
@@ -25,7 +71,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "17",
+      "views": "36",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +87,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1301",
+      "views": "1663",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -547,11 +593,11 @@
       "text": "用 Seedance 2.0 拼了一段短片，除了两处不注意看不出的一致性问题重抽了两次外，其它都一次过。风格和细节保持得很好 😌 做到一半就订阅了 https://t.co/gk8tmWgLCA",
       "created_at": "Sat Feb 07 19:15:36 +0000 2026",
       "favorite_count": 19,
-      "retweet_count": 3,
+      "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "4941",
+      "views": "4944",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
