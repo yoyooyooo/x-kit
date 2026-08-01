@@ -7,15 +7,48 @@
     "nickname": "wenyuan",
     "profile_url": "https://vibeloft.ai/profile/wenyuanw"
   },
-  "generated_at": "2026-07-29T07:01:50.246686Z",
+  "generated_at": "2026-08-01T08:01:52.299247Z",
   "stats": {
-    "tweet_count": 328,
-    "latest_tweet_created_at": "2026-07-26T09:05:04Z",
-    "latest_tweet_id": "2081304787409383727",
+    "tweet_count": 329,
+    "latest_tweet_created_at": "2026-07-31T04:21:58Z",
+    "latest_tweet_id": "2083045480607756455",
     "oldest_tweet_created_at": "2018-10-15T05:04:31Z",
     "oldest_tweet_id": "1051700323968925696"
   },
   "tweets": [
+    {
+      "id": "2083045480607756455",
+      "text": "Oura Ring 5 用了一个月，佩戴确实挺无感的\n\nAI 聊天功能可以让它翻译回复为中文，但是也会拒绝回中文，😅\n\n把 APP 调成英文的话功能更多\n\n💤 睡眠检测个人感觉挺准的，没毛病 https://t.co/nZIwDkHjad",
+      "created_at": "Fri Jul 31 04:21:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "58",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOh20YxbkAAgmzb.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOh20YsbMAA991q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOh20Y1aMAAx4LT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOh20Ypa4AAeWKJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083045480607756455"
+    },
     {
       "id": "2081304787409383727",
       "text": "这个好",
@@ -25,7 +58,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "68",
+      "views": "72",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +74,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "85",
+      "views": "89",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -57,7 +90,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "203",
+      "views": "208",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -89,7 +122,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "407",
+      "views": "411",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -207,7 +240,7 @@
       "text": "RT @vercel: The @better_auth team is joining Vercel to accelerate open source auth for apps and agents.\n\nhttps://t.co/gboKZoHKz9",
       "created_at": "Tue Jul 07 17:13:06 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 230,
+      "retweet_count": 231,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -255,7 +288,7 @@
       "text": "RT @voidzerodev: Vite+ is now in beta 🚀\n\nOne CLI for your whole toolchain, now more powerful than ever:\n\n◆ Smarter caching (vp run auto-tra…",
       "created_at": "Fri Jul 03 17:04:21 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 77,
+      "retweet_count": 76,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -328,7 +361,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 8,
-      "views": "5654",
+      "views": "5657",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -393,7 +426,7 @@
       "text": "RT @OpenAI: Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model fo…",
       "created_at": "Sat Jun 27 00:06:32 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 5719,
+      "retweet_count": 5711,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -482,7 +515,7 @@
       "text": "RT @cursor_ai: We're excited to join forces with @SpaceX to advance the frontier of useful AI. Expect significant improvements to Cursor so…",
       "created_at": "Tue Jun 16 14:57:33 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 2996,
+      "retweet_count": 2976,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -502,7 +535,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1677",
+      "views": "1720",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
