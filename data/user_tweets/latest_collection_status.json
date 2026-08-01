@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:01:53.702173Z",
+  "generated_at": "2026-08-01T14:03:22.865729Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1444,23 +1444,24 @@
       "vibeloft_username": "geekjourney",
       "vibeloft_nickname": "极客杰尼",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/geekjourney",
-      "started_at": "2026-07-29T12:00:36.803649Z",
+      "started_at": "2026-08-01T14:00:39.364588Z",
       "data_file": "data/user_tweets/vibeloft/seekjourney.json",
-      "stop_on_existing": true,
+      "stop_on_existing": false,
       "handle": "seekjourney",
-      "updated_at": "2026-07-29T12:01:49.752509Z",
-      "completed_at": "2026-07-29T12:01:49.749570Z",
-      "completed_at_local": "2026-07-29T20:01:49.749587+08:00",
+      "updated_at": "2026-08-01T14:03:22.865697Z",
+      "completed_at": "2026-08-01T14:03:22.864157Z",
+      "completed_at_local": "2026-08-01T22:03:22.864203+08:00",
       "history_complete": true,
-      "pages_collected_total": 2,
-      "new_tweets_last_run": 8,
+      "pages_collected_total": 4,
+      "new_tweets_last_run": 5,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 614,
-      "latest_tweet_created_at": "2026-07-28T06:18:02Z",
-      "latest_tweet_id": "2081987528337625484",
+      "tweet_count": 619,
+      "latest_tweet_created_at": "2026-07-31T09:28:33Z",
+      "latest_tweet_id": "2083122637291553160",
       "oldest_tweet_created_at": "2025-10-25T05:23:03Z",
-      "oldest_tweet_id": "1981954640720908301"
+      "oldest_tweet_id": "1981954640720908301",
+      "paused_at": "2026-08-01T13:04:17.266391Z"
     },
     "kshift": {
       "status": "completed",
