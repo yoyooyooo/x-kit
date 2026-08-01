@@ -7,15 +7,109 @@
     "nickname": "大侠Luffy",
     "profile_url": "https://vibeloft.ai/profile/luffy"
   },
-  "generated_at": "2026-07-29T00:01:12.526141Z",
+  "generated_at": "2026-08-01T01:01:55.101289Z",
   "stats": {
-    "tweet_count": 26,
-    "latest_tweet_created_at": "2026-07-24T04:14:36Z",
-    "latest_tweet_id": "2080506911787733160",
+    "tweet_count": 31,
+    "latest_tweet_created_at": "2026-07-31T04:59:26Z",
+    "latest_tweet_id": "2083054908585152649",
     "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
     "oldest_tweet_id": "1965401343298093237"
   },
   "tweets": [
+    {
+      "id": "2083054908585152649",
+      "text": "思路很对，更好的做法是参考某种设计规范，有了设计语言，UI出来就会高级很多，这个网站有很多不错的参考设计: https://t.co/FsGMWvck0I",
+      "created_at": "Fri Jul 31 04:59:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "38",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2083054908585152649"
+    },
+    {
+      "id": "2082842713117143332",
+      "text": "很棒的产品，支持一下。",
+      "created_at": "Thu Jul 30 14:56:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "28",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2082842713117143332"
+    },
+    {
+      "id": "2082741180412936356",
+      "text": "https://t.co/eEVB0e1sJQ",
+      "created_at": "Thu Jul 30 08:12:47 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "188",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2082741180412936356"
+    },
+    {
+      "id": "2082623053654298697",
+      "text": "一个可以让你网站实现秒开的办法：\n\n1. 把网站发给 https://t.co/MrEs2rW7pj 生成检测报告。\n\n2. 跟Codex和Claude Code说：请根据这个检测报告，帮我优化网页的性能。\n\nhttps://t.co/mZkbfqvjbz https://t.co/nuSkkkdRmK",
+      "created_at": "Thu Jul 30 00:23:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "44",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOb1QhWa8AA3k9W.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2082623053654298697"
+    },
+    {
+      "id": "2082307285423099918",
+      "text": "雷军什么时候持有这么多小米股份了？ https://t.co/r7nXHsh0Ku",
+      "created_at": "Wed Jul 29 03:28:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOXXLltaMAAmI-g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOXXa0Bb0AA703s.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2082307285423099918"
+    },
     {
       "id": "2080506911787733160",
       "text": "未来创作者的工作台可能只有Codex，Claude Code，WorkBuddy这样的智能体平台。\n\n当 AI Agent 成为执行主体，为 Agent 而生的 API、CLI、MCP，才是真正的蓝海。🌊\n\n面向 AI Agent 设计 API、CLI 和 MCP 协议，很可能是下一波浪潮的隐藏金矿。 ⛏️",
@@ -25,7 +119,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "12",
+      "views": "22",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +135,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "17",
+      "views": "23",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +156,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "19",
+      "views": "22",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
