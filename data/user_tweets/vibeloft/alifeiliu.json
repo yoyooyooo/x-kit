@@ -7,15 +7,36 @@
     "nickname": "飞流",
     "profile_url": "https://vibeloft.ai/profile/liufei"
   },
-  "generated_at": "2026-07-30T21:01:54.373824Z",
+  "generated_at": "2026-08-02T23:01:56.304370Z",
   "stats": {
-    "tweet_count": 58,
-    "latest_tweet_created_at": "2026-07-28T11:04:35Z",
-    "latest_tweet_id": "2082059639370244355",
+    "tweet_count": 59,
+    "latest_tweet_created_at": "2026-07-31T15:11:07Z",
+    "latest_tweet_id": "2083208843165933794",
     "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
     "oldest_tweet_id": "1819316924146466942"
   },
   "tweets": [
+    {
+      "id": "2083208843165933794",
+      "text": "Let's go ! 1408.13M tokens cost in this month !🤪\nTry it 👉 https://t.co/86jxqsxIrG https://t.co/JYPimUEOmt",
+      "created_at": "Fri Jul 31 15:11:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "4",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOkLZKvbwAA8-Fr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083208843165933794"
+    },
     {
       "id": "2082059639370244355",
       "text": "Dario = 🤡",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "4",
+      "views": "7",
       "lang": "es",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "6",
+      "views": "7",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -399,7 +420,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "224",
+      "views": "228",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
