@@ -7,15 +7,44 @@
     "nickname": "thejoven - ElizaOS",
     "profile_url": "https://vibeloft.ai/profile/thejovenelizaos"
   },
-  "generated_at": "2026-07-30T13:02:11.372652Z",
+  "generated_at": "2026-08-02T15:01:56.781663Z",
   "stats": {
-    "tweet_count": 192,
-    "latest_tweet_created_at": "2026-07-27T19:19:28Z",
-    "latest_tweet_id": "2081821794366026160",
+    "tweet_count": 193,
+    "latest_tweet_created_at": "2026-07-31T07:46:31Z",
+    "latest_tweet_id": "2083096957468479935",
     "oldest_tweet_created_at": "2016-10-28T21:46:25Z",
     "oldest_tweet_id": "792120360606969856"
   },
   "tweets": [
+    {
+      "id": "2083096957468479935",
+      "text": "上午是 MiniMax 发了视频模型 H3\n中午字节发了 Seedance  2.5\n然后现在 DeepSeek V4 Flash 来了 https://t.co/mnpObxPDah",
+      "created_at": "Fri Jul 31 07:46:31 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "282",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOilev5a8AAH7Iy.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOilfr3aAAAlYy_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOilgHxaAAAl-FQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083096957468479935"
+    },
     {
       "id": "2081821794366026160",
       "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/EblHPZqN59",
@@ -25,7 +54,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "72",
+      "views": "79",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +75,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "126",
+      "views": "132",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -67,7 +96,7 @@
       "reply_count": 42,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "609",
+      "views": "613",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -84,7 +113,7 @@
       "text": "RT @cz_binance: If your success depends on someone else, you should either hire that person, or work for him. 🤷‍♂️",
       "created_at": "Thu Jul 09 04:57:56 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1977,
+      "retweet_count": 1973,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -120,7 +149,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "116",
+      "views": "123",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -201,7 +230,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "4298",
+      "views": "4337",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -213,7 +242,7 @@
       "text": "RT @PeterDiamandis: People ask me how I stay so optimistic. The honest answer: I read the data, not the headlines.",
       "created_at": "Fri Jun 12 04:04:24 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1486,
+      "retweet_count": 1483,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -538,7 +567,7 @@
       "reply_count": 3,
       "quote_count": 2,
       "bookmark_count": 29,
-      "views": "14790",
+      "views": "14792",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
