@@ -7,15 +7,68 @@
     "nickname": "Joey Zhu",
     "profile_url": "https://vibeloft.ai/profile/joeyzhu"
   },
-  "generated_at": "2026-07-31T14:02:33.777114Z",
+  "generated_at": "2026-08-03T16:03:31.294792Z",
   "stats": {
-    "tweet_count": 29,
-    "latest_tweet_created_at": "2026-07-31T13:48:34Z",
-    "latest_tweet_id": "2083188072242692196",
+    "tweet_count": 34,
+    "latest_tweet_created_at": "2026-08-03T00:11:54Z",
+    "latest_tweet_id": "2084069713831981524",
     "oldest_tweet_created_at": "2025-03-06T08:47:06Z",
     "oldest_tweet_id": "1897569616156905638"
   },
   "tweets": [
+    {
+      "id": "2084069713831981524",
+      "text": "https://t.co/Q5HWV1YZce",
+      "created_at": "Mon Aug 03 00:11:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "4",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOwaW30bsAAq4Za.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084069713831981524"
+    },
+    {
+      "id": "2083286426507214954",
+      "text": "We’ve been working toward this one for a while.\n\nMotion Engine 2.0 is a complete rewrite of how every Motionflare video moves. Smoother, more expressive, and far less repetitive.",
+      "created_at": "Fri Jul 31 20:19:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2083286426507214954"
+    },
+    {
+      "id": "2083196245921997185",
+      "text": "500+ teams use motionflare for their product update video.\n\nThank you everyone!\n\n#buildinpublic",
+      "created_at": "Fri Jul 31 14:21:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "10",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2083196245921997185"
+    },
     {
       "id": "2083188072242692196",
       "text": "一点点打磨\n一点点进步\n谢谢所有用户的支持 https://t.co/T8zqlEfDuo",
@@ -25,7 +78,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "3",
+      "views": "4",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +99,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "5",
+      "views": "6",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -215,7 +268,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "52300",
+      "views": "52305",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -253,12 +306,12 @@
       "id": "2074558503587627250",
       "text": "Also try https://t.co/VbSf8wYHnl\n\nWebsite to video",
       "created_at": "Tue Jul 07 18:17:45 +0000 2026",
-      "favorite_count": 79,
+      "favorite_count": 77,
       "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "347",
+      "views": "348",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -295,7 +348,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "43",
+      "views": "44",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -320,7 +373,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "29",
+      "views": "30",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -351,6 +404,35 @@
       "is_quote": true,
       "media": [],
       "url": "https://x.com/i/status/2067599210317492306"
+    },
+    {
+      "id": "2066891966911295810",
+      "text": "LaunchVideo is #1 Product of the Week on @Peerlist 🥇\n\nThank you to everyone who tried it, shared it, and voted. This one's yours.\n\nNow back to building. I read every piece of feedback myself - it's still what shapes what we ship next.\n\nKeep it coming.\n\n#buildinpublic https://t.co/WGXygWexlF",
+      "created_at": "Tue Jun 16 14:33:40 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "788",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HK8TBA6a8AAEp9_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HK8TCN8b0AA1SrT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HK8TDLXa0AA1loF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2066891966911295810"
     },
     {
       "id": "2066430451645133116",
@@ -406,7 +488,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "793",
+      "views": "794",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -511,6 +593,22 @@
       "url": "https://x.com/i/status/2026928095756955907"
     },
     {
+      "id": "2020814733658505339",
+      "text": "刚随手 vibe 了一个 macOS 小工具，顺手开源了。\n\n可以下载 X 上的视频，自动配置 cookie，支持多线程、多视频同时下载。\n简单直接，完全开源，本地运行。",
+      "created_at": "Mon Feb 09 10:59:12 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "53",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2020814733658505339"
+    },
+    {
       "id": "2020814501478633643",
       "text": "Just vibed a small macOS app and decided to open-source it.\n\nIt downloads videos from X, auto-configures cookies, supports multi-threaded, multi-videos.\n\nhttps://t.co/vJfPtiKmnq\nhttps://t.co/VddxSn3Hve https://t.co/k7tskP2rEO",
       "created_at": "Mon Feb 09 10:58:16 +0000 2026",
@@ -556,7 +654,7 @@
       "text": "RT @garrytan: For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. \n\nThat’s not a typo. The age of vibe coding is here.",
       "created_at": "Thu Apr 17 03:45:42 +0000 2025",
       "favorite_count": 0,
-      "retweet_count": 452,
+      "retweet_count": 451,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -593,7 +691,7 @@
       "text": "RT @pontusab: Still the best Startup Stack:\n\n🧱 @nextjs - Framework\n☁️ @vercel - Hosting\n📦 @supabase - Backend/Auth/Storage\n✉️ @resend - Ema…",
       "created_at": "Sun Mar 16 20:35:01 +0000 2025",
       "favorite_count": 0,
-      "retweet_count": 238,
+      "retweet_count": 237,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
