@@ -7,15 +7,90 @@
     "nickname": "大侠Luffy",
     "profile_url": "https://vibeloft.ai/profile/luffy"
   },
-  "generated_at": "2026-08-01T01:01:55.101289Z",
+  "generated_at": "2026-08-04T03:02:05.376083Z",
   "stats": {
-    "tweet_count": 31,
-    "latest_tweet_created_at": "2026-07-31T04:59:26Z",
-    "latest_tweet_id": "2083054908585152649",
+    "tweet_count": 34,
+    "latest_tweet_created_at": "2026-08-03T14:45:44Z",
+    "latest_tweet_id": "2084289620393799829",
     "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
     "oldest_tweet_id": "1965401343298093237"
   },
   "tweets": [
+    {
+      "id": "2084289620393799829",
+      "text": "亚庇，不愧为世界top3的落日点，真美呀，就是人有点多。 https://t.co/GB3Z3iFstG",
+      "created_at": "Mon Aug 03 14:45:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "31",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOziW6pbEAAF6Q6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOziW6xbwAA2-6w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOziW61agAAqVYh.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOziW6ybQAASxjJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084289620393799829"
+    },
+    {
+      "id": "2084280729106833572",
+      "text": "在香港买的一张马来流量卡，到马来后，用不了ChatGPT，发现流量是会到回到香港绕一圈的。 https://t.co/kcbvt728lR",
+      "created_at": "Mon Aug 03 14:10:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "27",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOzaRe-aUAArYja.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084280729106833572"
+    },
+    {
+      "id": "2083802088258285896",
+      "text": "Be happy，这样的WiFi密码不比店名好？ https://t.co/SNV8U1FyOm",
+      "created_at": "Sun Aug 02 06:28:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOsm8h-bIAAoX4y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083802088258285896"
+    },
     {
       "id": "2083054908585152649",
       "text": "思路很对，更好的做法是参考某种设计规范，有了设计语言，UI出来就会高级很多，这个网站有很多不错的参考设计: https://t.co/FsGMWvck0I",
@@ -25,7 +100,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "38",
+      "views": "71",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +116,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -57,12 +132,13 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "188",
+      "views": "265",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
       "media": [],
-      "url": "https://x.com/i/status/2082741180412936356"
+      "url": "https://x.com/i/status/2082741180412936356",
+      "pinned": true
     },
     {
       "id": "2082623053654298697",
@@ -73,7 +149,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "44",
+      "views": "52",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -94,7 +170,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "81",
+      "views": "87",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -119,7 +195,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "22",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -135,7 +211,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "23",
+      "views": "25",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -156,7 +232,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "22",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -172,7 +248,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "22",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -188,7 +264,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "29",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -204,7 +280,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "176",
+      "views": "177",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
