@@ -7,25 +7,67 @@
     "nickname": "bluue deep",
     "profile_url": "https://vibeloft.ai/profile/bluuedeep"
   },
-  "generated_at": "2026-08-01T18:01:55.928345Z",
+  "generated_at": "2026-08-04T19:01:54.776258Z",
   "stats": {
-    "tweet_count": 806,
-    "latest_tweet_created_at": "2026-07-30T09:25:00Z",
-    "latest_tweet_id": "2082759352893784341",
+    "tweet_count": 808,
+    "latest_tweet_created_at": "2026-08-03T07:12:10Z",
+    "latest_tweet_id": "2084175478299263005",
     "oldest_tweet_created_at": "2024-11-25T03:34:00Z",
     "oldest_tweet_id": "1860889649750966376"
   },
   "tweets": [
     {
-      "id": "2082759352893784341",
-      "text": "Lark\n\n今天刷到团队拆分重组\n\n现在就出问题了\n\n裁员/毕业搞到大动脉了？\n\nhttps://t.co/vSze4IKuGt https://t.co/ULl10OoqiJ",
-      "created_at": "Thu Jul 30 09:25:00 +0000 2026",
-      "favorite_count": 1,
+      "id": "2084175478299263005",
+      "text": "3次 500 https://t.co/L41daKAbsb",
+      "created_at": "Mon Aug 03 07:12:10 +0000 2026",
+      "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "310",
+      "views": "23",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOx6iwqacAA0sPK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084175478299263005"
+    },
+    {
+      "id": "2084125691906511047",
+      "text": "X上的LSP\n\n为什么 2026年 的新人王 没人关注？ https://t.co/EIAdZ0u03K",
+      "created_at": "Mon Aug 03 03:54:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOxNQ2hbUAA_V4_.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2084125691906511047"
+    },
+    {
+      "id": "2082759352893784341",
+      "text": "Lark\n\n今天刷到团队拆分重组\n\n现在就出问题了\n\n裁员/毕业搞到大动脉了？\n\nhttps://t.co/vSze4IKuGt https://t.co/ULl10OoqiJ",
+      "created_at": "Thu Jul 30 09:25:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "311",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +88,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "78",
+      "views": "81",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -147,7 +189,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "76",
+      "views": "89",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
