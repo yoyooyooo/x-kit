@@ -7,15 +7,36 @@
     "nickname": "Jason Wang",
     "profile_url": "https://vibeloft.ai/profile/jasonwang"
   },
-  "generated_at": "2026-07-31T22:01:54.211410Z",
+  "generated_at": "2026-08-04T00:02:06.521410Z",
   "stats": {
-    "tweet_count": 31,
-    "latest_tweet_created_at": "2026-07-29T11:42:49Z",
-    "latest_tweet_id": "2082431648822632778",
+    "tweet_count": 32,
+    "latest_tweet_created_at": "2026-08-01T08:24:06Z",
+    "latest_tweet_id": "2083468804231684575",
     "oldest_tweet_created_at": "2022-12-21T01:50:22Z",
     "oldest_tweet_id": "1605380124320206849"
   },
   "tweets": [
+    {
+      "id": "2083468804231684575",
+      "text": "小红书可能越来越不适合宣发产品，但是依然是一个挺好的收集用户反馈的地方。\n\n这两天我做了一波RockFocus永久会员免费的推广活动，还挺多人来留言，2天差不多每天涨100多个关注。其中有一些人在体验后，会主动来分享使用感受，甚至还有人画图过来提建议。\n\n根据大家的反馈，火速给RockFocus加上了倒计时和Live Activity。",
+      "created_at": "Sat Aug 01 08:24:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2083466973888094208/img/vnQe_VK2A7F2rzKe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2083468804231684575"
+    },
     {
       "id": "2082431648822632778",
       "text": "ProductHunt 还是不能放兑换码，吃屁了。PH放的兑换码，这些人光去App Store兑换，APP都不下载。小红书倒是一个适合放兑换码的平台，不仅给你点赞关注，还会有用户非常认真地私信给反馈。",
@@ -41,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "11",
+      "views": "12",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +78,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "29",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -147,7 +168,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2420",
+      "views": "2477",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
